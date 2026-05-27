@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -199,10 +201,13 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
 
     private void redisplay() {
         voices.clear();
+        Set<VoiceItem> voiceItems = new TreeSet<VoiceItem>();
+        for (String voice : app.generalVoices)
+                voiceItems.add(new VoiceItem(voice, this));
         List<String> items = new ArrayList<String>();
-        for (String voice : app.generalVoices) {
-            voices.add(voice);
-            items.add(HumanName.get(voice.split("-"), this));
+        for (VoiceItem voice : voiceItems) {
+            voices.add(voice.getValue());
+            items.add(voice.getName());
         }
         if (app.explicitVoice.check())
             items.add(getString(R.string.according_to_settings));
