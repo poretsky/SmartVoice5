@@ -7,6 +7,7 @@ import java.util.Map;
 import android.view.View;
 import android.widget.AdapterView;
 
+import tts.smartvoice.StringList;
 import tts.smartvoice.api.Utils;
 
 public class LanguageOrderPreferenceDialogFragment extends ListDialogFragment {

@@ -1,4 +1,4 @@
-package tts.smartvoice.ui;
+package tts.smartvoice;
 
 import java.util.ArrayList;
 import java.util.Collections;

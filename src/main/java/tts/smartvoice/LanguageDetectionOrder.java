@@ -7,8 +7,6 @@ import java.util.List;
 
 import android.content.Context;
 
-import tts.smartvoice.ui.StringList;
-
 public class LanguageDetectionOrder implements Comparator<String> {
 
     private final Context context;

@@ -9,6 +9,7 @@ import android.util.AttributeSet;
 import androidx.preference.DialogPreference;
 
 import tts.smartvoice.R;
+import tts.smartvoice.StringList;
 
 public class LanguageOrderPreference extends DialogPreference implements IStringPreference, IDialogPreference {
 
