@@ -15,6 +15,15 @@ class VoiceItem implements Comparable<VoiceItem> {
         primarySortingKey = HumanName.get(vs[0], vs[1]);
     }
 
+    public VoiceItem(String value) {
+        this.value = value;
+        if (value.length() > 3) {
+            String[] vs = value.split("-");
+            name = HumanName.get(vs[0], vs[1]);
+        } else name = HumanName.get(value);
+        primarySortingKey = name;
+    }
+
     public String getValue() {
         return value;
     }

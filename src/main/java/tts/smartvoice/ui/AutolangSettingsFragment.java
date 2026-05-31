@@ -37,27 +37,27 @@ public class AutolangSettingsFragment extends CustomDialogPreferenceFragment imp
     private SmartVoiceApp app;
 
 
-    private void summarize(MultiSelectListPreference preference, boolean reorder) {
+    private void summarize(MultiSelectListPreference preference) {
         StringBuilder summary = new StringBuilder();
-        CharSequence entries[] = preference.getEntries();
-        if (reorder) {
+        CharSequence[] entries = preference.getEntries();
+        CharSequence[] entryValues = preference.getEntryValues();
+        if (preference.getKey().equals(autoLangsKey)) {
             Set<String> orderedValues = new TreeSet<String>(languageDetectionOrder);
             List<CharSequence> orderedEntries = new ArrayList<CharSequence>();
-            for (CharSequence value : preference.getEntryValues())
+            for (CharSequence value : entryValues)
                 orderedValues.add(value.toString());
             for (String value : orderedValues)
                 orderedEntries.add(entries[preference.findIndexOfValue(value)]);
             entries = orderedEntries.toArray(new CharSequence[0]);
-            preference.setEntries(entries);
-            preference.setEntryValues(orderedValues.toArray(new String[0]));
+            entryValues = orderedValues.toArray(new CharSequence[0]);
         }
         Set<String> values = preference.getValues();
-        for (CharSequence v : preference.getEntryValues()) {
-            String value = v.toString();
+        for (int i = 0; i < entryValues.length; i++) {
+            String value = entryValues[i].toString();
             if (values.contains(value)) {
                 if (summary.length() > 0)
                     summary.append(", ");
-                summary.append(entries[preference.findIndexOfValue(value)]);
+                summary.append(entries[i]);
             }
         }
         if (summary.length() > 0) {
@@ -68,16 +68,23 @@ public class AutolangSettingsFragment extends CustomDialogPreferenceFragment imp
     }
 
     private void setupLanguageSelectionPreference(MultiSelectListPreference preference, Set<String> langs) {
-        String values[] = langs.toArray(new String[0]);
-        String entries[] = new String[values.length];
-        for (int i = 0; i < values.length; i++)
-            entries[i] = HumanName.get(values[i]);
+        Set<VoiceItem> items = new TreeSet<VoiceItem>();
+        for (String lang : langs)
+            items.add(new VoiceItem(lang));
+        String[] values = new String[items.size()];
+        String[] entries = new String[values.length];
+        int i = 0;
+        for (VoiceItem item : items) {
+            entries[i] = item.getName();
+            values[i] = item.getValue();
+            i++;
+        }
         Set<String> selections = new HashSet<String>(PreferenceManager.getDefaultSharedPreferences(app).getStringSet(preference.getKey(), Collections.<String>emptySet()));
         selections.retainAll(langs);
         preference.setEntries(entries);
         preference.setEntryValues(values);
         preference.setValues(selections);
-        summarize(preference, false);
+        summarize(preference);
     }
 
 
@@ -90,8 +97,8 @@ public class AutolangSettingsFragment extends CustomDialogPreferenceFragment imp
         detectionOrderKey = getString(R.string.language_detection_order_key);
         app = (SmartVoiceApp) getActivity().getApplication();
         languageDetectionOrder = new LanguageDetectionOrder(app, PreferenceManager.getDefaultSharedPreferences(app).getString(detectionOrderKey, null));
-        Set<String> langs = new TreeSet<String>(languageDetectionOrder);
-        Set<String> availableLanguages = new TreeSet<String>();
+        Set<String> langs = new HashSet<String>();
+        Set<String> availableLanguages = new HashSet<String>();
         List<String> arabics = Arrays.asList(getResources().getStringArray(R.array.arabic_languages));
         for (String l : app.languages)
             if (l.length() == 3) {
@@ -122,13 +129,13 @@ public class AutolangSettingsFragment extends CustomDialogPreferenceFragment imp
     @Override
     public void onSharedPreferenceChanged(SharedPreferences preferences, String key) {
         if (autoLangsKey.equals(key)) {
-            summarize(autoLangsPreference, false);
+            summarize(autoLangsPreference);
             detectionOrderPreference.setAllowedItems(autoLangsPreference.getValues());
         } else if (stickyLangsKey.equals(key)) {
-            summarize(stickyLangsPreference, false);
+            summarize(stickyLangsPreference);
         } else if (detectionOrderKey.equals(key)) {
             languageDetectionOrder.setup(preferences.getString(key, null));
-            summarize(autoLangsPreference, true);
+            summarize(autoLangsPreference);
         }
     }
 
