@@ -68,9 +68,7 @@ public class AutolangSettingsFragment extends CustomDialogPreferenceFragment imp
     }
 
     private void setupLanguageSelectionPreference(MultiSelectListPreference preference, Set<String> langs) {
-        Set<VoiceItem> items = new TreeSet<VoiceItem>();
-        for (String lang : langs)
-            items.add(new VoiceItem(lang));
+        Set<VoiceItem> items = SortedItems.from(langs);
         String[] values = new String[items.size()];
         String[] entries = new String[values.length];
         int i = 0;
