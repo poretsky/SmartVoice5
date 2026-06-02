@@ -24,7 +24,7 @@ class SortedItems {
         return result;
     }
 
-    public static SortedSet<VoiceItem> getGeneralVoices(SmartVoiceApp app) {
+    public static SortedSet<VoiceItem> fromGeneralVoices(SmartVoiceApp app) {
         return from(app.generalVoices, app);
     }
 

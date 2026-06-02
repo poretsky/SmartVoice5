@@ -200,7 +200,7 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
     private void redisplay() {
         voices.clear();
         List<String> items = new ArrayList<String>();
-        for (VoiceItem voice : SortedItems.getGeneralVoices(app)) {
+        for (VoiceItem voice : SortedItems.fromGeneralVoices(app)) {
             voices.add(voice.getValue());
             items.add(voice.getName());
         }
