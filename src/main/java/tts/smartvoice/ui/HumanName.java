@@ -61,8 +61,12 @@ enum HumanName {
         return externalName;
     }
 
+    static String get(String lang, String country, String person) {
+        return String.format(Locale.getDefault(), "%s - %s", person, get(lang, country));
+    }
+
     static String get(String lang, String country, String variant, Context context) {
-        return String.format(Locale.getDefault(), "%s - %s", get(variant, context), get(lang, country));
+        return get(lang, country, get(variant, context));
     }
 
     static String get(String[] vs, Context context) {
