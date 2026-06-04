@@ -2,6 +2,8 @@ package tts.smartvoice.ui;
 
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
@@ -24,8 +26,8 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
 
     private SmartVoiceApp app;
 
-    private void addVoice(Map<String, SortedSet<String>> voiceMap, String voice, int keyLen) {
-        String lang = voice.substring(0, keyLen);
+    private void addVoice(Map<String, SortedSet<VoiceItem>> voiceMap, VoiceItem voice, int keyLen) {
+        String lang = voice.getValue().substring(0, keyLen);
         addVoice(voiceMap, voice, lang);
         if (keyLen == 3) {
             List<String> arabics = Arrays.asList(getResources().getStringArray(R.array.arabic_languages));
@@ -34,17 +36,17 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
         }
     }
 
-    private void addVoice(Map<String, SortedSet<String>> voiceMap, String voice, String lang) {
-        SortedSet<String> voices = voiceMap.get(lang);
+    private void addVoice(Map<String, SortedSet<VoiceItem>> voiceMap, VoiceItem voice, String lang) {
+        SortedSet<VoiceItem> voices = voiceMap.get(lang);
         if (voices == null) {
-            voices = new TreeSet<String>();
+            voices = new TreeSet<VoiceItem>();
             voiceMap.put(lang, voices);
         }
         voices.add(voice);
     }
 
     private void setupExtraPreference(int keyId, int langListId) {
-        Set<String> langs = new TreeSet<String>();
+        Set<String> langs = new HashSet<String>();
         for (String lang : getResources().getStringArray(langListId))
             for (String voice : app.generalVoices)
                 if (voice.startsWith(lang))
@@ -54,16 +56,17 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
             preference.setSummary("");
             preference.setEnabled(false);
         } else {
-            String values[] = langs.toArray(new String[langs.size() + 1]);
-            String entries[] = new String[values.length];
-            for (int i = 0; i < values.length; i++) {
-                if (values[i] != null) {
-                    entries[i] = HumanName.get(values[i].split("-"), app);
-                } else {
-                    entries[i] = getString(R.string.no_preferences);
-                    values[i] = "";
-                }
+            Set<VoiceItem> voices = SortedItems.from(langs, app);
+            String[] values = new String[voices.size() + 1];
+            String[] entries = new String[values.length];
+            int i = 0;
+            for (VoiceItem voice : voices) {
+                entries[i] = voice.getName();
+                values[i] = voice.getValue();
+                i++;
             }
+            entries[voices.size()] = getString(R.string.no_preferences);
+            values[voices.size()] = "";
             preference.setEntries(entries);
             preference.setEntryValues(values);
             preference.setSummaryProvider(ListPreference.SimpleSummaryProvider.getInstance());
@@ -71,13 +74,15 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
         }
     }
 
-    private void setupExtraPreference(int keyId, Set<String> voices) {
+    private void setupExtraPreference(int keyId, Set<VoiceItem> voices) {
         ListPreference preference = (ListPreference)findPreference(getString(keyId));
-        String values[] = voices.toArray(new String[voices.size() + 2]);
-        String entries[] = new String[values.length];
-        for (int i = 0; i < voices.size(); i++) {
-            String[] ls = values[i].split("-");
-            entries[i] = HumanName.get(values[i].split("-"), app);
+        String[] values = new String[voices.size() + 2];
+        String[] entries = new String[values.length];
+        int i = 0;
+        for (VoiceItem voice : voices) {
+            entries[i] = voice.getName();
+            values[i] = voice.getValue();
+            i++;
         }
         entries[voices.size()] = getString(R.string.system_choice);
         values[voices.size()] = getString(R.string.value_system);
@@ -95,32 +100,27 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
         addPreferencesFromResource(R.xml.voice_assignment_preferences);
         PreferenceCategory languagePreferences = (PreferenceCategory)findPreference(getString(R.string.pref_voices_key));
         Context context = languagePreferences.getContext();
-        Map<String, SortedSet<String>> voiceMap = new HashMap<String, SortedSet<String>>();
-        for (String voice : app.generalVoices) {
+        Map<String, SortedSet<VoiceItem>> voiceMap = new HashMap<String, SortedSet<VoiceItem>>();
+        for (VoiceItem voice : SortedItems.fromGeneralVoices(app)) {
             addVoice(voiceMap, voice, 3);
             addVoice(voiceMap, voice, 7);
         }
-        Set<String> langs = new TreeSet<String>((l1, l2) -> {
-                int i1 = voiceMap.get(l1).size();
-                int i2 = voiceMap.get(l2).size();
-                if (i1 > i2)
-                    return -1;
-                else if (i1 < i2)
-                    return 1;
-                return l1.compareToIgnoreCase(l2);
-            });
-        langs.addAll(voiceMap.keySet());
-        for (String lang : langs) {
-            SortedSet<String> voices = voiceMap.get(lang);
+        Set<VoiceItem> langs = SortedItems.from(voiceMap.keySet(), voiceMap);
+        for (VoiceItem item : langs) {
+            String lang = item.getValue();
+            SortedSet<VoiceItem> voices = voiceMap.get(lang);
             if (app.languages.contains(lang) && !voices.isEmpty()) {
-                String entryValues[] = voices.toArray(new String[0]);
-                String entries[] = new String[entryValues.length];
+                String[] entryValues = new String[voices.size()];
+                String[] entries = new String[entryValues.length];
                 Map<String, Boolean> dialect = new HashMap<String, Boolean>();
-                for (int i = 0; i < entries.length; i++) {
-                    entries[i] = HumanName.get(entryValues[i].substring(8), app);
+                int i = 0;
+                for (VoiceItem voice : voices) {
+                    entries[i] = voice.getPerson();
+                    entryValues[i] = voice.getValue();
                     dialect.put(entries[i], dialect.containsKey(entries[i]));
+                    i++;
                 }
-                for (int i = 0; i < entries.length; i++)
+                for (i = 0; i < entries.length; i++)
                     if (dialect.get(entries[i]))
                         entries[i] = String.format(Locale.getDefault(), "%s (%s)", entries[i], HumanName.get("", entryValues[i].substring(4, 7)));
                 ListPreference preference = new ListPreference(context);
@@ -131,7 +131,7 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
                 preference.setKey(lang);
                 preference.setPersistent(true);
                 preference.setSummaryProvider(ListPreference.SimpleSummaryProvider.getInstance());
-                preference.setTitle(HumanName.get(lang.substring(0, 3), (lang.length() > 3) ? lang.substring(4) : null));
+                preference.setTitle(item.getName());
                 preference.setIconSpaceReserved(false);
                 preference.setSingleLineTitle(false);
                 preference.setEnabled(entries.length > 1);
@@ -139,21 +139,24 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
             }
         }
 
-        Set<String> emojiVoices = new TreeSet<String>();
-        langs = new TreeSet<String>();
+        SortedSet<VoiceItem> emojiVoices = SortedItems.fromGeneralVoices(app);
+        Set<String> emojiLangs = new HashSet<String>();
         try {
             for (String emojiData : getActivity().getAssets().list("emoji"))
-                langs.add(emojiData.substring(0, 3));
+                emojiLangs.add(emojiData.substring(0, 3));
         } catch (Exception ex) {
         }
-        for (String voice : app.generalVoices)
-            if (langs.contains(voice.substring(0, 3)))
-                emojiVoices.add(voice);
+        Iterator<VoiceItem> iterator = emojiVoices.iterator();
+        while (iterator.hasNext()) {
+            VoiceItem voice = iterator.next();
+            if (!emojiLangs.contains(voice.getValue().substring(0, 3)))
+                iterator.remove();
+        }
 
         setupExtraPreference(R.string.cjk_fallback_key, R.array.cjk_languages);
         setupExtraPreference(R.string.latinic_fallback_key, R.array.latinic_languages);
         setupExtraPreference(R.string.cyrillic_fallback_key, R.array.cyrillic_languages);
-        setupExtraPreference(R.string.numeric_language_key, app.generalVoices);
+        setupExtraPreference(R.string.numeric_language_key, SortedItems.fromGeneralVoices(app));
         setupExtraPreference(R.string.pref_emoji_voice_key, emojiVoices);
     }
 

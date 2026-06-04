@@ -1,6 +1,7 @@
 package tts.smartvoice.ui;
 
 import java.util.Collection;
+import java.util.Map;
 import java.util.SortedSet;
 import java.util.TreeSet;
 
@@ -14,6 +15,13 @@ class SortedItems {
         SortedSet<VoiceItem> result = new TreeSet<VoiceItem>();
         for (String lang : langs)
             result.add(new VoiceItem(lang));
+        return result;
+    }
+
+    public static SortedSet<VoiceItem> from(Collection<String> langs, Map<String, SortedSet<VoiceItem>> voiceMap) {
+        SortedSet<VoiceItem> result = new TreeSet<VoiceItem>();
+        for (String lang : langs)
+            result.add(new VoiceItem(lang, voiceMap.containsKey(lang) ? voiceMap.get(lang).size() : 0));
         return result;
     }
 
