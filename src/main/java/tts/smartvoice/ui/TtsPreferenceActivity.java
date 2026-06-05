@@ -7,6 +7,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.SortedSet;
 import java.util.TreeSet;
 
 import android.content.Intent;
@@ -72,19 +73,18 @@ public class TtsPreferenceActivity extends PreferenceActivityCompat {
             langs.add(getString(R.string.cyrillic_fallback_key));
             langs.add(getString(R.string.numeric_language_key));
             langs.add(getString(R.string.pref_emoji_voice_key));
-            Map<String, Set<String>> voiceMap = new HashMap<String, Set<String>>();
+            Map<String, SortedSet<VoiceItem>> voiceMap = new HashMap<String, SortedSet<VoiceItem>>();
             List<String> arabics = Arrays.asList(getResources().getStringArray(R.array.arabic_languages));
-            for (String voice : app.generalVoices) {
-                String lang = voice.substring(0, 3);
+            for (VoiceItem voice : SortedItems.fromGeneralVoices(app)) {
+                String lang = voice.getValue().substring(0, 3);
                 addVoice(voiceMap, lang, voice);
                 if (arabics.contains(lang))
                     addVoice(voiceMap, arabics.get(0), voice);
-                lang = voice.substring(0, 7);
+                lang = voice.getValue().substring(0, 7);
                 addVoice(voiceMap, lang, voice);
             }
             for (String lang : voiceMap.keySet()) {
-                Set<String> voices = voiceMap.get(lang);
-                if (voices.size() > 1) {
+                if (voiceMap.get(lang).size() > 1) {
                     String voice = preferences.getString(lang, null);
                     String defaultVoice = app.defaultVoices.get(lang);
                     if ((voice != null) && (defaultVoice != null) && !voice.equals(defaultVoice)) {
@@ -104,34 +104,17 @@ public class TtsPreferenceActivity extends PreferenceActivityCompat {
                     assignedVoices.add(voice);
                 }
             }
-            Set<String> voices = new TreeSet<String>((v1, v2) -> {
-                    if (assignedVoices.contains(v1) && !assignedVoices.contains(v2)) {
-                        return -1;
-                    } else if (assignedVoices.contains(v2) && !assignedVoices.contains(v1)) {
-                        return 1;
-                    } else {
-                        int i1 = getVoiceIndex(voiceMap, v1);
-                        int i2 = getVoiceIndex(voiceMap, v2);
-                        if (i1 > i2) {
-                            return -1;
-                        } else if (i1 < i2) {
-                            return 1;
-                        }
-                    }
-                    return v1.compareToIgnoreCase(v2);
-                });
-            voices.addAll(app.generalVoices);
+            Set<VoiceItem> voices = SortedItems.fromGeneralVoices(app, voiceMap, assignedVoices);
             int index = 0;
-            for (String voice : voices) {
+            for (VoiceItem voice : voices) {
                 Header header = new Header();
-                String[] vs = voice.split("-");
                 header.setId(index++);
-                header.setTitle(HumanName.get(vs[2], this));
-                header.setSummary(HumanName.get(vs[0], vs[1]));
-                header.setBreadCrumbTitle(HumanName.get(vs, this));
+                header.setTitle(voice.getPerson());
+                header.setSummary(voice.getLanguage());
+                header.setBreadCrumbTitle(voice.getName());
                 header.setFragment(VoiceSettingsFragment.class.getName());
                 Bundle args = new Bundle();
-                args.putString(getString(R.string.voice_key), voice);
+                args.putString(getString(R.string.voice_key), voice.getValue());
                 header.setFragmentArguments(args);
                 target.add(header);
             }
@@ -202,20 +185,13 @@ public class TtsPreferenceActivity extends PreferenceActivityCompat {
     }
 
 
-    private void addVoice(Map<String, Set<String>> voiceMap, String lang, String voice) {
-        Set<String> voices = voiceMap.get(lang);
+    private void addVoice(Map<String, SortedSet<VoiceItem>> voiceMap, String lang, VoiceItem voice) {
+        SortedSet<VoiceItem> voices = voiceMap.get(lang);
         if (voices == null) {
-            voices = new HashSet<String>();
+            voices = new TreeSet<VoiceItem>();
             voiceMap.put(lang, voices);
         }
         voices.add(voice);
-    }
-
-    private int getVoiceIndex(Map<String, Set<String>> voiceMap, String voice) {
-        String lang = voice.substring(0, 7);
-        return voiceMap.containsKey(lang) ?
-            voiceMap.get(lang).size() :
-            0;
     }
 
 }

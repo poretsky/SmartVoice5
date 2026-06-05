@@ -40,4 +40,14 @@ class SortedItems {
         return from(app.generalVoices, app);
     }
 
+    public static SortedSet<VoiceItem> fromGeneralVoices(SmartVoiceApp app, Map<String, SortedSet<VoiceItem>> voiceMap, Collection<String> assignedVoices) {
+        SortedSet<VoiceItem> result = new TreeSet<VoiceItem>();
+        for (String voice : app.generalVoices) {
+            int priority = voiceMap.containsKey(voice) ? voiceMap.get(voice).size() : 0;
+            boolean isAssigned = assignedVoices.contains(voice);
+            result.add(new VoiceItem(voice, priority, isAssigned, app));
+        }
+        return result;
+    }
+
 }
