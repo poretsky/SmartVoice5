@@ -25,6 +25,10 @@ class SortedItems {
         return result;
     }
 
+    public static SortedSet<VoiceItem> from(Map<String, SortedSet<VoiceItem>> voiceMap) {
+        return from(voiceMap.keySet(), voiceMap);
+    }
+
     public static SortedSet<VoiceItem> from(Collection<String> voices, Context context){
         SortedSet<VoiceItem> result = new TreeSet<VoiceItem>();
         for (String voice : voices)

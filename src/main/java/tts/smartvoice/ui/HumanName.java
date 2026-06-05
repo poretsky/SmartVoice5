@@ -26,6 +26,10 @@ enum HumanName {
         this.resId = resId;
     }
 
+    static String compose(String language, String person) {
+        return String.format(Locale.getDefault(), "%s - %s", person, language);
+    }
+
     static String get(String language) {
         Locale locale = Utils.obtainLocale(language);
         return locale.getDisplayLanguage();
@@ -62,7 +66,7 @@ enum HumanName {
     }
 
     static String get(String lang, String country, String person) {
-        return String.format(Locale.getDefault(), "%s - %s", person, get(lang, country));
+        return compose(get(lang, country), person);
     }
 
     static String get(String lang, String country, String variant, Context context) {

@@ -105,7 +105,7 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
             addVoice(voiceMap, voice, 3);
             addVoice(voiceMap, voice, 7);
         }
-        Set<VoiceItem> langs = SortedItems.from(voiceMap.keySet(), voiceMap);
+        Set<VoiceItem> langs = SortedItems.from(voiceMap);
         for (VoiceItem item : langs) {
             String lang = item.getValue();
             SortedSet<VoiceItem> voices = voiceMap.get(lang);
