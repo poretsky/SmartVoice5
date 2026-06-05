@@ -10,13 +10,17 @@ class VoiceItem implements Comparable<VoiceItem> {
     private final String language;
     private final int priority;
 
-    public VoiceItem(String value, Context context) {
+    public VoiceItem(String value, int priority, Context context) {
         this.value = value;
+        this.priority = priority;
         String[] vs = value.split("-");
         person = HumanName.get(vs[2], context);
         language = HumanName.get(vs[0], vs[1]);
         name = HumanName.compose(language, person);
-        priority = 0;
+    }
+
+    public VoiceItem(String value, Context context) {
+        this(value, 0, context);
     }
 
     public VoiceItem(String value, int priority) {
