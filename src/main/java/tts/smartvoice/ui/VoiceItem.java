@@ -61,6 +61,10 @@ class VoiceItem implements Comparable<VoiceItem> {
         return person;
     }
 
+    public String getLanguage() {
+        return language;
+    }
+
 
     @Override
     public int compareTo(VoiceItem other) {
