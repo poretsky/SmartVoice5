@@ -7,8 +7,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-import java.util.SortedSet;
-import java.util.TreeSet;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -73,7 +71,7 @@ public class TtsPreferenceActivity extends PreferenceActivityCompat {
             langs.add(getString(R.string.cyrillic_fallback_key));
             langs.add(getString(R.string.numeric_language_key));
             langs.add(getString(R.string.pref_emoji_voice_key));
-            Map<String, SortedSet<VoiceItem>> voiceMap = new HashMap<String, SortedSet<VoiceItem>>();
+            Map<String, Set<VoiceItem>> voiceMap = new HashMap<String, Set<VoiceItem>>();
             List<String> arabics = Arrays.asList(getResources().getStringArray(R.array.arabic_languages));
             for (VoiceItem voice : SortedItems.fromGeneralVoices(app)) {
                 String lang = voice.getValue().substring(0, 3);
@@ -185,10 +183,10 @@ public class TtsPreferenceActivity extends PreferenceActivityCompat {
     }
 
 
-    private void addVoice(Map<String, SortedSet<VoiceItem>> voiceMap, String lang, VoiceItem voice) {
-        SortedSet<VoiceItem> voices = voiceMap.get(lang);
+    private void addVoice(Map<String, Set<VoiceItem>> voiceMap, String lang, VoiceItem voice) {
+        Set<VoiceItem> voices = voiceMap.get(lang);
         if (voices == null) {
-            voices = new TreeSet<VoiceItem>();
+            voices = new HashSet<VoiceItem>();
             voiceMap.put(lang, voices);
         }
         voices.add(voice);

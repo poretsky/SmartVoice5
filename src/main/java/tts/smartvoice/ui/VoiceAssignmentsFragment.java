@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
-import java.util.SortedSet;
 import java.util.TreeSet;
 
 import android.content.Context;
@@ -26,7 +25,7 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
 
     private SmartVoiceApp app;
 
-    private void addVoice(Map<String, SortedSet<VoiceItem>> voiceMap, VoiceItem voice, int keyLen) {
+    private void addVoice(Map<String, Set<VoiceItem>> voiceMap, VoiceItem voice, int keyLen) {
         String lang = voice.getValue().substring(0, keyLen);
         addVoice(voiceMap, voice, lang);
         if (keyLen == 3) {
@@ -36,8 +35,8 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
         }
     }
 
-    private void addVoice(Map<String, SortedSet<VoiceItem>> voiceMap, VoiceItem voice, String lang) {
-        SortedSet<VoiceItem> voices = voiceMap.get(lang);
+    private void addVoice(Map<String, Set<VoiceItem>> voiceMap, VoiceItem voice, String lang) {
+        Set<VoiceItem> voices = voiceMap.get(lang);
         if (voices == null) {
             voices = new TreeSet<VoiceItem>();
             voiceMap.put(lang, voices);
@@ -100,15 +99,15 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
         addPreferencesFromResource(R.xml.voice_assignment_preferences);
         PreferenceCategory languagePreferences = (PreferenceCategory)findPreference(getString(R.string.pref_voices_key));
         Context context = languagePreferences.getContext();
-        Map<String, SortedSet<VoiceItem>> voiceMap = new HashMap<String, SortedSet<VoiceItem>>();
+        Map<String, Set<VoiceItem>> voiceMap = new HashMap<String, Set<VoiceItem>>();
         for (VoiceItem voice : SortedItems.fromGeneralVoices(app)) {
             addVoice(voiceMap, voice, 3);
             addVoice(voiceMap, voice, 7);
         }
-        Set<VoiceItem> langs = SortedItems.from(voiceMap);
-        for (VoiceItem item : langs) {
+
+        for (VoiceItem item : SortedItems.from(voiceMap)) {
             String lang = item.getValue();
-            SortedSet<VoiceItem> voices = voiceMap.get(lang);
+            Set<VoiceItem> voices = voiceMap.get(lang);
             if (app.languages.contains(lang) && !voices.isEmpty()) {
                 String[] entryValues = new String[voices.size()];
                 String[] entries = new String[entryValues.length];
@@ -139,7 +138,7 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
             }
         }
 
-        SortedSet<VoiceItem> emojiVoices = SortedItems.fromGeneralVoices(app);
+        Set<VoiceItem> emojiVoices = SortedItems.fromGeneralVoices(app);
         Set<String> emojiLangs = new HashSet<String>();
         try {
             for (String emojiData : getActivity().getAssets().list("emoji"))
