@@ -104,7 +104,7 @@ public class TtsPreferenceActivity extends PreferenceActivityCompat {
                     assignedVoices.add(voice);
                 }
             }
-            Set<VoiceItem> voices = SortedItems.fromGeneralVoices(app, voiceMap, assignedVoices);
+            Set<VoiceItem> voices = SortedItems.fromGeneralVoices(app, assignedVoices);
             int index = 0;
             for (VoiceItem voice : voices) {
                 Header header = new Header();
