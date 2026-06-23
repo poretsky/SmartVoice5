@@ -256,8 +256,18 @@ class AndroidTtsEngine extends UtteranceProgressListener implements TtsEngine {
 
     private String[] getVoiceLanguage(Voice voice) {
         Locale locale = voice.getLocale();
-        String language = locale.getISO3Language();
-        String country = locale.getISO3Country();
+        String language;
+        try {
+            language = locale.getISO3Language();
+        } catch (Exception ex) {
+            language = "";
+        }
+        String country;
+        try {
+            country = locale.getISO3Country();
+        } catch (Exception ex) {
+            country = "";
+        }
         String voiceName = getName() + "|" + language;
         if (!TextUtils.isEmpty(country))
             voiceName += "." + country;
