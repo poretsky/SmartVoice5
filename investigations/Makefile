@@ -85,7 +85,7 @@ $(destdir):
 clean:
 	rm -rf duplications research.db *.hits *.refutes *.misses
 	cd $(srcdir) ; rm -rf *.heads.frequent *.middles.frequent *.tails.frequent *.left *.right *.dual *.stat *.top
-	cd $(jpath) ; rm -rf backport orestes
+	cd $(jpath) ; rm -rf orestes
 	cd $(jpath)/$(jpkg) ; rm -f *.class
 
 distclean: clean
