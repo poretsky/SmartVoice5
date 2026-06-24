@@ -27,48 +27,181 @@
     </string-array>      
 
     <string-array name="latinic_languages" translatable="false">
+        <item>afr</item>
+        <item>agq</item>
+        <item>aka</item>
+        <item>asa</item>
+        <item>ast</item>
+        <item>aze</item>
+        <item>bam</item>
+        <item>bas</item>
+        <item>bem</item>
+        <item>bez</item>
+        <item>bos</item>
+        <item>bre</item>
         <item>cat</item>
+        <item>ceb</item>
         <item>ces</item>
+        <item>cgg</item>
+        <item>cor</item>
         <item>cym</item>
         <item>dan</item>
+        <item>dav</item>
         <item>deu</item>
+        <item>dje</item>
+        <item>dsb</item>
+        <item>dua</item>
+        <item>dyo</item>
+        <item>ebu</item>
         <item>eng</item>
+        <item>epo</item>
+        <item>est</item>
         <item>eus</item>
+        <item>ewe</item>
+        <item>ewo</item>
+        <item>fao</item>
+        <item>fil</item>
         <item>fin</item>
         <item>fra</item>
+        <item>fry</item>
+        <item>ful</item>
+        <item>fur</item>
+        <item>gla</item>
         <item>gle</item>
         <item>glg</item>
+        <item>glv</item>
+        <item>gsw</item>
+        <item>guz</item>
         <item>hat</item>
+        <item>hau</item>
+        <item>haw</item>
         <item>hrv</item>
+        <item>hsb</item>
         <item>hun</item>
+        <item>ibo</item>
+        <item>ina</item>
         <item>ind</item>
         <item>isl</item>
         <item>ita</item>
+        <item>jav</item>
+        <item>jgo</item>
+        <item>jmc</item>
+        <item>kab</item>
+        <item>kal</item>
+        <item>kam</item>
+        <item>kde</item>
+        <item>kea</item>
+        <item>khq</item>
+        <item>kik</item>
+        <item>kin</item>
+        <item>kkj</item>
+        <item>kln</item>
+        <item>ksb</item>
+        <item>ksf</item>
+        <item>ksh</item>
+        <item>kur</item>
+        <item>lag</item>
+        <item>lav</item>
+        <item>lin</item>
         <item>lit</item>
+        <item>lkt</item>
+        <item>ltz</item>
+        <item>lub</item>
+        <item>lug</item>
+        <item>luo</item>
+        <item>luy</item>
+        <item>mas</item>
+        <item>mer</item>
+        <item>mfe</item>
+        <item>mgh</item>
+        <item>mgo</item>
+        <item>mlg</item>
+        <item>mlt</item>
+        <item>mri</item>
         <item>msa</item>
+        <item>mua</item>
+        <item>naq</item>
+        <item>nde</item>
+        <item>nds</item>
         <item>nld</item>
+        <item>nmg</item>
+        <item>nnh</item>
         <item>nno</item>
         <item>nob</item>
+        <item>nor</item>
+        <item>nus</item>
+        <item>nyn</item>
+        <item>orm</item>
+        <item>pcm</item>
         <item>pol</item>
         <item>por</item>
+        <item>que</item>
+        <item>rof</item>
+        <item>roh</item>
         <item>ron</item>
+        <item>run</item>
+        <item>rwk</item>
+        <item>sag</item>
+        <item>saq</item>
+        <item>sbp</item>
+        <item>seh</item>
+        <item>ses</item>
+        <item>shi</item>
         <item>slk</item>
         <item>slv</item>
+        <item>sme</item>
+        <item>smn</item>
+        <item>sna</item>
+        <item>som</item>
         <item>spa</item>
+        <item>sqi</item>
+        <item>srp</item>
+        <item>sun</item>
+        <item>swa</item>
         <item>swe</item>
+        <item>teo</item>
+        <item>ton</item>
+        <item>tuk</item>
         <item>tur</item>
+        <item>twq</item>
+        <item>tzm</item>
+        <item>uzb</item>
+        <item>vai</item>
         <item>vie</item>
+        <item>vun</item>
+        <item>wae</item>
+        <item>wol</item>
+        <item>xho</item>
+        <item>xog</item>
+        <item>yav</item>
+        <item>yor</item>
+        <item>zul</item>
     </string-array>
 
     <string-array name="cyrillic_languages" translatable="false">
+        <item>aze</item>  
+        <item>bel</item>
+        <item>bos</item>
         <item>bul</item>
+        <item>che</item>
+        <item>kaz</item>
+        <item>kir</item>
+        <item>mkd</item>
+        <item>mon</item>
+        <item>oss</item>
         <item>rus</item>
+        <item>sah</item>
+        <item>srp</item>
+        <item>tat</item>
+        <item>tgk</item>
         <item>ukr</item>
+        <item>uzb</item>
     </string-array>
 
     <string-array name="cjk_languages" translatable="false">
         <item>jpn</item>
         <item>kor</item>
+        <item>yue</item>
         <item>zho</item>
     </string-array>
 
