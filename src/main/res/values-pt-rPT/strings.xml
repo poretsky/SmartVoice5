@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">Preferir o idioma atual da interface</string>
     <string name="latinic_fallback_title">Voz preferida para leitura de letras latinas</string>
     <string name="cyrillic_fallback_title">Voz preferida para leitura de letras cirílicas</string>
+    <string name="arabic_fallback_title">Voz preferida para leitura de letras árabes</string>
     <string name="cjk_fallback_title">Voz preferida para leitura de ideografia CJK</string>
     <string name="numeric_language_title">Voz preferida para leitura de números</string>
     <string name="no_preferences">Sem preferências</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">Atualizar lista de vozes</string>
     <string name="latinics">Latinas</string>
     <string name="cyrillics">Cirílicas</string>
+    <string name="arabics">Árabes</string>
     <string name="cjk">CJK</string>
     <string name="all">Todas</string>
     <string name="notification_channel_description">O canal de notificação do SmartVoice</string>

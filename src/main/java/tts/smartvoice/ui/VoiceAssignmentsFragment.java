@@ -1,10 +1,8 @@
 package tts.smartvoice.ui;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
-import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
@@ -27,15 +25,6 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
 
     private void addVoice(Map<String, Set<VoiceItem>> voiceMap, VoiceItem voice, int keyLen) {
         String lang = voice.getValue().substring(0, keyLen);
-        addVoice(voiceMap, voice, lang);
-        if (keyLen == 3) {
-            List<String> arabics = Arrays.asList(getResources().getStringArray(R.array.arabic_languages));
-            if (arabics.contains(lang))
-                addVoice(voiceMap, voice, arabics.get(0));
-        }
-    }
-
-    private void addVoice(Map<String, Set<VoiceItem>> voiceMap, VoiceItem voice, String lang) {
         Set<VoiceItem> voices = voiceMap.get(lang);
         if (voices == null) {
             voices = new TreeSet<VoiceItem>();
@@ -155,6 +144,7 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
         setupExtraPreference(R.string.cjk_fallback_key, R.array.cjk_languages);
         setupExtraPreference(R.string.latinic_fallback_key, R.array.latinic_languages);
         setupExtraPreference(R.string.cyrillic_fallback_key, R.array.cyrillic_languages);
+        setupExtraPreference(R.string.arabic_fallback_key, R.array.arabic_languages);
         setupExtraPreference(R.string.numeric_language_key, SortedItems.fromGeneralVoices(app));
         setupExtraPreference(R.string.pref_emoji_voice_key, emojiVoices);
     }

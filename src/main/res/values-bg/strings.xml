@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">Предпочитай текущия език на интерфейса</string>
     <string name="latinic_fallback_title">Предпочитан глас за произношение на латиница</string>
     <string name="cyrillic_fallback_title">Предпочитан глас за произношение на кирилица</string>
+    <string name="arabic_fallback_title">Предпочитан глас за произношение на арабица</string>
     <string name="cjk_fallback_title">Предпочитан глас за произношение на източноазиатски идеограми</string>
     <string name="numeric_language_title">Предпочитан глас за произношение на числата</string>
     <string name="no_preferences">Без предпочитания</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">Опресняване на списъка с гласове</string>
     <string name="latinics">Латиница</string>
     <string name="cyrillics">Кирилица</string>
+    <string name="arabics">Арабица</string>
     <string name="cjk">Източноазиатски</string>
     <string name="all">Всички</string>
     <string name="notification_channel_description">Каналът за известия на SmartVoice</string>

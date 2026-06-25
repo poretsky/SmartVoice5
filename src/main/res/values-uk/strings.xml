@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">Надавати перевагу поточній мові інтерфейсу</string>
     <string name="latinic_fallback_title">Основний голос для латинських літер</string>
     <string name="cyrillic_fallback_title">Основний голос для кириличних літер</string>
+    <string name="arabic_fallback_title">Основний голос для арабських літер</string>
     <string name="cjk_fallback_title">Основний голос для східно-азійської ідеографії</string>
     <string name="numeric_language_title">Основний голос для цифр</string>
     <string name="no_preferences">Немає параметрів</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">Оновити список голосів</string>
     <string name="latinics">Латинські</string>
     <string name="cyrillics">Кириличні</string>
+    <string name="arabics">Арабські</string>
     <string name="cjk">CJK</string>
     <string name="all">Усі</string>
     <string name="notification_channel_description">Канал сповіщень SmartVoice</string>

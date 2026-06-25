@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">Preferir actual idioma del sistema</string>
     <string name="latinic_fallback_title">Voz preferida para pronunciar caracteres latinos</string>
     <string name="cyrillic_fallback_title">Voz preferida para pronunciar caracteres cirílicos</string>
+    <string name="arabic_fallback_title">Voz preferida para pronunciar caracteres árabes</string>
     <string name="cjk_fallback_title">Voz preferida para pronunciar caracteres ideográficos</string>
     <string name="numeric_language_title">Voz preferida para pronunciar números</string>
     <string name="no_preferences">Sin preferencias</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">Actualizar la lista de voces</string>
     <string name="latinics">Caracteres latinos</string>
     <string name="cyrillics">Caracteres cirílicos</string>
+    <string name="arabics">Caracteres árabes</string>
     <string name="cjk">Caracteres ideográficos</string>
     <string name="all">Todo</string>
     <string name="notification_channel_description">Canal de notificaciones de SmartVoice</string>

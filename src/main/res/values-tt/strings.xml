@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">Хәзерге интерфейс телен өстен күрү</string>
     <string name="latinic_fallback_title">Латин хәрефләрен әйтү өчен өстенлекле тавыш</string>
     <string name="cyrillic_fallback_title">Кирилл хәрефләрен әйтү өчен өстенлекле тавыш</string>
+    <string name="arabic_fallback_title">Гарәп хәрефләрен әйтү өчен өстенлекле тавыш</string>
     <string name="cjk_fallback_title">Көнчыгыш Азия идеографияләрен әйтү өчен өстенлекле тавыш</string>
     <string name="numeric_language_title">Саннарны әйтү өчен өстенлекле тавыш</string>
     <string name="no_preferences">Өстенлекләр юк</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">Тавышлар исемлеген яңарту</string>
     <string name="latinics">Латин хәрефләре</string>
     <string name="cyrillics">Кирилл хәрефләре</string>
+    <string name="arabics">Гарәп хәрефләре</string>
     <string name="cjk">Көнчыгыш Азия</string>
     <string name="all">Барысы</string>
     <string name="notification_channel_description">SmartVoice\'ның Хәбәрләштерү Каналы</string>

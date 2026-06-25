@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">首選當前介面語言</string>
     <string name="latinic_fallback_title">首選拉丁字母發音語音</string>
     <string name="cyrillic_fallback_title">首選西里爾字母發音語音</string>
+    <string name="arabic_fallback_title">首選阿拉伯字母發音語音</string>
     <string name="cjk_fallback_title">首選中日韓表意發音語音</string>
     <string name="numeric_language_title">首選數字發音語音</string>
     <string name="no_preferences">沒有偏好</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">刷新語音列表</string>
     <string name="latinics">拉丁字母</string>
     <string name="cyrillics">西里爾字母</string>
+    <string name="arabics">阿拉伯字母</string>
     <string name="cjk">中日韓</string>
     <string name="all">全部</string>
     <string name="notification_channel_description">SmartVoice的通知通​​道</string>

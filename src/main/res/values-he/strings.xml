@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">העדף שפת ממשק נוכחית</string>
     <string name="latinic_fallback_title">קול מועדף להקראת אותיות לטיניות</string>
     <string name="cyrillic_fallback_title">קול מועדף להקראת כתב קירילי</string>
+    <string name="arabic_fallback_title">קול מועדף להקראת כתב ערבי</string>
     <string name="cjk_fallback_title">קול מועדף עבור הקראת CJK ideography</string>
     <string name="numeric_language_title">קול מועדף להקראת מספרים</string>
     <string name="no_preferences">ללא העדפות</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">רענן רשימת קולות</string>
     <string name="latinics">לטיניות</string>
     <string name="cyrillics">כתב קירילי</string>
+    <string name="arabics">ערביות</string>
     <string name="cjk">CJK</string>
     <string name="all">הכול</string>
     <string name="notification_channel_description">‏ערוץ ההתראות של SmartVoice</string>

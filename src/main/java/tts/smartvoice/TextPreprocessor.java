@@ -110,6 +110,9 @@ class TextPreprocessor extends HandlerThread implements VoiceResolver, Handler.C
         } else if (key == R.array.cyrillic_languages) {
             voice = service.app.explicitVoice.get(LanguageGroup.CYRILLIC);
             return (voice != null) ? voice : service.cyrillicFallback;
+        } else if (key == R.array.arabic_languages) {
+            voice = service.app.explicitVoice.get(LanguageGroup.ARABIC);
+            return (voice != null) ? voice : service.arabicFallback;
         } else if (key == R.array.cjk_languages) {
             voice = service.app.explicitVoice.get(LanguageGroup.CJK);
             return (voice != null) ? voice : service.cjkFallback;

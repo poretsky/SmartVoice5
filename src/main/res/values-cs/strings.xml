@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">Preferovat rozhraní aktuálního jazyku</string>
     <string name="latinic_fallback_title">Preferovaný hlas pro výslovnost latiny</string>
     <string name="cyrillic_fallback_title">Preferovaný hlas pro výslovnost azbuky</string>
+    <string name="arabic_fallback_title">Preferovaný hlas pro výslovnost arabštiny</string>
     <string name="cjk_fallback_title">Preferovaný hlas pro výslovnost východoasijských jazyků</string>
     <string name="numeric_language_title">Preferovaný hlas pro výslovnost čísel</string>
     <string name="no_preferences">Žádné preference</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">Obnovit seznam hlasů</string>
     <string name="latinics">Latina</string>
     <string name="cyrillics">Azbuka</string>
+    <string name="arabics">Arabština</string>
     <string name="cjk">Východoasijské jazyky</string>
     <string name="all">Vše</string>
     <string name="notification_channel_description">Oznamovací kanál SmartVoice</string>

@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">Аддаваць перавагу бягучай мове інтэрфейса</string>
     <string name="latinic_fallback_title">Пажаданы голас для прамаўлення лацініцы</string>
     <string name="cyrillic_fallback_title">Пажаданы голас для прамаўлення кірыліцы</string>
+    <string name="arabic_fallback_title">Пажаданы голас для прамаўлення арабіцы</string>
     <string name="cjk_fallback_title">Пажаданы голас для прамаўлення ўсходне-азіяцкай ідэаграфіі</string>
     <string name="numeric_language_title">Пажаданы голас для прамаўлення лікаў</string>
     <string name="no_preferences">Няма пераваг</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">Абнавіць спіс моў</string>
     <string name="latinics">Лацініца</string>
     <string name="cyrillics">Кірыліца</string>
+    <string name="arabics">Арабіца</string>
     <string name="cjk">Усходне-азіяцкая ідэаграфія</string>
     <string name="all">Усё</string>
     <string name="notification_channel_description">Канал апавяшчэнняў SmartVoice</string>

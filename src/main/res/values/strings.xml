@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">Prefer current interface language</string>
     <string name="latinic_fallback_title">Preferred latinic letters pronunciation voice</string>
     <string name="cyrillic_fallback_title">Preferred cyrillic letters pronunciation voice</string>
+    <string name="arabic_fallback_title">Preferred arabic letters pronunciation voice</string>
     <string name="cjk_fallback_title">Preferred East Asian ideography pronunciation voice</string>
     <string name="numeric_language_title">Preferred numbers pronunciation voice</string>
     <string name="no_preferences">No preferences</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">Refresh voices list</string>
     <string name="latinics">Latinics</string>
     <string name="cyrillics">Cyrillics</string>
+    <string name="arabics">Arabics</string>
     <string name="cjk">East Asian</string>
     <string name="all">All</string>
     <string name="notification_channel_description">The Notification Channel of SmartVoice</string>

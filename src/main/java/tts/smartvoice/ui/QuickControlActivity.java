@@ -1,7 +1,6 @@
 package tts.smartvoice.ui;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
@@ -111,9 +110,6 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
             selection = voices.get(position);
             String lang = selection.substring(0, 3);
             LanguageGroup langGroup = LanguageGroup.find(lang);
-            List<String> arabics = Arrays.asList(getResources().getStringArray(R.array.arabic_languages));
-            if (arabics.contains(lang))
-                lang = arabics.get(0);
             boolean useForLanguage = preferences.getStringSet(autoLangsKey, Collections.<String>emptySet()).contains(lang);
             if ((useForLanguage || (langGroup != LanguageGroup.NONE)) &&
                 !preferences.getBoolean(useRequestedVoiceKey, false)) {
@@ -128,6 +124,9 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
                         break;
                     case CYRILLIC:
                         item.setTitle(R.string.cyrillics);
+                        break;
+                    case ARABIC:
+                        item.setTitle(R.string.arabics);
                         break;
                     case CJK:
                         item.setTitle(R.string.cjk);

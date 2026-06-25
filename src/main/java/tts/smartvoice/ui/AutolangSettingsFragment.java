@@ -1,7 +1,6 @@
 package tts.smartvoice.ui;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -97,13 +96,9 @@ public class AutolangSettingsFragment extends CustomDialogPreferenceFragment imp
         languageDetectionOrder = new LanguageDetectionOrder(app, PreferenceManager.getDefaultSharedPreferences(app).getString(detectionOrderKey, null));
         Set<String> langs = new HashSet<String>();
         Set<String> availableLanguages = new HashSet<String>();
-        List<String> arabics = Arrays.asList(getResources().getStringArray(R.array.arabic_languages));
         for (String l : app.languages)
-            if (l.length() == 3) {
-                if (arabics.contains(l))
-                    availableLanguages.add(arabics.get(0));
+            if (l.length() == 3)
                 availableLanguages.add(l);
-            }
         Collections.addAll(langs, getResources().getStringArray(R.array.languages));
         langs.retainAll(availableLanguages);
 

@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">Az aktuális kezelőfelület nyelvének előnyben részesítése</string>
     <string name="latinic_fallback_title">Előnyben részesített hang a Latin betűk kiejtéséhez</string>
     <string name="cyrillic_fallback_title">Előnyben részesített hang a Cirill betűk kiejtéséhez</string>
+    <string name="arabic_fallback_title">Előnyben részesített hang az Arab betűk kiejtéséhez</string>
     <string name="cjk_fallback_title">Előnyben részesített hang a kelet-ázsiai ideográfia kiejtéséhez</string>
     <string name="numeric_language_title">Előnyben részesített hang a számok kiejtéséhez</string>
     <string name="no_preferences">Nincsenek preferenciák</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">Hanglista frissítése</string>
     <string name="latinics">Latin</string>
     <string name="cyrillics">Cirill betűs</string>
+    <string name="arabics">Arab</string>
     <string name="cjk">Kelet-ázsiai ideográfia</string>
     <string name="all">Mind</string>
     <string name="notification_channel_description">A SmartVoice értesítési csatornája</string>

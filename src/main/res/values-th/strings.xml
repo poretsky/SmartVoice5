@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">ใช้ภาษาตามอินเทอร์เฟซปัจจุบัน</string>
     <string name="latinic_fallback_title">เสียงอ่านสำหรับตัวอักษรละติน</string>
     <string name="cyrillic_fallback_title">เสียงอ่านสำหรับตัวอักษรซีริลลิก</string>
+    <string name="arabic_fallback_title">เสียงอ่านสำหรับตัวอักษรอาหรับ</string>
     <string name="cjk_fallback_title">เสียงอ่านสำหรับตัวอักษรเอเชียตะวันออก</string>
     <string name="numeric_language_title">เสียงอ่านสำหรับตัวเลข</string>
     <string name="no_preferences">ไม่มีการตั้งค่า</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">รีเฟรชรายการเสียง</string>
     <string name="latinics">อักษรละติน</string>
     <string name="cyrillics">อักษรซีริลลิก</string>
+    <string name="arabics">อักษรอาหรับ</string>
     <string name="cjk">เอเชียตะวันออก</string>
     <string name="all">ทั้งหมด</string>
     <string name="notification_channel_description">ช่องทางการแจ้งเตือนของ SmartVoice</string>

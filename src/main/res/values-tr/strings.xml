@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">Mevcut arayüz dilini tercih et</string>
     <string name="latinic_fallback_title">Latin alfabesinin telaffuz edilmesi için tercih edilen ses</string>
     <string name="cyrillic_fallback_title">Kiril alfabesinin telaffuz edilmesi için tercih edilen ses</string>
+    <string name="arabic_fallback_title">Arap alfabesinin telaffuz edilmesi için tercih edilen ses</string>
     <string name="cjk_fallback_title">Doğu Asya ideografisinin telaffuz edilmesi için tercih edilen ses</string>
     <string name="numeric_language_title">Sayıların telaffuz edilmesi için tercih edilen ses</string>
     <string name="no_preferences">Tercih yok</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">Ses listesini güncelle</string>
     <string name="latinics">Latin alfabesi</string>
     <string name="cyrillics">Kiril alfabesi</string>
+    <string name="arabics">Arap alfabesi</string>
     <string name="cjk">Doğu Asya ideografisi</string>
     <string name="all">Tümü</string>
     <string name="notification_channel_description">Bildirim kanalı SmartVoice</string>

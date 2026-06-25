@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">تَـفْـضِـيـلُ لُـغَـةِ الـوَاجِـهَـةِ الـحَـالِـيَـةِ</string>
     <string name="latinic_fallback_title">صَـوْتُ نُـطْـقِ الـحُـرُوفِ الـلَّاتِـيـنِـيَّـةِ الـمُـفَـضَّـلُ</string>
     <string name="cyrillic_fallback_title">صَـوْتُ نُـطْـقِ الـحُـرُوفِ الـسِّـيـرِيلِـيَّـةِ الـمُـفَـضَّـلُ</string>
+    <string name="arabic_fallback_title">صَـوْتُ نُـطْـقِ الـحُـرُوفِ الـعَـرَبِـيَّـةِ الـمُـفَـضَّـلُ</string>
     <string name="cjk_fallback_title">صَـوْتُ نُـطْـقِ الـأَيْـدِيـوجْـرَافِـيَـا لِـشَـرْقِ آسْـيَـا الـمُـفَـضَّـلُ</string>
     <string name="numeric_language_title">صَـوْتُ نُـطْـقِ الـأَرْقَـامِ الـمُـفَـضَّـلُ</string>
     <string name="no_preferences">لَا تُـوْجَـدُ تَـفْـضِـيلَاتٌ</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">تَـحْـدِيـثُ قَـائِـمَـةِ الـأَصْـوَاتِ</string>
     <string name="latinics">حُـرُوفٌ لَاتِـيـنِـيَّـةٌ</string>
     <string name="cyrillics">حُـرُوفٌ سِـيـرِيـلِـيَّـةٌ</string>
+    <string name="arabics">حُـرُوفٌ عَـرَبِـيَّـةٌ</string>
     <string name="cjk">شَـرْقُ آسْـيَـا</string>
     <string name="all">الـكَـلُّ</string>
     <string name="notification_channel_description">قَـنَـاةُ الـإِشْـعَـارَاتِ لِـتَـطْـبِـيـقِ SmartVoice</string>

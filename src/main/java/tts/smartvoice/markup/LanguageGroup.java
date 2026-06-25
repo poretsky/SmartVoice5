@@ -13,6 +13,7 @@ public enum LanguageGroup {
 
     LATINIC("a-z", R.array.latinic_languages),
     CYRILLIC("\\p{InCyrillic}", R.array.cyrillic_languages),
+    ARABIC("\\p{InArabic}", R.array.arabic_languages),
     CJK("\\p{InCJK_Unified_Ideographs}", R.array.cjk_languages),
     NONE(null, 0);
 

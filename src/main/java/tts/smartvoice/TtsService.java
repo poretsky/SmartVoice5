@@ -62,6 +62,7 @@ public class TtsService extends TextToSpeechService implements SharedPreferences
     Set<String> stickyLangs;
     String latinicFallback;
     String cyrillicFallback;
+    String arabicFallback;
     String cjkFallback;
     String numericVoice;
     String emojiVoice;
@@ -85,6 +86,7 @@ public class TtsService extends TextToSpeechService implements SharedPreferences
     private String useLocaleKey;
     private String fallbackLatinicKey;
     private String fallbackCyrillicKey;
+    private String fallbackArabicKey;
     private String fallbackCjkKey;
     private String numericLangKey;
     private String emojiVoiceKey;
@@ -247,6 +249,7 @@ public class TtsService extends TextToSpeechService implements SharedPreferences
             (autoLangs.isEmpty() &&
              (latinicFallback == null) &&
              (cyrillicFallback == null) &&
+             (arabicFallback == null) &&
              (cjkFallback == null) &&
              (numericVoice == null) &&
              (emojiVoice == null));
@@ -302,18 +305,9 @@ public class TtsService extends TextToSpeechService implements SharedPreferences
     }
 
     String getVoiceAssignmentFor(String voice) {
-        if ((voice == null) || app.generalVoices.contains(voice))
-            return voice;
-        String[] arabics = getResources().getStringArray(R.array.arabic_languages);
-        if (arabics[0].equals(voice)) {
-            for (String lang : arabics)
-                if (assignedVoices.containsKey(lang))
-                    return assignedVoices.get(lang);
-                else if (app.defaultVoices.containsKey(lang))
-                    return app.defaultVoices.get(lang);
-            return null;
-        }
-        return (assignedVoices.containsKey(voice) ? assignedVoices : app.defaultVoices).get(voice);
+        return ((voice == null) || app.generalVoices.contains(voice)) ?
+            voice :
+            (assignedVoices.containsKey(voice) ? assignedVoices : app.defaultVoices).get(voice);
     }
 
     String getSystemVoiceName() {
@@ -335,6 +329,7 @@ public class TtsService extends TextToSpeechService implements SharedPreferences
         speechMarkupFactory.setLanguages(autoLangs);
         latinicFallback = validateVoiceFallback(preferences.getString(fallbackLatinicKey, null));
         cyrillicFallback = validateVoiceFallback(preferences.getString(fallbackCyrillicKey, null));
+        arabicFallback = validateVoiceFallback(preferences.getString(fallbackArabicKey, null));
         cjkFallback = validateVoiceFallback(preferences.getString(fallbackCjkKey, null));
         numericVoice = validateVoicePref(preferences.getString(numericLangKey, null));
         emojiVoice = validateVoicePref(preferences.getString(emojiVoiceKey, null));
@@ -406,6 +401,7 @@ public class TtsService extends TextToSpeechService implements SharedPreferences
         useRequestedVoiceKey = getString(R.string.use_only_default_or_requested_voice_key);
         fallbackLatinicKey = getString(R.string.latinic_fallback_key);
         fallbackCyrillicKey = getString(R.string.cyrillic_fallback_key);
+        fallbackArabicKey = getString(R.string.arabic_fallback_key);
         fallbackCjkKey = getString(R.string.cjk_fallback_key);
         numericLangKey = getString(R.string.numeric_language_key);
         emojiVoiceKey = getString(R.string.pref_emoji_voice_key);
@@ -646,6 +642,9 @@ public class TtsService extends TextToSpeechService implements SharedPreferences
             messageSplitSetup();
         } else if (fallbackCyrillicKey.equals(key)) {
             cyrillicFallback = validateVoiceFallback(preferences.getString(key, null));
+            messageSplitSetup();
+        } else if (fallbackArabicKey.equals(key)) {
+            arabicFallback = validateVoiceFallback(preferences.getString(key, null));
             messageSplitSetup();
         } else if (fallbackCjkKey.equals(key)) {
             cjkFallback = validateVoiceFallback(preferences.getString(key, null));

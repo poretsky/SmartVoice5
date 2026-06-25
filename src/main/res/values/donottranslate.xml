@@ -13,6 +13,7 @@
     <string name="use_default_locale_key">use_default_locale</string>
     <string name="latinic_fallback_key">latinic_fallback</string>
     <string name="cyrillic_fallback_key">cyrillic_fallback</string>
+    <string name="arabic_fallback_key">arabic_fallback</string>
     <string name="cjk_fallback_key">cjk_fallback</string>
     <string name="numeric_language_key">numeric_language</string>
     <string name="value_system">system</string>

@@ -11,6 +11,7 @@
     <string name="use_default_locale_title">aktuelle Sprache der Benutzeroberfläche bevorzugen</string>
     <string name="latinic_fallback_title">Bevorzugte Stimme zum Ausprachen von Latein</string>
     <string name="cyrillic_fallback_title">Bevorzugte Stimme zum Aussprachen von Kyrillisch</string>
+    <string name="arabic_fallback_title">Bevorzugte Stimme zum Aussprechen von Arabisch</string>
     <string name="cjk_fallback_title">Bevorzugte Stimme zum Ausprachen ostasiatische Ideographie</string>
     <string name="numeric_language_title">Bevorzugte Stimme zum Aussprechen von Zahlen</string>
     <string name="no_preferences">kein Präferenz</string>
@@ -45,6 +46,7 @@
     <string name="action_refresh_voices_list">Liste der Stimmen aktualisieren</string>
     <string name="latinics">Latein</string>
     <string name="cyrillics">Kyrillisch</string>
+    <string name="arabics">das Arabische</string>
     <string name="cjk">ostasiatische Ideographie</string>
     <string name="all">Alle</string>
     <string name="notification_channel_description">Benachrichtigungskanal SmartVoice</string>
