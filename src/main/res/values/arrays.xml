@@ -206,7 +206,17 @@
 
     <string-array name="arabic_languages" translatable="false">
         <item>ara</item>
+        <item>ckb</item>
         <item>fas</item>
+        <item>kas</item>
+        <item>lrc</item>
+        <item>mzn</item>
+        <item>pan</item>
+        <item>pus</item>
+        <item>snd</item>
+        <item>uig</item>
+        <item>urd</item>
+        <item>uzb</item>
     </string-array>
 
 </resources>
