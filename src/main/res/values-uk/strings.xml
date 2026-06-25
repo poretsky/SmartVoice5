@@ -44,9 +44,9 @@
     <string name="pref_ignore_emoticons_title">Ігнорувати емодзі</string>
     <string name="pref_emoji_voice_title">Голос для емодзі</string>
     <string name="action_refresh_voices_list">Оновити список голосів</string>
-    <string name="latinics">Латинські</string>
-    <string name="cyrillics">Кириличні</string>
-    <string name="arabics">Арабські</string>
+    <string name="latinics">Латиниця</string>
+    <string name="cyrillics">Кирилиця</string>
+    <string name="arabics">Арабиця</string>
     <string name="cjk">CJK</string>
     <string name="all">Усі</string>
     <string name="notification_channel_description">Канал сповіщень SmartVoice</string>

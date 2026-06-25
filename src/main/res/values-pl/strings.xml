@@ -10,7 +10,7 @@
     <string name="log_text_title">Bilježi izgovoreni tekst u zapisnik</string>
     <string name="use_default_locale_title">Preferuj język interfejsu </string>
     <string name="latinic_fallback_title">Preferowany głos dla czytania alf. łacińskiego</string>
-    <string name="cyrillic_fallback_title">Preferowany głos dla czytania cyrilicy</string>
+    <string name="cyrillic_fallback_title">Preferowany głos dla czytania cyrylicy</string>
     <string name="arabic_fallback_title">Preferowany głos dla czytania arabskiego</string>
     <string name="cjk_fallback_title">Preferowany głos dla czytania znaków wschodnioazjackich</string>
     <string name="numeric_language_title">Preferowany głos dla liczb</string>
