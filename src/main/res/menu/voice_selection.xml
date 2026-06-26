@@ -3,14 +3,15 @@
 
     <item
         android:id="@+id/native_language_only"
+        android:orderInCategory="@integer/first_item"
         android:title="" />
 
-    <item
-        android:id="@+id/language_group_only"
-        android:title="" />
+    <group
+        android:id="@+id/language_group_only" />
 
     <item
         android:id="@+id/everywhere"
+        android:orderInCategory="@integer/last_item"
         android:title="@string/all" />
 
 </menu>

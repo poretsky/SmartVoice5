@@ -37,14 +37,14 @@ public enum LanguageGroup {
         return languageDetector;
     }
 
-    boolean contains(String lang) {
-        return (languages != null) && languages.contains(lang);
-    }
-
     static void setup(Context context) {
         Resources resources = context.getResources();
         for (LanguageGroup group : values())
             group.setup(resources);
+    }
+
+    public boolean contains(String lang) {
+        return (languages != null) && languages.contains(lang);
     }
 
     public static LanguageGroup find(String lang) {

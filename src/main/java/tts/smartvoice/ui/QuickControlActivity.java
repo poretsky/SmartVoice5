@@ -31,6 +31,7 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
 
     private SmartVoiceApp app;
     private List<String> voices;
+    private List<LanguageGroup> languageGroups;
     private String selection;
     private String autoLangsKey;
     private String useRequestedVoiceKey;
@@ -45,6 +46,7 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         app = (SmartVoiceApp)getApplication();
         voices = new ArrayList<String>();
+        languageGroups = new ArrayList<LanguageGroup>();
         selection = null;
         autoLangsKey = getString(R.string.pref_languages_auto_key);
         useRequestedVoiceKey = getString(R.string.use_only_default_or_requested_voice_key);
@@ -109,39 +111,43 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
         if (position < voices.size()) {
             selection = voices.get(position);
             String lang = selection.substring(0, 3);
-            LanguageGroup langGroup = LanguageGroup.find(lang);
-            boolean useForLanguage = preferences.getStringSet(autoLangsKey, Collections.<String>emptySet()).contains(lang);
-            if ((useForLanguage || (langGroup != LanguageGroup.NONE)) &&
-                !preferences.getBoolean(useRequestedVoiceKey, false)) {
-                PopupMenu popup = new PopupMenu(this, v);
+            boolean useForLanguage = false;
+            PopupMenu popup = new PopupMenu(this, v);
+            languageGroups.clear();
+            if (!preferences.getBoolean(useRequestedVoiceKey, false)) {
+                final int itemOrder = getResources().getInteger(R.integer.middle_item);
                 popup.inflate(R.menu.voice_selection);
                 Menu menu = popup.getMenu();
-                MenuItem item = menu.findItem(R.id.language_group_only);
-                if (item != null)
-                    switch (langGroup) {
-                    case LATINIC:
-                        item.setTitle(R.string.latinics);
-                        break;
-                    case CYRILLIC:
-                        item.setTitle(R.string.cyrillics);
-                        break;
-                    case ARABIC:
-                        item.setTitle(R.string.arabics);
-                        break;
-                    case CJK:
-                        item.setTitle(R.string.cjk);
-                        break;
-                    default:
-                        menu.removeItem(R.id.language_group_only);
-                        break;
+                for (LanguageGroup group : LanguageGroup.values())
+                    if (group.contains(lang)) {
+                        languageGroups.add(group);
+                        switch (group) {
+                        case LATINIC:
+                            menu.add(R.id.language_group_only, languageGroups.size(), itemOrder, R.string.latinics);
+                            break;
+                        case CYRILLIC:
+                            menu.add(R.id.language_group_only, languageGroups.size(), itemOrder, R.string.cyrillics);
+                            break;
+                        case ARABIC:
+                            menu.add(R.id.language_group_only, languageGroups.size(), itemOrder, R.string.arabics);
+                            break;
+                        case CJK:
+                            menu.add(R.id.language_group_only, languageGroups.size(), itemOrder, R.string.cjk);
+                            break;
+                        default:
+                            break;
+                        }
                     }
+                useForLanguage = preferences.getStringSet(autoLangsKey, Collections.<String>emptySet()).contains(lang);;
                 if (useForLanguage) {
-                    item = menu.findItem(R.id.native_language_only);
+                    MenuItem item = menu.findItem(R.id.native_language_only);
                     if (item != null)
                         item.setTitle(HumanName.get(lang));
                 } else {
                     menu.removeItem(R.id.native_language_only);
                 }
+            }
+            if (useForLanguage || !languageGroups.isEmpty()) {
                 popup.setOnMenuItemClickListener(this);
                 popup.show();
             } else {
@@ -180,9 +186,9 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
             if (itemId == R.id.native_language_only) {
                 app.explicitVoice.set(null);
                 app.explicitVoice.set(selection.substring(0, 3), selection);
-            } else if (itemId == R.id.language_group_only) {
+            } else if (item.getGroupId() == R.id.language_group_only) {
                 app.explicitVoice.set(null);
-                app.explicitVoice.set(LanguageGroup.find(selection.substring(0, 3)), selection);
+                app.explicitVoice.set(languageGroups.get(itemId - 1), selection);
             } else {
                 app.explicitVoice.set(selection);
             }
