@@ -48,7 +48,7 @@ public class SmartVoiceApp extends Application {
     private static final String SVOX_PICO_RESOURCE = "pico";
     private static final String RULEX_DB_FILENAME = "rulex.db";
     private static final String RULEX_REVISION_KEY = "rulex_revision";
-    private static final int RULEX_REVISION = 28;
+    private static final int RULEX_REVISION = 29;
 
     public final Set<String> languages;
     public final Set<String> validVoices;
