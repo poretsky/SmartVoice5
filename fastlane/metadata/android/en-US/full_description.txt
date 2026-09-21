@@ -1,0 +1,7 @@
+The most prominent feature of this synthesizer is its capability to
+recognize and switch language automatically according to the nature
+of input text. Besides that, it aggregates other TTS engines installed
+on the system utilizing their voices and providing individual tuning
+facilities for each voice.
+
+See the application website for more details.
