@@ -105,7 +105,7 @@ public class RussianVoiceEngine implements TtsEngine, SharedPreferences.OnShared
         abbrevFilters = new ArrayList<Map.Entry<Pattern, SparseArray<String>>>();
         synthesisCallback = null;
         isSpeaking = false;
-        volume = 80;
+        volume = context.getResources().getInteger(R.integer.volume_value);
         pitch = 100;
         speechRate = 100;
         commaGapFactor = 100;
