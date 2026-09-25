@@ -274,7 +274,7 @@ public class RussianVoiceEngine implements TtsEngine, SharedPreferences.OnShared
 
     @Override
     public int setVolume(int value) {
-        volume = (value < 0) ? 0 : Math.min(value, 100);
+        volume = (value < 0) ? 0 : value;
         return TextToSpeech.SUCCESS;
     }
 
