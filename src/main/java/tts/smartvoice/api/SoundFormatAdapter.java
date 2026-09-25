@@ -85,7 +85,7 @@ public class SoundFormatAdapter implements SynthesisCallback, SampleBuffers {
     }
 
     public void setGain(float value) {
-        gain = (value < 0.0f) ? 0.0f : ((float)Math.pow(10.0, Math.min(1.25f, value) * 2.0) / 100f);
+        gain = (value < 0.0f) ? 0.0f : ((float)Math.pow(10.0, Math.min(1.5f, value) * 2.0) / 100f);
     }
 
     public void setFullGain() {
