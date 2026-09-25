@@ -24,8 +24,6 @@ public class PicoTtsEngine implements TtsEngine {
     private static final String PITCH = "pitch";
     private static final String RATE = "rate";
 
-    private static final int MIN_VOLUME = 0;
-    private static final int MAX_VOLUME = 100;
     private static final int MIN_PITCH = 50;
     private static final int MAX_PITCH = 100;
     private static final int MIN_RATE = 20;
@@ -105,7 +103,7 @@ public class PicoTtsEngine implements TtsEngine {
 
     @Override
     public int setVolume(int value) {
-        return setProperty(VOLUME, String.valueOf(value * (MAX_VOLUME - MIN_VOLUME) / 100 + MIN_VOLUME));
+        return setProperty(VOLUME, String.valueOf(value));
     }
 
     @Override
