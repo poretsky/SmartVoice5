@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: tts.smartvoice.markup.ExtractCldrAnnotations
+Class-Path: ../libs/gson-2.8.5.jar
+

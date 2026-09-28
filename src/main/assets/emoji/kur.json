@@ -1,0 +1,1322 @@
+[
+  {
+    "cp": "¤",
+    "tts": "(yekeya pereyî ya nenas)"
+  },
+  {
+    "cp": "֏",
+    "tts": "dramê ermenî"
+  },
+  {
+    "cp": "؋",
+    "tts": "efxanîyê efxanistanî"
+  },
+  {
+    "cp": "৳",
+    "tts": "takayê bengladeşî"
+  },
+  {
+    "cp": "฿",
+    "tts": "bahtê taylandî"
+  },
+  {
+    "cp": "៛",
+    "tts": "rîelê kamboçyayî"
+  },
+  {
+    "cp": "₡",
+    "tts": "kolonê kosta rîkayî"
+  },
+  {
+    "cp": "₦",
+    "tts": "naîrayê nîjeryayî"
+  },
+  {
+    "cp": "₧",
+    "tts": "pezetayê spanî"
+  },
+  {
+    "cp": "₪",
+    "tts": "şekelê nû yê îsraîlî"
+  },
+  {
+    "cp": "₫",
+    "tts": "dongê vîetnamî"
+  },
+  {
+    "cp": "₭",
+    "tts": "kîpê laosî"
+  },
+  {
+    "cp": "₮",
+    "tts": "togrokê moxolî"
+  },
+  {
+    "cp": "₲",
+    "tts": "gûaranîyê paragûayî"
+  },
+  {
+    "cp": "₴",
+    "tts": "grîvnayê ûkraynî"
+  },
+  {
+    "cp": "₵",
+    "tts": "cedîyê ganayî"
+  },
+  {
+    "cp": "₸",
+    "tts": "tengeyê qazaxistanî"
+  },
+  {
+    "cp": "₺",
+    "tts": "lîreyê tirkî"
+  },
+  {
+    "cp": "₼",
+    "tts": "manatê azerbeycanî"
+  },
+  {
+    "cp": "₾",
+    "tts": "larîyê gurcistanî"
+  },
+  {
+    "cp": "🇦🇨",
+    "tts": "ala: Girava Ascensionê"
+  },
+  {
+    "cp": "🇦🇩",
+    "tts": "ala: Andorra"
+  },
+  {
+    "cp": "🇦🇪",
+    "tts": "ala: Mîrgehên Erebî yên Yekbûyî"
+  },
+  {
+    "cp": "🇦🇫",
+    "tts": "ala: Efxanistan"
+  },
+  {
+    "cp": "🇦🇬",
+    "tts": "ala: Antîgua û Berbûda"
+  },
+  {
+    "cp": "🇦🇮",
+    "tts": "ala: Anguîla"
+  },
+  {
+    "cp": "🇦🇱",
+    "tts": "ala: Albanya"
+  },
+  {
+    "cp": "🇦🇲",
+    "tts": "ala: Ermenistan"
+  },
+  {
+    "cp": "🇦🇴",
+    "tts": "ala: Angola"
+  },
+  {
+    "cp": "🇦🇶",
+    "tts": "ala: Antarktîka"
+  },
+  {
+    "cp": "🇦🇷",
+    "tts": "ala: Arjantîn"
+  },
+  {
+    "cp": "🇦🇸",
+    "tts": "ala: Samoaya Amerîkanî"
+  },
+  {
+    "cp": "🇦🇹",
+    "tts": "ala: Awistirya"
+  },
+  {
+    "cp": "🇦🇺",
+    "tts": "ala: Awistralya"
+  },
+  {
+    "cp": "🇦🇼",
+    "tts": "ala: Arûba"
+  },
+  {
+    "cp": "🇦🇽",
+    "tts": "ala: Giravên Alandê"
+  },
+  {
+    "cp": "🇦🇿",
+    "tts": "ala: Azerbeycan"
+  },
+  {
+    "cp": "🇧🇦",
+    "tts": "ala: Bosna û Hersek"
+  },
+  {
+    "cp": "🇧🇧",
+    "tts": "ala: Barbados"
+  },
+  {
+    "cp": "🇧🇩",
+    "tts": "ala: Bengladeş"
+  },
+  {
+    "cp": "🇧🇪",
+    "tts": "ala: Belçîka"
+  },
+  {
+    "cp": "🇧🇫",
+    "tts": "ala: Burkîna Faso"
+  },
+  {
+    "cp": "🇧🇬",
+    "tts": "ala: Bulgaristan"
+  },
+  {
+    "cp": "🇧🇭",
+    "tts": "ala: Behreyn"
+  },
+  {
+    "cp": "🇧🇮",
+    "tts": "ala: Bûrûndî"
+  },
+  {
+    "cp": "🇧🇯",
+    "tts": "ala: Bênîn"
+  },
+  {
+    "cp": "🇧🇱",
+    "tts": "ala: Saint Barthelemy"
+  },
+  {
+    "cp": "🇧🇲",
+    "tts": "ala: Bermûda"
+  },
+  {
+    "cp": "🇧🇳",
+    "tts": "ala: Brûney"
+  },
+  {
+    "cp": "🇧🇴",
+    "tts": "ala: Bolîvya"
+  },
+  {
+    "cp": "🇧🇶",
+    "tts": "ala: Holendaya Karayîbê"
+  },
+  {
+    "cp": "🇧🇷",
+    "tts": "ala: Brezîlya"
+  },
+  {
+    "cp": "🇧🇸",
+    "tts": "ala: Bahama"
+  },
+  {
+    "cp": "🇧🇹",
+    "tts": "ala: Bûtan"
+  },
+  {
+    "cp": "🇧🇻",
+    "tts": "ala: Girava Bouvetê"
+  },
+  {
+    "cp": "🇧🇼",
+    "tts": "ala: Botswana"
+  },
+  {
+    "cp": "🇧🇾",
+    "tts": "ala: Belarûs"
+  },
+  {
+    "cp": "🇧🇿",
+    "tts": "ala: Belîze"
+  },
+  {
+    "cp": "🇨🇦",
+    "tts": "ala: Kanada"
+  },
+  {
+    "cp": "🇨🇨",
+    "tts": "ala: Giravên Kokosê (Keeling)"
+  },
+  {
+    "cp": "🇨🇩",
+    "tts": "ala: Kongo - Kînşasa"
+  },
+  {
+    "cp": "🇨🇫",
+    "tts": "ala: Cimhûrîyeta Afrîkaya Navîn"
+  },
+  {
+    "cp": "🇨🇬",
+    "tts": "ala: Kongo - Brazzaville"
+  },
+  {
+    "cp": "🇨🇭",
+    "tts": "ala: Swîsre"
+  },
+  {
+    "cp": "🇨🇮",
+    "tts": "ala: Côte d’Ivoire"
+  },
+  {
+    "cp": "🇨🇰",
+    "tts": "ala: Giravên Cookê"
+  },
+  {
+    "cp": "🇨🇱",
+    "tts": "ala: Şîlî"
+  },
+  {
+    "cp": "🇨🇲",
+    "tts": "ala: Kamerûn"
+  },
+  {
+    "cp": "🇨🇳",
+    "tts": "ala: Çîn"
+  },
+  {
+    "cp": "🇨🇴",
+    "tts": "ala: Kolombîya"
+  },
+  {
+    "cp": "🇨🇵",
+    "tts": "ala: Girava Clippertonê"
+  },
+  {
+    "cp": "🇨🇶",
+    "tts": "ala: Sark"
+  },
+  {
+    "cp": "🇨🇷",
+    "tts": "ala: Kosta Rîka"
+  },
+  {
+    "cp": "🇨🇺",
+    "tts": "ala: Kuba"
+  },
+  {
+    "cp": "🇨🇻",
+    "tts": "ala: Kap Verde"
+  },
+  {
+    "cp": "🇨🇼",
+    "tts": "ala: Curaçao"
+  },
+  {
+    "cp": "🇨🇽",
+    "tts": "ala: Girava Christmasê"
+  },
+  {
+    "cp": "🇨🇾",
+    "tts": "ala: Qibris"
+  },
+  {
+    "cp": "🇨🇿",
+    "tts": "ala: Çekya"
+  },
+  {
+    "cp": "🇩🇪",
+    "tts": "ala: Almanya"
+  },
+  {
+    "cp": "🇩🇬",
+    "tts": "ala: Diego Garcia"
+  },
+  {
+    "cp": "🇩🇯",
+    "tts": "ala: Cîbûtî"
+  },
+  {
+    "cp": "🇩🇰",
+    "tts": "ala: Danîmarka"
+  },
+  {
+    "cp": "🇩🇲",
+    "tts": "ala: Domînîka"
+  },
+  {
+    "cp": "🇩🇴",
+    "tts": "ala: Cimhûrîyeta Domînîkê"
+  },
+  {
+    "cp": "🇩🇿",
+    "tts": "ala: Cezayîr"
+  },
+  {
+    "cp": "🇪🇦",
+    "tts": "ala: Ceuta û Melîla"
+  },
+  {
+    "cp": "🇪🇨",
+    "tts": "ala: Ekwador"
+  },
+  {
+    "cp": "🇪🇪",
+    "tts": "ala: Estonya"
+  },
+  {
+    "cp": "🇪🇬",
+    "tts": "ala: Misir"
+  },
+  {
+    "cp": "🇪🇭",
+    "tts": "ala: Sahraya Rojava"
+  },
+  {
+    "cp": "🇪🇷",
+    "tts": "ala: Erître"
+  },
+  {
+    "cp": "🇪🇸",
+    "tts": "ala: Spanya"
+  },
+  {
+    "cp": "🇪🇹",
+    "tts": "ala: Etîyopya"
+  },
+  {
+    "cp": "🇪🇺",
+    "tts": "ala: Yekîtîya Ewropayê"
+  },
+  {
+    "cp": "🇫🇮",
+    "tts": "ala: Fînlenda"
+  },
+  {
+    "cp": "🇫🇯",
+    "tts": "ala: Fîjî"
+  },
+  {
+    "cp": "🇫🇰",
+    "tts": "ala: Giravên Falklandê"
+  },
+  {
+    "cp": "🇫🇲",
+    "tts": "ala: Mîkronezya"
+  },
+  {
+    "cp": "🇫🇴",
+    "tts": "ala: Giravên Faroeyê"
+  },
+  {
+    "cp": "🇫🇷",
+    "tts": "ala: Fransa"
+  },
+  {
+    "cp": "🇬🇦",
+    "tts": "ala: Gabon"
+  },
+  {
+    "cp": "🇬🇧",
+    "tts": "ala: Qiralîyeta Yekbûyî"
+  },
+  {
+    "cp": "🇬🇩",
+    "tts": "ala: Grenada"
+  },
+  {
+    "cp": "🇬🇪",
+    "tts": "ala: Gurcistan"
+  },
+  {
+    "cp": "🇬🇫",
+    "tts": "ala: Guyanaya Fransî"
+  },
+  {
+    "cp": "🇬🇬",
+    "tts": "ala: Guernsey"
+  },
+  {
+    "cp": "🇬🇭",
+    "tts": "ala: Gana"
+  },
+  {
+    "cp": "🇬🇮",
+    "tts": "ala: Cebelîtariq"
+  },
+  {
+    "cp": "🇬🇱",
+    "tts": "ala: Grînlanda"
+  },
+  {
+    "cp": "🇬🇲",
+    "tts": "ala: Gambîya"
+  },
+  {
+    "cp": "🇬🇳",
+    "tts": "ala: Gîne"
+  },
+  {
+    "cp": "🇬🇵",
+    "tts": "ala: Guadeloupe"
+  },
+  {
+    "cp": "🇬🇶",
+    "tts": "ala: Gîneya Ekwadorê"
+  },
+  {
+    "cp": "🇬🇷",
+    "tts": "ala: Yûnanistan"
+  },
+  {
+    "cp": "🇬🇸",
+    "tts": "ala: Giravên Georgîyaya Başûr û Sandwicha Başûr"
+  },
+  {
+    "cp": "🇬🇹",
+    "tts": "ala: Guatemala"
+  },
+  {
+    "cp": "🇬🇺",
+    "tts": "ala: Guam"
+  },
+  {
+    "cp": "🇬🇼",
+    "tts": "ala: Gîne-Bissau"
+  },
+  {
+    "cp": "🇬🇾",
+    "tts": "ala: Guyana"
+  },
+  {
+    "cp": "🇭🇰",
+    "tts": "ala: Hong Konga HîT ya Çînê"
+  },
+  {
+    "cp": "🇭🇲",
+    "tts": "ala: Giravên Heard û MacDonaldê"
+  },
+  {
+    "cp": "🇭🇳",
+    "tts": "ala: Hondûras"
+  },
+  {
+    "cp": "🇭🇷",
+    "tts": "ala: Xirwatistan"
+  },
+  {
+    "cp": "🇭🇹",
+    "tts": "ala: Haîtî"
+  },
+  {
+    "cp": "🇭🇺",
+    "tts": "ala: Macaristan"
+  },
+  {
+    "cp": "🇮🇨",
+    "tts": "ala: Giravên Kanaryayê"
+  },
+  {
+    "cp": "🇮🇩",
+    "tts": "ala: Endonezya"
+  },
+  {
+    "cp": "🇮🇪",
+    "tts": "ala: Îrlanda"
+  },
+  {
+    "cp": "🇮🇱",
+    "tts": "ala: Îsraîl"
+  },
+  {
+    "cp": "🇮🇲",
+    "tts": "ala: Girava Manê"
+  },
+  {
+    "cp": "🇮🇳",
+    "tts": "ala: Hindistan"
+  },
+  {
+    "cp": "🇮🇴",
+    "tts": "ala: Herêma Okyanûsa Hindî ya Brîtanyayê"
+  },
+  {
+    "cp": "🇮🇶",
+    "tts": "ala: Îraq"
+  },
+  {
+    "cp": "🇮🇷",
+    "tts": "ala: Îran"
+  },
+  {
+    "cp": "🇮🇸",
+    "tts": "ala: Îslanda"
+  },
+  {
+    "cp": "🇮🇹",
+    "tts": "ala: Îtalya"
+  },
+  {
+    "cp": "🇯🇪",
+    "tts": "ala: Jersey"
+  },
+  {
+    "cp": "🇯🇲",
+    "tts": "ala: Jamaîka"
+  },
+  {
+    "cp": "🇯🇴",
+    "tts": "ala: Urdun"
+  },
+  {
+    "cp": "🇯🇵",
+    "tts": "ala: Japonya"
+  },
+  {
+    "cp": "🇰🇪",
+    "tts": "ala: Kenya"
+  },
+  {
+    "cp": "🇰🇬",
+    "tts": "ala: Qirgizistan"
+  },
+  {
+    "cp": "🇰🇭",
+    "tts": "ala: Kamboçya"
+  },
+  {
+    "cp": "🇰🇮",
+    "tts": "ala: Kirîbatî"
+  },
+  {
+    "cp": "🇰🇲",
+    "tts": "ala: Komor"
+  },
+  {
+    "cp": "🇰🇳",
+    "tts": "ala: Saint Kitts û Nevîs"
+  },
+  {
+    "cp": "🇰🇵",
+    "tts": "ala: Koreya Bakur"
+  },
+  {
+    "cp": "🇰🇷",
+    "tts": "ala: Koreya Başûr"
+  },
+  {
+    "cp": "🇰🇼",
+    "tts": "ala: Kuweyt"
+  },
+  {
+    "cp": "🇰🇾",
+    "tts": "ala: Giravên Kaymanê"
+  },
+  {
+    "cp": "🇰🇿",
+    "tts": "ala: Qazaxistan"
+  },
+  {
+    "cp": "🇱🇦",
+    "tts": "ala: Laos"
+  },
+  {
+    "cp": "🇱🇧",
+    "tts": "ala: Libnan"
+  },
+  {
+    "cp": "🇱🇨",
+    "tts": "ala: Saint Lucia"
+  },
+  {
+    "cp": "🇱🇮",
+    "tts": "ala: Liechtenstein"
+  },
+  {
+    "cp": "🇱🇰",
+    "tts": "ala: Srî Lanka"
+  },
+  {
+    "cp": "🇱🇷",
+    "tts": "ala: Lîberya"
+  },
+  {
+    "cp": "🇱🇸",
+    "tts": "ala: Lesoto"
+  },
+  {
+    "cp": "🇱🇹",
+    "tts": "ala: Lîtvanya"
+  },
+  {
+    "cp": "🇱🇺",
+    "tts": "ala: Luksembûrg"
+  },
+  {
+    "cp": "🇱🇻",
+    "tts": "ala: Letonya"
+  },
+  {
+    "cp": "🇱🇾",
+    "tts": "ala: Lîbya"
+  },
+  {
+    "cp": "🇲🇦",
+    "tts": "ala: Fas"
+  },
+  {
+    "cp": "🇲🇨",
+    "tts": "ala: Monako"
+  },
+  {
+    "cp": "🇲🇩",
+    "tts": "ala: Moldova"
+  },
+  {
+    "cp": "🇲🇪",
+    "tts": "ala: Qeredax"
+  },
+  {
+    "cp": "🇲🇫",
+    "tts": "ala: Saint Martin"
+  },
+  {
+    "cp": "🇲🇬",
+    "tts": "ala: Madagaskar"
+  },
+  {
+    "cp": "🇲🇭",
+    "tts": "ala: Giravên Marşalê"
+  },
+  {
+    "cp": "🇲🇰",
+    "tts": "ala: Makedonyaya Bakur"
+  },
+  {
+    "cp": "🇲🇱",
+    "tts": "ala: Malî"
+  },
+  {
+    "cp": "🇲🇲",
+    "tts": "ala: Myanmar (Bûrma)"
+  },
+  {
+    "cp": "🇲🇳",
+    "tts": "ala: Moxolistan"
+  },
+  {
+    "cp": "🇲🇴",
+    "tts": "ala: Makaoya Hît ya Çînê"
+  },
+  {
+    "cp": "🇲🇵",
+    "tts": "ala: Giravên Bakurê Marianan"
+  },
+  {
+    "cp": "🇲🇶",
+    "tts": "ala: Martînîk"
+  },
+  {
+    "cp": "🇲🇷",
+    "tts": "ala: Morîtanya"
+  },
+  {
+    "cp": "🇲🇸",
+    "tts": "ala: Montserat"
+  },
+  {
+    "cp": "🇲🇹",
+    "tts": "ala: Malta"
+  },
+  {
+    "cp": "🇲🇺",
+    "tts": "ala: Mauritius"
+  },
+  {
+    "cp": "🇲🇻",
+    "tts": "ala: Maldîv"
+  },
+  {
+    "cp": "🇲🇼",
+    "tts": "ala: Malawî"
+  },
+  {
+    "cp": "🇲🇽",
+    "tts": "ala: Meksîka"
+  },
+  {
+    "cp": "🇲🇾",
+    "tts": "ala: Malezya"
+  },
+  {
+    "cp": "🇲🇿",
+    "tts": "ala: Mozambîk"
+  },
+  {
+    "cp": "🇳🇦",
+    "tts": "ala: Namîbya"
+  },
+  {
+    "cp": "🇳🇨",
+    "tts": "ala: Kaledonyaya Nû"
+  },
+  {
+    "cp": "🇳🇪",
+    "tts": "ala: Nîjer"
+  },
+  {
+    "cp": "🇳🇫",
+    "tts": "ala: Girava Norfolkê"
+  },
+  {
+    "cp": "🇳🇬",
+    "tts": "ala: Nîjerya"
+  },
+  {
+    "cp": "🇳🇮",
+    "tts": "ala: Nîkaragua"
+  },
+  {
+    "cp": "🇳🇱",
+    "tts": "ala: Holanda"
+  },
+  {
+    "cp": "🇳🇴",
+    "tts": "ala: Norwec"
+  },
+  {
+    "cp": "🇳🇵",
+    "tts": "ala: Nepal"
+  },
+  {
+    "cp": "🇳🇷",
+    "tts": "ala: Naûrû"
+  },
+  {
+    "cp": "🇳🇺",
+    "tts": "ala: Niûe"
+  },
+  {
+    "cp": "🇳🇿",
+    "tts": "ala: Zelandaya Nû"
+  },
+  {
+    "cp": "🇴🇲",
+    "tts": "ala: Uman"
+  },
+  {
+    "cp": "🇵🇦",
+    "tts": "ala: Panama"
+  },
+  {
+    "cp": "🇵🇪",
+    "tts": "ala: Perû"
+  },
+  {
+    "cp": "🇵🇫",
+    "tts": "ala: Polînezyaya Fransizî"
+  },
+  {
+    "cp": "🇵🇬",
+    "tts": "ala: Papua Gîneya Nû"
+  },
+  {
+    "cp": "🇵🇭",
+    "tts": "ala: Fîlîpîn"
+  },
+  {
+    "cp": "🇵🇰",
+    "tts": "ala: Pakistan"
+  },
+  {
+    "cp": "🇵🇱",
+    "tts": "ala: Polonya"
+  },
+  {
+    "cp": "🇵🇲",
+    "tts": "ala: Saint-Pierre û Miquelon"
+  },
+  {
+    "cp": "🇵🇳",
+    "tts": "ala: Giravên Pitcairnê"
+  },
+  {
+    "cp": "🇵🇷",
+    "tts": "ala: Porto Rîko"
+  },
+  {
+    "cp": "🇵🇸",
+    "tts": "ala: Herêmên Filistînî"
+  },
+  {
+    "cp": "🇵🇹",
+    "tts": "ala: Portugal"
+  },
+  {
+    "cp": "🇵🇼",
+    "tts": "ala: Palau"
+  },
+  {
+    "cp": "🇵🇾",
+    "tts": "ala: Paragûay"
+  },
+  {
+    "cp": "🇶🇦",
+    "tts": "ala: Qeter"
+  },
+  {
+    "cp": "🇷🇪",
+    "tts": "ala: Réunion"
+  },
+  {
+    "cp": "🇷🇴",
+    "tts": "ala: Romanya"
+  },
+  {
+    "cp": "🇷🇸",
+    "tts": "ala: Sirbistan"
+  },
+  {
+    "cp": "🇷🇺",
+    "tts": "ala: Rûsya"
+  },
+  {
+    "cp": "🇷🇼",
+    "tts": "ala: Rwanda"
+  },
+  {
+    "cp": "🇸🇦",
+    "tts": "ala: Erebistana Siûdî"
+  },
+  {
+    "cp": "🇸🇧",
+    "tts": "ala: Giravên Solomonê"
+  },
+  {
+    "cp": "🇸🇨",
+    "tts": "ala: Seyşel"
+  },
+  {
+    "cp": "🇸🇩",
+    "tts": "ala: Sûdan"
+  },
+  {
+    "cp": "🇸🇪",
+    "tts": "ala: Swêd"
+  },
+  {
+    "cp": "🇸🇬",
+    "tts": "ala: Sîngapûr"
+  },
+  {
+    "cp": "🇸🇭",
+    "tts": "ala: Saint Helena"
+  },
+  {
+    "cp": "🇸🇮",
+    "tts": "ala: Slovenya"
+  },
+  {
+    "cp": "🇸🇯",
+    "tts": "ala: Svalbard û Jan Mayen"
+  },
+  {
+    "cp": "🇸🇰",
+    "tts": "ala: Slovakya"
+  },
+  {
+    "cp": "🇸🇱",
+    "tts": "ala: Sierra Leone"
+  },
+  {
+    "cp": "🇸🇲",
+    "tts": "ala: San Marîno"
+  },
+  {
+    "cp": "🇸🇳",
+    "tts": "ala: Senegal"
+  },
+  {
+    "cp": "🇸🇴",
+    "tts": "ala: Somalya"
+  },
+  {
+    "cp": "🇸🇷",
+    "tts": "ala: Surînam"
+  },
+  {
+    "cp": "🇸🇸",
+    "tts": "ala: Sûdana Başûr"
+  },
+  {
+    "cp": "🇸🇹",
+    "tts": "ala: Sao Tome û Prînsîpe"
+  },
+  {
+    "cp": "🇸🇻",
+    "tts": "ala: El Salvador"
+  },
+  {
+    "cp": "🇸🇽",
+    "tts": "ala: Sint Marteen"
+  },
+  {
+    "cp": "🇸🇾",
+    "tts": "ala: Sûrîye"
+  },
+  {
+    "cp": "🇸🇿",
+    "tts": "ala: Eswatînî"
+  },
+  {
+    "cp": "🇹🇦",
+    "tts": "ala: Tristan da Cunha"
+  },
+  {
+    "cp": "🇹🇨",
+    "tts": "ala: Giravên Turks û Kaîkosê"
+  },
+  {
+    "cp": "🇹🇩",
+    "tts": "ala: Çad"
+  },
+  {
+    "cp": "🇹🇫",
+    "tts": "ala: Herêmên Başûr ên Fransayê"
+  },
+  {
+    "cp": "🇹🇬",
+    "tts": "ala: Togo"
+  },
+  {
+    "cp": "🇹🇭",
+    "tts": "ala: Tayland"
+  },
+  {
+    "cp": "🇹🇯",
+    "tts": "ala: Tacikistan"
+  },
+  {
+    "cp": "🇹🇰",
+    "tts": "ala: Tokelau"
+  },
+  {
+    "cp": "🇹🇱",
+    "tts": "ala: Tîmor-Leste"
+  },
+  {
+    "cp": "🇹🇲",
+    "tts": "ala: Tirkmenistan"
+  },
+  {
+    "cp": "🇹🇳",
+    "tts": "ala: Tûnis"
+  },
+  {
+    "cp": "🇹🇴",
+    "tts": "ala: Tonga"
+  },
+  {
+    "cp": "🇹🇷",
+    "tts": "ala: Türkiye"
+  },
+  {
+    "cp": "🇹🇹",
+    "tts": "ala: Trînîdad û Tobago"
+  },
+  {
+    "cp": "🇹🇻",
+    "tts": "ala: Tûvalû"
+  },
+  {
+    "cp": "🇹🇼",
+    "tts": "ala: Taywan"
+  },
+  {
+    "cp": "🇹🇿",
+    "tts": "ala: Tanzanya"
+  },
+  {
+    "cp": "🇺🇦",
+    "tts": "ala: Ûkrayna"
+  },
+  {
+    "cp": "🇺🇬",
+    "tts": "ala: Ûganda"
+  },
+  {
+    "cp": "🇺🇲",
+    "tts": "ala: Giravên Biçûk ên Derveyî DAYê"
+  },
+  {
+    "cp": "🇺🇳",
+    "tts": "ala: Miletên Yekbûyî"
+  },
+  {
+    "cp": "🇺🇸",
+    "tts": "ala: Dewletên Amerîkayê yên Yekbûyî"
+  },
+  {
+    "cp": "🇺🇾",
+    "tts": "ala: Ûrûguay"
+  },
+  {
+    "cp": "🇺🇿",
+    "tts": "ala: Ozbekistan"
+  },
+  {
+    "cp": "🇻🇦",
+    "tts": "ala: Vatîkan"
+  },
+  {
+    "cp": "🇻🇨",
+    "tts": "ala: Saint Vincent û Giravên Grenadînê"
+  },
+  {
+    "cp": "🇻🇪",
+    "tts": "ala: Venezuela"
+  },
+  {
+    "cp": "🇻🇬",
+    "tts": "ala: Giravên Vîrjînê yên Brîtanyayê"
+  },
+  {
+    "cp": "🇻🇮",
+    "tts": "ala: Giravên Vîrjînê yên Amerîkayê"
+  },
+  {
+    "cp": "🇻🇳",
+    "tts": "ala: Vîetnam"
+  },
+  {
+    "cp": "🇻🇺",
+    "tts": "ala: Vanûatû"
+  },
+  {
+    "cp": "🇼🇫",
+    "tts": "ala: Wallis û Futuna"
+  },
+  {
+    "cp": "🇼🇸",
+    "tts": "ala: Samoa"
+  },
+  {
+    "cp": "🇽🇰",
+    "tts": "ala: Kosova"
+  },
+  {
+    "cp": "🇾🇪",
+    "tts": "ala: Yemen"
+  },
+  {
+    "cp": "🇾🇹",
+    "tts": "ala: Mayotte"
+  },
+  {
+    "cp": "🇿🇦",
+    "tts": "ala: Afrîkaya Başûr"
+  },
+  {
+    "cp": "🇿🇲",
+    "tts": "ala: Zambîya"
+  },
+  {
+    "cp": "🇿🇼",
+    "tts": "ala: Zîmbabwe"
+  },
+  {
+    "cp": "🍅",
+    "tts": "firengî"
+  },
+  {
+    "cp": "🍆",
+    "tts": "balîcan"
+  },
+  {
+    "cp": "🍇",
+    "tts": "tirî"
+  },
+  {
+    "cp": "🍉",
+    "tts": "zebeş"
+  },
+  {
+    "cp": "🍋",
+    "tts": "lîmon"
+  },
+  {
+    "cp": "🍌",
+    "tts": "mûz"
+  },
+  {
+    "cp": "🍎",
+    "tts": "sêva sor"
+  },
+  {
+    "cp": "🍏",
+    "tts": "sêva kesk"
+  },
+  {
+    "cp": "🍐",
+    "tts": "hirmî"
+  },
+  {
+    "cp": "🍑",
+    "tts": "xox"
+  },
+  {
+    "cp": "🍒",
+    "tts": "gêraz"
+  },
+  {
+    "cp": "🐁",
+    "tts": "mişk"
+  },
+  {
+    "cp": "🐂",
+    "tts": "ga"
+  },
+  {
+    "cp": "🐄",
+    "tts": "çêl"
+  },
+  {
+    "cp": "🐈",
+    "tts": "pisîk"
+  },
+  {
+    "cp": "🐍",
+    "tts": "mar"
+  },
+  {
+    "cp": "🐎",
+    "tts": "hesp"
+  },
+  {
+    "cp": "🐏",
+    "tts": "beran"
+  },
+  {
+    "cp": "🐐",
+    "tts": "bizin"
+  },
+  {
+    "cp": "🐑",
+    "tts": "mih"
+  },
+  {
+    "cp": "🐒",
+    "tts": "meymûn"
+  },
+  {
+    "cp": "🐓",
+    "tts": "dîk"
+  },
+  {
+    "cp": "🐔",
+    "tts": "mirîşk"
+  },
+  {
+    "cp": "🐕",
+    "tts": "kûçik"
+  },
+  {
+    "cp": "🐖",
+    "tts": "beraz"
+  },
+  {
+    "cp": "🐘",
+    "tts": "fîl"
+  },
+  {
+    "cp": "🐟",
+    "tts": "masî"
+  },
+  {
+    "cp": "🐢",
+    "tts": "kûsî"
+  },
+  {
+    "cp": "🐪",
+    "tts": "hêştir"
+  },
+  {
+    "cp": "🐵",
+    "tts": "rûyê meymûnê"
+  },
+  {
+    "cp": "🐶",
+    "tts": "rûyê kûçikê"
+  },
+  {
+    "cp": "🐸",
+    "tts": "beq"
+  },
+  {
+    "cp": "🐺",
+    "tts": "gur"
+  },
+  {
+    "cp": "🐻",
+    "tts": "hirç"
+  },
+  {
+    "cp": "🐼",
+    "tts": "panda"
+  },
+  {
+    "cp": "👧",
+    "tts": "keç"
+  },
+  {
+    "cp": "👨",
+    "tts": "mêr"
+  },
+  {
+    "cp": "👩",
+    "tts": "jin"
+  },
+  {
+    "cp": "🥑",
+    "tts": "avokado"
+  },
+  {
+    "cp": "🥔",
+    "tts": "kartol"
+  },
+  {
+    "cp": "🥥",
+    "tts": "giwêza hindê"
+  },
+  {
+    "cp": "🥭",
+    "tts": "mango"
+  },
+  {
+    "cp": "🦁",
+    "tts": "şêr"
+  },
+  {
+    "cp": "🦃",
+    "tts": "elok"
+  },
+  {
+    "cp": "🦊",
+    "tts": "rovî"
+  },
+  {
+    "cp": "🦍",
+    "tts": "gorîl"
+  },
+  {
+    "cp": "🦓",
+    "tts": "zebra"
+  },
+  {
+    "cp": "🦙",
+    "tts": "lama"
+  },
+  {
+    "cp": "🧑",
+    "tts": "kes"
+  },
+  {
+    "cp": "🧒",
+    "tts": "zarok"
+  },
+  {
+    "cp": "🫏",
+    "tts": "ker"
+  }
+]

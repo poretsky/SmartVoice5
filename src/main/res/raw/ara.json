@@ -1,0 +1,4 @@
+{
+    "name": "Arabic",
+    "alphabet": "\\p{InArabic}"
+}

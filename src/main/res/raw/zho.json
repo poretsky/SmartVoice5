@@ -1,0 +1,4 @@
+{
+    "name": "Chinese",
+    "alphabet": "\\p{InCJK_Unified_Ideographs}\\p{InCJK_Radicals_Supplement}\\p{InKangxi_Radicals}"
+}

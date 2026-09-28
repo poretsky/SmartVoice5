@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="languages" translatable="false">
+        <item>rus</item>
+        <item>bul</item>
+        <item>heb</item>
+        <item>ara</item>
+        <item>ell</item>
+        <item>jpn</item>
+        <item>zho</item>
+        <item>hin</item>
+        <item>ben</item>
+        <item>tam</item>
+        <item>tel</item>
+        <item>kan</item>
+        <item>mar</item>
+        <item>eng</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>fra</item>
+        <item>por</item>
+        <item>pol</item>
+        <item>hrv</item>
+        <item>tur</item>
+    </string-array>      
+
+    <string-array name="latinic_languages" translatable="false">
+        <item>eng</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>fra</item>
+        <item>por</item>
+        <item>pol</item>
+        <item>eus</item>
+        <item>cat</item>
+        <item>hrv</item>
+        <item>ces</item>
+        <item>dan</item>
+        <item>nld</item>
+        <item>fin</item>
+        <item>glg</item>
+        <item>hat</item>
+        <item>hun</item>
+        <item>isl</item>
+        <item>ind</item>
+        <item>gle</item>
+        <item>lit</item>
+        <item>nob</item>
+        <item>nno</item>
+        <item>ron</item>
+        <item>slk</item>
+        <item>slv</item>
+        <item>swe</item>
+        <item>tur</item>
+        <item>cym</item>
+        <item>msa</item>
+        <item>vie</item>
+    </string-array>
+
+    <string-array name="cyrillic_languages" translatable="false">
+        <item>rus</item>
+        <item>ukr</item>
+        <item>bul</item>
+    </string-array>
+
+    <string-array name="cjk_languages" translatable="false">
+        <item>jpn</item>
+        <item>zho</item>
+        <item>kor</item>
+    </string-array>
+
+    <string-array name="arabic_languages" translatable="false">
+        <item>ara</item>
+        <item>fas</item>
+    </string-array>
+
+</resources>

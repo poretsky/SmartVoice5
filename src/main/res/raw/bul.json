@@ -1,0 +1,5 @@
+{
+    "name": "Bulgarian",
+    "alphabet": "а-я",
+    "patterns": [ "ъ[б-джзк-нп-тф-щ]" ]
+}

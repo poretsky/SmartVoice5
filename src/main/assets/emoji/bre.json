@@ -1,0 +1,5734 @@
+[
+  {
+    "cp": "$",
+    "tts": "dollar"
+  },
+  {
+    "cp": "£",
+    "tts": "lur"
+  },
+  {
+    "cp": "¤",
+    "tts": "moneiz dianav"
+  },
+  {
+    "cp": "¥",
+    "tts": "yen"
+  },
+  {
+    "cp": "©",
+    "tts": "copyright"
+  },
+  {
+    "cp": "®",
+    "tts": "merk marilhet"
+  },
+  {
+    "cp": "°",
+    "tts": "derez"
+  },
+  {
+    "cp": "×",
+    "tts": "arouezenn liesaat"
+  },
+  {
+    "cp": "÷",
+    "tts": "arouezenn rannañ"
+  },
+  {
+    "cp": "֏",
+    "tts": "dram Armenia"
+  },
+  {
+    "cp": "؋",
+    "tts": "afghani Afghanistan"
+  },
+  {
+    "cp": "৳",
+    "tts": "taka Bangladesh"
+  },
+  {
+    "cp": "฿",
+    "tts": "baht Thailand"
+  },
+  {
+    "cp": "៛",
+    "tts": "riel Kambodja"
+  },
+  {
+    "cp": "₡",
+    "tts": "colón Costa Rica"
+  },
+  {
+    "cp": "₦",
+    "tts": "naira Nigeria"
+  },
+  {
+    "cp": "₧",
+    "tts": "peseta Spagn"
+  },
+  {
+    "cp": "₩",
+    "tts": "won"
+  },
+  {
+    "cp": "₪",
+    "tts": "shekel nevez Israel"
+  },
+  {
+    "cp": "₫",
+    "tts": "dong Viêt Nam"
+  },
+  {
+    "cp": "€",
+    "tts": "euro"
+  },
+  {
+    "cp": "₭",
+    "tts": "kip Laos"
+  },
+  {
+    "cp": "₮",
+    "tts": "tugrik Mongolia"
+  },
+  {
+    "cp": "₱",
+    "tts": "peso"
+  },
+  {
+    "cp": "₲",
+    "tts": "guarani Paraguay"
+  },
+  {
+    "cp": "₴",
+    "tts": "hryvnia Ukraina"
+  },
+  {
+    "cp": "₵",
+    "tts": "cedi Ghana"
+  },
+  {
+    "cp": "₸",
+    "tts": "tenge Kazakstan"
+  },
+  {
+    "cp": "₹",
+    "tts": "roupi"
+  },
+  {
+    "cp": "₺",
+    "tts": "lur Turkia"
+  },
+  {
+    "cp": "₼",
+    "tts": "manat Azerbaidjan"
+  },
+  {
+    "cp": "₽",
+    "tts": "roubl"
+  },
+  {
+    "cp": "₾",
+    "tts": "lari Jorjia"
+  },
+  {
+    "cp": "∇",
+    "tts": "nabla"
+  },
+  {
+    "cp": "√",
+    "tts": "gwrizienn garrez"
+  },
+  {
+    "cp": "∞",
+    "tts": "arouezenn anfin"
+  },
+  {
+    "cp": "⌚",
+    "tts": "montr"
+  },
+  {
+    "cp": "⌛",
+    "tts": "eurier-traezh"
+  },
+  {
+    "cp": "⌨",
+    "tts": "klavier"
+  },
+  {
+    "cp": "⏰",
+    "tts": "dihuner"
+  },
+  {
+    "cp": "⏱",
+    "tts": "kronometr"
+  },
+  {
+    "cp": "⏲",
+    "tts": "horolaj"
+  },
+  {
+    "cp": "▪",
+    "tts": "karrez bihan du"
+  },
+  {
+    "cp": "▫",
+    "tts": "karrez bihan gwenn"
+  },
+  {
+    "cp": "▶",
+    "tts": "bouton lenn"
+  },
+  {
+    "cp": "◊",
+    "tts": "romb"
+  },
+  {
+    "cp": "○",
+    "tts": "kelcʼh goullo"
+  },
+  {
+    "cp": "●",
+    "tts": "kelcʼh leun"
+  },
+  {
+    "cp": "◯",
+    "tts": "kelcʼh ledan goullo"
+  },
+  {
+    "cp": "◻",
+    "tts": "karrez etre gwenn"
+  },
+  {
+    "cp": "◼",
+    "tts": "karrez etre du"
+  },
+  {
+    "cp": "☀",
+    "tts": "heol"
+  },
+  {
+    "cp": "☁",
+    "tts": "koumoulenn"
+  },
+  {
+    "cp": "☂",
+    "tts": "disglavier"
+  },
+  {
+    "cp": "☃",
+    "tts": "boulom ercʼh gant ercʼh"
+  },
+  {
+    "cp": "☄",
+    "tts": "kometenn"
+  },
+  {
+    "cp": "☎",
+    "tts": "pellgomzer"
+  },
+  {
+    "cp": "☑",
+    "tts": "log asket"
+  },
+  {
+    "cp": "☔",
+    "tts": "disglavier gant glav"
+  },
+  {
+    "cp": "☕",
+    "tts": "evaj tomm"
+  },
+  {
+    "cp": "☘",
+    "tts": "melchon"
+  },
+  {
+    "cp": "☢",
+    "tts": "skinoberiek"
+  },
+  {
+    "cp": "☣",
+    "tts": "riskl bevoniel"
+  },
+  {
+    "cp": "☦",
+    "tts": "kroaz ortodoks"
+  },
+  {
+    "cp": "☪",
+    "tts": "steredenn ha kreskenn"
+  },
+  {
+    "cp": "☮",
+    "tts": "arouez ar peocʼh"
+  },
+  {
+    "cp": "☯",
+    "tts": "yin yang"
+  },
+  {
+    "cp": "☸",
+    "tts": "rod an dharma"
+  },
+  {
+    "cp": "♀",
+    "tts": "arouez ar mercʼhed"
+  },
+  {
+    "cp": "♂",
+    "tts": "arouez ar paotred"
+  },
+  {
+    "cp": "♈",
+    "tts": "an Tourz"
+  },
+  {
+    "cp": "♉",
+    "tts": "an Tarv"
+  },
+  {
+    "cp": "♊",
+    "tts": "ar Gevelled"
+  },
+  {
+    "cp": "♋",
+    "tts": "ar Cʼhrank"
+  },
+  {
+    "cp": "♌",
+    "tts": "al Leon"
+  },
+  {
+    "cp": "♍",
+    "tts": "ar Wercʼhez"
+  },
+  {
+    "cp": "♎",
+    "tts": "ar Balañsoù"
+  },
+  {
+    "cp": "♏",
+    "tts": "ar Grug"
+  },
+  {
+    "cp": "♐",
+    "tts": "ar Saezhataer"
+  },
+  {
+    "cp": "♑",
+    "tts": "ar Cʼhavr"
+  },
+  {
+    "cp": "♒",
+    "tts": "ar Skuilher-dour"
+  },
+  {
+    "cp": "♓",
+    "tts": "ar Pesked"
+  },
+  {
+    "cp": "♟",
+    "tts": "pezh echedoù"
+  },
+  {
+    "cp": "♠",
+    "tts": "pikez"
+  },
+  {
+    "cp": "♣",
+    "tts": "treflez"
+  },
+  {
+    "cp": "♥",
+    "tts": "keur"
+  },
+  {
+    "cp": "♦",
+    "tts": "karo"
+  },
+  {
+    "cp": "♨",
+    "tts": "andon tomm"
+  },
+  {
+    "cp": "♻",
+    "tts": "arouez adaozañ"
+  },
+  {
+    "cp": "♾",
+    "tts": "anfin"
+  },
+  {
+    "cp": "♿",
+    "tts": "arouez kador-ruilh"
+  },
+  {
+    "cp": "⚒",
+    "tts": "morzhol ha pig"
+  },
+  {
+    "cp": "⚓",
+    "tts": "eor"
+  },
+  {
+    "cp": "⚔",
+    "tts": "klezeier kroaziet"
+  },
+  {
+    "cp": "⚕",
+    "tts": "naerwialenn"
+  },
+  {
+    "cp": "⚖",
+    "tts": "balañs"
+  },
+  {
+    "cp": "⚗",
+    "tts": "lambig"
+  },
+  {
+    "cp": "⚙",
+    "tts": "rod dantek"
+  },
+  {
+    "cp": "⚛",
+    "tts": "arouez an atom"
+  },
+  {
+    "cp": "⚜",
+    "tts": "flourdiliz"
+  },
+  {
+    "cp": "⚠",
+    "tts": "diwall"
+  },
+  {
+    "cp": "⚡",
+    "tts": "tredanvarr uhel"
+  },
+  {
+    "cp": "⚧",
+    "tts": "arouez treuzjener"
+  },
+  {
+    "cp": "⚰",
+    "tts": "charke"
+  },
+  {
+    "cp": "⚱",
+    "tts": "jarl-kañv"
+  },
+  {
+    "cp": "⚽",
+    "tts": "mell fobal"
+  },
+  {
+    "cp": "⚾",
+    "tts": "baseball"
+  },
+  {
+    "cp": "⛄",
+    "tts": "boulom ercʼh hep ercʼh"
+  },
+  {
+    "cp": "⛅",
+    "tts": "heol a-dreñv dʼar cʼhoumoul"
+  },
+  {
+    "cp": "⛈",
+    "tts": "koumoulenn gant lucʼhedenn ha glav"
+  },
+  {
+    "cp": "⛎",
+    "tts": "Naeretaer"
+  },
+  {
+    "cp": "⛏",
+    "tts": "pigell"
+  },
+  {
+    "cp": "⛑",
+    "tts": "tokarn sikourer"
+  },
+  {
+    "cp": "⛓",
+    "tts": "chadennoù"
+  },
+  {
+    "cp": "⛔",
+    "tts": "tu berzet"
+  },
+  {
+    "cp": "⛩",
+    "tts": "santual shinto"
+  },
+  {
+    "cp": "⛪",
+    "tts": "iliz"
+  },
+  {
+    "cp": "⛰",
+    "tts": "menez"
+  },
+  {
+    "cp": "⛱",
+    "tts": "disheolier"
+  },
+  {
+    "cp": "⛲",
+    "tts": "feunteun"
+  },
+  {
+    "cp": "⛳",
+    "tts": "bannielig golf"
+  },
+  {
+    "cp": "⛴",
+    "tts": "lestr-treizh"
+  },
+  {
+    "cp": "⛵",
+    "tts": "gouelier"
+  },
+  {
+    "cp": "⛸",
+    "tts": "botez-ruzikat"
+  },
+  {
+    "cp": "⛺",
+    "tts": "teltenn"
+  },
+  {
+    "cp": "⛽",
+    "tts": "plomenn strilheoul"
+  },
+  {
+    "cp": "✂",
+    "tts": "sizailhoù"
+  },
+  {
+    "cp": "✅",
+    "tts": "bouton askañ"
+  },
+  {
+    "cp": "✈",
+    "tts": "karr-nij"
+  },
+  {
+    "cp": "✉",
+    "tts": "golo-lizher"
+  },
+  {
+    "cp": "✏",
+    "tts": "kreion"
+  },
+  {
+    "cp": "✒",
+    "tts": "stilo pluenn du"
+  },
+  {
+    "cp": "✔",
+    "tts": "ask"
+  },
+  {
+    "cp": "✖",
+    "tts": "liesaat"
+  },
+  {
+    "cp": "✝",
+    "tts": "kroaz latin"
+  },
+  {
+    "cp": "✡",
+    "tts": "steredenn David"
+  },
+  {
+    "cp": "✨",
+    "tts": "fulennoù"
+  },
+  {
+    "cp": "✳",
+    "tts": "steredennig eizh brecʼh"
+  },
+  {
+    "cp": "✴",
+    "tts": "steredenn eizh brecʼh"
+  },
+  {
+    "cp": "❄",
+    "tts": "malzenn ercʼh"
+  },
+  {
+    "cp": "❇",
+    "tts": "strinkad"
+  },
+  {
+    "cp": "❌",
+    "tts": "kroaz"
+  },
+  {
+    "cp": "❎",
+    "tts": "bouton kroaz"
+  },
+  {
+    "cp": "❓",
+    "tts": "pik-goulenn ruz"
+  },
+  {
+    "cp": "❔",
+    "tts": "pik-goulenn gwenn"
+  },
+  {
+    "cp": "❕",
+    "tts": "pik-estlamm gwenn"
+  },
+  {
+    "cp": "❗",
+    "tts": "pik-estlamm ruz"
+  },
+  {
+    "cp": "❤",
+    "tts": "kalon ruz"
+  },
+  {
+    "cp": "➕",
+    "tts": "mui"
+  },
+  {
+    "cp": "➖",
+    "tts": "nemet"
+  },
+  {
+    "cp": "➗",
+    "tts": "rannañ"
+  },
+  {
+    "cp": "➰",
+    "tts": "boukl"
+  },
+  {
+    "cp": "➿",
+    "tts": "boukl doubl"
+  },
+  {
+    "cp": "⬛",
+    "tts": "karrez bras du"
+  },
+  {
+    "cp": "⬜",
+    "tts": "karrez bras gwenn"
+  },
+  {
+    "cp": "⭐",
+    "tts": "steredenn"
+  },
+  {
+    "cp": "⭕",
+    "tts": "kelcʼh ruz"
+  },
+  {
+    "cp": "🃏",
+    "tts": "joker"
+  },
+  {
+    "cp": "🅰",
+    "tts": "bouton A (rumm-gwad)"
+  },
+  {
+    "cp": "🅱",
+    "tts": "bouton B (rumm-gwad)"
+  },
+  {
+    "cp": "🅾",
+    "tts": "bouton O (rumm-gwad)"
+  },
+  {
+    "cp": "🅿",
+    "tts": "bouton P"
+  },
+  {
+    "cp": "🆎",
+    "tts": "bouton AB (rumm-gwad)"
+  },
+  {
+    "cp": "🆑",
+    "tts": "bouton Diverkañ"
+  },
+  {
+    "cp": "🆒",
+    "tts": "bouton Cool"
+  },
+  {
+    "cp": "🆓",
+    "tts": "bouton Digoust"
+  },
+  {
+    "cp": "🆔",
+    "tts": "bouton Anaouder"
+  },
+  {
+    "cp": "🆕",
+    "tts": "bouton Nevez"
+  },
+  {
+    "cp": "🆗",
+    "tts": "bouton OK"
+  },
+  {
+    "cp": "🆘",
+    "tts": "bouton SOS"
+  },
+  {
+    "cp": "🆚",
+    "tts": "bouton VS"
+  },
+  {
+    "cp": "🇦🇨",
+    "tts": "banniel : Enez Ascension"
+  },
+  {
+    "cp": "🇦🇩",
+    "tts": "banniel : Andorra"
+  },
+  {
+    "cp": "🇦🇪",
+    "tts": "banniel : Emirelezhioù-Arab-Unanet"
+  },
+  {
+    "cp": "🇦🇫",
+    "tts": "banniel : Afghanistan"
+  },
+  {
+    "cp": "🇦🇬",
+    "tts": "banniel : Antigua-ha-Barbuda"
+  },
+  {
+    "cp": "🇦🇮",
+    "tts": "banniel : Anguilla"
+  },
+  {
+    "cp": "🇦🇱",
+    "tts": "banniel : Albania"
+  },
+  {
+    "cp": "🇦🇲",
+    "tts": "banniel : Armenia"
+  },
+  {
+    "cp": "🇦🇴",
+    "tts": "banniel : Angola"
+  },
+  {
+    "cp": "🇦🇶",
+    "tts": "banniel : Antarktika"
+  },
+  {
+    "cp": "🇦🇷",
+    "tts": "banniel : Arcʼhantina"
+  },
+  {
+    "cp": "🇦🇸",
+    "tts": "banniel : Samoa Amerikan"
+  },
+  {
+    "cp": "🇦🇹",
+    "tts": "banniel : Aostria"
+  },
+  {
+    "cp": "🇦🇺",
+    "tts": "banniel : Aostralia"
+  },
+  {
+    "cp": "🇦🇼",
+    "tts": "banniel : Aruba"
+  },
+  {
+    "cp": "🇦🇽",
+    "tts": "banniel : Inizi Åland"
+  },
+  {
+    "cp": "🇦🇿",
+    "tts": "banniel : Azerbaidjan"
+  },
+  {
+    "cp": "🇧🇦",
+    "tts": "banniel : Bosnia-ha-Herzegovina"
+  },
+  {
+    "cp": "🇧🇧",
+    "tts": "banniel : Barbados"
+  },
+  {
+    "cp": "🇧🇩",
+    "tts": "banniel : Bangladesh"
+  },
+  {
+    "cp": "🇧🇪",
+    "tts": "banniel : Belgia"
+  },
+  {
+    "cp": "🇧🇫",
+    "tts": "banniel : Burkina Faso"
+  },
+  {
+    "cp": "🇧🇬",
+    "tts": "banniel : Bulgaria"
+  },
+  {
+    "cp": "🇧🇭",
+    "tts": "banniel : Bahrein"
+  },
+  {
+    "cp": "🇧🇮",
+    "tts": "banniel : Burundi"
+  },
+  {
+    "cp": "🇧🇯",
+    "tts": "banniel : Benin"
+  },
+  {
+    "cp": "🇧🇱",
+    "tts": "banniel : Sant-Bertele"
+  },
+  {
+    "cp": "🇧🇲",
+    "tts": "banniel : Bermudez"
+  },
+  {
+    "cp": "🇧🇳",
+    "tts": "banniel : Brunei"
+  },
+  {
+    "cp": "🇧🇴",
+    "tts": "banniel : Bolivia"
+  },
+  {
+    "cp": "🇧🇶",
+    "tts": "banniel : Karib Nederlandat"
+  },
+  {
+    "cp": "🇧🇷",
+    "tts": "banniel : Brazil"
+  },
+  {
+    "cp": "🇧🇸",
+    "tts": "banniel : Bahamas"
+  },
+  {
+    "cp": "🇧🇹",
+    "tts": "banniel : Bhoutan"
+  },
+  {
+    "cp": "🇧🇻",
+    "tts": "banniel : Enez Bouvet"
+  },
+  {
+    "cp": "🇧🇼",
+    "tts": "banniel : Botswana"
+  },
+  {
+    "cp": "🇧🇾",
+    "tts": "banniel : Belarus"
+  },
+  {
+    "cp": "🇧🇿",
+    "tts": "banniel : Belize"
+  },
+  {
+    "cp": "🇨🇦",
+    "tts": "banniel : Kanada"
+  },
+  {
+    "cp": "🇨🇨",
+    "tts": "banniel : Inizi Kokoz"
+  },
+  {
+    "cp": "🇨🇩",
+    "tts": "banniel : Kongo - Kinshasa"
+  },
+  {
+    "cp": "🇨🇫",
+    "tts": "banniel : Republik Kreizafrikan"
+  },
+  {
+    "cp": "🇨🇬",
+    "tts": "banniel : Kongo - Brazzaville"
+  },
+  {
+    "cp": "🇨🇭",
+    "tts": "banniel : Suis"
+  },
+  {
+    "cp": "🇨🇮",
+    "tts": "banniel : Aod-an-Olifant"
+  },
+  {
+    "cp": "🇨🇰",
+    "tts": "banniel : Inizi Cook"
+  },
+  {
+    "cp": "🇨🇱",
+    "tts": "banniel : Chile"
+  },
+  {
+    "cp": "🇨🇲",
+    "tts": "banniel : Kameroun"
+  },
+  {
+    "cp": "🇨🇳",
+    "tts": "banniel : Sina"
+  },
+  {
+    "cp": "🇨🇴",
+    "tts": "banniel : Kolombia"
+  },
+  {
+    "cp": "🇨🇵",
+    "tts": "banniel : Enez Clipperton"
+  },
+  {
+    "cp": "🇨🇶",
+    "tts": "banniel : Sark"
+  },
+  {
+    "cp": "🇨🇷",
+    "tts": "banniel : Costa Rica"
+  },
+  {
+    "cp": "🇨🇺",
+    "tts": "banniel : Kuba"
+  },
+  {
+    "cp": "🇨🇻",
+    "tts": "banniel : Kab-Glas"
+  },
+  {
+    "cp": "🇨🇼",
+    "tts": "banniel : Curaçao"
+  },
+  {
+    "cp": "🇨🇽",
+    "tts": "banniel : Enez Christmas"
+  },
+  {
+    "cp": "🇨🇾",
+    "tts": "banniel : Kiprenez"
+  },
+  {
+    "cp": "🇨🇿",
+    "tts": "banniel : Tchekia"
+  },
+  {
+    "cp": "🇩🇪",
+    "tts": "banniel : Alamagn"
+  },
+  {
+    "cp": "🇩🇬",
+    "tts": "banniel : Diego Garcia"
+  },
+  {
+    "cp": "🇩🇯",
+    "tts": "banniel : Djibouti"
+  },
+  {
+    "cp": "🇩🇰",
+    "tts": "banniel : Danmark"
+  },
+  {
+    "cp": "🇩🇲",
+    "tts": "banniel : Dominica"
+  },
+  {
+    "cp": "🇩🇴",
+    "tts": "banniel : Republik Dominikan"
+  },
+  {
+    "cp": "🇩🇿",
+    "tts": "banniel : Aljeria"
+  },
+  {
+    "cp": "🇪🇦",
+    "tts": "banniel : Ceuta ha Melilla"
+  },
+  {
+    "cp": "🇪🇨",
+    "tts": "banniel : Ecuador"
+  },
+  {
+    "cp": "🇪🇪",
+    "tts": "banniel : Estonia"
+  },
+  {
+    "cp": "🇪🇬",
+    "tts": "banniel : Egipt"
+  },
+  {
+    "cp": "🇪🇭",
+    "tts": "banniel : Sahara ar Cʼhornôg"
+  },
+  {
+    "cp": "🇪🇷",
+    "tts": "banniel : Eritrea"
+  },
+  {
+    "cp": "🇪🇸",
+    "tts": "banniel : Spagn"
+  },
+  {
+    "cp": "🇪🇹",
+    "tts": "banniel : Etiopia"
+  },
+  {
+    "cp": "🇪🇺",
+    "tts": "banniel : Unaniezh Europa"
+  },
+  {
+    "cp": "🇫🇮",
+    "tts": "banniel : Finland"
+  },
+  {
+    "cp": "🇫🇯",
+    "tts": "banniel : Fidji"
+  },
+  {
+    "cp": "🇫🇰",
+    "tts": "banniel : Inizi Falkland"
+  },
+  {
+    "cp": "🇫🇲",
+    "tts": "banniel : Mikronezia"
+  },
+  {
+    "cp": "🇫🇴",
+    "tts": "banniel : Inizi Faero"
+  },
+  {
+    "cp": "🇫🇷",
+    "tts": "banniel : Frañs"
+  },
+  {
+    "cp": "🇬🇦",
+    "tts": "banniel : Gabon"
+  },
+  {
+    "cp": "🇬🇧",
+    "tts": "banniel : Rouantelezh-Unanet"
+  },
+  {
+    "cp": "🇬🇩",
+    "tts": "banniel : Grenada"
+  },
+  {
+    "cp": "🇬🇪",
+    "tts": "banniel : Jorjia"
+  },
+  {
+    "cp": "🇬🇫",
+    "tts": "banniel : Gwiana cʼhall"
+  },
+  {
+    "cp": "🇬🇬",
+    "tts": "banniel : Gwernenez"
+  },
+  {
+    "cp": "🇬🇭",
+    "tts": "banniel : Ghana"
+  },
+  {
+    "cp": "🇬🇮",
+    "tts": "banniel : Jibraltar"
+  },
+  {
+    "cp": "🇬🇱",
+    "tts": "banniel : Greunland"
+  },
+  {
+    "cp": "🇬🇲",
+    "tts": "banniel : Gambia"
+  },
+  {
+    "cp": "🇬🇳",
+    "tts": "banniel : Ginea"
+  },
+  {
+    "cp": "🇬🇵",
+    "tts": "banniel : Gwadeloup"
+  },
+  {
+    "cp": "🇬🇶",
+    "tts": "banniel : Ginea-ar-Cʼheheder"
+  },
+  {
+    "cp": "🇬🇷",
+    "tts": "banniel : Gres"
+  },
+  {
+    "cp": "🇬🇸",
+    "tts": "banniel : Inizi Georgia ar Su hag Inizi Sandwich ar Su"
+  },
+  {
+    "cp": "🇬🇹",
+    "tts": "banniel : Guatemala"
+  },
+  {
+    "cp": "🇬🇺",
+    "tts": "banniel : Guam"
+  },
+  {
+    "cp": "🇬🇼",
+    "tts": "banniel : Ginea-Bissau"
+  },
+  {
+    "cp": "🇬🇾",
+    "tts": "banniel : Guyana"
+  },
+  {
+    "cp": "🇭🇰",
+    "tts": "banniel : Hong Kong RMD Sina"
+  },
+  {
+    "cp": "🇭🇲",
+    "tts": "banniel : Inizi Heard-ha-McDonald"
+  },
+  {
+    "cp": "🇭🇳",
+    "tts": "banniel : Honduras"
+  },
+  {
+    "cp": "🇭🇷",
+    "tts": "banniel : Kroatia"
+  },
+  {
+    "cp": "🇭🇹",
+    "tts": "banniel : Haiti"
+  },
+  {
+    "cp": "🇭🇺",
+    "tts": "banniel : Hungaria"
+  },
+  {
+    "cp": "🇮🇨",
+    "tts": "banniel : Inizi Kanariez"
+  },
+  {
+    "cp": "🇮🇩",
+    "tts": "banniel : Indonezia"
+  },
+  {
+    "cp": "🇮🇪",
+    "tts": "banniel : Iwerzhon"
+  },
+  {
+    "cp": "🇮🇱",
+    "tts": "banniel : Israel"
+  },
+  {
+    "cp": "🇮🇲",
+    "tts": "banniel : Enez-Vanav"
+  },
+  {
+    "cp": "🇮🇳",
+    "tts": "banniel : India"
+  },
+  {
+    "cp": "🇮🇴",
+    "tts": "banniel : Tiriad breizhveurat Meurvor Indez"
+  },
+  {
+    "cp": "🇮🇶",
+    "tts": "banniel : Iraq"
+  },
+  {
+    "cp": "🇮🇷",
+    "tts": "banniel : Iran"
+  },
+  {
+    "cp": "🇮🇸",
+    "tts": "banniel : Island"
+  },
+  {
+    "cp": "🇮🇹",
+    "tts": "banniel : Italia"
+  },
+  {
+    "cp": "🇯🇪",
+    "tts": "banniel : Jerzenez"
+  },
+  {
+    "cp": "🇯🇲",
+    "tts": "banniel : Jamaika"
+  },
+  {
+    "cp": "🇯🇴",
+    "tts": "banniel : Jordania"
+  },
+  {
+    "cp": "🇯🇵",
+    "tts": "banniel : Japan"
+  },
+  {
+    "cp": "🇰🇪",
+    "tts": "banniel : Kenya"
+  },
+  {
+    "cp": "🇰🇬",
+    "tts": "banniel : Kyrgyzstan"
+  },
+  {
+    "cp": "🇰🇭",
+    "tts": "banniel : Kambodja"
+  },
+  {
+    "cp": "🇰🇮",
+    "tts": "banniel : Kiribati"
+  },
+  {
+    "cp": "🇰🇲",
+    "tts": "banniel : Komorez"
+  },
+  {
+    "cp": "🇰🇳",
+    "tts": "banniel : Saint Kitts-ha-Nevis"
+  },
+  {
+    "cp": "🇰🇵",
+    "tts": "banniel : Norzhkorea"
+  },
+  {
+    "cp": "🇰🇷",
+    "tts": "banniel : Sukorea"
+  },
+  {
+    "cp": "🇰🇼",
+    "tts": "banniel : Koweit"
+  },
+  {
+    "cp": "🇰🇾",
+    "tts": "banniel : Inizi Cayman"
+  },
+  {
+    "cp": "🇰🇿",
+    "tts": "banniel : Kazakstan"
+  },
+  {
+    "cp": "🇱🇦",
+    "tts": "banniel : Laos"
+  },
+  {
+    "cp": "🇱🇧",
+    "tts": "banniel : Liban"
+  },
+  {
+    "cp": "🇱🇨",
+    "tts": "banniel : Saint Lucia"
+  },
+  {
+    "cp": "🇱🇮",
+    "tts": "banniel : Liechtenstein"
+  },
+  {
+    "cp": "🇱🇰",
+    "tts": "banniel : Sri Lanka"
+  },
+  {
+    "cp": "🇱🇷",
+    "tts": "banniel : Liberia"
+  },
+  {
+    "cp": "🇱🇸",
+    "tts": "banniel : Lesotho"
+  },
+  {
+    "cp": "🇱🇹",
+    "tts": "banniel : Lituania"
+  },
+  {
+    "cp": "🇱🇺",
+    "tts": "banniel : Luksembourg"
+  },
+  {
+    "cp": "🇱🇻",
+    "tts": "banniel : Latvia"
+  },
+  {
+    "cp": "🇱🇾",
+    "tts": "banniel : Libia"
+  },
+  {
+    "cp": "🇲🇦",
+    "tts": "banniel : Maroko"
+  },
+  {
+    "cp": "🇲🇨",
+    "tts": "banniel : Monaco"
+  },
+  {
+    "cp": "🇲🇩",
+    "tts": "banniel : Moldova"
+  },
+  {
+    "cp": "🇲🇪",
+    "tts": "banniel : Montenegro"
+  },
+  {
+    "cp": "🇲🇫",
+    "tts": "banniel : Sant-Martin"
+  },
+  {
+    "cp": "🇲🇬",
+    "tts": "banniel : Madagaskar"
+  },
+  {
+    "cp": "🇲🇭",
+    "tts": "banniel : Inizi Marshall"
+  },
+  {
+    "cp": "🇲🇰",
+    "tts": "banniel : Makedonia an Norzh"
+  },
+  {
+    "cp": "🇲🇱",
+    "tts": "banniel : Mali"
+  },
+  {
+    "cp": "🇲🇲",
+    "tts": "banniel : Myanmar (Birmania)"
+  },
+  {
+    "cp": "🇲🇳",
+    "tts": "banniel : Mongolia"
+  },
+  {
+    "cp": "🇲🇴",
+    "tts": "banniel : Makao RMD Sina"
+  },
+  {
+    "cp": "🇲🇵",
+    "tts": "banniel : Inizi Mariana an Norzh"
+  },
+  {
+    "cp": "🇲🇶",
+    "tts": "banniel : Martinik"
+  },
+  {
+    "cp": "🇲🇷",
+    "tts": "banniel : Maouritania"
+  },
+  {
+    "cp": "🇲🇸",
+    "tts": "banniel : Montserrat"
+  },
+  {
+    "cp": "🇲🇹",
+    "tts": "banniel : Malta"
+  },
+  {
+    "cp": "🇲🇺",
+    "tts": "banniel : Moris"
+  },
+  {
+    "cp": "🇲🇻",
+    "tts": "banniel : Maldivez"
+  },
+  {
+    "cp": "🇲🇼",
+    "tts": "banniel : Malawi"
+  },
+  {
+    "cp": "🇲🇽",
+    "tts": "banniel : Mecʼhiko"
+  },
+  {
+    "cp": "🇲🇾",
+    "tts": "banniel : Malaysia"
+  },
+  {
+    "cp": "🇲🇿",
+    "tts": "banniel : Mozambik"
+  },
+  {
+    "cp": "🇳🇦",
+    "tts": "banniel : Namibia"
+  },
+  {
+    "cp": "🇳🇨",
+    "tts": "banniel : Kaledonia-Nevez"
+  },
+  {
+    "cp": "🇳🇪",
+    "tts": "banniel : Niger"
+  },
+  {
+    "cp": "🇳🇫",
+    "tts": "banniel : Enez Norfolk"
+  },
+  {
+    "cp": "🇳🇬",
+    "tts": "banniel : Nigeria"
+  },
+  {
+    "cp": "🇳🇮",
+    "tts": "banniel : Nicaragua"
+  },
+  {
+    "cp": "🇳🇱",
+    "tts": "banniel : Izelvroioù"
+  },
+  {
+    "cp": "🇳🇴",
+    "tts": "banniel : Norvegia"
+  },
+  {
+    "cp": "🇳🇵",
+    "tts": "banniel : Nepal"
+  },
+  {
+    "cp": "🇳🇷",
+    "tts": "banniel : Nauru"
+  },
+  {
+    "cp": "🇳🇺",
+    "tts": "banniel : Niue"
+  },
+  {
+    "cp": "🇳🇿",
+    "tts": "banniel : Zeland-Nevez"
+  },
+  {
+    "cp": "🇴🇲",
+    "tts": "banniel : Oman"
+  },
+  {
+    "cp": "🇵🇦",
+    "tts": "banniel : Panamá"
+  },
+  {
+    "cp": "🇵🇪",
+    "tts": "banniel : Perou"
+  },
+  {
+    "cp": "🇵🇫",
+    "tts": "banniel : Polinezia Cʼhall"
+  },
+  {
+    "cp": "🇵🇬",
+    "tts": "banniel : Papoua Ginea-Nevez"
+  },
+  {
+    "cp": "🇵🇭",
+    "tts": "banniel : Filipinez"
+  },
+  {
+    "cp": "🇵🇰",
+    "tts": "banniel : Pakistan"
+  },
+  {
+    "cp": "🇵🇱",
+    "tts": "banniel : Polonia"
+  },
+  {
+    "cp": "🇵🇲",
+    "tts": "banniel : Sant-Pêr-ha-Mikelon"
+  },
+  {
+    "cp": "🇵🇳",
+    "tts": "banniel : Enez Pitcairn"
+  },
+  {
+    "cp": "🇵🇷",
+    "tts": "banniel : Puerto Rico"
+  },
+  {
+    "cp": "🇵🇸",
+    "tts": "banniel : Tiriadoù Palestina"
+  },
+  {
+    "cp": "🇵🇹",
+    "tts": "banniel : Portugal"
+  },
+  {
+    "cp": "🇵🇼",
+    "tts": "banniel : Palau"
+  },
+  {
+    "cp": "🇵🇾",
+    "tts": "banniel : Paraguay"
+  },
+  {
+    "cp": "🇶🇦",
+    "tts": "banniel : Qatar"
+  },
+  {
+    "cp": "🇷🇪",
+    "tts": "banniel : Ar Reünion"
+  },
+  {
+    "cp": "🇷🇴",
+    "tts": "banniel : Roumania"
+  },
+  {
+    "cp": "🇷🇸",
+    "tts": "banniel : Serbia"
+  },
+  {
+    "cp": "🇷🇺",
+    "tts": "banniel : Rusia"
+  },
+  {
+    "cp": "🇷🇼",
+    "tts": "banniel : Rwanda"
+  },
+  {
+    "cp": "🇸🇦",
+    "tts": "banniel : Arabia Saoudat"
+  },
+  {
+    "cp": "🇸🇧",
+    "tts": "banniel : Inizi Salomon"
+  },
+  {
+    "cp": "🇸🇨",
+    "tts": "banniel : Sechelez"
+  },
+  {
+    "cp": "🇸🇩",
+    "tts": "banniel : Soudan"
+  },
+  {
+    "cp": "🇸🇪",
+    "tts": "banniel : Sveden"
+  },
+  {
+    "cp": "🇸🇬",
+    "tts": "banniel : Singapoura"
+  },
+  {
+    "cp": "🇸🇭",
+    "tts": "banniel : Saint-Helena"
+  },
+  {
+    "cp": "🇸🇮",
+    "tts": "banniel : Slovenia"
+  },
+  {
+    "cp": "🇸🇯",
+    "tts": "banniel : Svalbard"
+  },
+  {
+    "cp": "🇸🇰",
+    "tts": "banniel : Slovakia"
+  },
+  {
+    "cp": "🇸🇱",
+    "tts": "banniel : Sierra Leone"
+  },
+  {
+    "cp": "🇸🇲",
+    "tts": "banniel : San Marino"
+  },
+  {
+    "cp": "🇸🇳",
+    "tts": "banniel : Senegal"
+  },
+  {
+    "cp": "🇸🇴",
+    "tts": "banniel : Somalia"
+  },
+  {
+    "cp": "🇸🇷",
+    "tts": "banniel : Surinam"
+  },
+  {
+    "cp": "🇸🇸",
+    "tts": "banniel : Soudan ar Su"
+  },
+  {
+    "cp": "🇸🇹",
+    "tts": "banniel : São-Tomé-ha-Príncipe"
+  },
+  {
+    "cp": "🇸🇻",
+    "tts": "banniel : Salvador"
+  },
+  {
+    "cp": "🇸🇽",
+    "tts": "banniel : Sint Maarten"
+  },
+  {
+    "cp": "🇸🇾",
+    "tts": "banniel : Siria"
+  },
+  {
+    "cp": "🇸🇿",
+    "tts": "banniel : Eswatini"
+  },
+  {
+    "cp": "🇹🇦",
+    "tts": "banniel : Tristan da Cunha"
+  },
+  {
+    "cp": "🇹🇨",
+    "tts": "banniel : Inizi Turks-ha-Caicos"
+  },
+  {
+    "cp": "🇹🇩",
+    "tts": "banniel : Tchad"
+  },
+  {
+    "cp": "🇹🇫",
+    "tts": "banniel : Douaroù aostral Frañs"
+  },
+  {
+    "cp": "🇹🇬",
+    "tts": "banniel : Togo"
+  },
+  {
+    "cp": "🇹🇭",
+    "tts": "banniel : Thailand"
+  },
+  {
+    "cp": "🇹🇯",
+    "tts": "banniel : Tadjikistan"
+  },
+  {
+    "cp": "🇹🇰",
+    "tts": "banniel : Tokelau"
+  },
+  {
+    "cp": "🇹🇱",
+    "tts": "banniel : Timor-Leste"
+  },
+  {
+    "cp": "🇹🇲",
+    "tts": "banniel : Turkmenistan"
+  },
+  {
+    "cp": "🇹🇳",
+    "tts": "banniel : Tunizia"
+  },
+  {
+    "cp": "🇹🇴",
+    "tts": "banniel : Tonga"
+  },
+  {
+    "cp": "🇹🇷",
+    "tts": "banniel : Turkia"
+  },
+  {
+    "cp": "🇹🇹",
+    "tts": "banniel : Trinidad-ha-Tobago"
+  },
+  {
+    "cp": "🇹🇻",
+    "tts": "banniel : Tuvalu"
+  },
+  {
+    "cp": "🇹🇼",
+    "tts": "banniel : Taiwan"
+  },
+  {
+    "cp": "🇹🇿",
+    "tts": "banniel : Tanzania"
+  },
+  {
+    "cp": "🇺🇦",
+    "tts": "banniel : Ukraina"
+  },
+  {
+    "cp": "🇺🇬",
+    "tts": "banniel : Ouganda"
+  },
+  {
+    "cp": "🇺🇲",
+    "tts": "banniel : Inizi diabell ar Stadoù-Unanet"
+  },
+  {
+    "cp": "🇺🇳",
+    "tts": "banniel : Broadoù unanet"
+  },
+  {
+    "cp": "🇺🇸",
+    "tts": "banniel : Stadoù-Unanet"
+  },
+  {
+    "cp": "🇺🇾",
+    "tts": "banniel : Uruguay"
+  },
+  {
+    "cp": "🇺🇿",
+    "tts": "banniel : Ouzbekistan"
+  },
+  {
+    "cp": "🇻🇦",
+    "tts": "banniel : Vatikan"
+  },
+  {
+    "cp": "🇻🇨",
+    "tts": "banniel : Sant-Visant hag ar Grenadinez"
+  },
+  {
+    "cp": "🇻🇪",
+    "tts": "banniel : Venezuela"
+  },
+  {
+    "cp": "🇻🇬",
+    "tts": "banniel : Inizi Gwercʼh Breizh-Veur"
+  },
+  {
+    "cp": "🇻🇮",
+    "tts": "banniel : Inizi Gwercʼh ar Stadoù-Unanet"
+  },
+  {
+    "cp": "🇻🇳",
+    "tts": "banniel : Viêt Nam"
+  },
+  {
+    "cp": "🇻🇺",
+    "tts": "banniel : Vanuatu"
+  },
+  {
+    "cp": "🇼🇫",
+    "tts": "banniel : Wallis-ha-Futuna"
+  },
+  {
+    "cp": "🇼🇸",
+    "tts": "banniel : Samoa"
+  },
+  {
+    "cp": "🇽🇰",
+    "tts": "banniel : Kosovo"
+  },
+  {
+    "cp": "🇾🇪",
+    "tts": "banniel : Yemen"
+  },
+  {
+    "cp": "🇾🇹",
+    "tts": "banniel : Mayotte"
+  },
+  {
+    "cp": "🇿🇦",
+    "tts": "banniel : Suafrika"
+  },
+  {
+    "cp": "🇿🇲",
+    "tts": "banniel : Zambia"
+  },
+  {
+    "cp": "🇿🇼",
+    "tts": "banniel : Zimbabwe"
+  },
+  {
+    "cp": "🌀",
+    "tts": "kelcʼhwidenn"
+  },
+  {
+    "cp": "🌁",
+    "tts": "brumennek"
+  },
+  {
+    "cp": "🌂",
+    "tts": "disglavier serr"
+  },
+  {
+    "cp": "🌃",
+    "tts": "stergann"
+  },
+  {
+    "cp": "🌄",
+    "tts": "sav-heol war ar menezioù"
+  },
+  {
+    "cp": "🌅",
+    "tts": "sav-heol"
+  },
+  {
+    "cp": "🌆",
+    "tts": "gweledva kêr da serr-noz"
+  },
+  {
+    "cp": "🌇",
+    "tts": "kuzh-heol"
+  },
+  {
+    "cp": "🌈",
+    "tts": "kanevedenn"
+  },
+  {
+    "cp": "🌉",
+    "tts": "pont en noz"
+  },
+  {
+    "cp": "🌊",
+    "tts": "gwagenn"
+  },
+  {
+    "cp": "🌋",
+    "tts": "menez-tan"
+  },
+  {
+    "cp": "🌌",
+    "tts": "Hent-sant-Jakez"
+  },
+  {
+    "cp": "🌍",
+    "tts": "boul douar o tiskouez Europa hag Afrika"
+  },
+  {
+    "cp": "🌎",
+    "tts": "boul douar o tiskouez Amerika"
+  },
+  {
+    "cp": "🌏",
+    "tts": "boul douar o tiskouez Azia hag Aostralia"
+  },
+  {
+    "cp": "🌐",
+    "tts": "boul douar gant hedredennoù"
+  },
+  {
+    "cp": "🌑",
+    "tts": "loar nevez"
+  },
+  {
+    "cp": "🌒",
+    "tts": "loar vihan ar cʼhresk"
+  },
+  {
+    "cp": "🌓",
+    "tts": "hanterloar ar cʼhresk"
+  },
+  {
+    "cp": "🌔",
+    "tts": "loar vras ar c’hresk"
+  },
+  {
+    "cp": "🌕",
+    "tts": "loargann"
+  },
+  {
+    "cp": "🌖",
+    "tts": "loar vras an digresk"
+  },
+  {
+    "cp": "🌗",
+    "tts": "hanterloar an digresk"
+  },
+  {
+    "cp": "🌘",
+    "tts": "loar vihan an digresk"
+  },
+  {
+    "cp": "🌙",
+    "tts": "kreskenn loar"
+  },
+  {
+    "cp": "🌚",
+    "tts": "penn loar nevez"
+  },
+  {
+    "cp": "🌛",
+    "tts": "penn loar vihan ar cʼhresk"
+  },
+  {
+    "cp": "🌜",
+    "tts": "penn loar vihan an digresk"
+  },
+  {
+    "cp": "🌝",
+    "tts": "penn loargann"
+  },
+  {
+    "cp": "🌞",
+    "tts": "penn heol"
+  },
+  {
+    "cp": "🌟",
+    "tts": "steredenn skedus"
+  },
+  {
+    "cp": "🌠",
+    "tts": "steredenn-dared"
+  },
+  {
+    "cp": "🌡",
+    "tts": "gwerzverker"
+  },
+  {
+    "cp": "🌤",
+    "tts": "heol a-dreñv dʼur goumoulennig"
+  },
+  {
+    "cp": "🌥",
+    "tts": "heol a-dreñv dʼur goumoulenn vras"
+  },
+  {
+    "cp": "🌦",
+    "tts": "heol a-dreñv dʼur goumoulenn cʼhlav"
+  },
+  {
+    "cp": "🌧",
+    "tts": "koumoulenn gant glav"
+  },
+  {
+    "cp": "🌨",
+    "tts": "koumoulenn gant ercʼh"
+  },
+  {
+    "cp": "🌩",
+    "tts": "koumoulenn gant lucʼhedenn"
+  },
+  {
+    "cp": "🌪",
+    "tts": "tornadenn"
+  },
+  {
+    "cp": "🌫",
+    "tts": "latar"
+  },
+  {
+    "cp": "🌭",
+    "tts": "hot-dog"
+  },
+  {
+    "cp": "🌮",
+    "tts": "tako"
+  },
+  {
+    "cp": "🌯",
+    "tts": "burrito"
+  },
+  {
+    "cp": "🌰",
+    "tts": "kistin"
+  },
+  {
+    "cp": "🌱",
+    "tts": "strujenn yaouank"
+  },
+  {
+    "cp": "🌲",
+    "tts": "avalpineg"
+  },
+  {
+    "cp": "🌳",
+    "tts": "deliaoueg"
+  },
+  {
+    "cp": "🌴",
+    "tts": "gwez-palmez"
+  },
+  {
+    "cp": "🌵",
+    "tts": "kaktuz"
+  },
+  {
+    "cp": "🌶",
+    "tts": "pimant ruz"
+  },
+  {
+    "cp": "🌷",
+    "tts": "tulipezenn"
+  },
+  {
+    "cp": "🌸",
+    "tts": "bleunienn gerez"
+  },
+  {
+    "cp": "🌹",
+    "tts": "rozenn"
+  },
+  {
+    "cp": "🌺",
+    "tts": "hibiskuz"
+  },
+  {
+    "cp": "🌻",
+    "tts": "tro-heol"
+  },
+  {
+    "cp": "🌼",
+    "tts": "broñs"
+  },
+  {
+    "cp": "🌽",
+    "tts": "penn-maiz"
+  },
+  {
+    "cp": "🌾",
+    "tts": "plant riz"
+  },
+  {
+    "cp": "🌿",
+    "tts": "louzaouenn"
+  },
+  {
+    "cp": "🍀",
+    "tts": "melchon peder"
+  },
+  {
+    "cp": "🍁",
+    "tts": "delienn skav-gwracʼh"
+  },
+  {
+    "cp": "🍂",
+    "tts": "delioù secʼh"
+  },
+  {
+    "cp": "🍃",
+    "tts": "delienn en avel"
+  },
+  {
+    "cp": "🍄",
+    "tts": "kabell-touseg"
+  },
+  {
+    "cp": "🍅",
+    "tts": "tomatez"
+  },
+  {
+    "cp": "🍆",
+    "tts": "berjinez"
+  },
+  {
+    "cp": "🍇",
+    "tts": "rezin"
+  },
+  {
+    "cp": "🍈",
+    "tts": "meloñs"
+  },
+  {
+    "cp": "🍉",
+    "tts": "pastekez"
+  },
+  {
+    "cp": "🍊",
+    "tts": "mandarin"
+  },
+  {
+    "cp": "🍋",
+    "tts": "sitroñs"
+  },
+  {
+    "cp": "🍌",
+    "tts": "bananez"
+  },
+  {
+    "cp": "🍍",
+    "tts": "ananaz"
+  },
+  {
+    "cp": "🍎",
+    "tts": "aval ruz"
+  },
+  {
+    "cp": "🍏",
+    "tts": "aval glas"
+  },
+  {
+    "cp": "🍐",
+    "tts": "per"
+  },
+  {
+    "cp": "🍑",
+    "tts": "pechez"
+  },
+  {
+    "cp": "🍒",
+    "tts": "kerez"
+  },
+  {
+    "cp": "🍓",
+    "tts": "sivi"
+  },
+  {
+    "cp": "🍔",
+    "tts": "hamburger"
+  },
+  {
+    "cp": "🍕",
+    "tts": "pizza"
+  },
+  {
+    "cp": "🍖",
+    "tts": "kig war askorn"
+  },
+  {
+    "cp": "🍗",
+    "tts": "morzhed yar"
+  },
+  {
+    "cp": "🍘",
+    "tts": "galetez riz"
+  },
+  {
+    "cp": "🍙",
+    "tts": "boulig riz"
+  },
+  {
+    "cp": "🍚",
+    "tts": "bolennad riz"
+  },
+  {
+    "cp": "🍛",
+    "tts": "riz dre gari"
+  },
+  {
+    "cp": "🍜",
+    "tts": "bolennad tomm"
+  },
+  {
+    "cp": "🍝",
+    "tts": "spaghetti"
+  },
+  {
+    "cp": "🍞",
+    "tts": "bara"
+  },
+  {
+    "cp": "🍟",
+    "tts": "fritez"
+  },
+  {
+    "cp": "🍠",
+    "tts": "patatez dous rostet"
+  },
+  {
+    "cp": "🍡",
+    "tts": "beriad madigoù"
+  },
+  {
+    "cp": "🍢",
+    "tts": "beriad pesked"
+  },
+  {
+    "cp": "🍣",
+    "tts": "sushi"
+  },
+  {
+    "cp": "🍤",
+    "tts": "bignez chevr"
+  },
+  {
+    "cp": "🍥",
+    "tts": "krokedenn besked"
+  },
+  {
+    "cp": "🍦",
+    "tts": "dienn-skorn mod Italia"
+  },
+  {
+    "cp": "🍧",
+    "tts": "greunitad"
+  },
+  {
+    "cp": "🍨",
+    "tts": "dienn-skorn"
+  },
+  {
+    "cp": "🍩",
+    "tts": "donut"
+  },
+  {
+    "cp": "🍪",
+    "tts": "cookie"
+  },
+  {
+    "cp": "🍫",
+    "tts": "barrenn chokolad"
+  },
+  {
+    "cp": "🍬",
+    "tts": "madig"
+  },
+  {
+    "cp": "🍭",
+    "tts": "sunig"
+  },
+  {
+    "cp": "🍮",
+    "tts": "dienn war e cʼhenoù"
+  },
+  {
+    "cp": "🍯",
+    "tts": "podad mel"
+  },
+  {
+    "cp": "🍰",
+    "tts": "sablegenn"
+  },
+  {
+    "cp": "🍱",
+    "tts": "bento"
+  },
+  {
+    "cp": "🍲",
+    "tts": "pothouarnad"
+  },
+  {
+    "cp": "🍳",
+    "tts": "vi war ar plad"
+  },
+  {
+    "cp": "🍴",
+    "tts": "kontell ha fourchetez"
+  },
+  {
+    "cp": "🍵",
+    "tts": "tasenn"
+  },
+  {
+    "cp": "🍶",
+    "tts": "sake"
+  },
+  {
+    "cp": "🍷",
+    "tts": "gwerennad gwin"
+  },
+  {
+    "cp": "🍸",
+    "tts": "koktel"
+  },
+  {
+    "cp": "🍹",
+    "tts": "koktel trovanel"
+  },
+  {
+    "cp": "🍺",
+    "tts": "chopad bier"
+  },
+  {
+    "cp": "🍻",
+    "tts": "chopadoù bier"
+  },
+  {
+    "cp": "🍼",
+    "tts": "bured"
+  },
+  {
+    "cp": "🍽",
+    "tts": "kontell ha fourchetez gant asied"
+  },
+  {
+    "cp": "🍾",
+    "tts": "boutailhad champagn"
+  },
+  {
+    "cp": "🍿",
+    "tts": "popcorn"
+  },
+  {
+    "cp": "🎀",
+    "tts": "seizenn"
+  },
+  {
+    "cp": "🎁",
+    "tts": "prof"
+  },
+  {
+    "cp": "🎂",
+    "tts": "gwastell deiz-ha-bloaz"
+  },
+  {
+    "cp": "🎃",
+    "tts": "jack-oʼ-lantern"
+  },
+  {
+    "cp": "🎄",
+    "tts": "gwezenn Nedeleg"
+  },
+  {
+    "cp": "🎅",
+    "tts": "Tad Nedeleg"
+  },
+  {
+    "cp": "🎅🏿",
+    "tts": "Tad Nedeleg : krocʼhen teñval"
+  },
+  {
+    "cp": "🎆",
+    "tts": "tan-arvest"
+  },
+  {
+    "cp": "🎇",
+    "tts": "piled-hud"
+  },
+  {
+    "cp": "🎈",
+    "tts": "cʼhwezigell"
+  },
+  {
+    "cp": "🎉",
+    "tts": "kotilhon"
+  },
+  {
+    "cp": "🎊",
+    "tts": "koñfeti"
+  },
+  {
+    "cp": "🎋",
+    "tts": "gwez-hetoù"
+  },
+  {
+    "cp": "🎌",
+    "tts": "bannieloù kroaziet"
+  },
+  {
+    "cp": "🎍",
+    "tts": "kadomatsu"
+  },
+  {
+    "cp": "🎎",
+    "tts": "poupinelloù japanat"
+  },
+  {
+    "cp": "🎏",
+    "tts": "koinobori"
+  },
+  {
+    "cp": "🎐",
+    "tts": "karilhon-avel"
+  },
+  {
+    "cp": "🎑",
+    "tts": "lid al loar"
+  },
+  {
+    "cp": "🎒",
+    "tts": "sacʼh-kein"
+  },
+  {
+    "cp": "🎓",
+    "tts": "tok skol-veur"
+  },
+  {
+    "cp": "🎖",
+    "tts": "medalenn vilourel"
+  },
+  {
+    "cp": "🎗",
+    "tts": "seizenn-goun"
+  },
+  {
+    "cp": "🎙",
+    "tts": "mikrofon studio"
+  },
+  {
+    "cp": "🎞",
+    "tts": "kocʼhenn"
+  },
+  {
+    "cp": "🎟",
+    "tts": "bilhed mont e-barzh"
+  },
+  {
+    "cp": "🎠",
+    "tts": "kazeg-vezevenn"
+  },
+  {
+    "cp": "🎡",
+    "tts": "rod vras"
+  },
+  {
+    "cp": "🎢",
+    "tts": "sav-diskenn"
+  },
+  {
+    "cp": "🎣",
+    "tts": "lazheta"
+  },
+  {
+    "cp": "🎤",
+    "tts": "mikrofon"
+  },
+  {
+    "cp": "🎥",
+    "tts": "kamera"
+  },
+  {
+    "cp": "🎦",
+    "tts": "sinema"
+  },
+  {
+    "cp": "🎧",
+    "tts": "selaouelloù"
+  },
+  {
+    "cp": "🎨",
+    "tts": "pladennad livioù"
+  },
+  {
+    "cp": "🎩",
+    "tts": "tog moull uhel"
+  },
+  {
+    "cp": "🎪",
+    "tts": "pabell sirk"
+  },
+  {
+    "cp": "🎫",
+    "tts": "bilhed"
+  },
+  {
+    "cp": "🎬",
+    "tts": "klek"
+  },
+  {
+    "cp": "🎭",
+    "tts": "arvestoù bev"
+  },
+  {
+    "cp": "🎮",
+    "tts": "cʼhoari video"
+  },
+  {
+    "cp": "🎯",
+    "tts": "ober mil"
+  },
+  {
+    "cp": "🎱",
+    "tts": "bilhard saoz"
+  },
+  {
+    "cp": "🎲",
+    "tts": "diñs"
+  },
+  {
+    "cp": "🎳",
+    "tts": "bowling"
+  },
+  {
+    "cp": "🎵",
+    "tts": "notenn sonerezh"
+  },
+  {
+    "cp": "🎶",
+    "tts": "notennoù sonerezh"
+  },
+  {
+    "cp": "🎷",
+    "tts": "saksofon"
+  },
+  {
+    "cp": "🎸",
+    "tts": "gitar"
+  },
+  {
+    "cp": "🎹",
+    "tts": "klavier sonerezh"
+  },
+  {
+    "cp": "🎺",
+    "tts": "trompilh"
+  },
+  {
+    "cp": "🎻",
+    "tts": "violoñs"
+  },
+  {
+    "cp": "🎼",
+    "tts": "skrid-sonerezh"
+  },
+  {
+    "cp": "🎽",
+    "tts": "krez redek"
+  },
+  {
+    "cp": "🎾",
+    "tts": "tennis"
+  },
+  {
+    "cp": "🎿",
+    "tts": "ski"
+  },
+  {
+    "cp": "🏀",
+    "tts": "basket-ball"
+  },
+  {
+    "cp": "🏁",
+    "tts": "banniel karrezek"
+  },
+  {
+    "cp": "🏅",
+    "tts": "medalenn sport"
+  },
+  {
+    "cp": "🏆",
+    "tts": "trofe"
+  },
+  {
+    "cp": "🏈",
+    "tts": "fobal amerikan"
+  },
+  {
+    "cp": "🏉",
+    "tts": "rugbi"
+  },
+  {
+    "cp": "🏍",
+    "tts": "marcʼh-tan"
+  },
+  {
+    "cp": "🏏",
+    "tts": "kriked"
+  },
+  {
+    "cp": "🏐",
+    "tts": "volley-ball"
+  },
+  {
+    "cp": "🏑",
+    "tts": "hoke war leton"
+  },
+  {
+    "cp": "🏒",
+    "tts": "hoke war skorn"
+  },
+  {
+    "cp": "🏓",
+    "tts": "ping pong"
+  },
+  {
+    "cp": "🏔",
+    "tts": "menez ercʼhek"
+  },
+  {
+    "cp": "🏕",
+    "tts": "kampiñ"
+  },
+  {
+    "cp": "🏖",
+    "tts": "traezhenn gant disheolier"
+  },
+  {
+    "cp": "🏗",
+    "tts": "savadur war sevel"
+  },
+  {
+    "cp": "🏘",
+    "tts": "tiez"
+  },
+  {
+    "cp": "🏙",
+    "tts": "gweledva kêr"
+  },
+  {
+    "cp": "🏚",
+    "tts": "ti dilezet"
+  },
+  {
+    "cp": "🏛",
+    "tts": "savadur klasel"
+  },
+  {
+    "cp": "🏜",
+    "tts": "dezerzh"
+  },
+  {
+    "cp": "🏝",
+    "tts": "enezenn didud"
+  },
+  {
+    "cp": "🏞",
+    "tts": "park broadel"
+  },
+  {
+    "cp": "🏟",
+    "tts": "stad"
+  },
+  {
+    "cp": "🏠",
+    "tts": "ti"
+  },
+  {
+    "cp": "🏡",
+    "tts": "ti ha liorzh"
+  },
+  {
+    "cp": "🏢",
+    "tts": "savadur burevioù"
+  },
+  {
+    "cp": "🏣",
+    "tts": "ti-post japanat"
+  },
+  {
+    "cp": "🏤",
+    "tts": "ti-post"
+  },
+  {
+    "cp": "🏥",
+    "tts": "ospital"
+  },
+  {
+    "cp": "🏦",
+    "tts": "bank"
+  },
+  {
+    "cp": "🏧",
+    "tts": "arlun bilhedaouer"
+  },
+  {
+    "cp": "🏨",
+    "tts": "leti"
+  },
+  {
+    "cp": "🏩",
+    "tts": "love hotel"
+  },
+  {
+    "cp": "🏪",
+    "tts": "gourstalig"
+  },
+  {
+    "cp": "🏫",
+    "tts": "skol"
+  },
+  {
+    "cp": "🏬",
+    "tts": "stal vras"
+  },
+  {
+    "cp": "🏭",
+    "tts": "labouradeg"
+  },
+  {
+    "cp": "🏮",
+    "tts": "lampig ruz"
+  },
+  {
+    "cp": "🏯",
+    "tts": "kastell japanat"
+  },
+  {
+    "cp": "🏰",
+    "tts": "kastell"
+  },
+  {
+    "cp": "🏳",
+    "tts": "banniel gwenn"
+  },
+  {
+    "cp": "🏳‍⚧",
+    "tts": "banniel treuzjener"
+  },
+  {
+    "cp": "🏳‍🌈",
+    "tts": "banniel kanevedenn"
+  },
+  {
+    "cp": "🏴",
+    "tts": "banniel du"
+  },
+  {
+    "cp": "🏴‍☠",
+    "tts": "banniel ar vorlaeron"
+  },
+  {
+    "cp": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "tts": "banniel : Bro-Saoz"
+  },
+  {
+    "cp": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "tts": "banniel : Skos"
+  },
+  {
+    "cp": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "tts": "banniel : Kembre"
+  },
+  {
+    "cp": "🏵",
+    "tts": "rozetenn"
+  },
+  {
+    "cp": "🏷",
+    "tts": "tikedenn"
+  },
+  {
+    "cp": "🏸",
+    "tts": "badminton"
+  },
+  {
+    "cp": "🏹",
+    "tts": "gwareg ha saezh"
+  },
+  {
+    "cp": "🏺",
+    "tts": "añforenn"
+  },
+  {
+    "cp": "🏿",
+    "tts": "krocʼhen teñval"
+  },
+  {
+    "cp": "🐀",
+    "tts": "razh"
+  },
+  {
+    "cp": "🐁",
+    "tts": "logodenn"
+  },
+  {
+    "cp": "🐂",
+    "tts": "ejen"
+  },
+  {
+    "cp": "🐃",
+    "tts": "bual"
+  },
+  {
+    "cp": "🐄",
+    "tts": "buocʼh"
+  },
+  {
+    "cp": "🐅",
+    "tts": "tigr"
+  },
+  {
+    "cp": "🐆",
+    "tts": "loupard"
+  },
+  {
+    "cp": "🐇",
+    "tts": "lapin"
+  },
+  {
+    "cp": "🐈",
+    "tts": "kazh"
+  },
+  {
+    "cp": "🐈‍⬛",
+    "tts": "kazh du"
+  },
+  {
+    "cp": "🐉",
+    "tts": "dragon"
+  },
+  {
+    "cp": "🐊",
+    "tts": "krokodil"
+  },
+  {
+    "cp": "🐋",
+    "tts": "balum"
+  },
+  {
+    "cp": "🐌",
+    "tts": "maligorn"
+  },
+  {
+    "cp": "🐍",
+    "tts": "naer"
+  },
+  {
+    "cp": "🐎",
+    "tts": "marcʼh"
+  },
+  {
+    "cp": "🐏",
+    "tts": "tourz"
+  },
+  {
+    "cp": "🐐",
+    "tts": "gavr"
+  },
+  {
+    "cp": "🐑",
+    "tts": "dañvad"
+  },
+  {
+    "cp": "🐒",
+    "tts": "marmouz"
+  },
+  {
+    "cp": "🐓",
+    "tts": "kilhog"
+  },
+  {
+    "cp": "🐔",
+    "tts": "yar"
+  },
+  {
+    "cp": "🐕",
+    "tts": "ki"
+  },
+  {
+    "cp": "🐖",
+    "tts": "pemocʼh"
+  },
+  {
+    "cp": "🐗",
+    "tts": "hocʼh gouez"
+  },
+  {
+    "cp": "🐘",
+    "tts": "olifant"
+  },
+  {
+    "cp": "🐙",
+    "tts": "morgazh"
+  },
+  {
+    "cp": "🐚",
+    "tts": "krogenn droellennek"
+  },
+  {
+    "cp": "🐛",
+    "tts": "biskoulenn"
+  },
+  {
+    "cp": "🐜",
+    "tts": "merienenn"
+  },
+  {
+    "cp": "🐝",
+    "tts": "gwenanenn"
+  },
+  {
+    "cp": "🐞",
+    "tts": "buocʼhan"
+  },
+  {
+    "cp": "🐟",
+    "tts": "pesk"
+  },
+  {
+    "cp": "🐠",
+    "tts": "pesk trovanel"
+  },
+  {
+    "cp": "🐡",
+    "tts": "loar-vor"
+  },
+  {
+    "cp": "🐢",
+    "tts": "baot"
+  },
+  {
+    "cp": "🐤",
+    "tts": "poñsin"
+  },
+  {
+    "cp": "🐦",
+    "tts": "evn"
+  },
+  {
+    "cp": "🐧",
+    "tts": "god"
+  },
+  {
+    "cp": "🐨",
+    "tts": "koala"
+  },
+  {
+    "cp": "🐩",
+    "tts": "ki rodellek"
+  },
+  {
+    "cp": "🐪",
+    "tts": "dremedal"
+  },
+  {
+    "cp": "🐫",
+    "tts": "kañval"
+  },
+  {
+    "cp": "🐬",
+    "tts": "delfin"
+  },
+  {
+    "cp": "🐭",
+    "tts": "penn logodenn"
+  },
+  {
+    "cp": "🐮",
+    "tts": "penn buocʼh"
+  },
+  {
+    "cp": "🐯",
+    "tts": "penn tigr"
+  },
+  {
+    "cp": "🐰",
+    "tts": "penn lapin"
+  },
+  {
+    "cp": "🐱",
+    "tts": "penn kazh"
+  },
+  {
+    "cp": "🐲",
+    "tts": "penn dragon"
+  },
+  {
+    "cp": "🐴",
+    "tts": "penn marcʼh"
+  },
+  {
+    "cp": "🐵",
+    "tts": "penn marmouz"
+  },
+  {
+    "cp": "🐶",
+    "tts": "penn ki"
+  },
+  {
+    "cp": "🐷",
+    "tts": "penn mocʼh"
+  },
+  {
+    "cp": "🐸",
+    "tts": "ran"
+  },
+  {
+    "cp": "🐹",
+    "tts": "hamster"
+  },
+  {
+    "cp": "🐺",
+    "tts": "bleiz"
+  },
+  {
+    "cp": "🐻",
+    "tts": "arzh"
+  },
+  {
+    "cp": "🐻‍❄",
+    "tts": "arzh gwenn"
+  },
+  {
+    "cp": "🐼",
+    "tts": "panda"
+  },
+  {
+    "cp": "🐽",
+    "tts": "moj"
+  },
+  {
+    "cp": "🐾",
+    "tts": "loucʼhadoù pavioù"
+  },
+  {
+    "cp": "🐿",
+    "tts": "gwiñver"
+  },
+  {
+    "cp": "👀",
+    "tts": "daoulagad"
+  },
+  {
+    "cp": "👁",
+    "tts": "lagad"
+  },
+  {
+    "cp": "👂",
+    "tts": "skouarn"
+  },
+  {
+    "cp": "👂🏿",
+    "tts": "skouarn : krocʼhen teñval"
+  },
+  {
+    "cp": "👃",
+    "tts": "fri"
+  },
+  {
+    "cp": "👃🏿",
+    "tts": "fri : krocʼhen teñval"
+  },
+  {
+    "cp": "👅",
+    "tts": "teod"
+  },
+  {
+    "cp": "👑",
+    "tts": "kurunenn"
+  },
+  {
+    "cp": "👓",
+    "tts": "lunedoù gwelet"
+  },
+  {
+    "cp": "👔",
+    "tts": "kravatenn"
+  },
+  {
+    "cp": "👕",
+    "tts": "tee-shirt"
+  },
+  {
+    "cp": "👖",
+    "tts": "jeanʼs"
+  },
+  {
+    "cp": "👗",
+    "tts": "sae"
+  },
+  {
+    "cp": "👘",
+    "tts": "kimono"
+  },
+  {
+    "cp": "👙",
+    "tts": "bikini"
+  },
+  {
+    "cp": "👚",
+    "tts": "dilhad mercʼhed"
+  },
+  {
+    "cp": "👛",
+    "tts": "doug-moneiz"
+  },
+  {
+    "cp": "👜",
+    "tts": "sacʼh-dorn"
+  },
+  {
+    "cp": "👝",
+    "tts": "godellig"
+  },
+  {
+    "cp": "👟",
+    "tts": "botez sport"
+  },
+  {
+    "cp": "👠",
+    "tts": "skarpin"
+  },
+  {
+    "cp": "👦",
+    "tts": "paotr"
+  },
+  {
+    "cp": "👦🏿",
+    "tts": "paotr : krocʼhen teñval"
+  },
+  {
+    "cp": "👧",
+    "tts": "placʼh"
+  },
+  {
+    "cp": "👧🏿",
+    "tts": "placʼh : krocʼhen teñval"
+  },
+  {
+    "cp": "👨",
+    "tts": "gwaz"
+  },
+  {
+    "cp": "👨‍⚖",
+    "tts": "barner"
+  },
+  {
+    "cp": "👨‍✈",
+    "tts": "levier"
+  },
+  {
+    "cp": "👨‍🌾",
+    "tts": "labourer-douar"
+  },
+  {
+    "cp": "👨‍🍳",
+    "tts": "keginer"
+  },
+  {
+    "cp": "👨‍🎓",
+    "tts": "studier"
+  },
+  {
+    "cp": "👨‍🎤",
+    "tts": "kaner"
+  },
+  {
+    "cp": "👨‍🎨",
+    "tts": "arzour"
+  },
+  {
+    "cp": "👨‍🏫",
+    "tts": "kelenner"
+  },
+  {
+    "cp": "👨‍🏭",
+    "tts": "micherour"
+  },
+  {
+    "cp": "👨‍👦",
+    "tts": "familh : gwaz, paotr"
+  },
+  {
+    "cp": "👨‍👦‍👦",
+    "tts": "familh : gwaz, paotr, paotr"
+  },
+  {
+    "cp": "👨‍👧",
+    "tts": "familh : gwaz, placʼh"
+  },
+  {
+    "cp": "👨‍👧‍👦",
+    "tts": "familh : gwaz, placʼh, paotr"
+  },
+  {
+    "cp": "👨‍👧‍👧",
+    "tts": "familh : gwaz, placʼh, placʼh"
+  },
+  {
+    "cp": "👨‍👨‍👦",
+    "tts": "familh : gwaz, gwaz, paotr"
+  },
+  {
+    "cp": "👨‍👨‍👦‍👦",
+    "tts": "familh : gwaz, gwaz, paotr, paotr"
+  },
+  {
+    "cp": "👨‍👨‍👧",
+    "tts": "familh : gwaz, gwaz, placʼh"
+  },
+  {
+    "cp": "👨‍👨‍👧‍👦",
+    "tts": "familh : gwaz, gwaz, placʼh, paotr"
+  },
+  {
+    "cp": "👨‍👨‍👧‍👧",
+    "tts": "familh : gwaz, gwaz, placʼh, placʼh"
+  },
+  {
+    "cp": "👨‍👩‍👦",
+    "tts": "familh : gwaz, maouez, paotr"
+  },
+  {
+    "cp": "👨‍👩‍👦‍👦",
+    "tts": "familh : gwaz, maouez, paotr, paotr"
+  },
+  {
+    "cp": "👨‍👩‍👧",
+    "tts": "familh : gwaz, maouez, placʼh"
+  },
+  {
+    "cp": "👨‍👩‍👧‍👦",
+    "tts": "familh : gwaz, maouez, placʼh, paotr"
+  },
+  {
+    "cp": "👨‍👩‍👧‍👧",
+    "tts": "familh : gwaz, maouez, placʼh, placʼh"
+  },
+  {
+    "cp": "👨‍💻",
+    "tts": "stlennegour"
+  },
+  {
+    "cp": "👨‍💼",
+    "tts": "implijad"
+  },
+  {
+    "cp": "👨‍🔬",
+    "tts": "skiantour"
+  },
+  {
+    "cp": "👨‍🚀",
+    "tts": "astraer"
+  },
+  {
+    "cp": "👨‍🚒",
+    "tts": "pomper"
+  },
+  {
+    "cp": "👨‍🦰",
+    "tts": "gwaz : blev ruz"
+  },
+  {
+    "cp": "👨‍🦱",
+    "tts": "gwaz : blev rodellek"
+  },
+  {
+    "cp": "👨‍🦲",
+    "tts": "gwaz : moal"
+  },
+  {
+    "cp": "👨‍🦳",
+    "tts": "gwaz : blev gwenn"
+  },
+  {
+    "cp": "👨🏿",
+    "tts": "gwaz : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍⚖",
+    "tts": "barner : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍✈",
+    "tts": "levier : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🌾",
+    "tts": "labourer-douar : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🍳",
+    "tts": "keginer : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🎓",
+    "tts": "studier : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🎤",
+    "tts": "kaner : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🎨",
+    "tts": "arzour : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🏫",
+    "tts": "kelenner : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🏭",
+    "tts": "micherour : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍💻",
+    "tts": "stlennegour : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍💼",
+    "tts": "implijad : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🔬",
+    "tts": "skiantour : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🚀",
+    "tts": "astraer : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🚒",
+    "tts": "pomper : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🦰",
+    "tts": "gwaz : krocʼhen teñval, blev ruz"
+  },
+  {
+    "cp": "👨🏿‍🦱",
+    "tts": "gwaz : krocʼhen teñval, blev rodellek"
+  },
+  {
+    "cp": "👨🏿‍🦲",
+    "tts": "gwaz : krocʼhen teñval, moal"
+  },
+  {
+    "cp": "👨🏿‍🦳",
+    "tts": "gwaz : krocʼhen teñval, blev gwenn"
+  },
+  {
+    "cp": "👩",
+    "tts": "maouez"
+  },
+  {
+    "cp": "👩‍⚖",
+    "tts": "barnerez"
+  },
+  {
+    "cp": "👩‍✈",
+    "tts": "levierez"
+  },
+  {
+    "cp": "👩‍🌾",
+    "tts": "labourerez-douar"
+  },
+  {
+    "cp": "👩‍🍳",
+    "tts": "keginerez"
+  },
+  {
+    "cp": "👩‍🎓",
+    "tts": "studierez"
+  },
+  {
+    "cp": "👩‍🎤",
+    "tts": "kanerez"
+  },
+  {
+    "cp": "👩‍🎨",
+    "tts": "arzourez"
+  },
+  {
+    "cp": "👩‍🏫",
+    "tts": "kelennerez"
+  },
+  {
+    "cp": "👩‍🏭",
+    "tts": "micherourez"
+  },
+  {
+    "cp": "👩‍👦",
+    "tts": "familh : maouez, paotr"
+  },
+  {
+    "cp": "👩‍👦‍👦",
+    "tts": "familh : maouez, paotr, paotr"
+  },
+  {
+    "cp": "👩‍👧",
+    "tts": "familh : maouez, placʼh"
+  },
+  {
+    "cp": "👩‍👧‍👦",
+    "tts": "familh : maouez, placʼh, paotr"
+  },
+  {
+    "cp": "👩‍👧‍👧",
+    "tts": "familh : maouez, placʼh, placʼh"
+  },
+  {
+    "cp": "👩‍👩‍👦",
+    "tts": "familh : maouez, maouez, paotr"
+  },
+  {
+    "cp": "👩‍👩‍👦‍👦",
+    "tts": "familh : maouez, maouez, paotr, paotr"
+  },
+  {
+    "cp": "👩‍👩‍👧",
+    "tts": "familh : maouez, maouez, placʼh"
+  },
+  {
+    "cp": "👩‍👩‍👧‍👦",
+    "tts": "familh : maouez, maouez, placʼh, paotr"
+  },
+  {
+    "cp": "👩‍👩‍👧‍👧",
+    "tts": "familh : maouez, maouez, placʼh, placʼh"
+  },
+  {
+    "cp": "👩‍💻",
+    "tts": "stlennegourez"
+  },
+  {
+    "cp": "👩‍💼",
+    "tts": "implijadez"
+  },
+  {
+    "cp": "👩‍🔬",
+    "tts": "skiantourez"
+  },
+  {
+    "cp": "👩‍🚀",
+    "tts": "astraerez"
+  },
+  {
+    "cp": "👩‍🚒",
+    "tts": "pomperez"
+  },
+  {
+    "cp": "👩‍🦰",
+    "tts": "maouez : blev ruz"
+  },
+  {
+    "cp": "👩‍🦱",
+    "tts": "maouez : blev rodellek"
+  },
+  {
+    "cp": "👩‍🦲",
+    "tts": "maouez : moal"
+  },
+  {
+    "cp": "👩‍🦳",
+    "tts": "maouez : blev gwenn"
+  },
+  {
+    "cp": "👩🏿",
+    "tts": "maouez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍⚖",
+    "tts": "barnerez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍✈",
+    "tts": "levierez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🌾",
+    "tts": "labourerez-douar : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🍳",
+    "tts": "keginerez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🎓",
+    "tts": "studierez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🎤",
+    "tts": "kanerez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🎨",
+    "tts": "arzourez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🏫",
+    "tts": "kelennerez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🏭",
+    "tts": "micherourez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍💻",
+    "tts": "stlennegourez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍💼",
+    "tts": "implijadez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🔬",
+    "tts": "skiantourez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🚀",
+    "tts": "astraerez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🚒",
+    "tts": "pomperez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🦰",
+    "tts": "maouez : krocʼhen teñval, blev ruz"
+  },
+  {
+    "cp": "👩🏿‍🦱",
+    "tts": "maouez : krocʼhen teñval, blev rodellek"
+  },
+  {
+    "cp": "👩🏿‍🦲",
+    "tts": "maouez : krocʼhen teñval, moal"
+  },
+  {
+    "cp": "👩🏿‍🦳",
+    "tts": "maouez : krocʼhen teñval, blev gwenn"
+  },
+  {
+    "cp": "👪",
+    "tts": "familh"
+  },
+  {
+    "cp": "👮",
+    "tts": "polis"
+  },
+  {
+    "cp": "👮‍♀",
+    "tts": "poliserez"
+  },
+  {
+    "cp": "👮‍♂",
+    "tts": "poliser"
+  },
+  {
+    "cp": "👮🏿",
+    "tts": "polis : krocʼhen teñval"
+  },
+  {
+    "cp": "👮🏿‍♀",
+    "tts": "poliserez : krocʼhen teñval"
+  },
+  {
+    "cp": "👮🏿‍♂",
+    "tts": "poliser : krocʼhen teñval"
+  },
+  {
+    "cp": "👱",
+    "tts": "den melegan"
+  },
+  {
+    "cp": "👱‍♀",
+    "tts": "meleganez"
+  },
+  {
+    "cp": "👱‍♂",
+    "tts": "melegan"
+  },
+  {
+    "cp": "👱🏿",
+    "tts": "den melegan : krocʼhen teñval"
+  },
+  {
+    "cp": "👱🏿‍♀",
+    "tts": "meleganez : krocʼhen teñval"
+  },
+  {
+    "cp": "👱🏿‍♂",
+    "tts": "melegan : krocʼhen teñval"
+  },
+  {
+    "cp": "👴",
+    "tts": "gwaz kozh"
+  },
+  {
+    "cp": "👴🏿",
+    "tts": "gwaz kozh : krocʼhen teñval"
+  },
+  {
+    "cp": "👵",
+    "tts": "maouez kozh"
+  },
+  {
+    "cp": "👵🏿",
+    "tts": "maouez kozh : krocʼhen teñval"
+  },
+  {
+    "cp": "👶",
+    "tts": "babig"
+  },
+  {
+    "cp": "👶🏿",
+    "tts": "babig : krocʼhen teñval"
+  },
+  {
+    "cp": "👸",
+    "tts": "priñsez"
+  },
+  {
+    "cp": "👸🏿",
+    "tts": "priñsez : krocʼhen teñval"
+  },
+  {
+    "cp": "👹",
+    "tts": "roñfl"
+  },
+  {
+    "cp": "👺",
+    "tts": "gobilin"
+  },
+  {
+    "cp": "👻",
+    "tts": "tasmant"
+  },
+  {
+    "cp": "👼",
+    "tts": "babig ael"
+  },
+  {
+    "cp": "👼🏿",
+    "tts": "babig ael : krocʼhen teñval"
+  },
+  {
+    "cp": "👽",
+    "tts": "ezdouarad"
+  },
+  {
+    "cp": "👾",
+    "tts": "euzhvil an egor"
+  },
+  {
+    "cp": "💀",
+    "tts": "klopenn"
+  },
+  {
+    "cp": "💂",
+    "tts": "gward"
+  },
+  {
+    "cp": "💂🏿",
+    "tts": "gward : krocʼhen teñval"
+  },
+  {
+    "cp": "💄",
+    "tts": "ruz-muzelloù"
+  },
+  {
+    "cp": "💈",
+    "tts": "barr-ti barver"
+  },
+  {
+    "cp": "💉",
+    "tts": "strinkell"
+  },
+  {
+    "cp": "💊",
+    "tts": "pilulenn"
+  },
+  {
+    "cp": "💍",
+    "tts": "gwalenn"
+  },
+  {
+    "cp": "💎",
+    "tts": "maen prizius"
+  },
+  {
+    "cp": "💐",
+    "tts": "boked bleunioù"
+  },
+  {
+    "cp": "💒",
+    "tts": "eured"
+  },
+  {
+    "cp": "💔",
+    "tts": "kalon rannet"
+  },
+  {
+    "cp": "💕",
+    "tts": "div galon"
+  },
+  {
+    "cp": "💙",
+    "tts": "kalon cʼhlas"
+  },
+  {
+    "cp": "💚",
+    "tts": "kalon wer"
+  },
+  {
+    "cp": "💛",
+    "tts": "kalon velen"
+  },
+  {
+    "cp": "💜",
+    "tts": "kalon limestra"
+  },
+  {
+    "cp": "💡",
+    "tts": "klogorenn"
+  },
+  {
+    "cp": "💣",
+    "tts": "bombezenn"
+  },
+  {
+    "cp": "💤",
+    "tts": "ZZZ"
+  },
+  {
+    "cp": "💥",
+    "tts": "tarzhadenn"
+  },
+  {
+    "cp": "💧",
+    "tts": "takenn"
+  },
+  {
+    "cp": "💩",
+    "tts": "bern kaocʼh"
+  },
+  {
+    "cp": "💪",
+    "tts": "kigenn daoubennek argrezet"
+  },
+  {
+    "cp": "💪🏿",
+    "tts": "kigenn daoubennek argrezet : krocʼhen teñval"
+  },
+  {
+    "cp": "💮",
+    "tts": "bleunienn wenn"
+  },
+  {
+    "cp": "💯",
+    "tts": "kant poent"
+  },
+  {
+    "cp": "💰",
+    "tts": "sacʼhad moneiz"
+  },
+  {
+    "cp": "💳",
+    "tts": "kartenn-vank"
+  },
+  {
+    "cp": "💴",
+    "tts": "bilhed e yenoù"
+  },
+  {
+    "cp": "💵",
+    "tts": "bilhed e dollaroù"
+  },
+  {
+    "cp": "💶",
+    "tts": "bilhed en euroioù"
+  },
+  {
+    "cp": "💷",
+    "tts": "bilhed e lurioù"
+  },
+  {
+    "cp": "💸",
+    "tts": "moneiz o nijal"
+  },
+  {
+    "cp": "💹",
+    "tts": "krommenn kreskiñ ar yen"
+  },
+  {
+    "cp": "💺",
+    "tts": "azezenn"
+  },
+  {
+    "cp": "💻",
+    "tts": "urzhiataer hezoug"
+  },
+  {
+    "cp": "💼",
+    "tts": "sakochenn"
+  },
+  {
+    "cp": "💽",
+    "tts": "pladenn urzhiater"
+  },
+  {
+    "cp": "💾",
+    "tts": "pladennig"
+  },
+  {
+    "cp": "💿",
+    "tts": "CD"
+  },
+  {
+    "cp": "📀",
+    "tts": "DVD"
+  },
+  {
+    "cp": "📁",
+    "tts": "kleurenn"
+  },
+  {
+    "cp": "📂",
+    "tts": "kleurenn digor"
+  },
+  {
+    "cp": "📃",
+    "tts": "pajenn rollet"
+  },
+  {
+    "cp": "📄",
+    "tts": "pajenn"
+  },
+  {
+    "cp": "📅",
+    "tts": "deiziadur"
+  },
+  {
+    "cp": "📆",
+    "tts": "deiziadur efemerid"
+  },
+  {
+    "cp": "📇",
+    "tts": "karned chomlecʼhioù"
+  },
+  {
+    "cp": "📈",
+    "tts": "krommenn kreskiñ"
+  },
+  {
+    "cp": "📉",
+    "tts": "krommenn digreskiñ"
+  },
+  {
+    "cp": "📊",
+    "tts": "diagramm barrennoù"
+  },
+  {
+    "cp": "📌",
+    "tts": "tach-meud"
+  },
+  {
+    "cp": "📍",
+    "tts": "tach-meud ront"
+  },
+  {
+    "cp": "📎",
+    "tts": "strobell"
+  },
+  {
+    "cp": "📏",
+    "tts": "reolenn"
+  },
+  {
+    "cp": "📐",
+    "tts": "skouer"
+  },
+  {
+    "cp": "📑",
+    "tts": "sinedoù"
+  },
+  {
+    "cp": "📒",
+    "tts": "marilh"
+  },
+  {
+    "cp": "📓",
+    "tts": "karned"
+  },
+  {
+    "cp": "📔",
+    "tts": "karned gant golo kinklet"
+  },
+  {
+    "cp": "📕",
+    "tts": "levr serr"
+  },
+  {
+    "cp": "📖",
+    "tts": "levr digor"
+  },
+  {
+    "cp": "📗",
+    "tts": "levr gwer"
+  },
+  {
+    "cp": "📘",
+    "tts": "levr glas"
+  },
+  {
+    "cp": "📙",
+    "tts": "levr orañjez"
+  },
+  {
+    "cp": "📚",
+    "tts": "levrioù"
+  },
+  {
+    "cp": "📛",
+    "tts": "badj-anv"
+  },
+  {
+    "cp": "📜",
+    "tts": "parchenn"
+  },
+  {
+    "cp": "📝",
+    "tts": "notennoù personel"
+  },
+  {
+    "cp": "📞",
+    "tts": "yevenn bellgomz"
+  },
+  {
+    "cp": "📟",
+    "tts": "galver"
+  },
+  {
+    "cp": "📠",
+    "tts": "pelleiler"
+  },
+  {
+    "cp": "📡",
+    "tts": "stign loarell"
+  },
+  {
+    "cp": "📢",
+    "tts": "uhelgomzer"
+  },
+  {
+    "cp": "📣",
+    "tts": "korn-mouezh"
+  },
+  {
+    "cp": "📦",
+    "tts": "pakad"
+  },
+  {
+    "cp": "📧",
+    "tts": "postel"
+  },
+  {
+    "cp": "📮",
+    "tts": "boest-lizheroù ar post"
+  },
+  {
+    "cp": "📯",
+    "tts": "korn ar paotr-marc’h"
+  },
+  {
+    "cp": "📰",
+    "tts": "kazetenn"
+  },
+  {
+    "cp": "📱",
+    "tts": "pellgomzer hezoug"
+  },
+  {
+    "cp": "📲",
+    "tts": "pellgomzer hezoug gant bir"
+  },
+  {
+    "cp": "📳",
+    "tts": "mod froumer"
+  },
+  {
+    "cp": "📴",
+    "tts": "pellgomzer lazhet"
+  },
+  {
+    "cp": "📵",
+    "tts": "pellgomzerioù difennet"
+  },
+  {
+    "cp": "📷",
+    "tts": "lucʼhskeudennerez"
+  },
+  {
+    "cp": "📸",
+    "tts": "lucʼhskeudennerez gant lucʼheder"
+  },
+  {
+    "cp": "📹",
+    "tts": "kamenroller"
+  },
+  {
+    "cp": "📺",
+    "tts": "skinwel"
+  },
+  {
+    "cp": "📻",
+    "tts": "skingomzer"
+  },
+  {
+    "cp": "📼",
+    "tts": "kasedig-video"
+  },
+  {
+    "cp": "📽",
+    "tts": "lucʼhvanner"
+  },
+  {
+    "cp": "📿",
+    "tts": "chapeled"
+  },
+  {
+    "cp": "🔀",
+    "tts": "bouton lenn mell-divell"
+  },
+  {
+    "cp": "🔁",
+    "tts": "bouton lenn en-dro"
+  },
+  {
+    "cp": "🔇",
+    "tts": "mut"
+  },
+  {
+    "cp": "🔋",
+    "tts": "pil"
+  },
+  {
+    "cp": "🔌",
+    "tts": "sankell dredan"
+  },
+  {
+    "cp": "🔍",
+    "tts": "gwerenn-greskiñ a-gleiz"
+  },
+  {
+    "cp": "🔎",
+    "tts": "gwerenn-greskiñ a-zehoù"
+  },
+  {
+    "cp": "🔏",
+    "tts": "kadranas serr gant stilo"
+  },
+  {
+    "cp": "🔐",
+    "tts": "kadranas serr gant alcʼhwez"
+  },
+  {
+    "cp": "🔑",
+    "tts": "alcʼhwez"
+  },
+  {
+    "cp": "🔒",
+    "tts": "kadranas serr"
+  },
+  {
+    "cp": "🔓",
+    "tts": "kadranas digor"
+  },
+  {
+    "cp": "🔔",
+    "tts": "kloc’h"
+  },
+  {
+    "cp": "🔖",
+    "tts": "merk-pajenn"
+  },
+  {
+    "cp": "🔗",
+    "tts": "mailh"
+  },
+  {
+    "cp": "🔘",
+    "tts": "bouton radio"
+  },
+  {
+    "cp": "🔠",
+    "tts": "bizskriv pennlizherennoù latin"
+  },
+  {
+    "cp": "🔡",
+    "tts": "bizskriv lizherennoù bihan latin"
+  },
+  {
+    "cp": "🔢",
+    "tts": "bizskriv niveroù"
+  },
+  {
+    "cp": "🔣",
+    "tts": "bizskriv arouezioù"
+  },
+  {
+    "cp": "🔤",
+    "tts": "bizskriv lizherennoù latin"
+  },
+  {
+    "cp": "🔥",
+    "tts": "tan"
+  },
+  {
+    "cp": "🔦",
+    "tts": "etev-goulaouiñ"
+  },
+  {
+    "cp": "🔧",
+    "tts": "alcʼhwez plat"
+  },
+  {
+    "cp": "🔨",
+    "tts": "morzhol"
+  },
+  {
+    "cp": "🔩",
+    "tts": "biñs ha kraouenn"
+  },
+  {
+    "cp": "🔪",
+    "tts": "kontell-gegin"
+  },
+  {
+    "cp": "🔫",
+    "tts": "pistolenn"
+  },
+  {
+    "cp": "🔬",
+    "tts": "mikroskop"
+  },
+  {
+    "cp": "🔭",
+    "tts": "teleskop"
+  },
+  {
+    "cp": "🔮",
+    "tts": "boulenn strink"
+  },
+  {
+    "cp": "🔯",
+    "tts": "steredenn cʼhwecʼh brecʼh"
+  },
+  {
+    "cp": "🔰",
+    "tts": "arouez japanat evit an deraouidi"
+  },
+  {
+    "cp": "🔱",
+    "tts": "tridant"
+  },
+  {
+    "cp": "🔶",
+    "tts": "romb bras orañjez"
+  },
+  {
+    "cp": "🔷",
+    "tts": "romb bras glas"
+  },
+  {
+    "cp": "🔸",
+    "tts": "romb bihan orañjez"
+  },
+  {
+    "cp": "🔹",
+    "tts": "romb bihan glas"
+  },
+  {
+    "cp": "🕉",
+    "tts": "om"
+  },
+  {
+    "cp": "🕊",
+    "tts": "koulm"
+  },
+  {
+    "cp": "🕋",
+    "tts": "kaaba"
+  },
+  {
+    "cp": "🕌",
+    "tts": "moskeenn"
+  },
+  {
+    "cp": "🕍",
+    "tts": "sinagogenn"
+  },
+  {
+    "cp": "🕎",
+    "tts": "menorah"
+  },
+  {
+    "cp": "🕐",
+    "tts": "un eur"
+  },
+  {
+    "cp": "🕑",
+    "tts": "div eur"
+  },
+  {
+    "cp": "🕒",
+    "tts": "teir eur"
+  },
+  {
+    "cp": "🕓",
+    "tts": "peder eur"
+  },
+  {
+    "cp": "🕔",
+    "tts": "pemp eur"
+  },
+  {
+    "cp": "🕕",
+    "tts": "cʼhwecʼh eur"
+  },
+  {
+    "cp": "🕖",
+    "tts": "seizh eur"
+  },
+  {
+    "cp": "🕗",
+    "tts": "eizh eur"
+  },
+  {
+    "cp": "🕘",
+    "tts": "nav eur"
+  },
+  {
+    "cp": "🕙",
+    "tts": "dek eur"
+  },
+  {
+    "cp": "🕚",
+    "tts": "unnek eur"
+  },
+  {
+    "cp": "🕛",
+    "tts": "kreisteiz/hanternoz"
+  },
+  {
+    "cp": "🕜",
+    "tts": "un eur hanter"
+  },
+  {
+    "cp": "🕝",
+    "tts": "div eur hanter"
+  },
+  {
+    "cp": "🕞",
+    "tts": "teir eur hanter"
+  },
+  {
+    "cp": "🕟",
+    "tts": "peder eur hanter"
+  },
+  {
+    "cp": "🕠",
+    "tts": "pemp eur hanter"
+  },
+  {
+    "cp": "🕡",
+    "tts": "cʼhwecʼh eur hanter"
+  },
+  {
+    "cp": "🕢",
+    "tts": "seizh eur hanter"
+  },
+  {
+    "cp": "🕣",
+    "tts": "eizh eur hanter"
+  },
+  {
+    "cp": "🕤",
+    "tts": "nav eur hanter"
+  },
+  {
+    "cp": "🕥",
+    "tts": "dek eur hanter"
+  },
+  {
+    "cp": "🕦",
+    "tts": "unnek eur hanter"
+  },
+  {
+    "cp": "🕧",
+    "tts": "kreisteiz/hanternoz hanter"
+  },
+  {
+    "cp": "🕯",
+    "tts": "goulaouenn"
+  },
+  {
+    "cp": "🕰",
+    "tts": "pandulenn"
+  },
+  {
+    "cp": "🕳",
+    "tts": "toull"
+  },
+  {
+    "cp": "🕵",
+    "tts": "igoun"
+  },
+  {
+    "cp": "🕵‍♀",
+    "tts": "igounierez"
+  },
+  {
+    "cp": "🕵‍♂",
+    "tts": "igounier"
+  },
+  {
+    "cp": "🕵🏿",
+    "tts": "igoun : krocʼhen teñval"
+  },
+  {
+    "cp": "🕵🏿‍♀",
+    "tts": "igounierez : krocʼhen teñval"
+  },
+  {
+    "cp": "🕵🏿‍♂",
+    "tts": "igounier : krocʼhen teñval"
+  },
+  {
+    "cp": "🕶",
+    "tts": "lunedoù-heol"
+  },
+  {
+    "cp": "🕷",
+    "tts": "kevnidenn"
+  },
+  {
+    "cp": "🕸",
+    "tts": "gwiad-kevnid"
+  },
+  {
+    "cp": "🕹",
+    "tts": "lanker cʼhoari"
+  },
+  {
+    "cp": "🖇",
+    "tts": "strobelloù"
+  },
+  {
+    "cp": "🖊",
+    "tts": "stilo"
+  },
+  {
+    "cp": "🖋",
+    "tts": "stilo pluenn"
+  },
+  {
+    "cp": "🖌",
+    "tts": "barr-livañ"
+  },
+  {
+    "cp": "🖍",
+    "tts": "kreion pastel"
+  },
+  {
+    "cp": "🖤",
+    "tts": "kalon zu"
+  },
+  {
+    "cp": "🖥",
+    "tts": "urzhiataer burev"
+  },
+  {
+    "cp": "🖨",
+    "tts": "moullerez"
+  },
+  {
+    "cp": "🖱",
+    "tts": "logodenn urzhiataer"
+  },
+  {
+    "cp": "🖼",
+    "tts": "skeudenn sterniet"
+  },
+  {
+    "cp": "🗂",
+    "tts": "dispartier"
+  },
+  {
+    "cp": "🗑",
+    "tts": "kest ar paper"
+  },
+  {
+    "cp": "🗒",
+    "tts": "blocʼh-notennoù gant troellennoù"
+  },
+  {
+    "cp": "🗓",
+    "tts": "deiziadur gant troellennoù"
+  },
+  {
+    "cp": "🗜",
+    "tts": "serjant"
+  },
+  {
+    "cp": "🗝",
+    "tts": "alcʼhwez kozh"
+  },
+  {
+    "cp": "🗞",
+    "tts": "kazetenn rollet"
+  },
+  {
+    "cp": "🗡",
+    "tts": "badalenn"
+  },
+  {
+    "cp": "🗳",
+    "tts": "mouezharcʼh"
+  },
+  {
+    "cp": "🗺",
+    "tts": "kartenn ar bed"
+  },
+  {
+    "cp": "🗻",
+    "tts": "menez Fuji"
+  },
+  {
+    "cp": "🗼",
+    "tts": "tour Tokyo"
+  },
+  {
+    "cp": "🗽",
+    "tts": "delwenn ar Frankiz"
+  },
+  {
+    "cp": "🗾",
+    "tts": "kartenn Japan"
+  },
+  {
+    "cp": "🗿",
+    "tts": "moai"
+  },
+  {
+    "cp": "🚀",
+    "tts": "fuzeenn"
+  },
+  {
+    "cp": "🚁",
+    "tts": "biñsaskell"
+  },
+  {
+    "cp": "🚂",
+    "tts": "stlejerez"
+  },
+  {
+    "cp": "🚃",
+    "tts": "bagon"
+  },
+  {
+    "cp": "🚄",
+    "tts": "TTB"
+  },
+  {
+    "cp": "🚅",
+    "tts": "tren tizh bras"
+  },
+  {
+    "cp": "🚆",
+    "tts": "tren"
+  },
+  {
+    "cp": "🚇",
+    "tts": "metro"
+  },
+  {
+    "cp": "🚈",
+    "tts": "metro skañv"
+  },
+  {
+    "cp": "🚉",
+    "tts": "porzh-houarn"
+  },
+  {
+    "cp": "🚊",
+    "tts": "tramgarr"
+  },
+  {
+    "cp": "🚋",
+    "tts": "bagon tramgarr"
+  },
+  {
+    "cp": "🚌",
+    "tts": "bus"
+  },
+  {
+    "cp": "🚎",
+    "tts": "trollebus"
+  },
+  {
+    "cp": "🚏",
+    "tts": "arsav bus"
+  },
+  {
+    "cp": "🚐",
+    "tts": "minibus"
+  },
+  {
+    "cp": "🚑",
+    "tts": "ambulañs"
+  },
+  {
+    "cp": "🚒",
+    "tts": "sammgarr pomperien"
+  },
+  {
+    "cp": "🚓",
+    "tts": "karr polis"
+  },
+  {
+    "cp": "🚕",
+    "tts": "taksi"
+  },
+  {
+    "cp": "🚗",
+    "tts": "karr-tan"
+  },
+  {
+    "cp": "🚚",
+    "tts": "karr-samm degas"
+  },
+  {
+    "cp": "🚛",
+    "tts": "sammgarr-ramoker"
+  },
+  {
+    "cp": "🚜",
+    "tts": "traktor"
+  },
+  {
+    "cp": "🚝",
+    "tts": "unroudenn"
+  },
+  {
+    "cp": "🚞",
+    "tts": "tren ar menezioù"
+  },
+  {
+    "cp": "🚟",
+    "tts": "fundren"
+  },
+  {
+    "cp": "🚠",
+    "tts": "fungarr"
+  },
+  {
+    "cp": "🚡",
+    "tts": "fundramgarr"
+  },
+  {
+    "cp": "🚢",
+    "tts": "lestr"
+  },
+  {
+    "cp": "🚤",
+    "tts": "bag herrek"
+  },
+  {
+    "cp": "🚨",
+    "tts": "letern-tro"
+  },
+  {
+    "cp": "🚩",
+    "tts": "banniel tricʼhornek"
+  },
+  {
+    "cp": "🚪",
+    "tts": "dor"
+  },
+  {
+    "cp": "🚫",
+    "tts": "berzet"
+  },
+  {
+    "cp": "🚬",
+    "tts": "sigaretenn"
+  },
+  {
+    "cp": "🚭",
+    "tts": "arabat butunat"
+  },
+  {
+    "cp": "🚮",
+    "tts": "arlun pod-lastez"
+  },
+  {
+    "cp": "🚯",
+    "tts": "arabat lakaat lastez"
+  },
+  {
+    "cp": "🚰",
+    "tts": "dour mat da evañ"
+  },
+  {
+    "cp": "🚱",
+    "tts": "dour fall da evañ"
+  },
+  {
+    "cp": "🚳",
+    "tts": "beloioù difennet"
+  },
+  {
+    "cp": "🚷",
+    "tts": "difennet dʼar gerzhourien"
+  },
+  {
+    "cp": "🚸",
+    "tts": "bugale o treuziñ"
+  },
+  {
+    "cp": "🚹",
+    "tts": "privezioù paotred"
+  },
+  {
+    "cp": "🚺",
+    "tts": "privezioù mercʼhed"
+  },
+  {
+    "cp": "🚻",
+    "tts": "golcʼhiri"
+  },
+  {
+    "cp": "🚼",
+    "tts": "arouez babig"
+  },
+  {
+    "cp": "🚽",
+    "tts": "privezioù"
+  },
+  {
+    "cp": "🚾",
+    "tts": "WC"
+  },
+  {
+    "cp": "🚿",
+    "tts": "strinkerez"
+  },
+  {
+    "cp": "🛁",
+    "tts": "kibell"
+  },
+  {
+    "cp": "🛂",
+    "tts": "kontroll paseporzhioù"
+  },
+  {
+    "cp": "🛃",
+    "tts": "maltouterezh"
+  },
+  {
+    "cp": "🛄",
+    "tts": "adtapout bagajoù"
+  },
+  {
+    "cp": "🛅",
+    "tts": "fizlecʼh"
+  },
+  {
+    "cp": "🛋",
+    "tts": "gourvezvank ha lamp"
+  },
+  {
+    "cp": "🛍",
+    "tts": "seier kabas"
+  },
+  {
+    "cp": "🛎",
+    "tts": "sonerez kontouer"
+  },
+  {
+    "cp": "🛏",
+    "tts": "gwele"
+  },
+  {
+    "cp": "🛐",
+    "tts": "lec’h azeuliñ"
+  },
+  {
+    "cp": "🛒",
+    "tts": "karrigell"
+  },
+  {
+    "cp": "🛕",
+    "tts": "templ hindou"
+  },
+  {
+    "cp": "🛖",
+    "tts": "foukenn"
+  },
+  {
+    "cp": "🛗",
+    "tts": "pignerez"
+  },
+  {
+    "cp": "🛘",
+    "tts": "riskladur douar"
+  },
+  {
+    "cp": "🛠",
+    "tts": "morzhol hag alcʼhwez plat"
+  },
+  {
+    "cp": "🛡",
+    "tts": "skoed"
+  },
+  {
+    "cp": "🛢",
+    "tts": "barilhad tireoul"
+  },
+  {
+    "cp": "🛣",
+    "tts": "gourhent"
+  },
+  {
+    "cp": "🛤",
+    "tts": "hent-houarn"
+  },
+  {
+    "cp": "🛥",
+    "tts": "bag-a-dan"
+  },
+  {
+    "cp": "🛩",
+    "tts": "karr-nij bihan"
+  },
+  {
+    "cp": "🛰",
+    "tts": "loarell"
+  },
+  {
+    "cp": "🛳",
+    "tts": "mordreizher"
+  },
+  {
+    "cp": "🛴",
+    "tts": "troterez"
+  },
+  {
+    "cp": "🛵",
+    "tts": "skouter"
+  },
+  {
+    "cp": "🛶",
+    "tts": "kanoe"
+  },
+  {
+    "cp": "🛷",
+    "tts": "luj"
+  },
+  {
+    "cp": "🛸",
+    "tts": "pladenn-nij"
+  },
+  {
+    "cp": "🛹",
+    "tts": "plankenn-ruilh"
+  },
+  {
+    "cp": "🛼",
+    "tts": "botez-ruilh"
+  },
+  {
+    "cp": "🟥",
+    "tts": "karrez ruz"
+  },
+  {
+    "cp": "🟦",
+    "tts": "karrez glas"
+  },
+  {
+    "cp": "🟧",
+    "tts": "karrez orañjez"
+  },
+  {
+    "cp": "🟨",
+    "tts": "karrez melen"
+  },
+  {
+    "cp": "🟩",
+    "tts": "karrez gwer"
+  },
+  {
+    "cp": "🟪",
+    "tts": "karrez limestra"
+  },
+  {
+    "cp": "🟫",
+    "tts": "karrez gell"
+  },
+  {
+    "cp": "🤍",
+    "tts": "kalon wenn"
+  },
+  {
+    "cp": "🤎",
+    "tts": "kalon cʼhell"
+  },
+  {
+    "cp": "🤖",
+    "tts": "robot"
+  },
+  {
+    "cp": "🤡",
+    "tts": "penn furlukin"
+  },
+  {
+    "cp": "🤳",
+    "tts": "emboltred"
+  },
+  {
+    "cp": "🤳🏿",
+    "tts": "emboltred : krocʼhen teñval"
+  },
+  {
+    "cp": "🤴",
+    "tts": "priñs"
+  },
+  {
+    "cp": "🤴🏿",
+    "tts": "priñs : krocʼhen teñval"
+  },
+  {
+    "cp": "🤶",
+    "tts": "Mamm Nedeleg"
+  },
+  {
+    "cp": "🤶🏿",
+    "tts": "Mamm Nedeleg : krocʼhen teñval"
+  },
+  {
+    "cp": "🤿",
+    "tts": "maskl-splujañ"
+  },
+  {
+    "cp": "🥀",
+    "tts": "boked goeñvet"
+  },
+  {
+    "cp": "🥁",
+    "tts": "taboulin"
+  },
+  {
+    "cp": "🥄",
+    "tts": "loa"
+  },
+  {
+    "cp": "🥅",
+    "tts": "kaoued-pal"
+  },
+  {
+    "cp": "🥇",
+    "tts": "medalenn aour"
+  },
+  {
+    "cp": "🥈",
+    "tts": "medalenn arcʼhant"
+  },
+  {
+    "cp": "🥉",
+    "tts": "medalenn arem"
+  },
+  {
+    "cp": "🥊",
+    "tts": "maneg boks"
+  },
+  {
+    "cp": "🥋",
+    "tts": "dilhad arzoù-emgannañ"
+  },
+  {
+    "cp": "🥌",
+    "tts": "maen curling"
+  },
+  {
+    "cp": "🥍",
+    "tts": "cʼhoari-horell"
+  },
+  {
+    "cp": "🥎",
+    "tts": "softball"
+  },
+  {
+    "cp": "🥏",
+    "tts": "frizbi"
+  },
+  {
+    "cp": "🥐",
+    "tts": "kornegenn"
+  },
+  {
+    "cp": "🥑",
+    "tts": "avoukez"
+  },
+  {
+    "cp": "🥒",
+    "tts": "kokombrez"
+  },
+  {
+    "cp": "🥓",
+    "tts": "bacon"
+  },
+  {
+    "cp": "🥔",
+    "tts": "aval-douar"
+  },
+  {
+    "cp": "🥕",
+    "tts": "karotez"
+  },
+  {
+    "cp": "🥖",
+    "tts": "baget"
+  },
+  {
+    "cp": "🥗",
+    "tts": "saladenn"
+  },
+  {
+    "cp": "🥘",
+    "tts": "meuz mitonet"
+  },
+  {
+    "cp": "🥙",
+    "tts": "kebab"
+  },
+  {
+    "cp": "🥚",
+    "tts": "vi"
+  },
+  {
+    "cp": "🥛",
+    "tts": "gwerennad laezh"
+  },
+  {
+    "cp": "🥜",
+    "tts": "kakaouetez"
+  },
+  {
+    "cp": "🥝",
+    "tts": "kiwi"
+  },
+  {
+    "cp": "🥞",
+    "tts": "krampouezh"
+  },
+  {
+    "cp": "🥟",
+    "tts": "pouloud"
+  },
+  {
+    "cp": "🥢",
+    "tts": "bizhier"
+  },
+  {
+    "cp": "🥣",
+    "tts": "bolennad gant loa"
+  },
+  {
+    "cp": "🥤",
+    "tts": "gobeled gant plouzenn"
+  },
+  {
+    "cp": "🥥",
+    "tts": "kraoñ-kokoz"
+  },
+  {
+    "cp": "🥦",
+    "tts": "brikoli"
+  },
+  {
+    "cp": "🥧",
+    "tts": "tartezenn"
+  },
+  {
+    "cp": "🥨",
+    "tts": "bretzel"
+  },
+  {
+    "cp": "🥩",
+    "tts": "tamm kig"
+  },
+  {
+    "cp": "🥪",
+    "tts": "sandwich"
+  },
+  {
+    "cp": "🥫",
+    "tts": "boued-mir"
+  },
+  {
+    "cp": "🥬",
+    "tts": "legumaj glas"
+  },
+  {
+    "cp": "🥭",
+    "tts": "mangez"
+  },
+  {
+    "cp": "🥮",
+    "tts": "gwastell-loar"
+  },
+  {
+    "cp": "🥯",
+    "tts": "bagel"
+  },
+  {
+    "cp": "🥷",
+    "tts": "ninja"
+  },
+  {
+    "cp": "🥷🏿",
+    "tts": "ninja : krocʼhen teñval"
+  },
+  {
+    "cp": "🥻",
+    "tts": "sari"
+  },
+  {
+    "cp": "🥼",
+    "tts": "flotantenn wenn"
+  },
+  {
+    "cp": "🥽",
+    "tts": "lunedoù-kouronkañ"
+  },
+  {
+    "cp": "🥾",
+    "tts": "botez bale"
+  },
+  {
+    "cp": "🦀",
+    "tts": "krank"
+  },
+  {
+    "cp": "🦁",
+    "tts": "leon"
+  },
+  {
+    "cp": "🦂",
+    "tts": "krug"
+  },
+  {
+    "cp": "🦃",
+    "tts": "kog-Spagn"
+  },
+  {
+    "cp": "🦄",
+    "tts": "unkorneg"
+  },
+  {
+    "cp": "🦅",
+    "tts": "erer"
+  },
+  {
+    "cp": "🦆",
+    "tts": "houad"
+  },
+  {
+    "cp": "🦇",
+    "tts": "logodenn-zall"
+  },
+  {
+    "cp": "🦈",
+    "tts": "rinkin"
+  },
+  {
+    "cp": "🦉",
+    "tts": "kaouenn"
+  },
+  {
+    "cp": "🦊",
+    "tts": "louarn"
+  },
+  {
+    "cp": "🦋",
+    "tts": "balafenn"
+  },
+  {
+    "cp": "🦌",
+    "tts": "karv"
+  },
+  {
+    "cp": "🦍",
+    "tts": "gorilh"
+  },
+  {
+    "cp": "🦎",
+    "tts": "glazard"
+  },
+  {
+    "cp": "🦏",
+    "tts": "frikorneg"
+  },
+  {
+    "cp": "🦐",
+    "tts": "chevr"
+  },
+  {
+    "cp": "🦑",
+    "tts": "stivell"
+  },
+  {
+    "cp": "🦒",
+    "tts": "jirafenn"
+  },
+  {
+    "cp": "🦓",
+    "tts": "roudenneg"
+  },
+  {
+    "cp": "🦔",
+    "tts": "heureuchin"
+  },
+  {
+    "cp": "🦕",
+    "tts": "saoropod"
+  },
+  {
+    "cp": "🦖",
+    "tts": "tiranosaor roue"
+  },
+  {
+    "cp": "🦗",
+    "tts": "krank-raden"
+  },
+  {
+    "cp": "🦘",
+    "tts": "kangourou"
+  },
+  {
+    "cp": "🦙",
+    "tts": "lama"
+  },
+  {
+    "cp": "🦚",
+    "tts": "paun"
+  },
+  {
+    "cp": "🦛",
+    "tts": "dourvarc’h"
+  },
+  {
+    "cp": "🦜",
+    "tts": "peroked"
+  },
+  {
+    "cp": "🦝",
+    "tts": "rakoun"
+  },
+  {
+    "cp": "🦞",
+    "tts": "legestr"
+  },
+  {
+    "cp": "🦟",
+    "tts": "moustik"
+  },
+  {
+    "cp": "🦠",
+    "tts": "mikrob"
+  },
+  {
+    "cp": "🦡",
+    "tts": "brocʼh"
+  },
+  {
+    "cp": "🦢",
+    "tts": "alarcʼh"
+  },
+  {
+    "cp": "🦣",
+    "tts": "mammout"
+  },
+  {
+    "cp": "🦤",
+    "tts": "dodo"
+  },
+  {
+    "cp": "🦥",
+    "tts": "lezireg"
+  },
+  {
+    "cp": "🦦",
+    "tts": "dourgi"
+  },
+  {
+    "cp": "🦧",
+    "tts": "orangoutan"
+  },
+  {
+    "cp": "🦨",
+    "tts": "skoñs"
+  },
+  {
+    "cp": "🦩",
+    "tts": "flammeg"
+  },
+  {
+    "cp": "🦪",
+    "tts": "istr"
+  },
+  {
+    "cp": "🦫",
+    "tts": "avank"
+  },
+  {
+    "cp": "🦬",
+    "tts": "bizon"
+  },
+  {
+    "cp": "🦭",
+    "tts": "reunig"
+  },
+  {
+    "cp": "🦮",
+    "tts": "ki-heñchañ"
+  },
+  {
+    "cp": "🦰",
+    "tts": "blev ruz"
+  },
+  {
+    "cp": "🦱",
+    "tts": "blev rodellek"
+  },
+  {
+    "cp": "🦲",
+    "tts": "moal"
+  },
+  {
+    "cp": "🦳",
+    "tts": "blev gwenn"
+  },
+  {
+    "cp": "🦴",
+    "tts": "askorn"
+  },
+  {
+    "cp": "🦵",
+    "tts": "gar"
+  },
+  {
+    "cp": "🦵🏿",
+    "tts": "gar : krocʼhen teñval"
+  },
+  {
+    "cp": "🦶",
+    "tts": "troad"
+  },
+  {
+    "cp": "🦶🏿",
+    "tts": "troad : krocʼhen teñval"
+  },
+  {
+    "cp": "🦷",
+    "tts": "dant"
+  },
+  {
+    "cp": "🦸",
+    "tts": "gourharoz"
+  },
+  {
+    "cp": "🦸🏿",
+    "tts": "gourharoz : krocʼhen teñval"
+  },
+  {
+    "cp": "🦺",
+    "tts": "jiletenn surentez"
+  },
+  {
+    "cp": "🦾",
+    "tts": "brecʼh vekanikel"
+  },
+  {
+    "cp": "🦿",
+    "tts": "gar vekanikel"
+  },
+  {
+    "cp": "🧀",
+    "tts": "tamm formaj-laezh"
+  },
+  {
+    "cp": "🧁",
+    "tts": "gwastellig"
+  },
+  {
+    "cp": "🧂",
+    "tts": "holen"
+  },
+  {
+    "cp": "🧃",
+    "tts": "brikennigad evaj"
+  },
+  {
+    "cp": "🧄",
+    "tts": "kignen"
+  },
+  {
+    "cp": "🧅",
+    "tts": "ognon"
+  },
+  {
+    "cp": "🧆",
+    "tts": "falafel"
+  },
+  {
+    "cp": "🧇",
+    "tts": "galfrez"
+  },
+  {
+    "cp": "🧈",
+    "tts": "amann"
+  },
+  {
+    "cp": "🧉",
+    "tts": "mate"
+  },
+  {
+    "cp": "🧊",
+    "tts": "skornenn"
+  },
+  {
+    "cp": "🧑",
+    "tts": "den deuet"
+  },
+  {
+    "cp": "🧑‍🎤",
+    "tts": "den a gan"
+  },
+  {
+    "cp": "🧑‍🦰",
+    "tts": "den deuet : blev ruz"
+  },
+  {
+    "cp": "🧑‍🦱",
+    "tts": "den deuet : blev rodellek"
+  },
+  {
+    "cp": "🧑‍🦲",
+    "tts": "den deuet : moal"
+  },
+  {
+    "cp": "🧑‍🦳",
+    "tts": "den deuet : blev gwenn"
+  },
+  {
+    "cp": "🧑🏿",
+    "tts": "den deuet : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🎤",
+    "tts": "den a gan : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🦰",
+    "tts": "den deuet : krocʼhen teñval, blev ruz"
+  },
+  {
+    "cp": "🧑🏿‍🦱",
+    "tts": "den deuet : krocʼhen teñval, blev rodellek"
+  },
+  {
+    "cp": "🧑🏿‍🦲",
+    "tts": "den deuet : krocʼhen teñval, moal"
+  },
+  {
+    "cp": "🧑🏿‍🦳",
+    "tts": "den deuet : krocʼhen teñval, blev gwenn"
+  },
+  {
+    "cp": "🧒",
+    "tts": "bugel"
+  },
+  {
+    "cp": "🧒🏿",
+    "tts": "bugel : krocʼhen teñval"
+  },
+  {
+    "cp": "🧓",
+    "tts": "den kozh"
+  },
+  {
+    "cp": "🧓🏿",
+    "tts": "den kozh : krocʼhen teñval"
+  },
+  {
+    "cp": "🧙",
+    "tts": "maj"
+  },
+  {
+    "cp": "🧙‍♀",
+    "tts": "hudourez"
+  },
+  {
+    "cp": "🧙‍♂",
+    "tts": "hudour"
+  },
+  {
+    "cp": "🧙🏿",
+    "tts": "maj : krocʼhen teñval"
+  },
+  {
+    "cp": "🧙🏿‍♀",
+    "tts": "hudourez : krocʼhen teñval"
+  },
+  {
+    "cp": "🧙🏿‍♂",
+    "tts": "hudour : krocʼhen teñval"
+  },
+  {
+    "cp": "🧚",
+    "tts": "boudig"
+  },
+  {
+    "cp": "🧚🏿",
+    "tts": "boudig : krocʼhen teñval"
+  },
+  {
+    "cp": "🧛",
+    "tts": "suner/ez-gwad"
+  },
+  {
+    "cp": "🧛‍♀",
+    "tts": "sunerez-gwad"
+  },
+  {
+    "cp": "🧛‍♂",
+    "tts": "suner-gwad"
+  },
+  {
+    "cp": "🧛🏿",
+    "tts": "suner/ez-gwad : krocʼhen teñval"
+  },
+  {
+    "cp": "🧛🏿‍♀",
+    "tts": "sunerez-gwad : krocʼhen teñval"
+  },
+  {
+    "cp": "🧛🏿‍♂",
+    "tts": "suner-gwad : krocʼhen teñval"
+  },
+  {
+    "cp": "🧜‍♀",
+    "tts": "morganez"
+  },
+  {
+    "cp": "🧜‍♂",
+    "tts": "morgan"
+  },
+  {
+    "cp": "🧜🏿‍♀",
+    "tts": "morganez : krocʼhen teñval"
+  },
+  {
+    "cp": "🧜🏿‍♂",
+    "tts": "morgan : krocʼhen teñval"
+  },
+  {
+    "cp": "🧝‍♀",
+    "tts": "elfez"
+  },
+  {
+    "cp": "🧝‍♂",
+    "tts": "elf"
+  },
+  {
+    "cp": "🧝🏿‍♀",
+    "tts": "elfez : krocʼhen teñval"
+  },
+  {
+    "cp": "🧝🏿‍♂",
+    "tts": "elf : krocʼhen teñval"
+  },
+  {
+    "cp": "🧟‍♀",
+    "tts": "zombiez"
+  },
+  {
+    "cp": "🧟‍♂",
+    "tts": "zombi"
+  },
+  {
+    "cp": "🧠",
+    "tts": "empenn"
+  },
+  {
+    "cp": "🧡",
+    "tts": "kalon orañjez"
+  },
+  {
+    "cp": "🧢",
+    "tts": "kasketenn amerikan"
+  },
+  {
+    "cp": "🧣",
+    "tts": "skerb"
+  },
+  {
+    "cp": "🧤",
+    "tts": "manegoù"
+  },
+  {
+    "cp": "🧥",
+    "tts": "mantell"
+  },
+  {
+    "cp": "🧦",
+    "tts": "loeroù"
+  },
+  {
+    "cp": "🧧",
+    "tts": "golo ruz"
+  },
+  {
+    "cp": "🧨",
+    "tts": "strakerez"
+  },
+  {
+    "cp": "🧩",
+    "tts": "miltamm"
+  },
+  {
+    "cp": "🧪",
+    "tts": "pibenn amprou"
+  },
+  {
+    "cp": "🧫",
+    "tts": "boest Petri"
+  },
+  {
+    "cp": "🧬",
+    "tts": "TDN"
+  },
+  {
+    "cp": "🧭",
+    "tts": "nadoz-vor"
+  },
+  {
+    "cp": "🧮",
+    "tts": "boulaoueg"
+  },
+  {
+    "cp": "🧯",
+    "tts": "mouger-tan"
+  },
+  {
+    "cp": "🧰",
+    "tts": "boest-ostilhoù"
+  },
+  {
+    "cp": "🧱",
+    "tts": "brikenn"
+  },
+  {
+    "cp": "🧲",
+    "tts": "gwarell"
+  },
+  {
+    "cp": "🧳",
+    "tts": "bagaj"
+  },
+  {
+    "cp": "🧴",
+    "tts": "boutailhad golcʼhad"
+  },
+  {
+    "cp": "🧵",
+    "tts": "kanellad neud"
+  },
+  {
+    "cp": "🧶",
+    "tts": "pellenn neud"
+  },
+  {
+    "cp": "🧷",
+    "tts": "spilhenn-alcʼhwez"
+  },
+  {
+    "cp": "🧸",
+    "tts": "arzh-feur"
+  },
+  {
+    "cp": "🧹",
+    "tts": "skubellenn"
+  },
+  {
+    "cp": "🧺",
+    "tts": "paner"
+  },
+  {
+    "cp": "🧻",
+    "tts": "roll paper"
+  },
+  {
+    "cp": "🧼",
+    "tts": "soavon"
+  },
+  {
+    "cp": "🧽",
+    "tts": "spoueenn"
+  },
+  {
+    "cp": "🧾",
+    "tts": "skrid-degemer"
+  },
+  {
+    "cp": "🧿",
+    "tts": "amuzetez nazar"
+  },
+  {
+    "cp": "🩱",
+    "tts": "sae-gouronkañ unpezh"
+  },
+  {
+    "cp": "🩲",
+    "tts": "slip"
+  },
+  {
+    "cp": "🩳",
+    "tts": "bragoù-berr"
+  },
+  {
+    "cp": "🩴",
+    "tts": "tong"
+  },
+  {
+    "cp": "🩸",
+    "tts": "takenn wad"
+  },
+  {
+    "cp": "🩹",
+    "tts": "lienad-peg"
+  },
+  {
+    "cp": "🩺",
+    "tts": "stetoskop"
+  },
+  {
+    "cp": "🪀",
+    "tts": "pun-dibun"
+  },
+  {
+    "cp": "🪁",
+    "tts": "sarpant-nij"
+  },
+  {
+    "cp": "🪂",
+    "tts": "harz-lamm"
+  },
+  {
+    "cp": "🪃",
+    "tts": "boumerang"
+  },
+  {
+    "cp": "🪄",
+    "tts": "gwialenn-hud"
+  },
+  {
+    "cp": "🪅",
+    "tts": "piñata"
+  },
+  {
+    "cp": "🪆",
+    "tts": "matriochka"
+  },
+  {
+    "cp": "🪊",
+    "tts": "trombon"
+  },
+  {
+    "cp": "🪐",
+    "tts": "planedenn gant gwalennoù"
+  },
+  {
+    "cp": "🪑",
+    "tts": "kador"
+  },
+  {
+    "cp": "🪒",
+    "tts": "aotenn"
+  },
+  {
+    "cp": "🪓",
+    "tts": "boucʼhal"
+  },
+  {
+    "cp": "🪔",
+    "tts": "diya"
+  },
+  {
+    "cp": "🪕",
+    "tts": "banjo"
+  },
+  {
+    "cp": "🪖",
+    "tts": "tokarn soudard"
+  },
+  {
+    "cp": "🪗",
+    "tts": "akordeoñs"
+  },
+  {
+    "cp": "🪘",
+    "tts": "djembe"
+  },
+  {
+    "cp": "🪙",
+    "tts": "pezh moneiz"
+  },
+  {
+    "cp": "🪚",
+    "tts": "heskenn"
+  },
+  {
+    "cp": "🪛",
+    "tts": "troer-biñsoù"
+  },
+  {
+    "cp": "🪜",
+    "tts": "skeul"
+  },
+  {
+    "cp": "🪝",
+    "tts": "krog"
+  },
+  {
+    "cp": "🪞",
+    "tts": "melezour"
+  },
+  {
+    "cp": "🪟",
+    "tts": "prenestr"
+  },
+  {
+    "cp": "🪠",
+    "tts": "mandoz"
+  },
+  {
+    "cp": "🪡",
+    "tts": "nadoz da wriat"
+  },
+  {
+    "cp": "🪢",
+    "tts": "skoulm"
+  },
+  {
+    "cp": "🪣",
+    "tts": "sailh"
+  },
+  {
+    "cp": "🪤",
+    "tts": "logotouer"
+  },
+  {
+    "cp": "🪥",
+    "tts": "broust-dent"
+  },
+  {
+    "cp": "🪦",
+    "tts": "maen-bez"
+  },
+  {
+    "cp": "🪨",
+    "tts": "rocʼh"
+  },
+  {
+    "cp": "🪰",
+    "tts": "kelienenn"
+  },
+  {
+    "cp": "🪱",
+    "tts": "buzhugenn"
+  },
+  {
+    "cp": "🪲",
+    "tts": "cʼhwil"
+  },
+  {
+    "cp": "🪳",
+    "tts": "cʼhwil-du"
+  },
+  {
+    "cp": "🪴",
+    "tts": "plantenn podet"
+  },
+  {
+    "cp": "🪵",
+    "tts": "koad"
+  },
+  {
+    "cp": "🪶",
+    "tts": "pluenn"
+  },
+  {
+    "cp": "🫀",
+    "tts": "kalon korfadurel"
+  },
+  {
+    "cp": "🫁",
+    "tts": "skevent"
+  },
+  {
+    "cp": "🫍",
+    "tts": "skoazog"
+  },
+  {
+    "cp": "🫐",
+    "tts": "lus"
+  },
+  {
+    "cp": "🫑",
+    "tts": "skilbebr"
+  },
+  {
+    "cp": "🫒",
+    "tts": "olivez"
+  },
+  {
+    "cp": "🫓",
+    "tts": "galetez"
+  },
+  {
+    "cp": "🫔",
+    "tts": "tamal"
+  },
+  {
+    "cp": "🫕",
+    "tts": "teuzadell"
+  },
+  {
+    "cp": "🫖",
+    "tts": "pod-te"
+  }
+]

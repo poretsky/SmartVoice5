@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="@string/voice_prefs"
+        android:key="@string/voice_prefs_key">
+
+        <tts.smartvoice.ui.Slider
+            android:title="@string/volume_setting"
+            android:key="@string/volume_key"
+            android:max="@integer/volume_max"
+            android:defaultValue="@integer/volume_value"
+            android:persistent="true"
+            app:iconSpaceReserved="false" />
+
+        <tts.smartvoice.ui.Slider
+            android:title="@string/rate_setting"
+            android:key="@string/rate_key"
+            android:max="@integer/rate_max"
+            android:defaultValue="@integer/rate_value"
+            android:persistent="true"
+            app:iconSpaceReserved="false" />
+
+        <tts.smartvoice.ui.Slider
+            android:title="@string/pitch_setting"
+            android:key="@string/pitch_key"
+            android:max="@integer/pitch_max"
+            android:defaultValue="@integer/pitch_value"
+            android:persistent="true"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,37 @@
+An array of ~250,000 Spanish words
+https://github.com/words/an-array-of-spanish-words
+
+A text file containing over 466k English words
+https://github.com/dwyl/english-words
+
+A list of the 10,000 most common English words
+https://github.com/first20hours/google-10000-english
+
+TypingAid is a simple, compact, and handy auto-completion utility
+https://github.com/ManiacDC/TypingAid
+
+Python library for looking up the frequencies of words in many
+languages, based on many sources of data
+https://github.com/LuminosoInsight/wordfreq
+https://github.com/LuminosoInsight/exquisite-corpus
+
+Repository for Frequency Word List Generator and processed files
+https://github.com/hermitdave/FrequencyWords
+
+Most common words by language
+https://github.com/oprogramador/most-common-words-by-language
+
+Gson documentation
+https://static.javadoc.io/com.google.code.gson/gson/2.8.5/index.html
+
+Bloom filter implementation
+https://github.com/Baqend/Orestes-Bloomfilter
+
+Re2 java implementation
+https://github.com/google/re2j
+
+Base64 codec library
+https://repository.fit2cloud.com/content/service/rest/repository/browse/public/net/iharder/base64/2.3.8/
+
+About language detection
+https://dzen.ru/a/ZFbAZsk6vUrSZKvS

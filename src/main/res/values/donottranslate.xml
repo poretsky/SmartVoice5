@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartVoice</string>
+    <string name="pref_voices_key">voices</string>
+    <string name="pref_languages_auto_key">autodetect</string>
+    <string name="pref_languages_sticky_key">sticky</string>
+    <string name="volume_key">volume</string>
+    <string name="rate_key">rate</string>
+    <string name="pitch_key">pitch</string>
+    <string name="intonation_key">intonation</string>
+    <string name="interclause_gap_key">interclause_gap</string>
+    <string name="log_text_key">log_text</string>
+    <string name="use_default_locale_key">use_default_locale</string>
+    <string name="latinic_fallback_key">latinic_fallback</string>
+    <string name="cyrillic_fallback_key">cyrillic_fallback</string>
+    <string name="cjk_fallback_key">cjk_fallback</string>
+    <string name="numeric_language_key">numeric_language</string>
+    <string name="value_system">system</string>
+    <string name="voice_preference_key_format">%1$s_%2$s</string>
+    <string name="voice_key">voice</string>
+    <string name="action_list_voices">tts.smartvoice.ACTION_LIST_VOICES</string>
+    <string name="voice_prefs_key">voice_prefs</string>
+    <string name="language_detection_order_key">language_detection_order</string>
+    <string name="one_voice_per_message_key">one_voice_per_message</string>
+    <string name="use_only_default_or_requested_voice_key">use_only_default_or_requested_voice</string>
+    <string name="quick_control_widget_option_key">quick_control_widget</string>
+    <string name="pref_use_rulex_key">ru_synth_use_rulex</string>
+    <string name="pref_decimal_comma_key">decimal_comma</string>
+    <string name="pref_decimal_point_key">decimal_point</string>
+    <string name="pref_speak_quotes_key">speak_quotes</string>
+    <string name="pref_speak_parenthesis_key">speak_parenthesis</string>
+    <string name="pref_ignore_emoticons_key">ignore_emoticons</string>
+    <string name="pref_emoji_voice_key">emoji_voice</string>
+    <string name="notification_channel_name">SmartVoice</string>
+</resources>

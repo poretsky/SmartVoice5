@@ -1,0 +1,1578 @@
+[
+  {
+    "cp": "¤",
+    "tts": "moneta incognite"
+  },
+  {
+    "cp": "֏",
+    "tts": "dram armenie"
+  },
+  {
+    "cp": "؋",
+    "tts": "afghani"
+  },
+  {
+    "cp": "৳",
+    "tts": "taka bengalese"
+  },
+  {
+    "cp": "฿",
+    "tts": "baht thailandese"
+  },
+  {
+    "cp": "៛",
+    "tts": "riel cambodgian"
+  },
+  {
+    "cp": "₡",
+    "tts": "colon costarican"
+  },
+  {
+    "cp": "₦",
+    "tts": "naira nigerian"
+  },
+  {
+    "cp": "₪",
+    "tts": "nove shekel israeli"
+  },
+  {
+    "cp": "₫",
+    "tts": "dong vietnamese"
+  },
+  {
+    "cp": "₭",
+    "tts": "kip laotian"
+  },
+  {
+    "cp": "₮",
+    "tts": "tugrik mongol"
+  },
+  {
+    "cp": "₲",
+    "tts": "guarani paraguayan"
+  },
+  {
+    "cp": "₴",
+    "tts": "hryvnia ukrainian"
+  },
+  {
+    "cp": "₵",
+    "tts": "cedi ghanese"
+  },
+  {
+    "cp": "₸",
+    "tts": "tenge kazakh"
+  },
+  {
+    "cp": "₺",
+    "tts": "lira turc"
+  },
+  {
+    "cp": "₼",
+    "tts": "manat azeri"
+  },
+  {
+    "cp": "₾",
+    "tts": "lari georgian"
+  },
+  {
+    "cp": "♿",
+    "tts": "symbolo de sedia rolante"
+  },
+  {
+    "cp": "⚠",
+    "tts": "aviso"
+  },
+  {
+    "cp": "⛔",
+    "tts": "entrata prohibite"
+  },
+  {
+    "cp": "✖",
+    "tts": "multiplication"
+  },
+  {
+    "cp": "➕",
+    "tts": "plus"
+  },
+  {
+    "cp": "➖",
+    "tts": "minus"
+  },
+  {
+    "cp": "➗",
+    "tts": "division"
+  },
+  {
+    "cp": "🇦🇨",
+    "tts": "bandiera: Insula del Ascension"
+  },
+  {
+    "cp": "🇦🇩",
+    "tts": "bandiera: Andorra"
+  },
+  {
+    "cp": "🇦🇪",
+    "tts": "bandiera: Emiratos Arabe Unite"
+  },
+  {
+    "cp": "🇦🇫",
+    "tts": "bandiera: Afghanistan"
+  },
+  {
+    "cp": "🇦🇬",
+    "tts": "bandiera: Antigua e Barbuda"
+  },
+  {
+    "cp": "🇦🇮",
+    "tts": "bandiera: Anguilla"
+  },
+  {
+    "cp": "🇦🇱",
+    "tts": "bandiera: Albania"
+  },
+  {
+    "cp": "🇦🇲",
+    "tts": "bandiera: Armenia"
+  },
+  {
+    "cp": "🇦🇴",
+    "tts": "bandiera: Angola"
+  },
+  {
+    "cp": "🇦🇶",
+    "tts": "bandiera: Antarctica"
+  },
+  {
+    "cp": "🇦🇷",
+    "tts": "bandiera: Argentina"
+  },
+  {
+    "cp": "🇦🇸",
+    "tts": "bandiera: Samoa american"
+  },
+  {
+    "cp": "🇦🇹",
+    "tts": "bandiera: Austria"
+  },
+  {
+    "cp": "🇦🇺",
+    "tts": "bandiera: Australia"
+  },
+  {
+    "cp": "🇦🇼",
+    "tts": "bandiera: Aruba"
+  },
+  {
+    "cp": "🇦🇽",
+    "tts": "bandiera: Insulas Åland"
+  },
+  {
+    "cp": "🇦🇿",
+    "tts": "bandiera: Azerbaidzhan"
+  },
+  {
+    "cp": "🇧🇦",
+    "tts": "bandiera: Bosnia e Herzegovina"
+  },
+  {
+    "cp": "🇧🇧",
+    "tts": "bandiera: Barbados"
+  },
+  {
+    "cp": "🇧🇩",
+    "tts": "bandiera: Bangladesh"
+  },
+  {
+    "cp": "🇧🇪",
+    "tts": "bandiera: Belgica"
+  },
+  {
+    "cp": "🇧🇫",
+    "tts": "bandiera: Burkina Faso"
+  },
+  {
+    "cp": "🇧🇬",
+    "tts": "bandiera: Bulgaria"
+  },
+  {
+    "cp": "🇧🇭",
+    "tts": "bandiera: Bahrain"
+  },
+  {
+    "cp": "🇧🇮",
+    "tts": "bandiera: Burundi"
+  },
+  {
+    "cp": "🇧🇯",
+    "tts": "bandiera: Benin"
+  },
+  {
+    "cp": "🇧🇱",
+    "tts": "bandiera: Sancte Bartholomeo"
+  },
+  {
+    "cp": "🇧🇲",
+    "tts": "bandiera: Bermuda"
+  },
+  {
+    "cp": "🇧🇳",
+    "tts": "bandiera: Brunei"
+  },
+  {
+    "cp": "🇧🇴",
+    "tts": "bandiera: Bolivia"
+  },
+  {
+    "cp": "🇧🇶",
+    "tts": "bandiera: Paises Basse caribe"
+  },
+  {
+    "cp": "🇧🇷",
+    "tts": "bandiera: Brasil"
+  },
+  {
+    "cp": "🇧🇸",
+    "tts": "bandiera: Bahamas"
+  },
+  {
+    "cp": "🇧🇹",
+    "tts": "bandiera: Bhutan"
+  },
+  {
+    "cp": "🇧🇻",
+    "tts": "bandiera: Insula de Bouvet"
+  },
+  {
+    "cp": "🇧🇼",
+    "tts": "bandiera: Botswana"
+  },
+  {
+    "cp": "🇧🇾",
+    "tts": "bandiera: Bielorussia"
+  },
+  {
+    "cp": "🇧🇿",
+    "tts": "bandiera: Belize"
+  },
+  {
+    "cp": "🇨🇦",
+    "tts": "bandiera: Canada"
+  },
+  {
+    "cp": "🇨🇨",
+    "tts": "bandiera: Insulas Cocos (Keeling)"
+  },
+  {
+    "cp": "🇨🇩",
+    "tts": "bandiera: Congo - Kinshasa"
+  },
+  {
+    "cp": "🇨🇫",
+    "tts": "bandiera: Republica African Central"
+  },
+  {
+    "cp": "🇨🇬",
+    "tts": "bandiera: Congo - Brazzaville"
+  },
+  {
+    "cp": "🇨🇭",
+    "tts": "bandiera: Suissa"
+  },
+  {
+    "cp": "🇨🇮",
+    "tts": "bandiera: Costa de Ebore"
+  },
+  {
+    "cp": "🇨🇰",
+    "tts": "bandiera: Insulas Cook"
+  },
+  {
+    "cp": "🇨🇱",
+    "tts": "bandiera: Chile"
+  },
+  {
+    "cp": "🇨🇲",
+    "tts": "bandiera: Camerun"
+  },
+  {
+    "cp": "🇨🇳",
+    "tts": "bandiera: China"
+  },
+  {
+    "cp": "🇨🇴",
+    "tts": "bandiera: Colombia"
+  },
+  {
+    "cp": "🇨🇵",
+    "tts": "bandiera: Insula Clipperton"
+  },
+  {
+    "cp": "🇨🇶",
+    "tts": "bandiera: Sark"
+  },
+  {
+    "cp": "🇨🇷",
+    "tts": "bandiera: Costa Rica"
+  },
+  {
+    "cp": "🇨🇺",
+    "tts": "bandiera: Cuba"
+  },
+  {
+    "cp": "🇨🇻",
+    "tts": "bandiera: Capo Verde"
+  },
+  {
+    "cp": "🇨🇼",
+    "tts": "bandiera: Curaçao"
+  },
+  {
+    "cp": "🇨🇽",
+    "tts": "bandiera: Insula de Natal"
+  },
+  {
+    "cp": "🇨🇾",
+    "tts": "bandiera: Cypro"
+  },
+  {
+    "cp": "🇨🇿",
+    "tts": "bandiera: Chechia"
+  },
+  {
+    "cp": "🇩🇪",
+    "tts": "bandiera: Germania"
+  },
+  {
+    "cp": "🇩🇬",
+    "tts": "bandiera: Diego Garcia"
+  },
+  {
+    "cp": "🇩🇯",
+    "tts": "bandiera: Djibuti"
+  },
+  {
+    "cp": "🇩🇰",
+    "tts": "bandiera: Danmark"
+  },
+  {
+    "cp": "🇩🇲",
+    "tts": "bandiera: Dominica"
+  },
+  {
+    "cp": "🇩🇴",
+    "tts": "bandiera: Republica Dominican"
+  },
+  {
+    "cp": "🇩🇿",
+    "tts": "bandiera: Algeria"
+  },
+  {
+    "cp": "🇪🇦",
+    "tts": "bandiera: Ceuta e Melilla"
+  },
+  {
+    "cp": "🇪🇨",
+    "tts": "bandiera: Ecuador"
+  },
+  {
+    "cp": "🇪🇪",
+    "tts": "bandiera: Estonia"
+  },
+  {
+    "cp": "🇪🇬",
+    "tts": "bandiera: Egypto"
+  },
+  {
+    "cp": "🇪🇭",
+    "tts": "bandiera: Sahara occidental"
+  },
+  {
+    "cp": "🇪🇷",
+    "tts": "bandiera: Eritrea"
+  },
+  {
+    "cp": "🇪🇸",
+    "tts": "bandiera: Espania"
+  },
+  {
+    "cp": "🇪🇹",
+    "tts": "bandiera: Ethiopia"
+  },
+  {
+    "cp": "🇪🇺",
+    "tts": "bandiera: Union Europee"
+  },
+  {
+    "cp": "🇫🇮",
+    "tts": "bandiera: Finlandia"
+  },
+  {
+    "cp": "🇫🇯",
+    "tts": "bandiera: Fiji"
+  },
+  {
+    "cp": "🇫🇰",
+    "tts": "bandiera: Insulas Falkland"
+  },
+  {
+    "cp": "🇫🇲",
+    "tts": "bandiera: Micronesia"
+  },
+  {
+    "cp": "🇫🇴",
+    "tts": "bandiera: Insulas Feroe"
+  },
+  {
+    "cp": "🇫🇷",
+    "tts": "bandiera: Francia"
+  },
+  {
+    "cp": "🇬🇦",
+    "tts": "bandiera: Gabon"
+  },
+  {
+    "cp": "🇬🇧",
+    "tts": "bandiera: Regno Unite"
+  },
+  {
+    "cp": "🇬🇩",
+    "tts": "bandiera: Grenada"
+  },
+  {
+    "cp": "🇬🇪",
+    "tts": "bandiera: Georgia"
+  },
+  {
+    "cp": "🇬🇫",
+    "tts": "bandiera: Guyana francese"
+  },
+  {
+    "cp": "🇬🇬",
+    "tts": "bandiera: Guernsey"
+  },
+  {
+    "cp": "🇬🇭",
+    "tts": "bandiera: Ghana"
+  },
+  {
+    "cp": "🇬🇮",
+    "tts": "bandiera: Gibraltar"
+  },
+  {
+    "cp": "🇬🇱",
+    "tts": "bandiera: Groenlandia"
+  },
+  {
+    "cp": "🇬🇲",
+    "tts": "bandiera: Gambia"
+  },
+  {
+    "cp": "🇬🇳",
+    "tts": "bandiera: Guinea"
+  },
+  {
+    "cp": "🇬🇵",
+    "tts": "bandiera: Guadeloupe"
+  },
+  {
+    "cp": "🇬🇶",
+    "tts": "bandiera: Guinea equatorial"
+  },
+  {
+    "cp": "🇬🇷",
+    "tts": "bandiera: Grecia"
+  },
+  {
+    "cp": "🇬🇸",
+    "tts": "bandiera: Georgia del Sud e Insulas Sandwich Austral"
+  },
+  {
+    "cp": "🇬🇹",
+    "tts": "bandiera: Guatemala"
+  },
+  {
+    "cp": "🇬🇺",
+    "tts": "bandiera: Guam"
+  },
+  {
+    "cp": "🇬🇼",
+    "tts": "bandiera: Guinea-Bissau"
+  },
+  {
+    "cp": "🇬🇾",
+    "tts": "bandiera: Guyana"
+  },
+  {
+    "cp": "🇭🇰",
+    "tts": "bandiera: Hongkong, R.A.S. de China"
+  },
+  {
+    "cp": "🇭🇲",
+    "tts": "bandiera: Insulas Heard e McDonald"
+  },
+  {
+    "cp": "🇭🇳",
+    "tts": "bandiera: Honduras"
+  },
+  {
+    "cp": "🇭🇷",
+    "tts": "bandiera: Croatia"
+  },
+  {
+    "cp": "🇭🇹",
+    "tts": "bandiera: Haiti"
+  },
+  {
+    "cp": "🇭🇺",
+    "tts": "bandiera: Hungaria"
+  },
+  {
+    "cp": "🇮🇨",
+    "tts": "bandiera: Insulas Canari"
+  },
+  {
+    "cp": "🇮🇩",
+    "tts": "bandiera: Indonesia"
+  },
+  {
+    "cp": "🇮🇪",
+    "tts": "bandiera: Irlanda"
+  },
+  {
+    "cp": "🇮🇱",
+    "tts": "bandiera: Israel"
+  },
+  {
+    "cp": "🇮🇲",
+    "tts": "bandiera: Insula de Man"
+  },
+  {
+    "cp": "🇮🇳",
+    "tts": "bandiera: India"
+  },
+  {
+    "cp": "🇮🇴",
+    "tts": "bandiera: Territorio oceanic britanno-indian"
+  },
+  {
+    "cp": "🇮🇶",
+    "tts": "bandiera: Irak"
+  },
+  {
+    "cp": "🇮🇷",
+    "tts": "bandiera: Iran"
+  },
+  {
+    "cp": "🇮🇸",
+    "tts": "bandiera: Islanda"
+  },
+  {
+    "cp": "🇮🇹",
+    "tts": "bandiera: Italia"
+  },
+  {
+    "cp": "🇯🇪",
+    "tts": "bandiera: Jersey"
+  },
+  {
+    "cp": "🇯🇲",
+    "tts": "bandiera: Jamaica"
+  },
+  {
+    "cp": "🇯🇴",
+    "tts": "bandiera: Jordania"
+  },
+  {
+    "cp": "🇯🇵",
+    "tts": "bandiera: Japon"
+  },
+  {
+    "cp": "🇰🇪",
+    "tts": "bandiera: Kenya"
+  },
+  {
+    "cp": "🇰🇬",
+    "tts": "bandiera: Kirghizistan"
+  },
+  {
+    "cp": "🇰🇭",
+    "tts": "bandiera: Cambodgia"
+  },
+  {
+    "cp": "🇰🇮",
+    "tts": "bandiera: Kiribati"
+  },
+  {
+    "cp": "🇰🇲",
+    "tts": "bandiera: Comoros"
+  },
+  {
+    "cp": "🇰🇳",
+    "tts": "bandiera: Sancte Christophoro e Nevis"
+  },
+  {
+    "cp": "🇰🇵",
+    "tts": "bandiera: Corea del Nord"
+  },
+  {
+    "cp": "🇰🇷",
+    "tts": "bandiera: Corea del Sud"
+  },
+  {
+    "cp": "🇰🇼",
+    "tts": "bandiera: Kuwait"
+  },
+  {
+    "cp": "🇰🇾",
+    "tts": "bandiera: Insulas de Caiman"
+  },
+  {
+    "cp": "🇰🇿",
+    "tts": "bandiera: Kazakhstan"
+  },
+  {
+    "cp": "🇱🇦",
+    "tts": "bandiera: Laos"
+  },
+  {
+    "cp": "🇱🇧",
+    "tts": "bandiera: Libano"
+  },
+  {
+    "cp": "🇱🇨",
+    "tts": "bandiera: Sancte Lucia"
+  },
+  {
+    "cp": "🇱🇮",
+    "tts": "bandiera: Liechtenstein"
+  },
+  {
+    "cp": "🇱🇰",
+    "tts": "bandiera: Sri Lanka"
+  },
+  {
+    "cp": "🇱🇷",
+    "tts": "bandiera: Liberia"
+  },
+  {
+    "cp": "🇱🇸",
+    "tts": "bandiera: Lesotho"
+  },
+  {
+    "cp": "🇱🇹",
+    "tts": "bandiera: Lituania"
+  },
+  {
+    "cp": "🇱🇺",
+    "tts": "bandiera: Luxemburg"
+  },
+  {
+    "cp": "🇱🇻",
+    "tts": "bandiera: Lettonia"
+  },
+  {
+    "cp": "🇱🇾",
+    "tts": "bandiera: Libya"
+  },
+  {
+    "cp": "🇲🇦",
+    "tts": "bandiera: Marocco"
+  },
+  {
+    "cp": "🇲🇨",
+    "tts": "bandiera: Monaco"
+  },
+  {
+    "cp": "🇲🇩",
+    "tts": "bandiera: Moldavia"
+  },
+  {
+    "cp": "🇲🇪",
+    "tts": "bandiera: Montenegro"
+  },
+  {
+    "cp": "🇲🇫",
+    "tts": "bandiera: Sancte Martino francese"
+  },
+  {
+    "cp": "🇲🇬",
+    "tts": "bandiera: Madagascar"
+  },
+  {
+    "cp": "🇲🇭",
+    "tts": "bandiera: Insulas Marshall"
+  },
+  {
+    "cp": "🇲🇰",
+    "tts": "bandiera: Macedonia del Nord"
+  },
+  {
+    "cp": "🇲🇱",
+    "tts": "bandiera: Mali"
+  },
+  {
+    "cp": "🇲🇲",
+    "tts": "bandiera: Myanmar (Birmania)"
+  },
+  {
+    "cp": "🇲🇳",
+    "tts": "bandiera: Mongolia"
+  },
+  {
+    "cp": "🇲🇴",
+    "tts": "bandiera: Macao, R.A.S. de China"
+  },
+  {
+    "cp": "🇲🇵",
+    "tts": "bandiera: Insulas Marianna del Nord"
+  },
+  {
+    "cp": "🇲🇶",
+    "tts": "bandiera: Martinica"
+  },
+  {
+    "cp": "🇲🇷",
+    "tts": "bandiera: Mauritania"
+  },
+  {
+    "cp": "🇲🇸",
+    "tts": "bandiera: Montserrat"
+  },
+  {
+    "cp": "🇲🇹",
+    "tts": "bandiera: Malta"
+  },
+  {
+    "cp": "🇲🇺",
+    "tts": "bandiera: Mauritio"
+  },
+  {
+    "cp": "🇲🇻",
+    "tts": "bandiera: Maldivas"
+  },
+  {
+    "cp": "🇲🇼",
+    "tts": "bandiera: Malawi"
+  },
+  {
+    "cp": "🇲🇽",
+    "tts": "bandiera: Mexico"
+  },
+  {
+    "cp": "🇲🇾",
+    "tts": "bandiera: Malaysia"
+  },
+  {
+    "cp": "🇲🇿",
+    "tts": "bandiera: Mozambique"
+  },
+  {
+    "cp": "🇳🇦",
+    "tts": "bandiera: Namibia"
+  },
+  {
+    "cp": "🇳🇨",
+    "tts": "bandiera: Nove Caledonia"
+  },
+  {
+    "cp": "🇳🇪",
+    "tts": "bandiera: Niger"
+  },
+  {
+    "cp": "🇳🇫",
+    "tts": "bandiera: Insula Norfolk"
+  },
+  {
+    "cp": "🇳🇬",
+    "tts": "bandiera: Nigeria"
+  },
+  {
+    "cp": "🇳🇮",
+    "tts": "bandiera: Nicaragua"
+  },
+  {
+    "cp": "🇳🇱",
+    "tts": "bandiera: Nederlandia"
+  },
+  {
+    "cp": "🇳🇴",
+    "tts": "bandiera: Norvegia"
+  },
+  {
+    "cp": "🇳🇵",
+    "tts": "bandiera: Nepal"
+  },
+  {
+    "cp": "🇳🇷",
+    "tts": "bandiera: Nauru"
+  },
+  {
+    "cp": "🇳🇺",
+    "tts": "bandiera: Niue"
+  },
+  {
+    "cp": "🇳🇿",
+    "tts": "bandiera: Nove Zelanda"
+  },
+  {
+    "cp": "🇴🇲",
+    "tts": "bandiera: Oman"
+  },
+  {
+    "cp": "🇵🇦",
+    "tts": "bandiera: Panama"
+  },
+  {
+    "cp": "🇵🇪",
+    "tts": "bandiera: Peru"
+  },
+  {
+    "cp": "🇵🇫",
+    "tts": "bandiera: Polynesia francese"
+  },
+  {
+    "cp": "🇵🇬",
+    "tts": "bandiera: Papua Nove Guinea"
+  },
+  {
+    "cp": "🇵🇭",
+    "tts": "bandiera: Philippinas"
+  },
+  {
+    "cp": "🇵🇰",
+    "tts": "bandiera: Pakistan"
+  },
+  {
+    "cp": "🇵🇱",
+    "tts": "bandiera: Polonia"
+  },
+  {
+    "cp": "🇵🇲",
+    "tts": "bandiera: St. Pierre e Miquelon"
+  },
+  {
+    "cp": "🇵🇳",
+    "tts": "bandiera: Insulas Pitcairn"
+  },
+  {
+    "cp": "🇵🇷",
+    "tts": "bandiera: Porto Rico"
+  },
+  {
+    "cp": "🇵🇸",
+    "tts": "bandiera: Territorios palestin"
+  },
+  {
+    "cp": "🇵🇹",
+    "tts": "bandiera: Portugal"
+  },
+  {
+    "cp": "🇵🇼",
+    "tts": "bandiera: Palau"
+  },
+  {
+    "cp": "🇵🇾",
+    "tts": "bandiera: Paraguay"
+  },
+  {
+    "cp": "🇶🇦",
+    "tts": "bandiera: Qatar"
+  },
+  {
+    "cp": "🇷🇪",
+    "tts": "bandiera: Reunion"
+  },
+  {
+    "cp": "🇷🇴",
+    "tts": "bandiera: Romania"
+  },
+  {
+    "cp": "🇷🇸",
+    "tts": "bandiera: Serbia"
+  },
+  {
+    "cp": "🇷🇺",
+    "tts": "bandiera: Russia"
+  },
+  {
+    "cp": "🇷🇼",
+    "tts": "bandiera: Ruanda"
+  },
+  {
+    "cp": "🇸🇦",
+    "tts": "bandiera: Arabia Saudita"
+  },
+  {
+    "cp": "🇸🇧",
+    "tts": "bandiera: Insulas Solomon"
+  },
+  {
+    "cp": "🇸🇨",
+    "tts": "bandiera: Seychelles"
+  },
+  {
+    "cp": "🇸🇩",
+    "tts": "bandiera: Sudan"
+  },
+  {
+    "cp": "🇸🇪",
+    "tts": "bandiera: Svedia"
+  },
+  {
+    "cp": "🇸🇬",
+    "tts": "bandiera: Singapur"
+  },
+  {
+    "cp": "🇸🇭",
+    "tts": "bandiera: Sancte Helena"
+  },
+  {
+    "cp": "🇸🇮",
+    "tts": "bandiera: Slovenia"
+  },
+  {
+    "cp": "🇸🇯",
+    "tts": "bandiera: Svalbard e Jan Mayen"
+  },
+  {
+    "cp": "🇸🇰",
+    "tts": "bandiera: Slovachia"
+  },
+  {
+    "cp": "🇸🇱",
+    "tts": "bandiera: Sierra Leone"
+  },
+  {
+    "cp": "🇸🇲",
+    "tts": "bandiera: San Marino"
+  },
+  {
+    "cp": "🇸🇳",
+    "tts": "bandiera: Senegal"
+  },
+  {
+    "cp": "🇸🇴",
+    "tts": "bandiera: Somalia"
+  },
+  {
+    "cp": "🇸🇷",
+    "tts": "bandiera: Suriname"
+  },
+  {
+    "cp": "🇸🇸",
+    "tts": "bandiera: Sudan del Sud"
+  },
+  {
+    "cp": "🇸🇹",
+    "tts": "bandiera: São Tomé e Príncipe"
+  },
+  {
+    "cp": "🇸🇻",
+    "tts": "bandiera: El Salvador"
+  },
+  {
+    "cp": "🇸🇽",
+    "tts": "bandiera: Sancte Martino nederlandese"
+  },
+  {
+    "cp": "🇸🇾",
+    "tts": "bandiera: Syria"
+  },
+  {
+    "cp": "🇸🇿",
+    "tts": "bandiera: Eswatini"
+  },
+  {
+    "cp": "🇹🇦",
+    "tts": "bandiera: Tristan da Cunha"
+  },
+  {
+    "cp": "🇹🇨",
+    "tts": "bandiera: Insulas Turcos e Caicos"
+  },
+  {
+    "cp": "🇹🇩",
+    "tts": "bandiera: Tchad"
+  },
+  {
+    "cp": "🇹🇫",
+    "tts": "bandiera: Territorios meridional francese"
+  },
+  {
+    "cp": "🇹🇬",
+    "tts": "bandiera: Togo"
+  },
+  {
+    "cp": "🇹🇭",
+    "tts": "bandiera: Thailandia"
+  },
+  {
+    "cp": "🇹🇯",
+    "tts": "bandiera: Tadzhikistan"
+  },
+  {
+    "cp": "🇹🇰",
+    "tts": "bandiera: Tokelau"
+  },
+  {
+    "cp": "🇹🇱",
+    "tts": "bandiera: Timor del Est"
+  },
+  {
+    "cp": "🇹🇲",
+    "tts": "bandiera: Turkmenistan"
+  },
+  {
+    "cp": "🇹🇳",
+    "tts": "bandiera: Tunisia"
+  },
+  {
+    "cp": "🇹🇴",
+    "tts": "bandiera: Tonga"
+  },
+  {
+    "cp": "🇹🇷",
+    "tts": "bandiera: Turchia"
+  },
+  {
+    "cp": "🇹🇹",
+    "tts": "bandiera: Trinidad e Tobago"
+  },
+  {
+    "cp": "🇹🇻",
+    "tts": "bandiera: Tuvalu"
+  },
+  {
+    "cp": "🇹🇼",
+    "tts": "bandiera: Taiwan"
+  },
+  {
+    "cp": "🇹🇿",
+    "tts": "bandiera: Tanzania"
+  },
+  {
+    "cp": "🇺🇦",
+    "tts": "bandiera: Ukraina"
+  },
+  {
+    "cp": "🇺🇬",
+    "tts": "bandiera: Uganda"
+  },
+  {
+    "cp": "🇺🇲",
+    "tts": "bandiera: Insulas peripheric del SUA"
+  },
+  {
+    "cp": "🇺🇳",
+    "tts": "bandiera: Nationes Unite"
+  },
+  {
+    "cp": "🇺🇸",
+    "tts": "bandiera: Statos Unite"
+  },
+  {
+    "cp": "🇺🇾",
+    "tts": "bandiera: Uruguay"
+  },
+  {
+    "cp": "🇺🇿",
+    "tts": "bandiera: Uzbekistan"
+  },
+  {
+    "cp": "🇻🇦",
+    "tts": "bandiera: Citate del Vaticano"
+  },
+  {
+    "cp": "🇻🇨",
+    "tts": "bandiera: Sancte Vincente e le Grenadinas"
+  },
+  {
+    "cp": "🇻🇪",
+    "tts": "bandiera: Venezuela"
+  },
+  {
+    "cp": "🇻🇬",
+    "tts": "bandiera: Insulas Virgine britannic"
+  },
+  {
+    "cp": "🇻🇮",
+    "tts": "bandiera: Insulas Virgine statounitese"
+  },
+  {
+    "cp": "🇻🇳",
+    "tts": "bandiera: Vietnam"
+  },
+  {
+    "cp": "🇻🇺",
+    "tts": "bandiera: Vanuatu"
+  },
+  {
+    "cp": "🇼🇫",
+    "tts": "bandiera: Wallis e Futuna"
+  },
+  {
+    "cp": "🇼🇸",
+    "tts": "bandiera: Samoa"
+  },
+  {
+    "cp": "🇽🇰",
+    "tts": "bandiera: Kosovo"
+  },
+  {
+    "cp": "🇾🇪",
+    "tts": "bandiera: Yemen"
+  },
+  {
+    "cp": "🇾🇹",
+    "tts": "bandiera: Mayotte"
+  },
+  {
+    "cp": "🇿🇦",
+    "tts": "bandiera: Africa del Sud"
+  },
+  {
+    "cp": "🇿🇲",
+    "tts": "bandiera: Zambia"
+  },
+  {
+    "cp": "🇿🇼",
+    "tts": "bandiera: Zimbabwe"
+  },
+  {
+    "cp": "🎌",
+    "tts": "bandieras cruciate"
+  },
+  {
+    "cp": "🏁",
+    "tts": "bandiera a quadros"
+  },
+  {
+    "cp": "🏧",
+    "tts": "signo de cassa automatic"
+  },
+  {
+    "cp": "🏳",
+    "tts": "bandiera blanc"
+  },
+  {
+    "cp": "🏳‍🌈",
+    "tts": "bandiera iride"
+  },
+  {
+    "cp": "🏴",
+    "tts": "bandiera nigre"
+  },
+  {
+    "cp": "🏴‍☠",
+    "tts": "bandiera de pirata"
+  },
+  {
+    "cp": "🏻",
+    "tts": "tono de pelle clar"
+  },
+  {
+    "cp": "🏼",
+    "tts": "tono de pelle medio clar"
+  },
+  {
+    "cp": "🏽",
+    "tts": "tono de pelle medie"
+  },
+  {
+    "cp": "🏾",
+    "tts": "tono de pelle medio-obscur"
+  },
+  {
+    "cp": "🏿",
+    "tts": "tono de pelle obscur"
+  },
+  {
+    "cp": "👀",
+    "tts": "oculos"
+  },
+  {
+    "cp": "👁",
+    "tts": "oculo"
+  },
+  {
+    "cp": "👂",
+    "tts": "aure"
+  },
+  {
+    "cp": "👂🏻",
+    "tts": "aure: tono de pelle clar"
+  },
+  {
+    "cp": "👂🏼",
+    "tts": "aure: tono de pelle medio clar"
+  },
+  {
+    "cp": "👂🏽",
+    "tts": "aure: tono de pelle medie"
+  },
+  {
+    "cp": "👂🏾",
+    "tts": "aure: tono de pelle medio-obscur"
+  },
+  {
+    "cp": "👂🏿",
+    "tts": "aure: tono de pelle obscur"
+  },
+  {
+    "cp": "👃",
+    "tts": "naso"
+  },
+  {
+    "cp": "👃🏻",
+    "tts": "naso: tono de pelle clar"
+  },
+  {
+    "cp": "👃🏼",
+    "tts": "naso: tono de pelle medio clar"
+  },
+  {
+    "cp": "👃🏽",
+    "tts": "naso: tono de pelle medie"
+  },
+  {
+    "cp": "👃🏾",
+    "tts": "naso: tono de pelle medio-obscur"
+  },
+  {
+    "cp": "👃🏿",
+    "tts": "naso: tono de pelle obscur"
+  },
+  {
+    "cp": "👄",
+    "tts": "bucca"
+  },
+  {
+    "cp": "👅",
+    "tts": "lingua"
+  },
+  {
+    "cp": "👰",
+    "tts": "persona con vela"
+  },
+  {
+    "cp": "👰🏻",
+    "tts": "persona con vela: tono de pelle clar"
+  },
+  {
+    "cp": "👰🏼",
+    "tts": "persona con vela: tono de pelle medio clar"
+  },
+  {
+    "cp": "👰🏽",
+    "tts": "persona con vela: tono de pelle medie"
+  },
+  {
+    "cp": "👰🏾",
+    "tts": "persona con vela: tono de pelle medio-obscur"
+  },
+  {
+    "cp": "👰🏿",
+    "tts": "persona con vela: tono de pelle obscur"
+  },
+  {
+    "cp": "💪",
+    "tts": "biceps flectite"
+  },
+  {
+    "cp": "💪🏻",
+    "tts": "biceps flectite: tono de pelle clar"
+  },
+  {
+    "cp": "💪🏼",
+    "tts": "biceps flectite: tono de pelle medio clar"
+  },
+  {
+    "cp": "💪🏽",
+    "tts": "biceps flectite: tono de pelle medie"
+  },
+  {
+    "cp": "💪🏾",
+    "tts": "biceps flectite: tono de pelle medio-obscur"
+  },
+  {
+    "cp": "💪🏿",
+    "tts": "biceps flectite: tono de pelle obscur"
+  },
+  {
+    "cp": "📵",
+    "tts": "telephonos mobile prohibite"
+  },
+  {
+    "cp": "🔟",
+    "tts": "clave: 10"
+  },
+  {
+    "cp": "😀",
+    "tts": "visage con grande surriso"
+  },
+  {
+    "cp": "😁",
+    "tts": "visage radiante con oculos surridente"
+  },
+  {
+    "cp": "😂",
+    "tts": "visage plorante de riso"
+  },
+  {
+    "cp": "😃",
+    "tts": "grande surriso con grande oculos"
+  },
+  {
+    "cp": "😄",
+    "tts": "grande surriso con oculos surridente"
+  },
+  {
+    "cp": "😅",
+    "tts": "grande surriso con gutta de sudor"
+  },
+  {
+    "cp": "😆",
+    "tts": "grande surriso con oculos semiclaudite"
+  },
+  {
+    "cp": "😉",
+    "tts": "visage que batte le palpebras"
+  },
+  {
+    "cp": "😊",
+    "tts": "surriso con oculos surridente"
+  },
+  {
+    "cp": "😋",
+    "tts": "visage que sapora un bon repasto"
+  },
+  {
+    "cp": "😍",
+    "tts": "surriso con oculos in forma de corde"
+  },
+  {
+    "cp": "😎",
+    "tts": "surriso con oculares de sol"
+  },
+  {
+    "cp": "🚩",
+    "tts": "bandiera triangular"
+  },
+  {
+    "cp": "🚫",
+    "tts": "prohibite"
+  },
+  {
+    "cp": "🚭",
+    "tts": "non fumar"
+  },
+  {
+    "cp": "🚮",
+    "tts": "signo de receptaculo de immunditias"
+  },
+  {
+    "cp": "🚯",
+    "tts": "non abandonar immunditias"
+  },
+  {
+    "cp": "🚰",
+    "tts": "aqua potabile"
+  },
+  {
+    "cp": "🚱",
+    "tts": "aqua non potabile"
+  },
+  {
+    "cp": "🚳",
+    "tts": "bicyclettas prohibite"
+  },
+  {
+    "cp": "🚷",
+    "tts": "prohibite al pedones"
+  },
+  {
+    "cp": "🚸",
+    "tts": "transversata de infantes"
+  },
+  {
+    "cp": "🚹",
+    "tts": "lavatorio pro homines"
+  },
+  {
+    "cp": "🚺",
+    "tts": "lavatorio pro feminas"
+  },
+  {
+    "cp": "🚻",
+    "tts": "lavatorio"
+  },
+  {
+    "cp": "🚼",
+    "tts": "symbolo de bebe"
+  },
+  {
+    "cp": "🚾",
+    "tts": "water-closet"
+  },
+  {
+    "cp": "🛂",
+    "tts": "controlo de passaportos"
+  },
+  {
+    "cp": "🛃",
+    "tts": "doana"
+  },
+  {
+    "cp": "🛄",
+    "tts": "collecta de bagage"
+  },
+  {
+    "cp": "🛅",
+    "tts": "deposito de bagage"
+  },
+  {
+    "cp": "🤣",
+    "tts": "rolante se per terra de rider"
+  },
+  {
+    "cp": "🤵",
+    "tts": "persona in tuxedo"
+  },
+  {
+    "cp": "🤵🏻",
+    "tts": "persona in tuxedo: tono de pelle clar"
+  },
+  {
+    "cp": "🤵🏼",
+    "tts": "persona in tuxedo: tono de pelle medio clar"
+  },
+  {
+    "cp": "🤵🏽",
+    "tts": "persona in tuxedo: tono de pelle medie"
+  },
+  {
+    "cp": "🤵🏾",
+    "tts": "persona in tuxedo: tono de pelle medio-obscur"
+  },
+  {
+    "cp": "🤵🏿",
+    "tts": "persona in tuxedo: tono de pelle obscur"
+  },
+  {
+    "cp": "🦰",
+    "tts": "capillos rosse"
+  },
+  {
+    "cp": "🦱",
+    "tts": "capillos crispe"
+  },
+  {
+    "cp": "🦲",
+    "tts": "calve"
+  },
+  {
+    "cp": "🦳",
+    "tts": "capillos blanc"
+  },
+  {
+    "cp": "🦴",
+    "tts": "osso"
+  },
+  {
+    "cp": "🦵",
+    "tts": "gamba"
+  },
+  {
+    "cp": "🦵🏻",
+    "tts": "gamba: tono de pelle clar"
+  },
+  {
+    "cp": "🦵🏼",
+    "tts": "gamba: tono de pelle medio clar"
+  },
+  {
+    "cp": "🦵🏽",
+    "tts": "gamba: tono de pelle medie"
+  },
+  {
+    "cp": "🦵🏾",
+    "tts": "gamba: tono de pelle medio-obscur"
+  },
+  {
+    "cp": "🦵🏿",
+    "tts": "gamba: tono de pelle obscur"
+  },
+  {
+    "cp": "🦶",
+    "tts": "pede"
+  },
+  {
+    "cp": "🦶🏻",
+    "tts": "pede: tono de pelle clar"
+  },
+  {
+    "cp": "🦶🏼",
+    "tts": "pede: tono de pelle medio clar"
+  },
+  {
+    "cp": "🦶🏽",
+    "tts": "pede: tono de pelle medie"
+  },
+  {
+    "cp": "🦶🏾",
+    "tts": "pede: tono de pelle medio-obscur"
+  },
+  {
+    "cp": "🦶🏿",
+    "tts": "pede: tono de pelle obscur"
+  },
+  {
+    "cp": "🦷",
+    "tts": "dente"
+  },
+  {
+    "cp": "🦻",
+    "tts": "aure con audiophono"
+  },
+  {
+    "cp": "🦻🏻",
+    "tts": "aure con audiophono: tono de pelle clar"
+  },
+  {
+    "cp": "🦻🏼",
+    "tts": "aure con audiophono: tono de pelle medio clar"
+  },
+  {
+    "cp": "🦻🏽",
+    "tts": "aure con audiophono: tono de pelle medie"
+  },
+  {
+    "cp": "🦻🏾",
+    "tts": "aure con audiophono: tono de pelle medio-obscur"
+  },
+  {
+    "cp": "🦻🏿",
+    "tts": "aure con audiophono: tono de pelle obscur"
+  },
+  {
+    "cp": "🦾",
+    "tts": "bracio mechanic"
+  },
+  {
+    "cp": "🦿",
+    "tts": "gamba mechanic"
+  },
+  {
+    "cp": "🧠",
+    "tts": "cerebro"
+  },
+  {
+    "cp": "🫀",
+    "tts": "corde"
+  },
+  {
+    "cp": "🫁",
+    "tts": "pulmones"
+  }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <header
+        app:summary="@string/general_settings"
+        app:breadCrumbTitle="@string/general_settings"
+        app:fragment="tts.smartvoice.ui.GeneralSettingsFragment"/>
+
+    <header
+        app:summary="@string/voices_assignment"
+        app:breadCrumbTitle="@string/voices_assignment"
+        app:fragment="tts.smartvoice.ui.VoiceAssignmentsFragment"/>
+
+    <header
+        app:summary="@string/voice_settings">
+        <intent
+            android:action="@string/action_list_voices"
+            android:targetPackage="tts.smartvoice"
+            android:targetClass="tts.smartvoice.ui.TtsPreferenceActivity"/>
+    </header>
+
+    <header
+        app:summary="@string/autolang_settings"
+        app:breadCrumbTitle="@string/autolang_settings"
+        app:fragment="tts.smartvoice.ui.AutolangSettingsFragment"/>
+
+</preference-headers>

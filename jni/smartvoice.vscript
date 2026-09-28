@@ -1,0 +1,4 @@
+SMARTVOICE_JNI {
+  global: JNI_OnLoad;
+  local: *;
+};

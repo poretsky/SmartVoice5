@@ -1,0 +1,4706 @@
+[
+  {
+    "cp": "©",
+    "tts": "copyright"
+  },
+  {
+    "cp": "®",
+    "tts": "registreret varemærke"
+  },
+  {
+    "cp": "↔",
+    "tts": "pil mod venstre og højre"
+  },
+  {
+    "cp": "↕",
+    "tts": "op- og nedadvendt pil"
+  },
+  {
+    "cp": "↖",
+    "tts": "opadvendt pil mod venstre"
+  },
+  {
+    "cp": "↗",
+    "tts": "opadvendt pil mod højre"
+  },
+  {
+    "cp": "↘",
+    "tts": "nedadvendt pil mod højre"
+  },
+  {
+    "cp": "↙",
+    "tts": "nedadvendt pil mod venstre"
+  },
+  {
+    "cp": "↩",
+    "tts": "pil mod højre med sving til venstre"
+  },
+  {
+    "cp": "↪",
+    "tts": "pil mod venstre med sving til højre"
+  },
+  {
+    "cp": "⌚",
+    "tts": "ur"
+  },
+  {
+    "cp": "⌛",
+    "tts": "timeglas"
+  },
+  {
+    "cp": "⌨",
+    "tts": "tastatur"
+  },
+  {
+    "cp": "⏏",
+    "tts": "udskubningsknap"
+  },
+  {
+    "cp": "⏩",
+    "tts": "spole frem"
+  },
+  {
+    "cp": "⏪",
+    "tts": "spole tilbage"
+  },
+  {
+    "cp": "⏫",
+    "tts": "pil op"
+  },
+  {
+    "cp": "⏬",
+    "tts": "pil ned"
+  },
+  {
+    "cp": "⏭",
+    "tts": "knap til næste nummer"
+  },
+  {
+    "cp": "⏮",
+    "tts": "knap til forrige nummer"
+  },
+  {
+    "cp": "⏯",
+    "tts": "knap til afspilning og pause"
+  },
+  {
+    "cp": "⏰",
+    "tts": "vækkeur"
+  },
+  {
+    "cp": "⏱",
+    "tts": "stopur"
+  },
+  {
+    "cp": "⏲",
+    "tts": "æggeur"
+  },
+  {
+    "cp": "⏳",
+    "tts": "timeglas med løbende sand"
+  },
+  {
+    "cp": "⏸",
+    "tts": "pauseknap"
+  },
+  {
+    "cp": "⏹",
+    "tts": "stopknap"
+  },
+  {
+    "cp": "⏺",
+    "tts": "optageknap"
+  },
+  {
+    "cp": "▪",
+    "tts": "lille sort kvadrat"
+  },
+  {
+    "cp": "▫",
+    "tts": "lille hvidt kvadrat"
+  },
+  {
+    "cp": "▶",
+    "tts": "afspilningsknap"
+  },
+  {
+    "cp": "◀",
+    "tts": "knap til baglæns afspilning"
+  },
+  {
+    "cp": "◻",
+    "tts": "mellemstort hvidt kvadrat"
+  },
+  {
+    "cp": "◼",
+    "tts": "mellemstort sort kvadrat"
+  },
+  {
+    "cp": "◽",
+    "tts": "halvlille hvidt kvadrat"
+  },
+  {
+    "cp": "◾",
+    "tts": "halvlille sort kvadrat"
+  },
+  {
+    "cp": "☀",
+    "tts": "sol"
+  },
+  {
+    "cp": "☁",
+    "tts": "sky"
+  },
+  {
+    "cp": "☂",
+    "tts": "paraply"
+  },
+  {
+    "cp": "☃",
+    "tts": "snemand"
+  },
+  {
+    "cp": "☄",
+    "tts": "komet"
+  },
+  {
+    "cp": "☎",
+    "tts": "telefon"
+  },
+  {
+    "cp": "☑",
+    "tts": "afkrydsningsfelt med flueben"
+  },
+  {
+    "cp": "☔",
+    "tts": "paraply med regndråber"
+  },
+  {
+    "cp": "☕",
+    "tts": "varm drik"
+  },
+  {
+    "cp": "☘",
+    "tts": "kløver"
+  },
+  {
+    "cp": "☝",
+    "tts": "opadvendt pegefinger"
+  },
+  {
+    "cp": "☠",
+    "tts": "kranie og korslagte knogler"
+  },
+  {
+    "cp": "☢",
+    "tts": "radioaktiv"
+  },
+  {
+    "cp": "☣",
+    "tts": "biologisk fare"
+  },
+  {
+    "cp": "☦",
+    "tts": "ortodokst kors"
+  },
+  {
+    "cp": "☪",
+    "tts": "stjerne og halvmåne"
+  },
+  {
+    "cp": "☮",
+    "tts": "fredssymbol"
+  },
+  {
+    "cp": "☯",
+    "tts": "yin og yang"
+  },
+  {
+    "cp": "☸",
+    "tts": "dharma-hjul"
+  },
+  {
+    "cp": "☹",
+    "tts": "trist ansigt"
+  },
+  {
+    "cp": "☺",
+    "tts": "smilende ansigt"
+  },
+  {
+    "cp": "♈",
+    "tts": "vædderen"
+  },
+  {
+    "cp": "♉",
+    "tts": "tyren"
+  },
+  {
+    "cp": "♊",
+    "tts": "tvillingen"
+  },
+  {
+    "cp": "♋",
+    "tts": "krebsen"
+  },
+  {
+    "cp": "♌",
+    "tts": "løven"
+  },
+  {
+    "cp": "♍",
+    "tts": "jomfruen"
+  },
+  {
+    "cp": "♎",
+    "tts": "vægten"
+  },
+  {
+    "cp": "♏",
+    "tts": "skorpionen"
+  },
+  {
+    "cp": "♐",
+    "tts": "skytten"
+  },
+  {
+    "cp": "♑",
+    "tts": "stenbukken"
+  },
+  {
+    "cp": "♒",
+    "tts": "vandmanden"
+  },
+  {
+    "cp": "♓",
+    "tts": "fisken"
+  },
+  {
+    "cp": "♠",
+    "tts": "spar"
+  },
+  {
+    "cp": "♣",
+    "tts": "klør"
+  },
+  {
+    "cp": "♥",
+    "tts": "hjerter"
+  },
+  {
+    "cp": "♦",
+    "tts": "ruder"
+  },
+  {
+    "cp": "♨",
+    "tts": "varme kilder"
+  },
+  {
+    "cp": "♻",
+    "tts": "genbrug"
+  },
+  {
+    "cp": "♿",
+    "tts": "rullestolsadgang"
+  },
+  {
+    "cp": "⚒",
+    "tts": "hammer og hakke"
+  },
+  {
+    "cp": "⚓",
+    "tts": "anker"
+  },
+  {
+    "cp": "⚔",
+    "tts": "korslagte sværd"
+  },
+  {
+    "cp": "⚕",
+    "tts": "medicinsymbol"
+  },
+  {
+    "cp": "⚖",
+    "tts": "vægt"
+  },
+  {
+    "cp": "⚗",
+    "tts": "kolbe"
+  },
+  {
+    "cp": "⚙",
+    "tts": "tandhjul"
+  },
+  {
+    "cp": "⚛",
+    "tts": "atomsymbol"
+  },
+  {
+    "cp": "⚜",
+    "tts": "fransk lilje"
+  },
+  {
+    "cp": "⚠",
+    "tts": "advarselsskilt"
+  },
+  {
+    "cp": "⚡",
+    "tts": "højspænding"
+  },
+  {
+    "cp": "⚪",
+    "tts": "hvid cirkel"
+  },
+  {
+    "cp": "⚫",
+    "tts": "sort cirkel"
+  },
+  {
+    "cp": "⚰",
+    "tts": "kiste"
+  },
+  {
+    "cp": "⚱",
+    "tts": "urne"
+  },
+  {
+    "cp": "⚽",
+    "tts": "fodbold"
+  },
+  {
+    "cp": "⚾",
+    "tts": "baseball"
+  },
+  {
+    "cp": "⛄",
+    "tts": "snemand uden snevejr"
+  },
+  {
+    "cp": "⛅",
+    "tts": "sol bag sky"
+  },
+  {
+    "cp": "⛈",
+    "tts": "sky med lyn og regn"
+  },
+  {
+    "cp": "⛎",
+    "tts": "slangebæreren"
+  },
+  {
+    "cp": "⛏",
+    "tts": "hakke"
+  },
+  {
+    "cp": "⛑",
+    "tts": "hjelm med hvidt kors"
+  },
+  {
+    "cp": "⛓",
+    "tts": "kæder"
+  },
+  {
+    "cp": "⛔",
+    "tts": "adgang forbudt"
+  },
+  {
+    "cp": "⛩",
+    "tts": "shinto-alter"
+  },
+  {
+    "cp": "⛪",
+    "tts": "kirke"
+  },
+  {
+    "cp": "⛰",
+    "tts": "bjerg"
+  },
+  {
+    "cp": "⛱",
+    "tts": "parasol"
+  },
+  {
+    "cp": "⛲",
+    "tts": "springvand"
+  },
+  {
+    "cp": "⛳",
+    "tts": "golf flag"
+  },
+  {
+    "cp": "⛴",
+    "tts": "færge"
+  },
+  {
+    "cp": "⛵",
+    "tts": "sejlbåd"
+  },
+  {
+    "cp": "⛷",
+    "tts": "skiløber"
+  },
+  {
+    "cp": "⛸",
+    "tts": "skøjte"
+  },
+  {
+    "cp": "⛹",
+    "tts": "person med bold"
+  },
+  {
+    "cp": "⛺",
+    "tts": "telt"
+  },
+  {
+    "cp": "⛽",
+    "tts": "benzin"
+  },
+  {
+    "cp": "✂",
+    "tts": "saks"
+  },
+  {
+    "cp": "✅",
+    "tts": "flueben"
+  },
+  {
+    "cp": "✈",
+    "tts": "fly"
+  },
+  {
+    "cp": "✉",
+    "tts": "konvolut"
+  },
+  {
+    "cp": "✊",
+    "tts": "løftet knytnæve"
+  },
+  {
+    "cp": "✋",
+    "tts": "løftet hånd"
+  },
+  {
+    "cp": "✌",
+    "tts": "v-tegn"
+  },
+  {
+    "cp": "✍",
+    "tts": "skrivende hånd"
+  },
+  {
+    "cp": "✏",
+    "tts": "blyant"
+  },
+  {
+    "cp": "✒",
+    "tts": "sort fyldepen"
+  },
+  {
+    "cp": "✔",
+    "tts": "stort flueben"
+  },
+  {
+    "cp": "✖",
+    "tts": "stort kryds"
+  },
+  {
+    "cp": "✝",
+    "tts": "latinsk kors"
+  },
+  {
+    "cp": "✡",
+    "tts": "davidsstjerne"
+  },
+  {
+    "cp": "✨",
+    "tts": "stjerner"
+  },
+  {
+    "cp": "✳",
+    "tts": "ottetakket spids stjerne"
+  },
+  {
+    "cp": "✴",
+    "tts": "ottetakket stjerne"
+  },
+  {
+    "cp": "❄",
+    "tts": "snefnug"
+  },
+  {
+    "cp": "❇",
+    "tts": "funkle"
+  },
+  {
+    "cp": "❌",
+    "tts": "kryds"
+  },
+  {
+    "cp": "❎",
+    "tts": "krydsknap"
+  },
+  {
+    "cp": "❓",
+    "tts": "spørgsmålstegn"
+  },
+  {
+    "cp": "❔",
+    "tts": "hvidt spørgsmålstegn"
+  },
+  {
+    "cp": "❕",
+    "tts": "hvidt udråbstegn"
+  },
+  {
+    "cp": "❗",
+    "tts": "udråbstegn"
+  },
+  {
+    "cp": "❣",
+    "tts": "hjerte som udråbstegn"
+  },
+  {
+    "cp": "❤",
+    "tts": "rødt hjerte"
+  },
+  {
+    "cp": "➕",
+    "tts": "plus"
+  },
+  {
+    "cp": "➖",
+    "tts": "minus"
+  },
+  {
+    "cp": "➗",
+    "tts": "division"
+  },
+  {
+    "cp": "➡",
+    "tts": "pil mod højre"
+  },
+  {
+    "cp": "➰",
+    "tts": "krølle"
+  },
+  {
+    "cp": "➿",
+    "tts": "dobbelt krølle"
+  },
+  {
+    "cp": "⤴",
+    "tts": "pil mod højre med sving opad"
+  },
+  {
+    "cp": "⤵",
+    "tts": "pil mod højre med sving nedad"
+  },
+  {
+    "cp": "⬅",
+    "tts": "pil mod venstre"
+  },
+  {
+    "cp": "⬆",
+    "tts": "opadvendt pil"
+  },
+  {
+    "cp": "⬇",
+    "tts": "nedadvendt pil"
+  },
+  {
+    "cp": "⬛",
+    "tts": "stort sort kvadrat"
+  },
+  {
+    "cp": "⬜",
+    "tts": "stort hvidt kvadrat"
+  },
+  {
+    "cp": "⭐",
+    "tts": "hvid mellemstor stjerne"
+  },
+  {
+    "cp": "⭕",
+    "tts": "stor kraftig cirkel"
+  },
+  {
+    "cp": "🀄",
+    "tts": "mahjong-brik"
+  },
+  {
+    "cp": "🃏",
+    "tts": "joker"
+  },
+  {
+    "cp": "🅰",
+    "tts": "blodtype A"
+  },
+  {
+    "cp": "🅱",
+    "tts": "blodtype B"
+  },
+  {
+    "cp": "🅾",
+    "tts": "blodtype O"
+  },
+  {
+    "cp": "🅿",
+    "tts": "parkering"
+  },
+  {
+    "cp": "🆎",
+    "tts": "blodtype AB"
+  },
+  {
+    "cp": "🆑",
+    "tts": "ryd"
+  },
+  {
+    "cp": "🆒",
+    "tts": "cool"
+  },
+  {
+    "cp": "🆓",
+    "tts": "gratis"
+  },
+  {
+    "cp": "🆔",
+    "tts": "id"
+  },
+  {
+    "cp": "🆕",
+    "tts": "nyt"
+  },
+  {
+    "cp": "🆖",
+    "tts": "ikke godt"
+  },
+  {
+    "cp": "🆗",
+    "tts": "OK"
+  },
+  {
+    "cp": "🆘",
+    "tts": "SOS"
+  },
+  {
+    "cp": "🆙",
+    "tts": "OP!"
+  },
+  {
+    "cp": "🆚",
+    "tts": "versus"
+  },
+  {
+    "cp": "🌀",
+    "tts": "cyklon"
+  },
+  {
+    "cp": "🌁",
+    "tts": "tåget"
+  },
+  {
+    "cp": "🌂",
+    "tts": "lukket paraply"
+  },
+  {
+    "cp": "🌃",
+    "tts": "stjernehimmel"
+  },
+  {
+    "cp": "🌄",
+    "tts": "solopgang over bjerge"
+  },
+  {
+    "cp": "🌅",
+    "tts": "solopgang"
+  },
+  {
+    "cp": "🌆",
+    "tts": "by i solnedgang"
+  },
+  {
+    "cp": "🌇",
+    "tts": "solnedgang"
+  },
+  {
+    "cp": "🌈",
+    "tts": "regnbue"
+  },
+  {
+    "cp": "🌉",
+    "tts": "bro i mørke"
+  },
+  {
+    "cp": "🌊",
+    "tts": "bølge"
+  },
+  {
+    "cp": "🌋",
+    "tts": "vulkan"
+  },
+  {
+    "cp": "🌌",
+    "tts": "mælkevejen"
+  },
+  {
+    "cp": "🌍",
+    "tts": "globus med europa og afrika"
+  },
+  {
+    "cp": "🌎",
+    "tts": "globus med nord- og sydamerika"
+  },
+  {
+    "cp": "🌏",
+    "tts": "globus med asien og australien"
+  },
+  {
+    "cp": "🌐",
+    "tts": "globus med længdegrader"
+  },
+  {
+    "cp": "🌑",
+    "tts": "nymåne"
+  },
+  {
+    "cp": "🌒",
+    "tts": "tiltagende måne"
+  },
+  {
+    "cp": "🌓",
+    "tts": "halvmåne første kvarter"
+  },
+  {
+    "cp": "🌔",
+    "tts": "tiltagende måne næsten fuld"
+  },
+  {
+    "cp": "🌕",
+    "tts": "fuldmåne"
+  },
+  {
+    "cp": "🌖",
+    "tts": "aftagende måne næsten fuld"
+  },
+  {
+    "cp": "🌗",
+    "tts": "halvmåne sidste kvarter"
+  },
+  {
+    "cp": "🌘",
+    "tts": "aftagende måne"
+  },
+  {
+    "cp": "🌙",
+    "tts": "halvmåne"
+  },
+  {
+    "cp": "🌚",
+    "tts": "nymåne med ansigt"
+  },
+  {
+    "cp": "🌛",
+    "tts": "måne med ansigt første kvarter"
+  },
+  {
+    "cp": "🌜",
+    "tts": "måne med ansigt andet kvarter"
+  },
+  {
+    "cp": "🌝",
+    "tts": "fuldmåneansigt"
+  },
+  {
+    "cp": "🌞",
+    "tts": "sol med ansigt"
+  },
+  {
+    "cp": "🌟",
+    "tts": "blinkende stjerne"
+  },
+  {
+    "cp": "🌠",
+    "tts": "stjerneskud"
+  },
+  {
+    "cp": "🌡",
+    "tts": "termometer"
+  },
+  {
+    "cp": "🌤",
+    "tts": "sol bag lille sky"
+  },
+  {
+    "cp": "🌥",
+    "tts": "sol bag stor sky"
+  },
+  {
+    "cp": "🌦",
+    "tts": "sol bag sky med regn"
+  },
+  {
+    "cp": "🌧",
+    "tts": "sky med regn"
+  },
+  {
+    "cp": "🌨",
+    "tts": "sky med sne"
+  },
+  {
+    "cp": "🌩",
+    "tts": "tordensky"
+  },
+  {
+    "cp": "🌪",
+    "tts": "tornado"
+  },
+  {
+    "cp": "🌫",
+    "tts": "tåge"
+  },
+  {
+    "cp": "🌬",
+    "tts": "vindansigt"
+  },
+  {
+    "cp": "🌭",
+    "tts": "hotdog"
+  },
+  {
+    "cp": "🌮",
+    "tts": "taco"
+  },
+  {
+    "cp": "🌯",
+    "tts": "burrito"
+  },
+  {
+    "cp": "🌰",
+    "tts": "kastanje"
+  },
+  {
+    "cp": "🌱",
+    "tts": "spire"
+  },
+  {
+    "cp": "🌲",
+    "tts": "grantræ"
+  },
+  {
+    "cp": "🌳",
+    "tts": "træ"
+  },
+  {
+    "cp": "🌴",
+    "tts": "palme"
+  },
+  {
+    "cp": "🌵",
+    "tts": "kaktus"
+  },
+  {
+    "cp": "🌶",
+    "tts": "chili"
+  },
+  {
+    "cp": "🌷",
+    "tts": "tulipan"
+  },
+  {
+    "cp": "🌸",
+    "tts": "kirsebærblomst"
+  },
+  {
+    "cp": "🌹",
+    "tts": "rose"
+  },
+  {
+    "cp": "🌺",
+    "tts": "hibiscus"
+  },
+  {
+    "cp": "🌻",
+    "tts": "solsikke"
+  },
+  {
+    "cp": "🌼",
+    "tts": "blomst"
+  },
+  {
+    "cp": "🌽",
+    "tts": "majs"
+  },
+  {
+    "cp": "🌾",
+    "tts": "risplante"
+  },
+  {
+    "cp": "🌿",
+    "tts": "urt"
+  },
+  {
+    "cp": "🍀",
+    "tts": "firkløver"
+  },
+  {
+    "cp": "🍁",
+    "tts": "blad"
+  },
+  {
+    "cp": "🍂",
+    "tts": "faldende blade"
+  },
+  {
+    "cp": "🍃",
+    "tts": "blad i vinden"
+  },
+  {
+    "cp": "🍄",
+    "tts": "svamp"
+  },
+  {
+    "cp": "🍅",
+    "tts": "tomat"
+  },
+  {
+    "cp": "🍆",
+    "tts": "aubergine"
+  },
+  {
+    "cp": "🍇",
+    "tts": "vindruer"
+  },
+  {
+    "cp": "🍈",
+    "tts": "melon"
+  },
+  {
+    "cp": "🍉",
+    "tts": "vandmelon"
+  },
+  {
+    "cp": "🍊",
+    "tts": "appelsin"
+  },
+  {
+    "cp": "🍋",
+    "tts": "citron"
+  },
+  {
+    "cp": "🍌",
+    "tts": "banan"
+  },
+  {
+    "cp": "🍍",
+    "tts": "ananas"
+  },
+  {
+    "cp": "🍎",
+    "tts": "rødt æble"
+  },
+  {
+    "cp": "🍏",
+    "tts": "grønt æble"
+  },
+  {
+    "cp": "🍐",
+    "tts": "pære"
+  },
+  {
+    "cp": "🍑",
+    "tts": "fersken"
+  },
+  {
+    "cp": "🍒",
+    "tts": "kirsebær"
+  },
+  {
+    "cp": "🍓",
+    "tts": "jordbær"
+  },
+  {
+    "cp": "🍔",
+    "tts": "hamburger"
+  },
+  {
+    "cp": "🍕",
+    "tts": "pizza"
+  },
+  {
+    "cp": "🍖",
+    "tts": "kød"
+  },
+  {
+    "cp": "🍗",
+    "tts": "kyllingelår"
+  },
+  {
+    "cp": "🍘",
+    "tts": "riskiks"
+  },
+  {
+    "cp": "🍙",
+    "tts": "riskugle"
+  },
+  {
+    "cp": "🍚",
+    "tts": "ris"
+  },
+  {
+    "cp": "🍛",
+    "tts": "ris og karry"
+  },
+  {
+    "cp": "🍜",
+    "tts": "nudler"
+  },
+  {
+    "cp": "🍝",
+    "tts": "spaghetti"
+  },
+  {
+    "cp": "🍞",
+    "tts": "brød"
+  },
+  {
+    "cp": "🍟",
+    "tts": "pomfritter"
+  },
+  {
+    "cp": "🍠",
+    "tts": "sød kartoffel"
+  },
+  {
+    "cp": "🍡",
+    "tts": "iskugler på pind"
+  },
+  {
+    "cp": "🍢",
+    "tts": "mad på spyd"
+  },
+  {
+    "cp": "🍣",
+    "tts": "sushi"
+  },
+  {
+    "cp": "🍤",
+    "tts": "dybstegt reje"
+  },
+  {
+    "cp": "🍥",
+    "tts": "fiskebolle"
+  },
+  {
+    "cp": "🍦",
+    "tts": "softice"
+  },
+  {
+    "cp": "🍧",
+    "tts": "snedessert"
+  },
+  {
+    "cp": "🍨",
+    "tts": "is"
+  },
+  {
+    "cp": "🍩",
+    "tts": "donut"
+  },
+  {
+    "cp": "🍪",
+    "tts": "cookie"
+  },
+  {
+    "cp": "🍫",
+    "tts": "chokolade"
+  },
+  {
+    "cp": "🍬",
+    "tts": "bolsje"
+  },
+  {
+    "cp": "🍭",
+    "tts": "slikpind"
+  },
+  {
+    "cp": "🍮",
+    "tts": "dessert"
+  },
+  {
+    "cp": "🍯",
+    "tts": "honning"
+  },
+  {
+    "cp": "🍰",
+    "tts": "lagkage"
+  },
+  {
+    "cp": "🍱",
+    "tts": "bento"
+  },
+  {
+    "cp": "🍲",
+    "tts": "gryde med mad"
+  },
+  {
+    "cp": "🍳",
+    "tts": "stegepande"
+  },
+  {
+    "cp": "🍴",
+    "tts": "kniv og gaffel"
+  },
+  {
+    "cp": "🍵",
+    "tts": "tekop"
+  },
+  {
+    "cp": "🍶",
+    "tts": "sake"
+  },
+  {
+    "cp": "🍷",
+    "tts": "vin"
+  },
+  {
+    "cp": "🍸",
+    "tts": "cocktailglas"
+  },
+  {
+    "cp": "🍹",
+    "tts": "tropisk drink"
+  },
+  {
+    "cp": "🍺",
+    "tts": "ølkrus"
+  },
+  {
+    "cp": "🍻",
+    "tts": "skålende ølkrus"
+  },
+  {
+    "cp": "🍼",
+    "tts": "sutteflaske"
+  },
+  {
+    "cp": "🍽",
+    "tts": "kniv og gaffel med tallerken"
+  },
+  {
+    "cp": "🍾",
+    "tts": "flaske med flyvende prop"
+  },
+  {
+    "cp": "🍿",
+    "tts": "popcorn"
+  },
+  {
+    "cp": "🎀",
+    "tts": "sløjfe"
+  },
+  {
+    "cp": "🎁",
+    "tts": "gave"
+  },
+  {
+    "cp": "🎂",
+    "tts": "fødselsdagskage"
+  },
+  {
+    "cp": "🎃",
+    "tts": "græskarlygte"
+  },
+  {
+    "cp": "🎄",
+    "tts": "juletræ"
+  },
+  {
+    "cp": "🎅",
+    "tts": "julemand"
+  },
+  {
+    "cp": "🎆",
+    "tts": "fyrværkeri"
+  },
+  {
+    "cp": "🎇",
+    "tts": "stjernekaster"
+  },
+  {
+    "cp": "🎈",
+    "tts": "ballon"
+  },
+  {
+    "cp": "🎉",
+    "tts": "bordbombe"
+  },
+  {
+    "cp": "🎊",
+    "tts": "konfetti"
+  },
+  {
+    "cp": "🎋",
+    "tts": "træ med papirpynt"
+  },
+  {
+    "cp": "🎌",
+    "tts": "to flag"
+  },
+  {
+    "cp": "🎍",
+    "tts": "fyrtræsdekoration"
+  },
+  {
+    "cp": "🎎",
+    "tts": "dukker"
+  },
+  {
+    "cp": "🎏",
+    "tts": "banner"
+  },
+  {
+    "cp": "🎐",
+    "tts": "vindspil"
+  },
+  {
+    "cp": "🎑",
+    "tts": "måneceremoni"
+  },
+  {
+    "cp": "🎒",
+    "tts": "rygsæk"
+  },
+  {
+    "cp": "🎓",
+    "tts": "eksamenshat"
+  },
+  {
+    "cp": "🎖",
+    "tts": "militærmedalje"
+  },
+  {
+    "cp": "🎗",
+    "tts": "mindebånd"
+  },
+  {
+    "cp": "🎙",
+    "tts": "studiemikrofon"
+  },
+  {
+    "cp": "🎚",
+    "tts": "volumenkontrol"
+  },
+  {
+    "cp": "🎛",
+    "tts": "knapper"
+  },
+  {
+    "cp": "🎞",
+    "tts": "filmstrimmel"
+  },
+  {
+    "cp": "🎟",
+    "tts": "adgangsbillet"
+  },
+  {
+    "cp": "🎠",
+    "tts": "karrusel"
+  },
+  {
+    "cp": "🎡",
+    "tts": "pariserhjul"
+  },
+  {
+    "cp": "🎢",
+    "tts": "rutsjebane"
+  },
+  {
+    "cp": "🎣",
+    "tts": "fiske"
+  },
+  {
+    "cp": "🎤",
+    "tts": "mikrofon"
+  },
+  {
+    "cp": "🎥",
+    "tts": "filmkamera"
+  },
+  {
+    "cp": "🎦",
+    "tts": "film"
+  },
+  {
+    "cp": "🎧",
+    "tts": "hovedtelefon"
+  },
+  {
+    "cp": "🎨",
+    "tts": "palet"
+  },
+  {
+    "cp": "🎩",
+    "tts": "høj hat"
+  },
+  {
+    "cp": "🎪",
+    "tts": "cirkus"
+  },
+  {
+    "cp": "🎫",
+    "tts": "billet"
+  },
+  {
+    "cp": "🎬",
+    "tts": "klaptræ"
+  },
+  {
+    "cp": "🎭",
+    "tts": "masker"
+  },
+  {
+    "cp": "🎮",
+    "tts": "videospil"
+  },
+  {
+    "cp": "🎯",
+    "tts": "pletskud"
+  },
+  {
+    "cp": "🎰",
+    "tts": "spillemaskine"
+  },
+  {
+    "cp": "🎱",
+    "tts": "billard"
+  },
+  {
+    "cp": "🎲",
+    "tts": "terning"
+  },
+  {
+    "cp": "🎳",
+    "tts": "bowling"
+  },
+  {
+    "cp": "🎴",
+    "tts": "spillekort"
+  },
+  {
+    "cp": "🎵",
+    "tts": "node"
+  },
+  {
+    "cp": "🎶",
+    "tts": "noder"
+  },
+  {
+    "cp": "🎷",
+    "tts": "saxofon"
+  },
+  {
+    "cp": "🎸",
+    "tts": "guitar"
+  },
+  {
+    "cp": "🎹",
+    "tts": "klaver"
+  },
+  {
+    "cp": "🎺",
+    "tts": "trompet"
+  },
+  {
+    "cp": "🎻",
+    "tts": "violin"
+  },
+  {
+    "cp": "🎼",
+    "tts": "partitur"
+  },
+  {
+    "cp": "🎽",
+    "tts": "løbetrøje"
+  },
+  {
+    "cp": "🎾",
+    "tts": "tennis"
+  },
+  {
+    "cp": "🎿",
+    "tts": "ski"
+  },
+  {
+    "cp": "🏀",
+    "tts": "basketball"
+  },
+  {
+    "cp": "🏁",
+    "tts": "ternet flag"
+  },
+  {
+    "cp": "🏂",
+    "tts": "snowboarder"
+  },
+  {
+    "cp": "🏃",
+    "tts": "løber"
+  },
+  {
+    "cp": "🏃‍♀",
+    "tts": "kvinde løber"
+  },
+  {
+    "cp": "🏃‍♂",
+    "tts": "mand løber"
+  },
+  {
+    "cp": "🏄",
+    "tts": "surfing"
+  },
+  {
+    "cp": "🏄‍♀",
+    "tts": "kvindelig surfer"
+  },
+  {
+    "cp": "🏄‍♂",
+    "tts": "surfer"
+  },
+  {
+    "cp": "🏅",
+    "tts": "sportsmedalje"
+  },
+  {
+    "cp": "🏆",
+    "tts": "pokal"
+  },
+  {
+    "cp": "🏇",
+    "tts": "hestevæddeløb"
+  },
+  {
+    "cp": "🏈",
+    "tts": "amerikansk fodbold"
+  },
+  {
+    "cp": "🏉",
+    "tts": "rugbybold"
+  },
+  {
+    "cp": "🏊",
+    "tts": "svømmer"
+  },
+  {
+    "cp": "🏊‍♀",
+    "tts": "kvindelig svømmer"
+  },
+  {
+    "cp": "🏊‍♂",
+    "tts": "mandlig svømmer"
+  },
+  {
+    "cp": "🏋",
+    "tts": "vægtløfter"
+  },
+  {
+    "cp": "🏌",
+    "tts": "golfspiller"
+  },
+  {
+    "cp": "🏍",
+    "tts": "motorcykel"
+  },
+  {
+    "cp": "🏎",
+    "tts": "racerbil"
+  },
+  {
+    "cp": "🏏",
+    "tts": "cricket"
+  },
+  {
+    "cp": "🏐",
+    "tts": "volleyball"
+  },
+  {
+    "cp": "🏑",
+    "tts": "hockey"
+  },
+  {
+    "cp": "🏒",
+    "tts": "ishockeystav og puck"
+  },
+  {
+    "cp": "🏓",
+    "tts": "bordtennis"
+  },
+  {
+    "cp": "🏔",
+    "tts": "sneklædt bjerg"
+  },
+  {
+    "cp": "🏕",
+    "tts": "camping"
+  },
+  {
+    "cp": "🏖",
+    "tts": "strand med parasol"
+  },
+  {
+    "cp": "🏗",
+    "tts": "bygningskonstruktion"
+  },
+  {
+    "cp": "🏘",
+    "tts": "huse"
+  },
+  {
+    "cp": "🏙",
+    "tts": "bylandskab"
+  },
+  {
+    "cp": "🏚",
+    "tts": "faldefærdigt hus"
+  },
+  {
+    "cp": "🏛",
+    "tts": "klassisk bygning"
+  },
+  {
+    "cp": "🏜",
+    "tts": "ørken"
+  },
+  {
+    "cp": "🏝",
+    "tts": "øde ø"
+  },
+  {
+    "cp": "🏞",
+    "tts": "nationalpark"
+  },
+  {
+    "cp": "🏟",
+    "tts": "stadion"
+  },
+  {
+    "cp": "🏠",
+    "tts": "hus"
+  },
+  {
+    "cp": "🏡",
+    "tts": "hus med have"
+  },
+  {
+    "cp": "🏢",
+    "tts": "kontorbygning"
+  },
+  {
+    "cp": "🏣",
+    "tts": "japansk posthus"
+  },
+  {
+    "cp": "🏤",
+    "tts": "posthus"
+  },
+  {
+    "cp": "🏥",
+    "tts": "hospital"
+  },
+  {
+    "cp": "🏦",
+    "tts": "bank"
+  },
+  {
+    "cp": "🏧",
+    "tts": "pengeautomat"
+  },
+  {
+    "cp": "🏨",
+    "tts": "hotel"
+  },
+  {
+    "cp": "🏩",
+    "tts": "kærlighedshotel"
+  },
+  {
+    "cp": "🏪",
+    "tts": "døgnkiosk"
+  },
+  {
+    "cp": "🏫",
+    "tts": "skole"
+  },
+  {
+    "cp": "🏬",
+    "tts": "stormagasin"
+  },
+  {
+    "cp": "🏭",
+    "tts": "fabrik"
+  },
+  {
+    "cp": "🏮",
+    "tts": "lygte"
+  },
+  {
+    "cp": "🏯",
+    "tts": "japansk slot"
+  },
+  {
+    "cp": "🏰",
+    "tts": "slot"
+  },
+  {
+    "cp": "🏳",
+    "tts": "hvidt flag"
+  },
+  {
+    "cp": "🏳‍🌈",
+    "tts": "regnbueflag"
+  },
+  {
+    "cp": "🏴",
+    "tts": "sort flag"
+  },
+  {
+    "cp": "🏵",
+    "tts": "roset"
+  },
+  {
+    "cp": "🏷",
+    "tts": "label"
+  },
+  {
+    "cp": "🏸",
+    "tts": "badminton"
+  },
+  {
+    "cp": "🏹",
+    "tts": "bue og pil"
+  },
+  {
+    "cp": "🏺",
+    "tts": "amphora"
+  },
+  {
+    "cp": "🐀",
+    "tts": "rotte"
+  },
+  {
+    "cp": "🐁",
+    "tts": "mus"
+  },
+  {
+    "cp": "🐂",
+    "tts": "okse"
+  },
+  {
+    "cp": "🐃",
+    "tts": "vandbøffel"
+  },
+  {
+    "cp": "🐄",
+    "tts": "ko"
+  },
+  {
+    "cp": "🐅",
+    "tts": "tiger"
+  },
+  {
+    "cp": "🐆",
+    "tts": "leopard"
+  },
+  {
+    "cp": "🐇",
+    "tts": "kanin"
+  },
+  {
+    "cp": "🐈",
+    "tts": "kat"
+  },
+  {
+    "cp": "🐉",
+    "tts": "drage"
+  },
+  {
+    "cp": "🐊",
+    "tts": "krokodille"
+  },
+  {
+    "cp": "🐋",
+    "tts": "hval"
+  },
+  {
+    "cp": "🐌",
+    "tts": "snegl"
+  },
+  {
+    "cp": "🐍",
+    "tts": "slange"
+  },
+  {
+    "cp": "🐎",
+    "tts": "hest"
+  },
+  {
+    "cp": "🐏",
+    "tts": "vædder"
+  },
+  {
+    "cp": "🐐",
+    "tts": "ged"
+  },
+  {
+    "cp": "🐑",
+    "tts": "får"
+  },
+  {
+    "cp": "🐒",
+    "tts": "abe"
+  },
+  {
+    "cp": "🐓",
+    "tts": "hane"
+  },
+  {
+    "cp": "🐔",
+    "tts": "høne"
+  },
+  {
+    "cp": "🐕",
+    "tts": "hund"
+  },
+  {
+    "cp": "🐖",
+    "tts": "gris"
+  },
+  {
+    "cp": "🐗",
+    "tts": "vildsvin"
+  },
+  {
+    "cp": "🐘",
+    "tts": "elefant"
+  },
+  {
+    "cp": "🐙",
+    "tts": "blæksprutte"
+  },
+  {
+    "cp": "🐚",
+    "tts": "konkylie"
+  },
+  {
+    "cp": "🐛",
+    "tts": "larve"
+  },
+  {
+    "cp": "🐜",
+    "tts": "myre"
+  },
+  {
+    "cp": "🐝",
+    "tts": "honningbi"
+  },
+  {
+    "cp": "🐞",
+    "tts": "mariehøne"
+  },
+  {
+    "cp": "🐟",
+    "tts": "fisk"
+  },
+  {
+    "cp": "🐠",
+    "tts": "tropisk fisk"
+  },
+  {
+    "cp": "🐡",
+    "tts": "kuglefisk"
+  },
+  {
+    "cp": "🐢",
+    "tts": "skildpadde"
+  },
+  {
+    "cp": "🐣",
+    "tts": "ny udklækket kylling"
+  },
+  {
+    "cp": "🐤",
+    "tts": "kylling"
+  },
+  {
+    "cp": "🐥",
+    "tts": "kylling forfra"
+  },
+  {
+    "cp": "🐦",
+    "tts": "fugl"
+  },
+  {
+    "cp": "🐧",
+    "tts": "pingvin"
+  },
+  {
+    "cp": "🐨",
+    "tts": "koala"
+  },
+  {
+    "cp": "🐩",
+    "tts": "puddel"
+  },
+  {
+    "cp": "🐪",
+    "tts": "dromedar"
+  },
+  {
+    "cp": "🐫",
+    "tts": "kamel"
+  },
+  {
+    "cp": "🐬",
+    "tts": "delfin"
+  },
+  {
+    "cp": "🐭",
+    "tts": "museansigt"
+  },
+  {
+    "cp": "🐮",
+    "tts": "koansigt"
+  },
+  {
+    "cp": "🐯",
+    "tts": "tigeransigt"
+  },
+  {
+    "cp": "🐰",
+    "tts": "kaninansigt"
+  },
+  {
+    "cp": "🐱",
+    "tts": "katteansigt"
+  },
+  {
+    "cp": "🐲",
+    "tts": "drageansigt"
+  },
+  {
+    "cp": "🐳",
+    "tts": "hval med vandsprøjt"
+  },
+  {
+    "cp": "🐴",
+    "tts": "hestehoved"
+  },
+  {
+    "cp": "🐵",
+    "tts": "abeansigt"
+  },
+  {
+    "cp": "🐶",
+    "tts": "hundeansigt"
+  },
+  {
+    "cp": "🐷",
+    "tts": "griseansigt"
+  },
+  {
+    "cp": "🐸",
+    "tts": "frøansigt"
+  },
+  {
+    "cp": "🐹",
+    "tts": "hamsteransigt"
+  },
+  {
+    "cp": "🐺",
+    "tts": "ulvehoved"
+  },
+  {
+    "cp": "🐻",
+    "tts": "bjørneansigt"
+  },
+  {
+    "cp": "🐼",
+    "tts": "pandaansigt"
+  },
+  {
+    "cp": "🐽",
+    "tts": "grisetryne"
+  },
+  {
+    "cp": "🐾",
+    "tts": "poteaftryk"
+  },
+  {
+    "cp": "🐿",
+    "tts": "jordegern"
+  },
+  {
+    "cp": "👀",
+    "tts": "øjne"
+  },
+  {
+    "cp": "👁",
+    "tts": "øje"
+  },
+  {
+    "cp": "👁‍🗨",
+    "tts": "øje i taleboble"
+  },
+  {
+    "cp": "👂",
+    "tts": "øre"
+  },
+  {
+    "cp": "👃",
+    "tts": "næse"
+  },
+  {
+    "cp": "👄",
+    "tts": "mund"
+  },
+  {
+    "cp": "👅",
+    "tts": "tunge"
+  },
+  {
+    "cp": "👆",
+    "tts": "finger peger op"
+  },
+  {
+    "cp": "👇",
+    "tts": "ned"
+  },
+  {
+    "cp": "👈",
+    "tts": "venstre"
+  },
+  {
+    "cp": "👉",
+    "tts": "højre"
+  },
+  {
+    "cp": "👊",
+    "tts": "knytnæve"
+  },
+  {
+    "cp": "👋",
+    "tts": "vinker"
+  },
+  {
+    "cp": "👌",
+    "tts": "ok-tegn"
+  },
+  {
+    "cp": "👍",
+    "tts": "tommelfinger op"
+  },
+  {
+    "cp": "👎",
+    "tts": "tommelfinger ned"
+  },
+  {
+    "cp": "👏",
+    "tts": "hænder klapper"
+  },
+  {
+    "cp": "👐",
+    "tts": "åbne hænder"
+  },
+  {
+    "cp": "👑",
+    "tts": "krone"
+  },
+  {
+    "cp": "👒",
+    "tts": "hat"
+  },
+  {
+    "cp": "👓",
+    "tts": "briller"
+  },
+  {
+    "cp": "👔",
+    "tts": "slips"
+  },
+  {
+    "cp": "👕",
+    "tts": "T-shirt"
+  },
+  {
+    "cp": "👖",
+    "tts": "bukser"
+  },
+  {
+    "cp": "👗",
+    "tts": "kjole"
+  },
+  {
+    "cp": "👘",
+    "tts": "kimono"
+  },
+  {
+    "cp": "👙",
+    "tts": "bikini"
+  },
+  {
+    "cp": "👚",
+    "tts": "bluse"
+  },
+  {
+    "cp": "👛",
+    "tts": "pung"
+  },
+  {
+    "cp": "👜",
+    "tts": "håndtaske"
+  },
+  {
+    "cp": "👝",
+    "tts": "taske"
+  },
+  {
+    "cp": "👞",
+    "tts": "herresko"
+  },
+  {
+    "cp": "👟",
+    "tts": "gummisko"
+  },
+  {
+    "cp": "👠",
+    "tts": "høje hæle"
+  },
+  {
+    "cp": "👡",
+    "tts": "damesandaler"
+  },
+  {
+    "cp": "👢",
+    "tts": "damestøvler"
+  },
+  {
+    "cp": "👣",
+    "tts": "fodspor"
+  },
+  {
+    "cp": "👤",
+    "tts": "buste i silhuet"
+  },
+  {
+    "cp": "👥",
+    "tts": "buster i silhuet"
+  },
+  {
+    "cp": "👦",
+    "tts": "dreng"
+  },
+  {
+    "cp": "👧",
+    "tts": "pige"
+  },
+  {
+    "cp": "👨",
+    "tts": "mand"
+  },
+  {
+    "cp": "👨‍⚕",
+    "tts": "mandlig sundhedsperson"
+  },
+  {
+    "cp": "👨‍⚖",
+    "tts": "dommer"
+  },
+  {
+    "cp": "👨‍✈",
+    "tts": "pilot"
+  },
+  {
+    "cp": "👨‍❤‍👨",
+    "tts": "par med hjerte: mand, mand"
+  },
+  {
+    "cp": "👨‍❤‍💋‍👨",
+    "tts": "kys: mand, mand"
+  },
+  {
+    "cp": "👨‍🌾",
+    "tts": "landmand"
+  },
+  {
+    "cp": "👨‍🍳",
+    "tts": "kok"
+  },
+  {
+    "cp": "👨‍🎓",
+    "tts": "studerende"
+  },
+  {
+    "cp": "👨‍🎤",
+    "tts": "sanger"
+  },
+  {
+    "cp": "👨‍🎨",
+    "tts": "kunstner"
+  },
+  {
+    "cp": "👨‍🏫",
+    "tts": "lærer"
+  },
+  {
+    "cp": "👨‍🏭",
+    "tts": "fabriksarbejder"
+  },
+  {
+    "cp": "👨‍👦",
+    "tts": "familie: mand, dreng"
+  },
+  {
+    "cp": "👨‍👦‍👦",
+    "tts": "familie: mand, dreng, dreng"
+  },
+  {
+    "cp": "👨‍👧",
+    "tts": "familie: mand, pige"
+  },
+  {
+    "cp": "👨‍👧‍👦",
+    "tts": "familie: mand, pige, dreng"
+  },
+  {
+    "cp": "👨‍👧‍👧",
+    "tts": "familie: mand, pige, pige"
+  },
+  {
+    "cp": "👨‍👨‍👦",
+    "tts": "familie: mand, mand, dreng"
+  },
+  {
+    "cp": "👨‍👨‍👦‍👦",
+    "tts": "familie: mand, mand, dreng, dreng"
+  },
+  {
+    "cp": "👨‍👨‍👧",
+    "tts": "familie: mand, mand, pige"
+  },
+  {
+    "cp": "👨‍👨‍👧‍👦",
+    "tts": "familie: mand, mand, pige, dreng"
+  },
+  {
+    "cp": "👨‍👨‍👧‍👧",
+    "tts": "familie: mand, mand, pige, pige"
+  },
+  {
+    "cp": "👨‍👩‍👦",
+    "tts": "familie: mand, kvinde, dreng"
+  },
+  {
+    "cp": "👨‍👩‍👦‍👦",
+    "tts": "familie: mand, kvinde, dreng, dreng"
+  },
+  {
+    "cp": "👨‍👩‍👧",
+    "tts": "familie: mand, kvinde, pige"
+  },
+  {
+    "cp": "👨‍👩‍👧‍👦",
+    "tts": "familie: mand, kvinde, pige, dreng"
+  },
+  {
+    "cp": "👨‍👩‍👧‍👧",
+    "tts": "familie: mand, kvinde, pige, pige"
+  },
+  {
+    "cp": "👨‍💻",
+    "tts": "IT-medarbejder"
+  },
+  {
+    "cp": "👨‍💼",
+    "tts": "kontoransat"
+  },
+  {
+    "cp": "👨‍🔧",
+    "tts": "mekaniker"
+  },
+  {
+    "cp": "👨‍🔬",
+    "tts": "forsker"
+  },
+  {
+    "cp": "👨‍🚀",
+    "tts": "astronaut"
+  },
+  {
+    "cp": "👨‍🚒",
+    "tts": "brandmand"
+  },
+  {
+    "cp": "👩",
+    "tts": "kvinde"
+  },
+  {
+    "cp": "👩‍⚕",
+    "tts": "kvindelig sundhedsperson"
+  },
+  {
+    "cp": "👩‍⚖",
+    "tts": "kvindelig dommer"
+  },
+  {
+    "cp": "👩‍✈",
+    "tts": "kvindelig pilot"
+  },
+  {
+    "cp": "👩‍❤‍👨",
+    "tts": "par med hjerte: kvinde, mand"
+  },
+  {
+    "cp": "👩‍❤‍👩",
+    "tts": "par med hjerte: kvinde, kvinde"
+  },
+  {
+    "cp": "👩‍❤‍💋‍👨",
+    "tts": "kys: kvinde, mand"
+  },
+  {
+    "cp": "👩‍❤‍💋‍👩",
+    "tts": "kys: kvinde, kvinde"
+  },
+  {
+    "cp": "👩‍🌾",
+    "tts": "kvindelig landmand"
+  },
+  {
+    "cp": "👩‍🍳",
+    "tts": "kvindelig kok"
+  },
+  {
+    "cp": "👩‍🎓",
+    "tts": "kvindelig studerende"
+  },
+  {
+    "cp": "👩‍🎤",
+    "tts": "sangerinde"
+  },
+  {
+    "cp": "👩‍🎨",
+    "tts": "kvindelig kunstner"
+  },
+  {
+    "cp": "👩‍🏫",
+    "tts": "kvindelig lærer"
+  },
+  {
+    "cp": "👩‍🏭",
+    "tts": "kvindelig fabriksarbejder"
+  },
+  {
+    "cp": "👩‍👦",
+    "tts": "familie: kvinde, dreng"
+  },
+  {
+    "cp": "👩‍👦‍👦",
+    "tts": "familie: kvinde, dreng, dreng"
+  },
+  {
+    "cp": "👩‍👧",
+    "tts": "familie: kvinde, pige"
+  },
+  {
+    "cp": "👩‍👧‍👦",
+    "tts": "familie: kvinde, pige, dreng"
+  },
+  {
+    "cp": "👩‍👧‍👧",
+    "tts": "familie: kvinde, pige, pige"
+  },
+  {
+    "cp": "👩‍👩‍👦",
+    "tts": "familie: kvinde, kvinde, dreng"
+  },
+  {
+    "cp": "👩‍👩‍👦‍👦",
+    "tts": "familie: kvinde, kvinde, dreng, dreng"
+  },
+  {
+    "cp": "👩‍👩‍👧",
+    "tts": "familie: kvinde, kvinde, pige"
+  },
+  {
+    "cp": "👩‍👩‍👧‍👦",
+    "tts": "familie: kvinde, kvinde, pige, dreng"
+  },
+  {
+    "cp": "👩‍👩‍👧‍👧",
+    "tts": "familie: kvinde, kvinde, pige, pige"
+  },
+  {
+    "cp": "👩‍💻",
+    "tts": "kvindelig IT-medarbejder"
+  },
+  {
+    "cp": "👩‍💼",
+    "tts": "kvindelig kontoransat"
+  },
+  {
+    "cp": "👩‍🔧",
+    "tts": "kvindelig mekaniker"
+  },
+  {
+    "cp": "👩‍🔬",
+    "tts": "kvindelig forsker"
+  },
+  {
+    "cp": "👩‍🚀",
+    "tts": "kvindelig astronaut"
+  },
+  {
+    "cp": "👩‍🚒",
+    "tts": "kvindelig brandmand"
+  },
+  {
+    "cp": "👪",
+    "tts": "familie"
+  },
+  {
+    "cp": "👫",
+    "tts": "man og kvinde"
+  },
+  {
+    "cp": "👬",
+    "tts": "to mænd"
+  },
+  {
+    "cp": "👭",
+    "tts": "to kvinder"
+  },
+  {
+    "cp": "👮",
+    "tts": "politibetjent"
+  },
+  {
+    "cp": "👮‍♀",
+    "tts": "kvindelig politibetjent"
+  },
+  {
+    "cp": "👮‍♂",
+    "tts": "mandlig politibetjent"
+  },
+  {
+    "cp": "👯",
+    "tts": "kvinder med kaninører"
+  },
+  {
+    "cp": "👯‍♀",
+    "tts": "kvinder fester"
+  },
+  {
+    "cp": "👯‍♂",
+    "tts": "mænd fester"
+  },
+  {
+    "cp": "👰",
+    "tts": "brud"
+  },
+  {
+    "cp": "👱",
+    "tts": "person"
+  },
+  {
+    "cp": "👱‍♀",
+    "tts": "blond kvinde"
+  },
+  {
+    "cp": "👱‍♂",
+    "tts": "blond mand"
+  },
+  {
+    "cp": "👲",
+    "tts": "mand med kinesisk hat"
+  },
+  {
+    "cp": "👳‍♀",
+    "tts": "kvinde med turban"
+  },
+  {
+    "cp": "👳‍♂",
+    "tts": "mand med turban"
+  },
+  {
+    "cp": "👴",
+    "tts": "gammel mand"
+  },
+  {
+    "cp": "👵",
+    "tts": "gammel kvinde"
+  },
+  {
+    "cp": "👶",
+    "tts": "baby"
+  },
+  {
+    "cp": "👷",
+    "tts": "byggearbejder"
+  },
+  {
+    "cp": "👷‍♀",
+    "tts": "kvindelig bygningsarbejder"
+  },
+  {
+    "cp": "👷‍♂",
+    "tts": "bygningsarbejder"
+  },
+  {
+    "cp": "👸",
+    "tts": "prinsesse"
+  },
+  {
+    "cp": "👹",
+    "tts": "trold"
+  },
+  {
+    "cp": "👺",
+    "tts": "ånd"
+  },
+  {
+    "cp": "👻",
+    "tts": "spøgelse"
+  },
+  {
+    "cp": "👼",
+    "tts": "babyengel"
+  },
+  {
+    "cp": "👽",
+    "tts": "rumvæsen"
+  },
+  {
+    "cp": "👾",
+    "tts": "alien-monster"
+  },
+  {
+    "cp": "👿",
+    "tts": "lilla djævel"
+  },
+  {
+    "cp": "💀",
+    "tts": "kranium"
+  },
+  {
+    "cp": "💁",
+    "tts": "information"
+  },
+  {
+    "cp": "💁‍♀",
+    "tts": "kvinde vender håndfladen op"
+  },
+  {
+    "cp": "💁‍♂",
+    "tts": "mand vender håndfladen op"
+  },
+  {
+    "cp": "💂",
+    "tts": "garder"
+  },
+  {
+    "cp": "💂‍♀",
+    "tts": "kvindelig garder"
+  },
+  {
+    "cp": "💂‍♂",
+    "tts": "mandlig garder"
+  },
+  {
+    "cp": "💃",
+    "tts": "danser"
+  },
+  {
+    "cp": "💄",
+    "tts": "læbestift"
+  },
+  {
+    "cp": "💅",
+    "tts": "neglelak"
+  },
+  {
+    "cp": "💆",
+    "tts": "ansigtsmassage"
+  },
+  {
+    "cp": "💆‍♀",
+    "tts": "kvinde får ansigtsmassage"
+  },
+  {
+    "cp": "💆‍♂",
+    "tts": "mand får ansigtsmassage"
+  },
+  {
+    "cp": "💇",
+    "tts": "frisør"
+  },
+  {
+    "cp": "💇‍♀",
+    "tts": "kvinde bliver klippet"
+  },
+  {
+    "cp": "💇‍♂",
+    "tts": "mand bliver klippet"
+  },
+  {
+    "cp": "💈",
+    "tts": "barber"
+  },
+  {
+    "cp": "💉",
+    "tts": "sprøjte"
+  },
+  {
+    "cp": "💊",
+    "tts": "pille"
+  },
+  {
+    "cp": "💋",
+    "tts": "læbeaftryk"
+  },
+  {
+    "cp": "💌",
+    "tts": "kærlighedsbrev"
+  },
+  {
+    "cp": "💍",
+    "tts": "ring"
+  },
+  {
+    "cp": "💎",
+    "tts": "diamant"
+  },
+  {
+    "cp": "💏",
+    "tts": "kys"
+  },
+  {
+    "cp": "💐",
+    "tts": "blomsterbuket"
+  },
+  {
+    "cp": "💑",
+    "tts": "par med hjerte"
+  },
+  {
+    "cp": "💒",
+    "tts": "bryllup"
+  },
+  {
+    "cp": "💓",
+    "tts": "bankende hjerte"
+  },
+  {
+    "cp": "💔",
+    "tts": "knust hjerte"
+  },
+  {
+    "cp": "💕",
+    "tts": "to hjerter"
+  },
+  {
+    "cp": "💖",
+    "tts": "hjerte med stjerner"
+  },
+  {
+    "cp": "💗",
+    "tts": "voksende hjerte"
+  },
+  {
+    "cp": "💘",
+    "tts": "hjerte med pil"
+  },
+  {
+    "cp": "💙",
+    "tts": "blåt hjerte"
+  },
+  {
+    "cp": "💚",
+    "tts": "grønt hjerte"
+  },
+  {
+    "cp": "💛",
+    "tts": "gult hjerte"
+  },
+  {
+    "cp": "💜",
+    "tts": "violet hjerte"
+  },
+  {
+    "cp": "💝",
+    "tts": "hjerte med bånd"
+  },
+  {
+    "cp": "💞",
+    "tts": "roterende hjerter"
+  },
+  {
+    "cp": "💟",
+    "tts": "hjertedekoration"
+  },
+  {
+    "cp": "💠",
+    "tts": "diamant med prik"
+  },
+  {
+    "cp": "💡",
+    "tts": "elpære"
+  },
+  {
+    "cp": "💢",
+    "tts": "vrede"
+  },
+  {
+    "cp": "💣",
+    "tts": "bombe"
+  },
+  {
+    "cp": "💤",
+    "tts": "søvnig"
+  },
+  {
+    "cp": "💥",
+    "tts": "kollision"
+  },
+  {
+    "cp": "💦",
+    "tts": "sveddråber"
+  },
+  {
+    "cp": "💧",
+    "tts": "dråbe"
+  },
+  {
+    "cp": "💨",
+    "tts": "smutter"
+  },
+  {
+    "cp": "💩",
+    "tts": "bæ"
+  },
+  {
+    "cp": "💪",
+    "tts": "armmuskler"
+  },
+  {
+    "cp": "💫",
+    "tts": "svimmel"
+  },
+  {
+    "cp": "💬",
+    "tts": "taleboble"
+  },
+  {
+    "cp": "💭",
+    "tts": "tankeboble"
+  },
+  {
+    "cp": "💮",
+    "tts": "blomsterstempel"
+  },
+  {
+    "cp": "💯",
+    "tts": "100 point"
+  },
+  {
+    "cp": "💰",
+    "tts": "pengepose"
+  },
+  {
+    "cp": "💱",
+    "tts": "valutaveksling"
+  },
+  {
+    "cp": "💲",
+    "tts": "dollartegn"
+  },
+  {
+    "cp": "💳",
+    "tts": "kreditkort"
+  },
+  {
+    "cp": "💴",
+    "tts": "yenseddel"
+  },
+  {
+    "cp": "💵",
+    "tts": "dollarseddel"
+  },
+  {
+    "cp": "💶",
+    "tts": "euroseddel"
+  },
+  {
+    "cp": "💷",
+    "tts": "pundseddel"
+  },
+  {
+    "cp": "💸",
+    "tts": "flyvende penge"
+  },
+  {
+    "cp": "💹",
+    "tts": "stigende marked"
+  },
+  {
+    "cp": "💺",
+    "tts": "sæde"
+  },
+  {
+    "cp": "💻",
+    "tts": "computer"
+  },
+  {
+    "cp": "💼",
+    "tts": "attachémappe"
+  },
+  {
+    "cp": "💽",
+    "tts": "mini disk"
+  },
+  {
+    "cp": "💾",
+    "tts": "diskette"
+  },
+  {
+    "cp": "💿",
+    "tts": "cd"
+  },
+  {
+    "cp": "📀",
+    "tts": "DVD"
+  },
+  {
+    "cp": "📁",
+    "tts": "mappe"
+  },
+  {
+    "cp": "📂",
+    "tts": "åben mappe"
+  },
+  {
+    "cp": "📃",
+    "tts": "side med fold"
+  },
+  {
+    "cp": "📄",
+    "tts": "dokument"
+  },
+  {
+    "cp": "📅",
+    "tts": "kalender"
+  },
+  {
+    "cp": "📆",
+    "tts": "kalenderblok"
+  },
+  {
+    "cp": "📇",
+    "tts": "kartotek"
+  },
+  {
+    "cp": "📈",
+    "tts": "opadgående graf"
+  },
+  {
+    "cp": "📉",
+    "tts": "nedadgående graf"
+  },
+  {
+    "cp": "📊",
+    "tts": "søjlediagram"
+  },
+  {
+    "cp": "📋",
+    "tts": "clipboard"
+  },
+  {
+    "cp": "📌",
+    "tts": "tegnestift"
+  },
+  {
+    "cp": "📍",
+    "tts": "rund tegnestift"
+  },
+  {
+    "cp": "📎",
+    "tts": "papirclips"
+  },
+  {
+    "cp": "📏",
+    "tts": "lineal"
+  },
+  {
+    "cp": "📐",
+    "tts": "trekant"
+  },
+  {
+    "cp": "📑",
+    "tts": "faner"
+  },
+  {
+    "cp": "📒",
+    "tts": "regnskabsbog"
+  },
+  {
+    "cp": "📓",
+    "tts": "notesbog"
+  },
+  {
+    "cp": "📔",
+    "tts": "notesbog med udsmykning"
+  },
+  {
+    "cp": "📕",
+    "tts": "lukket bog"
+  },
+  {
+    "cp": "📖",
+    "tts": "åben bog"
+  },
+  {
+    "cp": "📗",
+    "tts": "grøn bog"
+  },
+  {
+    "cp": "📘",
+    "tts": "blå bog"
+  },
+  {
+    "cp": "📙",
+    "tts": "orange bog"
+  },
+  {
+    "cp": "📚",
+    "tts": "bøger"
+  },
+  {
+    "cp": "📛",
+    "tts": "navneskilt"
+  },
+  {
+    "cp": "📜",
+    "tts": "skriftrulle"
+  },
+  {
+    "cp": "📝",
+    "tts": "notat"
+  },
+  {
+    "cp": "📞",
+    "tts": "telefonrør"
+  },
+  {
+    "cp": "📟",
+    "tts": "personsøger"
+  },
+  {
+    "cp": "📠",
+    "tts": "fax"
+  },
+  {
+    "cp": "📡",
+    "tts": "parabolantenne"
+  },
+  {
+    "cp": "📢",
+    "tts": "højttaler med håndtag"
+  },
+  {
+    "cp": "📣",
+    "tts": "megafon"
+  },
+  {
+    "cp": "📤",
+    "tts": "udbakke"
+  },
+  {
+    "cp": "📥",
+    "tts": "indbakke"
+  },
+  {
+    "cp": "📦",
+    "tts": "pakke"
+  },
+  {
+    "cp": "📧",
+    "tts": "e-mail"
+  },
+  {
+    "cp": "📨",
+    "tts": "indgående post"
+  },
+  {
+    "cp": "📩",
+    "tts": "udgående post"
+  },
+  {
+    "cp": "📪",
+    "tts": "lukket postkasse med sænket flag"
+  },
+  {
+    "cp": "📫",
+    "tts": "lukket postkasse med hævet flag"
+  },
+  {
+    "cp": "📬",
+    "tts": "åben postkasse med hævet flag"
+  },
+  {
+    "cp": "📭",
+    "tts": "åben postkasse med sænket flag"
+  },
+  {
+    "cp": "📮",
+    "tts": "postkasse"
+  },
+  {
+    "cp": "📯",
+    "tts": "posthorn"
+  },
+  {
+    "cp": "📰",
+    "tts": "avis"
+  },
+  {
+    "cp": "📱",
+    "tts": "mobil"
+  },
+  {
+    "cp": "📲",
+    "tts": "mobil med pil"
+  },
+  {
+    "cp": "📳",
+    "tts": "vibration"
+  },
+  {
+    "cp": "📴",
+    "tts": "mobil slået fra"
+  },
+  {
+    "cp": "📵",
+    "tts": "mobiltelefoner forbudt"
+  },
+  {
+    "cp": "📶",
+    "tts": "mobilsignal"
+  },
+  {
+    "cp": "📷",
+    "tts": "kamera"
+  },
+  {
+    "cp": "📸",
+    "tts": "kamera med blitz"
+  },
+  {
+    "cp": "📹",
+    "tts": "videokamera"
+  },
+  {
+    "cp": "📺",
+    "tts": "tv"
+  },
+  {
+    "cp": "📻",
+    "tts": "radio"
+  },
+  {
+    "cp": "📼",
+    "tts": "videobånd"
+  },
+  {
+    "cp": "📽",
+    "tts": "filmprojektor"
+  },
+  {
+    "cp": "📿",
+    "tts": "bedekrans"
+  },
+  {
+    "cp": "🔀",
+    "tts": "krydsede pile"
+  },
+  {
+    "cp": "🔁",
+    "tts": "gentageknap"
+  },
+  {
+    "cp": "🔂",
+    "tts": "knap til én gentagelse"
+  },
+  {
+    "cp": "🔃",
+    "tts": "genindlæse"
+  },
+  {
+    "cp": "🔄",
+    "tts": "mod uret"
+  },
+  {
+    "cp": "🔅",
+    "tts": "lav lysstyrke"
+  },
+  {
+    "cp": "🔆",
+    "tts": "høj lysstyrke"
+  },
+  {
+    "cp": "🔇",
+    "tts": "højttaler fra"
+  },
+  {
+    "cp": "🔈",
+    "tts": "højttaler"
+  },
+  {
+    "cp": "🔉",
+    "tts": "højttaler til"
+  },
+  {
+    "cp": "🔊",
+    "tts": "højttaler høj"
+  },
+  {
+    "cp": "🔋",
+    "tts": "batteri"
+  },
+  {
+    "cp": "🔌",
+    "tts": "stik"
+  },
+  {
+    "cp": "🔍",
+    "tts": "forstørrelsesglas til venstre"
+  },
+  {
+    "cp": "🔎",
+    "tts": "forstørrelsesglas til højre"
+  },
+  {
+    "cp": "🔏",
+    "tts": "hængelås med pen"
+  },
+  {
+    "cp": "🔐",
+    "tts": "lukket hængelås med nøgle"
+  },
+  {
+    "cp": "🔑",
+    "tts": "nøgle"
+  },
+  {
+    "cp": "🔒",
+    "tts": "hængelås"
+  },
+  {
+    "cp": "🔓",
+    "tts": "åben hængelås"
+  },
+  {
+    "cp": "🔔",
+    "tts": "klokke"
+  },
+  {
+    "cp": "🔕",
+    "tts": "ingen klokke"
+  },
+  {
+    "cp": "🔖",
+    "tts": "bogmærke"
+  },
+  {
+    "cp": "🔗",
+    "tts": "link"
+  },
+  {
+    "cp": "🔘",
+    "tts": "knap"
+  },
+  {
+    "cp": "🔙",
+    "tts": "tilbage"
+  },
+  {
+    "cp": "🔚",
+    "tts": "end"
+  },
+  {
+    "cp": "🔛",
+    "tts": "ON-pil"
+  },
+  {
+    "cp": "🔜",
+    "tts": "snart"
+  },
+  {
+    "cp": "🔝",
+    "tts": "top"
+  },
+  {
+    "cp": "🔞",
+    "tts": "forbudt for under 18"
+  },
+  {
+    "cp": "🔠",
+    "tts": "store bogstaver"
+  },
+  {
+    "cp": "🔡",
+    "tts": "små bogstaver"
+  },
+  {
+    "cp": "🔢",
+    "tts": "tal"
+  },
+  {
+    "cp": "🔣",
+    "tts": "symboler"
+  },
+  {
+    "cp": "🔤",
+    "tts": "latinske alfabet"
+  },
+  {
+    "cp": "🔥",
+    "tts": "ild"
+  },
+  {
+    "cp": "🔦",
+    "tts": "lommelygte"
+  },
+  {
+    "cp": "🔧",
+    "tts": "skruenøgle"
+  },
+  {
+    "cp": "🔨",
+    "tts": "hammer"
+  },
+  {
+    "cp": "🔩",
+    "tts": "møtrik og bolt"
+  },
+  {
+    "cp": "🔪",
+    "tts": "køkkenkniv"
+  },
+  {
+    "cp": "🔫",
+    "tts": "pistol"
+  },
+  {
+    "cp": "🔬",
+    "tts": "mikroskop"
+  },
+  {
+    "cp": "🔭",
+    "tts": "teleskop"
+  },
+  {
+    "cp": "🔮",
+    "tts": "krystalkugle"
+  },
+  {
+    "cp": "🔯",
+    "tts": "sekstakket stjerne med prik"
+  },
+  {
+    "cp": "🔰",
+    "tts": "grønt og gult blad"
+  },
+  {
+    "cp": "🔱",
+    "tts": "trefork"
+  },
+  {
+    "cp": "🔲",
+    "tts": "sort kvadratisk knap"
+  },
+  {
+    "cp": "🔳",
+    "tts": "hvid kvadratisk knap"
+  },
+  {
+    "cp": "🔴",
+    "tts": "rød cirkel"
+  },
+  {
+    "cp": "🔵",
+    "tts": "blå cirkel"
+  },
+  {
+    "cp": "🔶",
+    "tts": "stor orange diamant"
+  },
+  {
+    "cp": "🔷",
+    "tts": "stor blå diamant"
+  },
+  {
+    "cp": "🔸",
+    "tts": "lille orange diamant"
+  },
+  {
+    "cp": "🔹",
+    "tts": "lille blå diamant"
+  },
+  {
+    "cp": "🔺",
+    "tts": "op-trekant"
+  },
+  {
+    "cp": "🔻",
+    "tts": "ned-trekant"
+  },
+  {
+    "cp": "🔼",
+    "tts": "op-knap"
+  },
+  {
+    "cp": "🔽",
+    "tts": "ned-knap"
+  },
+  {
+    "cp": "🕉",
+    "tts": "om"
+  },
+  {
+    "cp": "🕊",
+    "tts": "due"
+  },
+  {
+    "cp": "🕋",
+    "tts": "kaaba"
+  },
+  {
+    "cp": "🕌",
+    "tts": "moské"
+  },
+  {
+    "cp": "🕍",
+    "tts": "synagoge"
+  },
+  {
+    "cp": "🕎",
+    "tts": "syvarmet lysestage"
+  },
+  {
+    "cp": "🕐",
+    "tts": "kl. 1"
+  },
+  {
+    "cp": "🕑",
+    "tts": "kl. 2"
+  },
+  {
+    "cp": "🕒",
+    "tts": "kl. 3"
+  },
+  {
+    "cp": "🕓",
+    "tts": "kl. 4"
+  },
+  {
+    "cp": "🕔",
+    "tts": "kl. 5"
+  },
+  {
+    "cp": "🕕",
+    "tts": "kl. 6"
+  },
+  {
+    "cp": "🕖",
+    "tts": "kl. 7"
+  },
+  {
+    "cp": "🕗",
+    "tts": "kl. 8"
+  },
+  {
+    "cp": "🕘",
+    "tts": "kl. 9"
+  },
+  {
+    "cp": "🕙",
+    "tts": "kl. 10"
+  },
+  {
+    "cp": "🕚",
+    "tts": "kl.11"
+  },
+  {
+    "cp": "🕛",
+    "tts": "kl.12"
+  },
+  {
+    "cp": "🕜",
+    "tts": "halv to"
+  },
+  {
+    "cp": "🕝",
+    "tts": "halv tre"
+  },
+  {
+    "cp": "🕞",
+    "tts": "halv fire"
+  },
+  {
+    "cp": "🕟",
+    "tts": "halv fem"
+  },
+  {
+    "cp": "🕠",
+    "tts": "halv seks"
+  },
+  {
+    "cp": "🕡",
+    "tts": "halv syv"
+  },
+  {
+    "cp": "🕢",
+    "tts": "halv otte"
+  },
+  {
+    "cp": "🕣",
+    "tts": "halv ni"
+  },
+  {
+    "cp": "🕤",
+    "tts": "halv ti"
+  },
+  {
+    "cp": "🕥",
+    "tts": "halv elleve"
+  },
+  {
+    "cp": "🕦",
+    "tts": "halv tolv"
+  },
+  {
+    "cp": "🕯",
+    "tts": "stearinlys"
+  },
+  {
+    "cp": "🕰",
+    "tts": "pynteur"
+  },
+  {
+    "cp": "🕳",
+    "tts": "hul"
+  },
+  {
+    "cp": "🕴",
+    "tts": "svævende forretningsmand"
+  },
+  {
+    "cp": "🕵",
+    "tts": "detektiv"
+  },
+  {
+    "cp": "🕶",
+    "tts": "solbriller"
+  },
+  {
+    "cp": "🕷",
+    "tts": "edderkop"
+  },
+  {
+    "cp": "🕸",
+    "tts": "edderkoppespind"
+  },
+  {
+    "cp": "🕹",
+    "tts": "joystick"
+  },
+  {
+    "cp": "🕺",
+    "tts": "dansende mand"
+  },
+  {
+    "cp": "🖇",
+    "tts": "sammensatte papirclips"
+  },
+  {
+    "cp": "🖊",
+    "tts": "kuglepen"
+  },
+  {
+    "cp": "🖋",
+    "tts": "fyldepen"
+  },
+  {
+    "cp": "🖌",
+    "tts": "malerpensel"
+  },
+  {
+    "cp": "🖍",
+    "tts": "farvekridt"
+  },
+  {
+    "cp": "🖐",
+    "tts": "hånd med spredte fingre"
+  },
+  {
+    "cp": "🖕",
+    "tts": "langefinger"
+  },
+  {
+    "cp": "🖖",
+    "tts": "vulcan-hilsen"
+  },
+  {
+    "cp": "🖤",
+    "tts": "sort hjerte"
+  },
+  {
+    "cp": "🖥",
+    "tts": "stationær computer"
+  },
+  {
+    "cp": "🖨",
+    "tts": "printer"
+  },
+  {
+    "cp": "🖱",
+    "tts": "computermus"
+  },
+  {
+    "cp": "🖲",
+    "tts": "trackball"
+  },
+  {
+    "cp": "🖼",
+    "tts": "ramme med billede"
+  },
+  {
+    "cp": "🗂",
+    "tts": "kartotekskort"
+  },
+  {
+    "cp": "🗃",
+    "tts": "arkivkasse"
+  },
+  {
+    "cp": "🗄",
+    "tts": "arkivskab"
+  },
+  {
+    "cp": "🗑",
+    "tts": "papirkurv"
+  },
+  {
+    "cp": "🗒",
+    "tts": "notesblok"
+  },
+  {
+    "cp": "🗓",
+    "tts": "spiralkalender"
+  },
+  {
+    "cp": "🗜",
+    "tts": "skruetvinge"
+  },
+  {
+    "cp": "🗝",
+    "tts": "gammel nøgle"
+  },
+  {
+    "cp": "🗞",
+    "tts": "sammenrullet avis"
+  },
+  {
+    "cp": "🗡",
+    "tts": "daggert"
+  },
+  {
+    "cp": "🗣",
+    "tts": "talende hoved"
+  },
+  {
+    "cp": "🗨",
+    "tts": "taleboble til venstre"
+  },
+  {
+    "cp": "🗯",
+    "tts": "vred taleboble til højre"
+  },
+  {
+    "cp": "🗳",
+    "tts": "valgurne med stemmeseddel"
+  },
+  {
+    "cp": "🗺",
+    "tts": "verdenskort"
+  },
+  {
+    "cp": "🗻",
+    "tts": "Mount Fuji"
+  },
+  {
+    "cp": "🗼",
+    "tts": "Tokyo Tower"
+  },
+  {
+    "cp": "🗽",
+    "tts": "Frihedsgudinden"
+  },
+  {
+    "cp": "🗾",
+    "tts": "Japan"
+  },
+  {
+    "cp": "🗿",
+    "tts": "statue"
+  },
+  {
+    "cp": "😀",
+    "tts": "grinende ansigt"
+  },
+  {
+    "cp": "😁",
+    "tts": "grinende ansigt med smilende øjne"
+  },
+  {
+    "cp": "😂",
+    "tts": "ansigt med glædestårer"
+  },
+  {
+    "cp": "😃",
+    "tts": "smilende ansigt med åben mund"
+  },
+  {
+    "cp": "😄",
+    "tts": "smilende ansigt med åben mund og smilende øjne"
+  },
+  {
+    "cp": "😅",
+    "tts": "smilende ansigt med åben mund og koldsved"
+  },
+  {
+    "cp": "😆",
+    "tts": "smilende ansigt med åben mund og lukkede øjne"
+  },
+  {
+    "cp": "😇",
+    "tts": "smilende ansigt med glorie"
+  },
+  {
+    "cp": "😈",
+    "tts": "smilende ansigt med horn"
+  },
+  {
+    "cp": "😉",
+    "tts": "blinkende ansigt"
+  },
+  {
+    "cp": "😊",
+    "tts": "smilende ansigt og øjne"
+  },
+  {
+    "cp": "😋",
+    "tts": "nydende ansigt"
+  },
+  {
+    "cp": "😌",
+    "tts": "lettet ansigt"
+  },
+  {
+    "cp": "😍",
+    "tts": "smilende ansigt med hjertøjne"
+  },
+  {
+    "cp": "😎",
+    "tts": "smilende ansigt med solbriller"
+  },
+  {
+    "cp": "😏",
+    "tts": "ansigt med smørret grin"
+  },
+  {
+    "cp": "😐",
+    "tts": "neutralt ansigt"
+  },
+  {
+    "cp": "😑",
+    "tts": "udtryksløst ansigt"
+  },
+  {
+    "cp": "😒",
+    "tts": "uimponeret ansigt"
+  },
+  {
+    "cp": "😓",
+    "tts": "ansigt med koldsved"
+  },
+  {
+    "cp": "😔",
+    "tts": "eftertænksomt ansigt"
+  },
+  {
+    "cp": "😕",
+    "tts": "forvirret ansigt"
+  },
+  {
+    "cp": "😖",
+    "tts": "forbistret ansigt"
+  },
+  {
+    "cp": "😗",
+    "tts": "kysseansigt"
+  },
+  {
+    "cp": "😘",
+    "tts": "kyssende ansigt"
+  },
+  {
+    "cp": "😙",
+    "tts": "kysseansigt med smilende øjne"
+  },
+  {
+    "cp": "😚",
+    "tts": "kysseansigt med lukkede øjne"
+  },
+  {
+    "cp": "😛",
+    "tts": "ansigt med tungen ude"
+  },
+  {
+    "cp": "😜",
+    "tts": "ansigt med tungen ude og blinkende øje"
+  },
+  {
+    "cp": "😝",
+    "tts": "ansigt med tungen ude og sammenknebne øjne"
+  },
+  {
+    "cp": "😞",
+    "tts": "skuffet ansigt"
+  },
+  {
+    "cp": "😟",
+    "tts": "bekymret ansigt"
+  },
+  {
+    "cp": "😠",
+    "tts": "vredt ansigt"
+  },
+  {
+    "cp": "😡",
+    "tts": "surt ansigt"
+  },
+  {
+    "cp": "😢",
+    "tts": "grædende ansigt"
+  },
+  {
+    "cp": "😣",
+    "tts": "stædigt ansigt"
+  },
+  {
+    "cp": "😤",
+    "tts": "fnysende ansigt"
+  },
+  {
+    "cp": "😥",
+    "tts": "skuffet men lettet ansigt"
+  },
+  {
+    "cp": "😦",
+    "tts": "måbende ansigt med åben mund"
+  },
+  {
+    "cp": "😧",
+    "tts": "forpint ansigt"
+  },
+  {
+    "cp": "😨",
+    "tts": "bange ansigt"
+  },
+  {
+    "cp": "😩",
+    "tts": "udmattet ansigt"
+  },
+  {
+    "cp": "😪",
+    "tts": "dyb søvn"
+  },
+  {
+    "cp": "😫",
+    "tts": "træt ansigt"
+  },
+  {
+    "cp": "😬",
+    "tts": "sammenbidt ansigt"
+  },
+  {
+    "cp": "😭",
+    "tts": "grådkvalt ansigt"
+  },
+  {
+    "cp": "😮",
+    "tts": "ansigt med åben mund"
+  },
+  {
+    "cp": "😯",
+    "tts": "tavst ansigt"
+  },
+  {
+    "cp": "😰",
+    "tts": "ansigt med åben mund og koldsved"
+  },
+  {
+    "cp": "😱",
+    "tts": "skrigende ansigt"
+  },
+  {
+    "cp": "😲",
+    "tts": "overrasket ansigt"
+  },
+  {
+    "cp": "😳",
+    "tts": "rødmende ansigt"
+  },
+  {
+    "cp": "😴",
+    "tts": "sovende ansigt"
+  },
+  {
+    "cp": "😵",
+    "tts": "svimmelt ansigt"
+  },
+  {
+    "cp": "😶",
+    "tts": "ansigt uden mund"
+  },
+  {
+    "cp": "😷",
+    "tts": "ansigt med maske"
+  },
+  {
+    "cp": "😸",
+    "tts": "kat griner"
+  },
+  {
+    "cp": "😹",
+    "tts": "kat med glædestårer"
+  },
+  {
+    "cp": "😺",
+    "tts": "kat smiler"
+  },
+  {
+    "cp": "😻",
+    "tts": "glad kat med hjerter"
+  },
+  {
+    "cp": "😼",
+    "tts": "kat med ironisk smil"
+  },
+  {
+    "cp": "😽",
+    "tts": "kyssende kat med lukkede øjne"
+  },
+  {
+    "cp": "😾",
+    "tts": "sur kat"
+  },
+  {
+    "cp": "😿",
+    "tts": "grædende kat"
+  },
+  {
+    "cp": "🙀",
+    "tts": "træt kat"
+  },
+  {
+    "cp": "🙁",
+    "tts": "lidt trist ansigt"
+  },
+  {
+    "cp": "🙂",
+    "tts": "let smilende ansigt"
+  },
+  {
+    "cp": "🙃",
+    "tts": "omvendt ansigt"
+  },
+  {
+    "cp": "🙄",
+    "tts": "ansigt med rullende øjne"
+  },
+  {
+    "cp": "🙅",
+    "tts": "signalerer nej"
+  },
+  {
+    "cp": "🙅‍♀",
+    "tts": "kvinde signalerer nej"
+  },
+  {
+    "cp": "🙅‍♂",
+    "tts": "mand signalerer nej"
+  },
+  {
+    "cp": "🙆",
+    "tts": "signalerer ok"
+  },
+  {
+    "cp": "🙆‍♀",
+    "tts": "kvinde signalerer ok"
+  },
+  {
+    "cp": "🙆‍♂",
+    "tts": "mand signalerer ok"
+  },
+  {
+    "cp": "🙇‍♀",
+    "tts": "kvinde bukker dybt"
+  },
+  {
+    "cp": "🙇‍♂",
+    "tts": "mand bukker dybt"
+  },
+  {
+    "cp": "🙈",
+    "tts": "ikke se"
+  },
+  {
+    "cp": "🙉",
+    "tts": "ikke høre"
+  },
+  {
+    "cp": "🙊",
+    "tts": "ikke tale"
+  },
+  {
+    "cp": "🙋",
+    "tts": "glad person"
+  },
+  {
+    "cp": "🙋‍♀",
+    "tts": "kvinde med løftet hånd"
+  },
+  {
+    "cp": "🙋‍♂",
+    "tts": "mand med løftet hånd"
+  },
+  {
+    "cp": "🙌",
+    "tts": "hurra"
+  },
+  {
+    "cp": "🙍",
+    "tts": "rynkede bryn"
+  },
+  {
+    "cp": "🙍‍♀",
+    "tts": "kvinde rynker panden"
+  },
+  {
+    "cp": "🙍‍♂",
+    "tts": "mand rynker panden"
+  },
+  {
+    "cp": "🙎",
+    "tts": "surmulende person"
+  },
+  {
+    "cp": "🙎‍♀",
+    "tts": "kvinde surmuler"
+  },
+  {
+    "cp": "🙎‍♂",
+    "tts": "mand surmuler"
+  },
+  {
+    "cp": "🙏",
+    "tts": "foldede hænder"
+  },
+  {
+    "cp": "🚀",
+    "tts": "raket"
+  },
+  {
+    "cp": "🚁",
+    "tts": "helikopter"
+  },
+  {
+    "cp": "🚂",
+    "tts": "damplokomotiv"
+  },
+  {
+    "cp": "🚃",
+    "tts": "togvogn"
+  },
+  {
+    "cp": "🚄",
+    "tts": "lyntog"
+  },
+  {
+    "cp": "🚅",
+    "tts": "lyntog med projektilnæse"
+  },
+  {
+    "cp": "🚆",
+    "tts": "tog"
+  },
+  {
+    "cp": "🚇",
+    "tts": "metro"
+  },
+  {
+    "cp": "🚈",
+    "tts": "letbane"
+  },
+  {
+    "cp": "🚉",
+    "tts": "togstation"
+  },
+  {
+    "cp": "🚊",
+    "tts": "sporvogn"
+  },
+  {
+    "cp": "🚋",
+    "tts": "vogn"
+  },
+  {
+    "cp": "🚌",
+    "tts": "bus"
+  },
+  {
+    "cp": "🚍",
+    "tts": "bus forfra"
+  },
+  {
+    "cp": "🚎",
+    "tts": "trolleybus"
+  },
+  {
+    "cp": "🚏",
+    "tts": "busstoppested"
+  },
+  {
+    "cp": "🚐",
+    "tts": "minibus"
+  },
+  {
+    "cp": "🚑",
+    "tts": "ambulance"
+  },
+  {
+    "cp": "🚒",
+    "tts": "brandbil"
+  },
+  {
+    "cp": "🚓",
+    "tts": "politibil"
+  },
+  {
+    "cp": "🚔",
+    "tts": "politibil forfra"
+  },
+  {
+    "cp": "🚕",
+    "tts": "taxa"
+  },
+  {
+    "cp": "🚖",
+    "tts": "taxa forfra"
+  },
+  {
+    "cp": "🚗",
+    "tts": "bil"
+  },
+  {
+    "cp": "🚘",
+    "tts": "bil forfra"
+  },
+  {
+    "cp": "🚙",
+    "tts": "firehjulstræk"
+  },
+  {
+    "cp": "🚚",
+    "tts": "lastbil"
+  },
+  {
+    "cp": "🚛",
+    "tts": "lastvogn"
+  },
+  {
+    "cp": "🚜",
+    "tts": "traktor"
+  },
+  {
+    "cp": "🚝",
+    "tts": "monorail"
+  },
+  {
+    "cp": "🚞",
+    "tts": "bjergbane"
+  },
+  {
+    "cp": "🚟",
+    "tts": "luftbane"
+  },
+  {
+    "cp": "🚠",
+    "tts": "kabelbane"
+  },
+  {
+    "cp": "🚡",
+    "tts": "svævebane"
+  },
+  {
+    "cp": "🚢",
+    "tts": "skib"
+  },
+  {
+    "cp": "🚣",
+    "tts": "robåd"
+  },
+  {
+    "cp": "🚣‍♀",
+    "tts": "kvinde i robåd"
+  },
+  {
+    "cp": "🚣‍♂",
+    "tts": "mand i robåd"
+  },
+  {
+    "cp": "🚤",
+    "tts": "speedbåd"
+  },
+  {
+    "cp": "🚥",
+    "tts": "liggende trafiklys"
+  },
+  {
+    "cp": "🚦",
+    "tts": "trafiklys"
+  },
+  {
+    "cp": "🚧",
+    "tts": "byggeri"
+  },
+  {
+    "cp": "🚨",
+    "tts": "blinklys"
+  },
+  {
+    "cp": "🚩",
+    "tts": "flag"
+  },
+  {
+    "cp": "🚪",
+    "tts": "dør"
+  },
+  {
+    "cp": "🚫",
+    "tts": "ingen adgang"
+  },
+  {
+    "cp": "🚬",
+    "tts": "rygeskilt"
+  },
+  {
+    "cp": "🚭",
+    "tts": "rygning forbudt"
+  },
+  {
+    "cp": "🚮",
+    "tts": "smid i skraldespanden"
+  },
+  {
+    "cp": "🚯",
+    "tts": "smid ikke affald"
+  },
+  {
+    "cp": "🚰",
+    "tts": "drikkevand"
+  },
+  {
+    "cp": "🚱",
+    "tts": "ikke drikkevand"
+  },
+  {
+    "cp": "🚲",
+    "tts": "cykel"
+  },
+  {
+    "cp": "🚳",
+    "tts": "cykler forbudt"
+  },
+  {
+    "cp": "🚴",
+    "tts": "cyklist"
+  },
+  {
+    "cp": "🚴‍♀",
+    "tts": "kvindelig cyklist"
+  },
+  {
+    "cp": "🚴‍♂",
+    "tts": "mandlig cyklist"
+  },
+  {
+    "cp": "🚵",
+    "tts": "mountainbikerytter"
+  },
+  {
+    "cp": "🚵‍♀",
+    "tts": "kvinde på mountainbike"
+  },
+  {
+    "cp": "🚵‍♂",
+    "tts": "mand på mountainbike"
+  },
+  {
+    "cp": "🚶",
+    "tts": "fodgænger"
+  },
+  {
+    "cp": "🚶‍♀",
+    "tts": "kvinde går"
+  },
+  {
+    "cp": "🚶‍♂",
+    "tts": "mand går"
+  },
+  {
+    "cp": "🚷",
+    "tts": "ingen fodgængere"
+  },
+  {
+    "cp": "🚸",
+    "tts": "børn krydser vej"
+  },
+  {
+    "cp": "🚹",
+    "tts": "mænd"
+  },
+  {
+    "cp": "🚺",
+    "tts": "kvinder"
+  },
+  {
+    "cp": "🚻",
+    "tts": "toiletskilt"
+  },
+  {
+    "cp": "🚼",
+    "tts": "babysymbol"
+  },
+  {
+    "cp": "🚽",
+    "tts": "toilet"
+  },
+  {
+    "cp": "🚾",
+    "tts": "wc"
+  },
+  {
+    "cp": "🚿",
+    "tts": "brusebad"
+  },
+  {
+    "cp": "🛀",
+    "tts": "bad"
+  },
+  {
+    "cp": "🛁",
+    "tts": "badekar"
+  },
+  {
+    "cp": "🛂",
+    "tts": "paskontrol"
+  },
+  {
+    "cp": "🛃",
+    "tts": "told"
+  },
+  {
+    "cp": "🛄",
+    "tts": "baggageudlevering"
+  },
+  {
+    "cp": "🛅",
+    "tts": "hittegods"
+  },
+  {
+    "cp": "🛋",
+    "tts": "sofa og lampe"
+  },
+  {
+    "cp": "🛌",
+    "tts": "person i seng"
+  },
+  {
+    "cp": "🛍",
+    "tts": "indkøbsposer"
+  },
+  {
+    "cp": "🛎",
+    "tts": "hotelklokke"
+  },
+  {
+    "cp": "🛏",
+    "tts": "seng"
+  },
+  {
+    "cp": "🛐",
+    "tts": "bedested"
+  },
+  {
+    "cp": "🛑",
+    "tts": "stopskilt"
+  },
+  {
+    "cp": "🛒",
+    "tts": "indkøbsvogn"
+  },
+  {
+    "cp": "🛠",
+    "tts": "hammer og skruenøgle"
+  },
+  {
+    "cp": "🛡",
+    "tts": "skjold"
+  },
+  {
+    "cp": "🛢",
+    "tts": "olietønde"
+  },
+  {
+    "cp": "🛣",
+    "tts": "motorvej"
+  },
+  {
+    "cp": "🛤",
+    "tts": "togspor"
+  },
+  {
+    "cp": "🛥",
+    "tts": "motorbåd"
+  },
+  {
+    "cp": "🛩",
+    "tts": "lille fly"
+  },
+  {
+    "cp": "🛫",
+    "tts": "fly afgang"
+  },
+  {
+    "cp": "🛬",
+    "tts": "fly ankomst"
+  },
+  {
+    "cp": "🛰",
+    "tts": "satellit"
+  },
+  {
+    "cp": "🛳",
+    "tts": "passagerskib"
+  },
+  {
+    "cp": "🛴",
+    "tts": "løbehjul"
+  },
+  {
+    "cp": "🛵",
+    "tts": "scooter"
+  },
+  {
+    "cp": "🛶",
+    "tts": "kano"
+  },
+  {
+    "cp": "🤐",
+    "tts": "ansigt med lynlåsmund"
+  },
+  {
+    "cp": "🤑",
+    "tts": "ansigt med dollartegn"
+  },
+  {
+    "cp": "🤒",
+    "tts": "ansigt med termometer"
+  },
+  {
+    "cp": "🤓",
+    "tts": "nørdansigt"
+  },
+  {
+    "cp": "🤔",
+    "tts": "tænkende ansigt"
+  },
+  {
+    "cp": "🤕",
+    "tts": "ansigt med bandage"
+  },
+  {
+    "cp": "🤖",
+    "tts": "robotansigt"
+  },
+  {
+    "cp": "🤗",
+    "tts": "krammende ansigt"
+  },
+  {
+    "cp": "🤘",
+    "tts": "djævletegn"
+  },
+  {
+    "cp": "🤙",
+    "tts": "ring til mig-hånd"
+  },
+  {
+    "cp": "🤚",
+    "tts": "løftet baghånd"
+  },
+  {
+    "cp": "🤛",
+    "tts": "venstrevendt knytnæve"
+  },
+  {
+    "cp": "🤜",
+    "tts": "højrevendt knytnæve"
+  },
+  {
+    "cp": "🤝",
+    "tts": "håndtryk"
+  },
+  {
+    "cp": "🤞",
+    "tts": "krydsede fingre"
+  },
+  {
+    "cp": "🤠",
+    "tts": "cowboyhat ansigt"
+  },
+  {
+    "cp": "🤡",
+    "tts": "klovneansigt"
+  },
+  {
+    "cp": "🤢",
+    "tts": "ansigt med kvalme"
+  },
+  {
+    "cp": "🤣",
+    "tts": "ruller rundt på gulvet af grin"
+  },
+  {
+    "cp": "🤤",
+    "tts": "savlende ansigt"
+  },
+  {
+    "cp": "🤥",
+    "tts": "løgneransigt"
+  },
+  {
+    "cp": "🤦",
+    "tts": "facepalm"
+  },
+  {
+    "cp": "🤦‍♀",
+    "tts": "kvinde slår sig for panden"
+  },
+  {
+    "cp": "🤦‍♂",
+    "tts": "mand slår sig for panden"
+  },
+  {
+    "cp": "🤧",
+    "tts": "nysende ansigt"
+  },
+  {
+    "cp": "🤰",
+    "tts": "gravid kvinde"
+  },
+  {
+    "cp": "🤳",
+    "tts": "selfie"
+  },
+  {
+    "cp": "🤴",
+    "tts": "prins"
+  },
+  {
+    "cp": "🤵",
+    "tts": "mand i smoking"
+  },
+  {
+    "cp": "🤶",
+    "tts": "juledame"
+  },
+  {
+    "cp": "🤷",
+    "tts": "trækker på skuldrene"
+  },
+  {
+    "cp": "🤷‍♀",
+    "tts": "kvinde trækker på skuldrene"
+  },
+  {
+    "cp": "🤷‍♂",
+    "tts": "mand trækker på skuldrene"
+  },
+  {
+    "cp": "🤸",
+    "tts": "vejrmølle"
+  },
+  {
+    "cp": "🤸‍♀",
+    "tts": "kvinde slår vejrmøller"
+  },
+  {
+    "cp": "🤸‍♂",
+    "tts": "mand slår vejrmøller"
+  },
+  {
+    "cp": "🤹",
+    "tts": "jonglerer"
+  },
+  {
+    "cp": "🤹‍♀",
+    "tts": "kvindelig jonglør"
+  },
+  {
+    "cp": "🤹‍♂",
+    "tts": "jonglør"
+  },
+  {
+    "cp": "🤺",
+    "tts": "fægter"
+  },
+  {
+    "cp": "🤼",
+    "tts": "brydere"
+  },
+  {
+    "cp": "🤼‍♀",
+    "tts": "kvindelige brydere"
+  },
+  {
+    "cp": "🤼‍♂",
+    "tts": "mandlige brydere"
+  },
+  {
+    "cp": "🤽",
+    "tts": "vandpolo"
+  },
+  {
+    "cp": "🤽‍♀",
+    "tts": "kvindelig vandpolospiller"
+  },
+  {
+    "cp": "🤽‍♂",
+    "tts": "vandpolospiller"
+  },
+  {
+    "cp": "🤾",
+    "tts": "håndbold"
+  },
+  {
+    "cp": "🤾‍♀",
+    "tts": "kvindelig håndboldspiller"
+  },
+  {
+    "cp": "🤾‍♂",
+    "tts": "håndboldspiller"
+  },
+  {
+    "cp": "🥀",
+    "tts": "vissen blomst"
+  },
+  {
+    "cp": "🥁",
+    "tts": "tromme"
+  },
+  {
+    "cp": "🥂",
+    "tts": "skål"
+  },
+  {
+    "cp": "🥃",
+    "tts": "fladbundet glas"
+  },
+  {
+    "cp": "🥄",
+    "tts": "ske"
+  },
+  {
+    "cp": "🥅",
+    "tts": "målnet"
+  },
+  {
+    "cp": "🥇",
+    "tts": "guldmedalje"
+  },
+  {
+    "cp": "🥈",
+    "tts": "sølvmedalje"
+  },
+  {
+    "cp": "🥉",
+    "tts": "bronzemedalje"
+  },
+  {
+    "cp": "🥊",
+    "tts": "boksehandske"
+  },
+  {
+    "cp": "🥋",
+    "tts": "kampsportsuniform"
+  },
+  {
+    "cp": "🥐",
+    "tts": "croissant"
+  },
+  {
+    "cp": "🥑",
+    "tts": "avokado"
+  },
+  {
+    "cp": "🥒",
+    "tts": "agurk"
+  },
+  {
+    "cp": "🥓",
+    "tts": "bacon"
+  },
+  {
+    "cp": "🥔",
+    "tts": "kartoffel"
+  },
+  {
+    "cp": "🥕",
+    "tts": "gulerod"
+  },
+  {
+    "cp": "🥖",
+    "tts": "flute"
+  },
+  {
+    "cp": "🥗",
+    "tts": "grøn salat"
+  },
+  {
+    "cp": "🥘",
+    "tts": "pande med mad"
+  },
+  {
+    "cp": "🥙",
+    "tts": "fladbrød med fyld"
+  },
+  {
+    "cp": "🥚",
+    "tts": "æg"
+  },
+  {
+    "cp": "🥛",
+    "tts": "glas mælk"
+  },
+  {
+    "cp": "🥜",
+    "tts": "peanuts"
+  },
+  {
+    "cp": "🥝",
+    "tts": "kiwifrugt"
+  },
+  {
+    "cp": "🥞",
+    "tts": "pandekager"
+  },
+  {
+    "cp": "🦀",
+    "tts": "krabbe"
+  },
+  {
+    "cp": "🦁",
+    "tts": "løvehoved"
+  },
+  {
+    "cp": "🦂",
+    "tts": "skorpion"
+  },
+  {
+    "cp": "🦃",
+    "tts": "kalkun"
+  },
+  {
+    "cp": "🦄",
+    "tts": "enhjørning"
+  },
+  {
+    "cp": "🦅",
+    "tts": "ørn"
+  },
+  {
+    "cp": "🦆",
+    "tts": "and"
+  },
+  {
+    "cp": "🦇",
+    "tts": "flagermus"
+  },
+  {
+    "cp": "🦈",
+    "tts": "haj"
+  },
+  {
+    "cp": "🦉",
+    "tts": "ugle"
+  },
+  {
+    "cp": "🦊",
+    "tts": "rævehoved"
+  },
+  {
+    "cp": "🦋",
+    "tts": "sommerfugl"
+  },
+  {
+    "cp": "🦌",
+    "tts": "hjort"
+  },
+  {
+    "cp": "🦍",
+    "tts": "gorilla"
+  },
+  {
+    "cp": "🦎",
+    "tts": "firben"
+  },
+  {
+    "cp": "🦏",
+    "tts": "næsehorn"
+  },
+  {
+    "cp": "🦐",
+    "tts": "reje"
+  },
+  {
+    "cp": "🦑",
+    "tts": "sprutte"
+  },
+  {
+    "cp": "🧀",
+    "tts": "et stykke ost"
+  }
+]

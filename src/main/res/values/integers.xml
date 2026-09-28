@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="volume_value">80</integer>
+    <integer name="volume_max">100</integer>
+    <integer name="rate_value">100</integer>
+    <integer name="rate_max">200</integer>
+    <integer name="pitch_value">100</integer>
+    <integer name="pitch_max">200</integer>
+    <integer name="intonation_value">100</integer>
+    <integer name="intonation_max">125</integer>
+    <integer name="interclause_gap_value">100</integer>
+    <integer name="interclause_gap_max">125</integer>
+</resources>

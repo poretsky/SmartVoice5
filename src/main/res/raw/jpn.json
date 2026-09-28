@@ -1,0 +1,4 @@
+{
+    "name": "Japanese",
+    "alphabet": "\\p{InCJK_Unified_Ideographs}\\p{InHiragana}\\p{InKatakana}"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/native_language_only"
+        android:title="" />
+
+    <item
+        android:id="@+id/language_group_only"
+        android:title="" />
+
+    <item
+        android:id="@+id/everywhere"
+        android:title="@string/all" />
+
+</menu>

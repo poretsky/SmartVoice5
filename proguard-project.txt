@@ -1,0 +1,94 @@
+# To enable ProGuard in your project, edit project.properties
+# to define the proguard.config property as described in that file.
+#
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in ${sdk.dir}/tools/proguard/proguard-android.txt
+# You can edit the include path and order by changing the ProGuard
+# include property in project.properties.
+#
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+
+# Add any project specific keep options here:
+
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+#-keepclassmembers class fqcn.of.javascript.interface.for.webview {
+#   public *;
+#}
+
+-dontnote com.google.vending.licensing.**
+-dontnote com.android.vending.licensing.**
+-dontnote android.support.annotation.**
+
+-keep class tts.synth.RussianVoiceEngine {
+    public <init>(...);
+    private java.lang.String rulexPath;
+    private int audioBufferSize;
+    private int volume;
+    private int pitch;
+    private int speechRate;
+    private int intonation;
+    private int generalGapFactor;
+    private int commaGapFactor;
+    private int dotGapFactor;
+    private int semicolonGapFactor;
+    private int colonGapFactor;
+    private int questionGapFactor;
+    private int exclamationGapFactor;
+    private int intonationalGapFactor;
+    private boolean decimalPoint;
+    private boolean decimalComma;
+    private boolean altVoice;
+    private boolean useRulex;
+    private boolean speechCallback(byte[]);
+    private void speak(java.lang.String);
+}
+
+-keep class tts.synth.PicoTtsEngine {
+    public <init>(...);
+    private long jniData;
+    private int audioBufferSize;
+    private boolean outputAudioStream(byte[]);
+    private long initialize(java.lang.String);
+    private void shutdown();
+    private int hasVoiceFor(java.lang.String, java.lang.String, java.lang.String);
+    private int setLanguage(java.lang.String, java.lang.String, java.lang.String);
+    private java.lang.String[] getCurrentLanguage();
+    private int setProperty(java.lang.String, java.lang.String);
+    private int speak(java.lang.String);
+    private int abort();
+}
+
+-keep class tts.smartvoice.markup.LanguageData {
+    private java.lang.String name;
+    private java.lang.String alphabet;
+    private orestes.bloomfilter.BloomFilter filter;
+}
+
+-keep class tts.smartvoice.markup.Selector {
+    private java.lang.String prefix;
+    private java.lang.String suffix;
+    private java.lang.String[] patterns;
+    private tts.smartvoice.markup.Selector[] nested;
+}
+
+-keep class tts.smartvoice.markup.EmojiItem {
+    java.lang.String cp;
+    java.lang.String tts;
+}
+
+
+# Preference compat library
+-keep public class * extends androidx.preference.PreferenceFragmentCompat
+
+
+# Gson library
+
+-dontnote sun.misc.Unsafe
+
+-keepclassmembers class com.google.gson.internal.reflect.UnsafeReflectionAccessor {
+    java.lang.Object theUnsafe;
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ListPreference
+        android:title="@string/cjk_fallback_title"
+        android:key="@string/cjk_fallback_key"
+        android:defaultValue=""
+        android:persistent="true"
+        app:singleLineTitle="false"
+        app:iconSpaceReserved="false" />
+
+    <ListPreference
+        android:title="@string/latinic_fallback_title"
+        android:key="@string/latinic_fallback_key"
+        android:defaultValue=""
+        android:persistent="true"
+        app:singleLineTitle="false"
+        app:iconSpaceReserved="false" />
+
+    <ListPreference
+        android:title="@string/cyrillic_fallback_title"
+        android:key="@string/cyrillic_fallback_key"
+        android:defaultValue=""
+        android:persistent="true"
+        app:singleLineTitle="false"
+        app:iconSpaceReserved="false" />
+
+    <ListPreference
+        android:title="@string/numeric_language_title"
+        android:key="@string/numeric_language_key"
+        android:defaultValue=""
+        android:persistent="true"
+        app:singleLineTitle="false"
+        app:iconSpaceReserved="false" />
+
+    <ListPreference
+        android:title="@string/pref_emoji_voice_title"
+        android:key="@string/pref_emoji_voice_key"
+        android:defaultValue=""
+        android:persistent="true"
+        app:singleLineTitle="false"
+        app:iconSpaceReserved="false" />
+
+    <PreferenceCategory
+        android:title="@string/pref_voices"
+        android:key="@string/pref_voices_key" />
+
+</PreferenceScreen>

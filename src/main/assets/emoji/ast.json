@@ -1,0 +1,1162 @@
+[
+  {
+    "cp": "¤",
+    "tts": "Divisa desconocida"
+  },
+  {
+    "cp": "֏",
+    "tts": "Dram armeniu"
+  },
+  {
+    "cp": "؋",
+    "tts": "Afganí afganistanu"
+  },
+  {
+    "cp": "৳",
+    "tts": "Taka bangladexí"
+  },
+  {
+    "cp": "฿",
+    "tts": "baht tailandés"
+  },
+  {
+    "cp": "៛",
+    "tts": "riel camboyanu"
+  },
+  {
+    "cp": "₡",
+    "tts": "Colón costarricanu"
+  },
+  {
+    "cp": "₦",
+    "tts": "naira nixeriana"
+  },
+  {
+    "cp": "₧",
+    "tts": "Peseta española"
+  },
+  {
+    "cp": "₪",
+    "tts": "Xequel nuevu israelín"
+  },
+  {
+    "cp": "₫",
+    "tts": "dong vietnamín"
+  },
+  {
+    "cp": "₭",
+    "tts": "kip laosianu"
+  },
+  {
+    "cp": "₮",
+    "tts": "Tugrik mongol"
+  },
+  {
+    "cp": "₲",
+    "tts": "guaraní paraguayu"
+  },
+  {
+    "cp": "₴",
+    "tts": "Grivna ucraína"
+  },
+  {
+    "cp": "₵",
+    "tts": "cedi ghanianu"
+  },
+  {
+    "cp": "₸",
+    "tts": "Tenge kazaquistanín"
+  },
+  {
+    "cp": "₺",
+    "tts": "Llira turca"
+  },
+  {
+    "cp": "₼",
+    "tts": "Manat azerbaixanu"
+  },
+  {
+    "cp": "₾",
+    "tts": "Lari xeorxanu"
+  },
+  {
+    "cp": "☺",
+    "tts": "cara sorriendo"
+  },
+  {
+    "cp": "🇦🇨",
+    "tts": "bandera: Islla Ascensión"
+  },
+  {
+    "cp": "🇦🇩",
+    "tts": "bandera: Andorra"
+  },
+  {
+    "cp": "🇦🇪",
+    "tts": "bandera: Emiratos Árabes Xuníos"
+  },
+  {
+    "cp": "🇦🇫",
+    "tts": "bandera: Afganistán"
+  },
+  {
+    "cp": "🇦🇬",
+    "tts": "bandera: Antigua y Barbuda"
+  },
+  {
+    "cp": "🇦🇮",
+    "tts": "bandera: Anguila"
+  },
+  {
+    "cp": "🇦🇱",
+    "tts": "bandera: Albania"
+  },
+  {
+    "cp": "🇦🇲",
+    "tts": "bandera: Armenia"
+  },
+  {
+    "cp": "🇦🇴",
+    "tts": "bandera: Angola"
+  },
+  {
+    "cp": "🇦🇶",
+    "tts": "bandera: L’Antártida"
+  },
+  {
+    "cp": "🇦🇷",
+    "tts": "bandera: Arxentina"
+  },
+  {
+    "cp": "🇦🇸",
+    "tts": "bandera: Samoa Americana"
+  },
+  {
+    "cp": "🇦🇹",
+    "tts": "bandera: Austria"
+  },
+  {
+    "cp": "🇦🇺",
+    "tts": "bandera: Australia"
+  },
+  {
+    "cp": "🇦🇼",
+    "tts": "bandera: Aruba"
+  },
+  {
+    "cp": "🇦🇽",
+    "tts": "bandera: Islles Aland"
+  },
+  {
+    "cp": "🇦🇿",
+    "tts": "bandera: Azerbaixán"
+  },
+  {
+    "cp": "🇧🇦",
+    "tts": "bandera: Bosnia y Herzegovina"
+  },
+  {
+    "cp": "🇧🇧",
+    "tts": "bandera: Barbados"
+  },
+  {
+    "cp": "🇧🇩",
+    "tts": "bandera: Bangladex"
+  },
+  {
+    "cp": "🇧🇪",
+    "tts": "bandera: Bélxica"
+  },
+  {
+    "cp": "🇧🇫",
+    "tts": "bandera: Burkina Fasu"
+  },
+  {
+    "cp": "🇧🇬",
+    "tts": "bandera: Bulgaria"
+  },
+  {
+    "cp": "🇧🇭",
+    "tts": "bandera: Baḥréin"
+  },
+  {
+    "cp": "🇧🇮",
+    "tts": "bandera: Burundi"
+  },
+  {
+    "cp": "🇧🇯",
+    "tts": "bandera: Benín"
+  },
+  {
+    "cp": "🇧🇱",
+    "tts": "bandera: San Bartolomé"
+  },
+  {
+    "cp": "🇧🇲",
+    "tts": "bandera: Les Bermudes"
+  },
+  {
+    "cp": "🇧🇳",
+    "tts": "bandera: Brunéi"
+  },
+  {
+    "cp": "🇧🇴",
+    "tts": "bandera: Bolivia"
+  },
+  {
+    "cp": "🇧🇶",
+    "tts": "bandera: Caribe neerlandés"
+  },
+  {
+    "cp": "🇧🇷",
+    "tts": "bandera: Brasil"
+  },
+  {
+    "cp": "🇧🇸",
+    "tts": "bandera: Les Bahames"
+  },
+  {
+    "cp": "🇧🇹",
+    "tts": "bandera: Bután"
+  },
+  {
+    "cp": "🇧🇻",
+    "tts": "bandera: Islla Bouvet"
+  },
+  {
+    "cp": "🇧🇼",
+    "tts": "bandera: Botsuana"
+  },
+  {
+    "cp": "🇧🇾",
+    "tts": "bandera: Bielorrusia"
+  },
+  {
+    "cp": "🇧🇿",
+    "tts": "bandera: Belize"
+  },
+  {
+    "cp": "🇨🇦",
+    "tts": "bandera: Canadá"
+  },
+  {
+    "cp": "🇨🇨",
+    "tts": "bandera: Islles Cocos (Keeling)"
+  },
+  {
+    "cp": "🇨🇩",
+    "tts": "bandera: Congu - Kinxasa"
+  },
+  {
+    "cp": "🇨🇫",
+    "tts": "bandera: República Centroafricana"
+  },
+  {
+    "cp": "🇨🇬",
+    "tts": "bandera: Congu - Brazzaville"
+  },
+  {
+    "cp": "🇨🇭",
+    "tts": "bandera: Suiza"
+  },
+  {
+    "cp": "🇨🇮",
+    "tts": "bandera: Costa de Marfil"
+  },
+  {
+    "cp": "🇨🇰",
+    "tts": "bandera: Islles Cook"
+  },
+  {
+    "cp": "🇨🇱",
+    "tts": "bandera: Chile"
+  },
+  {
+    "cp": "🇨🇲",
+    "tts": "bandera: Camerún"
+  },
+  {
+    "cp": "🇨🇳",
+    "tts": "bandera: China"
+  },
+  {
+    "cp": "🇨🇴",
+    "tts": "bandera: Colombia"
+  },
+  {
+    "cp": "🇨🇵",
+    "tts": "bandera: Islla Clipperton"
+  },
+  {
+    "cp": "🇨🇷",
+    "tts": "bandera: Costa Rica"
+  },
+  {
+    "cp": "🇨🇺",
+    "tts": "bandera: Cuba"
+  },
+  {
+    "cp": "🇨🇻",
+    "tts": "bandera: Cabu Verde"
+  },
+  {
+    "cp": "🇨🇼",
+    "tts": "bandera: Curaçao"
+  },
+  {
+    "cp": "🇨🇽",
+    "tts": "bandera: Islla Christmas"
+  },
+  {
+    "cp": "🇨🇾",
+    "tts": "bandera: Xipre"
+  },
+  {
+    "cp": "🇨🇿",
+    "tts": "bandera: Chequia"
+  },
+  {
+    "cp": "🇩🇪",
+    "tts": "bandera: Alemaña"
+  },
+  {
+    "cp": "🇩🇬",
+    "tts": "bandera: Diego Garcia"
+  },
+  {
+    "cp": "🇩🇯",
+    "tts": "bandera: Xibuti"
+  },
+  {
+    "cp": "🇩🇰",
+    "tts": "bandera: Dinamarca"
+  },
+  {
+    "cp": "🇩🇲",
+    "tts": "bandera: Dominica"
+  },
+  {
+    "cp": "🇩🇴",
+    "tts": "bandera: República Dominicana"
+  },
+  {
+    "cp": "🇩🇿",
+    "tts": "bandera: Arxelia"
+  },
+  {
+    "cp": "🇪🇦",
+    "tts": "bandera: Ceuta y Melilla"
+  },
+  {
+    "cp": "🇪🇨",
+    "tts": "bandera: Ecuador"
+  },
+  {
+    "cp": "🇪🇪",
+    "tts": "bandera: Estonia"
+  },
+  {
+    "cp": "🇪🇬",
+    "tts": "bandera: Exiptu"
+  },
+  {
+    "cp": "🇪🇭",
+    "tts": "bandera: Sáḥara Occidental"
+  },
+  {
+    "cp": "🇪🇷",
+    "tts": "bandera: Eritrea"
+  },
+  {
+    "cp": "🇪🇸",
+    "tts": "bandera: España"
+  },
+  {
+    "cp": "🇪🇹",
+    "tts": "bandera: Etiopía"
+  },
+  {
+    "cp": "🇪🇺",
+    "tts": "bandera: Xunión Europea"
+  },
+  {
+    "cp": "🇫🇮",
+    "tts": "bandera: Finlandia"
+  },
+  {
+    "cp": "🇫🇯",
+    "tts": "bandera: Islles Fixi"
+  },
+  {
+    "cp": "🇫🇰",
+    "tts": "bandera: Falkland Islands"
+  },
+  {
+    "cp": "🇫🇲",
+    "tts": "bandera: Micronesia"
+  },
+  {
+    "cp": "🇫🇴",
+    "tts": "bandera: Islles Feroe"
+  },
+  {
+    "cp": "🇫🇷",
+    "tts": "bandera: Francia"
+  },
+  {
+    "cp": "🇬🇦",
+    "tts": "bandera: Gabón"
+  },
+  {
+    "cp": "🇬🇧",
+    "tts": "bandera: Reinu Xuníu"
+  },
+  {
+    "cp": "🇬🇩",
+    "tts": "bandera: Granada"
+  },
+  {
+    "cp": "🇬🇪",
+    "tts": "bandera: Xeorxa"
+  },
+  {
+    "cp": "🇬🇫",
+    "tts": "bandera: Guyana Francesa"
+  },
+  {
+    "cp": "🇬🇬",
+    "tts": "bandera: Guernsey"
+  },
+  {
+    "cp": "🇬🇭",
+    "tts": "bandera: Ghana"
+  },
+  {
+    "cp": "🇬🇮",
+    "tts": "bandera: Xibraltar"
+  },
+  {
+    "cp": "🇬🇱",
+    "tts": "bandera: Groenlandia"
+  },
+  {
+    "cp": "🇬🇲",
+    "tts": "bandera: Gambia"
+  },
+  {
+    "cp": "🇬🇳",
+    "tts": "bandera: Guinea"
+  },
+  {
+    "cp": "🇬🇵",
+    "tts": "bandera: Guadalupe"
+  },
+  {
+    "cp": "🇬🇶",
+    "tts": "bandera: Guinea Ecuatorial"
+  },
+  {
+    "cp": "🇬🇷",
+    "tts": "bandera: Grecia"
+  },
+  {
+    "cp": "🇬🇸",
+    "tts": "bandera: Islles Xeorxa del Sur y Sandwich del Sur"
+  },
+  {
+    "cp": "🇬🇹",
+    "tts": "bandera: Guatemala"
+  },
+  {
+    "cp": "🇬🇺",
+    "tts": "bandera: Guam"
+  },
+  {
+    "cp": "🇬🇼",
+    "tts": "bandera: Guinea-Bisáu"
+  },
+  {
+    "cp": "🇬🇾",
+    "tts": "bandera: Guyana"
+  },
+  {
+    "cp": "🇭🇰",
+    "tts": "bandera: ARE China de Ḥong Kong"
+  },
+  {
+    "cp": "🇭🇲",
+    "tts": "bandera: Islles Heard y McDonald"
+  },
+  {
+    "cp": "🇭🇳",
+    "tts": "bandera: Hondures"
+  },
+  {
+    "cp": "🇭🇷",
+    "tts": "bandera: Croacia"
+  },
+  {
+    "cp": "🇭🇹",
+    "tts": "bandera: Haití"
+  },
+  {
+    "cp": "🇭🇺",
+    "tts": "bandera: Hungría"
+  },
+  {
+    "cp": "🇮🇨",
+    "tts": "bandera: Islles Canaries"
+  },
+  {
+    "cp": "🇮🇩",
+    "tts": "bandera: Indonesia"
+  },
+  {
+    "cp": "🇮🇪",
+    "tts": "bandera: Irlanda"
+  },
+  {
+    "cp": "🇮🇱",
+    "tts": "bandera: Israel"
+  },
+  {
+    "cp": "🇮🇲",
+    "tts": "bandera: Islla de Man"
+  },
+  {
+    "cp": "🇮🇳",
+    "tts": "bandera: India"
+  },
+  {
+    "cp": "🇮🇴",
+    "tts": "bandera: Territoriu Británicu del Océanu Índicu"
+  },
+  {
+    "cp": "🇮🇶",
+    "tts": "bandera: Iraq"
+  },
+  {
+    "cp": "🇮🇷",
+    "tts": "bandera: Irán"
+  },
+  {
+    "cp": "🇮🇸",
+    "tts": "bandera: Islandia"
+  },
+  {
+    "cp": "🇮🇹",
+    "tts": "bandera: Italia"
+  },
+  {
+    "cp": "🇯🇪",
+    "tts": "bandera: Jersey"
+  },
+  {
+    "cp": "🇯🇲",
+    "tts": "bandera: Xamaica"
+  },
+  {
+    "cp": "🇯🇴",
+    "tts": "bandera: Xordania"
+  },
+  {
+    "cp": "🇯🇵",
+    "tts": "bandera: Xapón"
+  },
+  {
+    "cp": "🇰🇪",
+    "tts": "bandera: Kenia"
+  },
+  {
+    "cp": "🇰🇬",
+    "tts": "bandera: Kirguistán"
+  },
+  {
+    "cp": "🇰🇭",
+    "tts": "bandera: Camboya"
+  },
+  {
+    "cp": "🇰🇮",
+    "tts": "bandera: Kiribati"
+  },
+  {
+    "cp": "🇰🇲",
+    "tts": "bandera: Les Comores"
+  },
+  {
+    "cp": "🇰🇳",
+    "tts": "bandera: Saint Kitts y Nevis"
+  },
+  {
+    "cp": "🇰🇵",
+    "tts": "bandera: Corea del Norte"
+  },
+  {
+    "cp": "🇰🇷",
+    "tts": "bandera: Corea del Sur"
+  },
+  {
+    "cp": "🇰🇼",
+    "tts": "bandera: Kuwait"
+  },
+  {
+    "cp": "🇰🇾",
+    "tts": "bandera: Islles Caimán"
+  },
+  {
+    "cp": "🇰🇿",
+    "tts": "bandera: Kazakstán"
+  },
+  {
+    "cp": "🇱🇦",
+    "tts": "bandera: Laos"
+  },
+  {
+    "cp": "🇱🇧",
+    "tts": "bandera: Líbanu"
+  },
+  {
+    "cp": "🇱🇨",
+    "tts": "bandera: Santa Llucía"
+  },
+  {
+    "cp": "🇱🇮",
+    "tts": "bandera: Liechtenstein"
+  },
+  {
+    "cp": "🇱🇰",
+    "tts": "bandera: Sri Lanka"
+  },
+  {
+    "cp": "🇱🇷",
+    "tts": "bandera: Liberia"
+  },
+  {
+    "cp": "🇱🇸",
+    "tts": "bandera: Lesothu"
+  },
+  {
+    "cp": "🇱🇹",
+    "tts": "bandera: Lituania"
+  },
+  {
+    "cp": "🇱🇺",
+    "tts": "bandera: Luxemburgu"
+  },
+  {
+    "cp": "🇱🇻",
+    "tts": "bandera: Letonia"
+  },
+  {
+    "cp": "🇱🇾",
+    "tts": "bandera: Libia"
+  },
+  {
+    "cp": "🇲🇦",
+    "tts": "bandera: Marruecos"
+  },
+  {
+    "cp": "🇲🇨",
+    "tts": "bandera: Mónacu"
+  },
+  {
+    "cp": "🇲🇩",
+    "tts": "bandera: Moldavia"
+  },
+  {
+    "cp": "🇲🇪",
+    "tts": "bandera: Montenegru"
+  },
+  {
+    "cp": "🇲🇫",
+    "tts": "bandera: Saint Martin"
+  },
+  {
+    "cp": "🇲🇬",
+    "tts": "bandera: Madagascar"
+  },
+  {
+    "cp": "🇲🇭",
+    "tts": "bandera: Islles Marshall"
+  },
+  {
+    "cp": "🇲🇱",
+    "tts": "bandera: Malí"
+  },
+  {
+    "cp": "🇲🇲",
+    "tts": "bandera: Myanmar (Birmania)"
+  },
+  {
+    "cp": "🇲🇳",
+    "tts": "bandera: Mongolia"
+  },
+  {
+    "cp": "🇲🇴",
+    "tts": "bandera: ARE China de Macáu"
+  },
+  {
+    "cp": "🇲🇵",
+    "tts": "bandera: Islles Marianes del Norte"
+  },
+  {
+    "cp": "🇲🇶",
+    "tts": "bandera: La Martinica"
+  },
+  {
+    "cp": "🇲🇷",
+    "tts": "bandera: Mauritania"
+  },
+  {
+    "cp": "🇲🇸",
+    "tts": "bandera: Montserrat"
+  },
+  {
+    "cp": "🇲🇹",
+    "tts": "bandera: Malta"
+  },
+  {
+    "cp": "🇲🇺",
+    "tts": "bandera: Mauriciu"
+  },
+  {
+    "cp": "🇲🇻",
+    "tts": "bandera: Les Maldives"
+  },
+  {
+    "cp": "🇲🇼",
+    "tts": "bandera: Malaui"
+  },
+  {
+    "cp": "🇲🇽",
+    "tts": "bandera: Méxicu"
+  },
+  {
+    "cp": "🇲🇾",
+    "tts": "bandera: Malasia"
+  },
+  {
+    "cp": "🇲🇿",
+    "tts": "bandera: Mozambique"
+  },
+  {
+    "cp": "🇳🇦",
+    "tts": "bandera: Namibia"
+  },
+  {
+    "cp": "🇳🇨",
+    "tts": "bandera: Nueva Caledonia"
+  },
+  {
+    "cp": "🇳🇪",
+    "tts": "bandera: El Níxer"
+  },
+  {
+    "cp": "🇳🇫",
+    "tts": "bandera: Islla Norfolk"
+  },
+  {
+    "cp": "🇳🇬",
+    "tts": "bandera: Nixeria"
+  },
+  {
+    "cp": "🇳🇮",
+    "tts": "bandera: Nicaragua"
+  },
+  {
+    "cp": "🇳🇱",
+    "tts": "bandera: Países Baxos"
+  },
+  {
+    "cp": "🇳🇴",
+    "tts": "bandera: Noruega"
+  },
+  {
+    "cp": "🇳🇵",
+    "tts": "bandera: Nepal"
+  },
+  {
+    "cp": "🇳🇷",
+    "tts": "bandera: Nauru"
+  },
+  {
+    "cp": "🇳🇺",
+    "tts": "bandera: Niue"
+  },
+  {
+    "cp": "🇳🇿",
+    "tts": "bandera: Nueva Zelanda"
+  },
+  {
+    "cp": "🇴🇲",
+    "tts": "bandera: Omán"
+  },
+  {
+    "cp": "🇵🇦",
+    "tts": "bandera: Panamá"
+  },
+  {
+    "cp": "🇵🇪",
+    "tts": "bandera: Perú"
+  },
+  {
+    "cp": "🇵🇫",
+    "tts": "bandera: Polinesia Francesa"
+  },
+  {
+    "cp": "🇵🇬",
+    "tts": "bandera: Papúa Nueva Guinea"
+  },
+  {
+    "cp": "🇵🇭",
+    "tts": "bandera: Filipines"
+  },
+  {
+    "cp": "🇵🇰",
+    "tts": "bandera: Paquistán"
+  },
+  {
+    "cp": "🇵🇱",
+    "tts": "bandera: Polonia"
+  },
+  {
+    "cp": "🇵🇲",
+    "tts": "bandera: Saint Pierre y Miquelon"
+  },
+  {
+    "cp": "🇵🇳",
+    "tts": "bandera: Islles Pitcairn"
+  },
+  {
+    "cp": "🇵🇷",
+    "tts": "bandera: Puertu Ricu"
+  },
+  {
+    "cp": "🇵🇸",
+    "tts": "bandera: Territorios Palestinos"
+  },
+  {
+    "cp": "🇵🇹",
+    "tts": "bandera: Portugal"
+  },
+  {
+    "cp": "🇵🇼",
+    "tts": "bandera: Paláu"
+  },
+  {
+    "cp": "🇵🇾",
+    "tts": "bandera: Paraguái"
+  },
+  {
+    "cp": "🇶🇦",
+    "tts": "bandera: Qatar"
+  },
+  {
+    "cp": "🇷🇪",
+    "tts": "bandera: Reunión"
+  },
+  {
+    "cp": "🇷🇴",
+    "tts": "bandera: Rumanía"
+  },
+  {
+    "cp": "🇷🇸",
+    "tts": "bandera: Serbia"
+  },
+  {
+    "cp": "🇷🇺",
+    "tts": "bandera: Rusia"
+  },
+  {
+    "cp": "🇷🇼",
+    "tts": "bandera: Ruanda"
+  },
+  {
+    "cp": "🇸🇦",
+    "tts": "bandera: Arabia Saudita"
+  },
+  {
+    "cp": "🇸🇧",
+    "tts": "bandera: Islles Salomón"
+  },
+  {
+    "cp": "🇸🇨",
+    "tts": "bandera: Les Seixeles"
+  },
+  {
+    "cp": "🇸🇩",
+    "tts": "bandera: Sudán"
+  },
+  {
+    "cp": "🇸🇪",
+    "tts": "bandera: Suecia"
+  },
+  {
+    "cp": "🇸🇬",
+    "tts": "bandera: Singapur"
+  },
+  {
+    "cp": "🇸🇭",
+    "tts": "bandera: Santa Helena"
+  },
+  {
+    "cp": "🇸🇮",
+    "tts": "bandera: Eslovenia"
+  },
+  {
+    "cp": "🇸🇯",
+    "tts": "bandera: Svalbard ya Islla Jan Mayen"
+  },
+  {
+    "cp": "🇸🇰",
+    "tts": "bandera: Eslovaquia"
+  },
+  {
+    "cp": "🇸🇱",
+    "tts": "bandera: Sierra Lleona"
+  },
+  {
+    "cp": "🇸🇲",
+    "tts": "bandera: San Marín"
+  },
+  {
+    "cp": "🇸🇳",
+    "tts": "bandera: Senegal"
+  },
+  {
+    "cp": "🇸🇴",
+    "tts": "bandera: Somalia"
+  },
+  {
+    "cp": "🇸🇷",
+    "tts": "bandera: Surinam"
+  },
+  {
+    "cp": "🇸🇸",
+    "tts": "bandera: Sudán del Sur"
+  },
+  {
+    "cp": "🇸🇹",
+    "tts": "bandera: Santu Tomé y Príncipe"
+  },
+  {
+    "cp": "🇸🇻",
+    "tts": "bandera: El Salvador"
+  },
+  {
+    "cp": "🇸🇽",
+    "tts": "bandera: Sint Maarten"
+  },
+  {
+    "cp": "🇸🇾",
+    "tts": "bandera: Siria"
+  },
+  {
+    "cp": "🇸🇿",
+    "tts": "bandera: Suazilandia"
+  },
+  {
+    "cp": "🇹🇦",
+    "tts": "bandera: Tristán da Cunha"
+  },
+  {
+    "cp": "🇹🇨",
+    "tts": "bandera: Islles Turques y Caicos"
+  },
+  {
+    "cp": "🇹🇩",
+    "tts": "bandera: Chad"
+  },
+  {
+    "cp": "🇹🇫",
+    "tts": "bandera: Tierres Australes Franceses"
+  },
+  {
+    "cp": "🇹🇬",
+    "tts": "bandera: Togu"
+  },
+  {
+    "cp": "🇹🇭",
+    "tts": "bandera: Tailandia"
+  },
+  {
+    "cp": "🇹🇯",
+    "tts": "bandera: Taxiquistán"
+  },
+  {
+    "cp": "🇹🇰",
+    "tts": "bandera: Tokeláu"
+  },
+  {
+    "cp": "🇹🇱",
+    "tts": "bandera: Timor Oriental"
+  },
+  {
+    "cp": "🇹🇲",
+    "tts": "bandera: Turkmenistán"
+  },
+  {
+    "cp": "🇹🇳",
+    "tts": "bandera: Tunicia"
+  },
+  {
+    "cp": "🇹🇴",
+    "tts": "bandera: Tonga"
+  },
+  {
+    "cp": "🇹🇷",
+    "tts": "bandera: Turquía"
+  },
+  {
+    "cp": "🇹🇹",
+    "tts": "bandera: Trinidá y Tobagu"
+  },
+  {
+    "cp": "🇹🇻",
+    "tts": "bandera: Tuvalu"
+  },
+  {
+    "cp": "🇹🇼",
+    "tts": "bandera: Taiwán"
+  },
+  {
+    "cp": "🇹🇿",
+    "tts": "bandera: Tanzania"
+  },
+  {
+    "cp": "🇺🇦",
+    "tts": "bandera: Ucraína"
+  },
+  {
+    "cp": "🇺🇬",
+    "tts": "bandera: Uganda"
+  },
+  {
+    "cp": "🇺🇲",
+    "tts": "bandera: Islles Perifériques Menores de los EE.XX."
+  },
+  {
+    "cp": "🇺🇳",
+    "tts": "bandera: Naciones Xuníes"
+  },
+  {
+    "cp": "🇺🇸",
+    "tts": "bandera: Estaos Xuníos"
+  },
+  {
+    "cp": "🇺🇾",
+    "tts": "bandera: Uruguái"
+  },
+  {
+    "cp": "🇺🇿",
+    "tts": "bandera: Uzbequistán"
+  },
+  {
+    "cp": "🇻🇦",
+    "tts": "bandera: Ciudá del Vaticanu"
+  },
+  {
+    "cp": "🇻🇨",
+    "tts": "bandera: San Vicente y Granadines"
+  },
+  {
+    "cp": "🇻🇪",
+    "tts": "bandera: Venezuela"
+  },
+  {
+    "cp": "🇻🇬",
+    "tts": "bandera: Islles Vírxenes Britániques"
+  },
+  {
+    "cp": "🇻🇮",
+    "tts": "bandera: Islles Vírxenes Americanes"
+  },
+  {
+    "cp": "🇻🇳",
+    "tts": "bandera: Vietnam"
+  },
+  {
+    "cp": "🇻🇺",
+    "tts": "bandera: Vanuatu"
+  },
+  {
+    "cp": "🇼🇫",
+    "tts": "bandera: Wallis y Futuna"
+  },
+  {
+    "cp": "🇼🇸",
+    "tts": "bandera: Samoa"
+  },
+  {
+    "cp": "🇽🇰",
+    "tts": "bandera: Kosovu"
+  },
+  {
+    "cp": "🇾🇪",
+    "tts": "bandera: Yemen"
+  },
+  {
+    "cp": "🇾🇹",
+    "tts": "bandera: Mayotte"
+  },
+  {
+    "cp": "🇿🇦",
+    "tts": "bandera: Sudáfrica"
+  },
+  {
+    "cp": "🇿🇲",
+    "tts": "bandera: Zambia"
+  },
+  {
+    "cp": "🇿🇼",
+    "tts": "bandera: Zimbabue"
+  },
+  {
+    "cp": "👄",
+    "tts": "boca"
+  },
+  {
+    "cp": "👅",
+    "tts": "llingua"
+  },
+  {
+    "cp": "👪",
+    "tts": "familia"
+  },
+  {
+    "cp": "💍",
+    "tts": "aniellu"
+  },
+  {
+    "cp": "💎",
+    "tts": "piedra preciosa"
+  },
+  {
+    "cp": "💏",
+    "tts": "besu"
+  },
+  {
+    "cp": "🔟",
+    "tts": "tecles: 10"
+  },
+  {
+    "cp": "😂",
+    "tts": "cara llorando d’allegría"
+  },
+  {
+    "cp": "😗",
+    "tts": "cara besando"
+  },
+  {
+    "cp": "😘",
+    "tts": "cara tirando un besu"
+  },
+  {
+    "cp": "🤣",
+    "tts": "rodando pel suelu de risa"
+  },
+  {
+    "cp": "🤳",
+    "tts": "selfie"
+  }
+]

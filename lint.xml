@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="UnusedResources">
+        <ignore regexp="src/main/res/raw/...\.json" />
+    </issue>
+    <issue id="LocaleFolder">
+        <ignore path="src/main/res/values-he" />
+    </issue>
+</lint>

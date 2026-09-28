@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="log_text_state">false</bool>
+    <bool name="use_default_locale_state">false</bool>
+    <bool name="one_voice_per_message_state">false</bool>
+    <bool name="use_only_default_or_requested_voice_state">false</bool>
+    <bool name="quick_control_widget_option_state">false</bool>
+    <bool name="pref_use_rulex_state">true</bool>
+    <bool name="pref_decimal_comma_state">true</bool>
+    <bool name="pref_decimal_point_state">true</bool>
+    <bool name="pref_speak_quotes_state">false</bool>
+    <bool name="pref_speak_parenthesis_state">false</bool>
+    <bool name="pref_ignore_emoticons_state">false</bool>
+</resources>

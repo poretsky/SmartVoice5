@@ -1,0 +1,108 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.9.3'
+    }
+}
+
+allprojects {
+    repositories {
+        google() // and here
+        mavenCentral()
+    }
+
+    gradle.projectsEvaluated {
+        tasks.withType(JavaCompile) {
+            options.compilerArgs << "-Xlint:deprecation" << "-Xlint:unchecked"
+        }
+    }
+}
+
+apply plugin: 'com.android.application'
+
+Properties properties = new Properties()
+properties.load(project.file('local.properties').newDataInputStream())
+
+android {
+    compileSdkVersion 36
+    namespace 'tts.smartvoice'
+
+    defaultConfig {
+        applicationId "tts.smartvoice"
+        minSdkVersion 24
+        targetSdkVersion 36
+        versionCode 5000
+        versionName "5.0.0"
+
+        externalNativeBuild {
+            ndkBuild {
+                abiFilters "armeabi-v7a", "arm64-v8a"
+            }
+        }
+    }
+
+    externalNativeBuild {
+        ndkBuild {
+            path "jni/Android.mk"
+        }
+    }
+
+    signingConfigs {
+        release {
+            keyAlias properties.getProperty('key.alias')
+            keyPassword properties.getProperty('key.alias.password')
+            storeFile file(properties.getProperty('key.store'))
+            storePassword properties.getProperty('key.store.password')
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-project.txt'
+            signingConfig signingConfigs.release
+            applicationVariants.all { variant ->
+                variant.outputs.all {
+                    outputFileName = outputFileName.replace("release", defaultConfig.versionName)
+                }
+            }
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility 1.8
+        targetCompatibility 1.8
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+}
+
+configurations.all {
+    resolutionStrategy {
+        eachDependency {
+            if ((requested.group == "org.jetbrains.kotlin") && (requested.name.startsWith("kotlin-stdlib"))) {
+                useVersion("1.9.0")
+            }
+        }
+    }
+}
+
+dependencies {
+    implementation files('libs/base64-2.3.8.jar')
+    implementation files('libs/gson-2.8.5.jar')
+
+    implementation 'androidx.appcompat:appcompat:1.7.1'
+    implementation 'androidx.core:core:1.18.0'
+    implementation 'androidx.activity:activity:1.13.0'
+    implementation 'androidx.lifecycle:lifecycle-common:2.10.0'
+    implementation 'androidx.fragment:fragment:1.8.9'
+    implementation 'androidx.preference:preference:1.2.1'
+    implementation 'net.mm2d.preference:preference:0.3.2'
+}

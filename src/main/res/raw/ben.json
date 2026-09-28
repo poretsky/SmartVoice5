@@ -1,0 +1,4 @@
+{
+    "name": "Bengali",
+    "alphabet": "\\p{InBengali}"
+}

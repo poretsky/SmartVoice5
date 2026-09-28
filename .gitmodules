@@ -1,0 +1,6 @@
+[submodule "jni/ruvoicesynth/ru_tts"]
+	path = jni/ruvoicesynth/ru_tts
+	url = https://github.com/poretsky/ru_tts.git
+[submodule "tools/cldr"]
+	path = tools/cldr
+	url = https://github.com/unicode-org/cldr.git

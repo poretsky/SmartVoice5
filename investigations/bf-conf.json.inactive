@@ -1,0 +1,20 @@
+{
+    "capacity": 30000,
+    "fpp": 0.0002,
+    "freqLevel": 95,
+//    "maxItems": 30000,
+//    "hashMethod": "RNG"
+//    "hashMethod": "CarterWegman"
+//    "hashMethod": "CRC32"
+//    "hashMethod": "Adler32"
+//    "hashMethod": "Murmur2"
+//    "hashMethod": "Murmur3"
+//    "hashMethod": "Murmur3KirschMitzenmacher"
+//    "hashMethod": "FNVWithLCG"
+//    "hashMethod": "MD2"
+    "hashMethod": "MD5"
+//    "hashMethod": "SHA1"
+//    "hashMethod": "SHA256"
+//    "hashMethod": "SHA384"
+//    "hashMethod": "SHA512"
+}

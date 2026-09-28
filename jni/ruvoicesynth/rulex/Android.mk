@@ -1,0 +1,13 @@
+LOCAL_PATH := $(call my-dir)
+include $(CLEAR_VARS)
+
+LOCAL_MODULE := rulex
+
+LOCAL_SRC_FILES := coder.c lexdb.c
+
+LOCAL_EXPORT_C_INCLUDES := $(LOCAL_PATH)
+LOCAL_EXPORT_LDLIBS := -llog
+
+LOCAL_STATIC_LIBRARIES := db
+
+include $(BUILD_STATIC_LIBRARY)
