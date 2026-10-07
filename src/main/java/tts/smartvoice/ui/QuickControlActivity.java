@@ -138,7 +138,7 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
                             break;
                         }
                     }
-                useForLanguage = preferences.getStringSet(autoLangsKey, Collections.<String>emptySet()).contains(lang);;
+                useForLanguage = preferences.getStringSet(autoLangsKey, Collections.<String>emptySet()).contains(lang);
                 if (useForLanguage) {
                     MenuItem item = menu.findItem(R.id.native_language_only);
                     if (item != null)
