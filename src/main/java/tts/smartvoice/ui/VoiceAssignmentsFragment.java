@@ -49,7 +49,7 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
             String[] entries = new String[values.length];
             int i = 0;
             for (VoiceItem voice : voices) {
-                entries[i] = voice.getName();
+                entries[i] = voice.toString();
                 values[i] = voice.getValue();
                 i++;
             }
@@ -68,7 +68,7 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
         String[] entries = new String[values.length];
         int i = 0;
         for (VoiceItem voice : voices) {
-            entries[i] = voice.getName();
+            entries[i] = voice.toString();
             values[i] = voice.getValue();
             i++;
         }
@@ -119,7 +119,7 @@ public class VoiceAssignmentsFragment extends MenuProviderPreferenceFragment {
                 preference.setKey(lang);
                 preference.setPersistent(true);
                 preference.setSummaryProvider(ListPreference.SimpleSummaryProvider.getInstance());
-                preference.setTitle(item.getName());
+                preference.setTitle(item.toString());
                 preference.setIconSpaceReserved(false);
                 preference.setSingleLineTitle(false);
                 preference.setEnabled(entries.length > 1);

@@ -72,7 +72,7 @@ public class AutolangSettingsFragment extends CustomDialogPreferenceFragment imp
         String[] entries = new String[values.length];
         int i = 0;
         for (VoiceItem item : items) {
-            entries[i] = item.getName();
+            entries[i] = item.toString();
             values[i] = item.getValue();
             i++;
         }

@@ -109,7 +109,7 @@ public class TtsPreferenceActivity extends PreferenceActivityCompat {
                 header.setId(index++);
                 header.setTitle(voice.getPerson());
                 header.setSummary(voice.getLanguage());
-                header.setBreadCrumbTitle(voice.getName());
+                header.setBreadCrumbTitle(voice.toString());
                 header.setFragment(VoiceSettingsFragment.class.getName());
                 Bundle args = new Bundle();
                 args.putString(getString(R.string.voice_key), voice.getValue());

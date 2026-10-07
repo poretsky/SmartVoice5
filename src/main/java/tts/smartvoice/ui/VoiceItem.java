@@ -42,10 +42,6 @@ class VoiceItem implements Comparable<VoiceItem> {
         return value;
     }
 
-    public String getName() {
-        return name;
-    }
-
     public String getPerson() {
         return person;
     }
@@ -65,6 +61,12 @@ class VoiceItem implements Comparable<VoiceItem> {
         if (result != 0)
             return result;
         return name.compareTo(other.name);
+    }
+
+
+    @Override
+    public String toString() {
+        return name;
     }
 
 }
