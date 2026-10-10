@@ -1,0 +1,3 @@
+* Search functionality in the quick voice switch screen
+* Russian robot voice pronunciation dictionary update
+* Emoji dictionary update
