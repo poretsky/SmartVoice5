@@ -2433,7 +2433,7 @@
   },
   {
     "cp": "🇬🇬",
-    "tts": "baner: Ynys y Garn"
+    "tts": "baner: Guernsey"
   },
   {
     "cp": "🇬🇭",
@@ -11748,6 +11748,10 @@
     "tts": "tirlithriad"
   },
   {
+    "cp": "🛙",
+    "tts": "goleudy"
+  },
+  {
     "cp": "🛜",
     "tts": "diwifr"
   },
@@ -16160,6 +16164,18 @@
     "tts": "trombôn"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "rhwbiwr"
+  },
+  {
+    "cp": "🪍",
+    "tts": "Rhwyd gyda handlen"
+  },
+  {
     "cp": "🪎",
     "tts": "cist drysor"
   },
@@ -16452,6 +16468,10 @@
     "tts": "creadur blewog"
   },
   {
+    "cp": "🫌",
+    "tts": "glöyn y llaethlys"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -16516,6 +16536,10 @@
     "tts": "gwreiddlysieuyn"
   },
   {
+    "cp": "🫝",
+    "tts": "picl"
+  },
+  {
     "cp": "🫟",
     "tts": "slempio"
   },
@@ -16562,6 +16586,10 @@
   {
     "cp": "🫪",
     "tts": "wyneb wedi ystumio"
+  },
+  {
+    "cp": "🫫",
+    "tts": "Wyneb yn cracio"
   },
   {
     "cp": "🫯",
@@ -16862,5 +16890,53 @@
   {
     "cp": "🫸🏿",
     "tts": "llaw yn gwthio i’r dde: arlliw croen tywyll"
+  },
+  {
+    "cp": "🫹",
+    "tts": "bawd i’r chwith"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "bawd i’r chwith: arlliw croen golau"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "bawd i’r chwith: arlliw croen canolig-golau"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "bawd i’r chwith: arlliw croen canolog"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "bawd i’r chwith: arlliw croen canolig-tywyll"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "bawd i’r chwith: arlliw croen tywyll"
+  },
+  {
+    "cp": "🫺",
+    "tts": "bawd i’r dde"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "bawd i’r dde: arlliw croen golau"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "bawd i’r dde: arlliw croen canolig-golau"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "bawd i’r dde: arlliw croen canolog"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "bawd i’r dde: arlliw croen canolig-tywyll"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "bawd i’r dde: arlliw croen tywyll"
   }
 ]

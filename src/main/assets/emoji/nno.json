@@ -8540,6 +8540,10 @@
     "tts": "papirdrake"
   },
   {
+    "cp": "🪌",
+    "tts": "viskelêr"
+  },
+  {
     "cp": "🪐",
     "tts": "planet med ringar"
   },
@@ -8610,6 +8614,10 @@
   {
     "cp": "🫀",
     "tts": "hjartemuskel"
+  },
+  {
+    "cp": "🫌",
+    "tts": "monarksommarfugl"
   },
   {
     "cp": "🫍",
@@ -8946,5 +8954,29 @@
   {
     "cp": "🫸🏿",
     "tts": "handflate heva mot høgre: hudtype 6"
+  },
+  {
+    "cp": "🫺",
+    "tts": "tommelfinger til høgre"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "tommelfinger til høgre: hudtype 1–2"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "tommelfinger til høgre: hudtype 3"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "tommelfinger til høgre: hudtype 4"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "tommelfinger til høgre: hudtype 5"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "tommelfinger til høgre: hudtype 6"
   }
 ]

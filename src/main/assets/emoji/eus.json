@@ -11752,6 +11752,10 @@
     "tts": "lur-jausia"
   },
   {
+    "cp": "🛙",
+    "tts": "itsasargia"
+  },
+  {
     "cp": "🛜",
     "tts": "hari gabe"
   },
@@ -16164,6 +16168,18 @@
     "tts": "tronboia"
   },
   {
+    "cp": "🪋",
+    "tts": "meteoroa"
+  },
+  {
+    "cp": "🪌",
+    "tts": "borragoma"
+  },
+  {
+    "cp": "🪍",
+    "tts": "sarea heldulekuarekin"
+  },
+  {
     "cp": "🪎",
     "tts": "altxorraren kutxa"
   },
@@ -16456,6 +16472,10 @@
     "tts": "izaki iletsua"
   },
   {
+    "cp": "🫌",
+    "tts": "monarka-tximeleta"
+  },
+  {
     "cp": "🫍",
     "tts": "Ezpalarta"
   },
@@ -16520,6 +16540,10 @@
     "tts": "tuberkulua"
   },
   {
+    "cp": "🫝",
+    "tts": "ozpinetako luzokerra"
+  },
+  {
     "cp": "🫟",
     "tts": "zipriztina"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "aurpegi distortsionatua"
+  },
+  {
+    "cp": "🫫",
+    "tts": "aurpegi hautsia"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "eskuinerantz bultza egiten ari den eskua: 6. mota"
+  },
+  {
+    "cp": "🫹",
+    "tts": "ezkerreranzko erpuruaren zeinua"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "ezkerreranzko erpuruaren zeinua: 1–2. mota"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "ezkerreranzko erpuruaren zeinua: 3. mota"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "ezkerreranzko erpuruaren zeinua: bitarteko azal-tonua"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "ezkerreranzko erpuruaren zeinua: 5. mota"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "ezkerreranzko erpuruaren zeinua: 6. mota"
+  },
+  {
+    "cp": "🫺",
+    "tts": "eskuineranzko erpuruaren zeinua"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "eskuineranzko erpuruaren zeinua: 1–2. mota"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "eskuineranzko erpuruaren zeinua: 3. mota"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "eskuineranzko erpuruaren zeinua: bitarteko azal-tonua"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "eskuineranzko erpuruaren zeinua: 5. mota"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "eskuineranzko erpuruaren zeinua: 6. mota"
   }
 ]

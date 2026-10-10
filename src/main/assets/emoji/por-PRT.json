@@ -11752,6 +11752,10 @@
     "tts": "deslizamento"
   },
   {
+    "cp": "🛙",
+    "tts": "farol"
+  },
+  {
     "cp": "🛜",
     "tts": "sem fios"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trombone"
   },
   {
+    "cp": "🪋",
+    "tts": "meteoro"
+  },
+  {
+    "cp": "🪌",
+    "tts": "borracha"
+  },
+  {
+    "cp": "🪍",
+    "tts": "rede com cabo"
+  },
+  {
     "cp": "🪎",
     "tts": "baú de tesouro"
   },
@@ -16456,6 +16472,10 @@
     "tts": "criatura peluda"
   },
   {
+    "cp": "🫌",
+    "tts": "borboleta-monarca"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -16520,6 +16540,10 @@
     "tts": "tubérculo"
   },
   {
+    "cp": "🫝",
+    "tts": "pickle"
+  },
+  {
     "cp": "🫟",
     "tts": "respingo"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "cara distorcida"
+  },
+  {
+    "cp": "🫫",
+    "tts": "rosto a despedaçar-se"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "mão a empurrar para a direita: tipo de pele 6"
+  },
+  {
+    "cp": "🫹",
+    "tts": "sinal de polegar para a esquerda"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "sinal de polegar para a esquerda: tipo de pele 1–2"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "sinal de polegar para a esquerda: tipo de pele 3"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "sinal de polegar para a esquerda: tipo de pele 4"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "sinal de polegar para a esquerda: tipo de pele 5"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "sinal de polegar para a esquerda: tipo de pele 6"
+  },
+  {
+    "cp": "🫺",
+    "tts": "sinal de polegar para a direita"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "sinal de polegar para a direita: tipo de pele 1–2"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "sinal de polegar para a direita: tipo de pele 3"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "sinal de polegar para a direita: tipo de pele 4"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "sinal de polegar para a direita: tipo de pele 5"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "sinal de polegar para a direita: tipo de pele 6"
   }
 ]

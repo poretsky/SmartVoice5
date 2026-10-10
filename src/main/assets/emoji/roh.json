@@ -189,19 +189,19 @@
   },
   {
     "cp": "←",
-    "tts": "frizza a sanestra"
+    "tts": "frizza che mussa a sanestra"
   },
   {
     "cp": "↑",
-    "tts": "frizza ensi"
+    "tts": "frizza che mussa ensi"
   },
   {
     "cp": "→",
-    "tts": "frizza a dretga"
+    "tts": "frizza che mussa a dretga"
   },
   {
     "cp": "↓",
-    "tts": "frizza engiu"
+    "tts": "frizza che mussa engiu"
   },
   {
     "cp": "↔",
@@ -337,7 +337,7 @@
   },
   {
     "cp": "↵",
-    "tts": "frizza engiu cun piz a sanestra"
+    "tts": "frizza fina engiu cun piz a sanestra"
   },
   {
     "cp": "↶",
@@ -1412,12 +1412,24 @@
     "tts": "simbol masculin"
   },
   {
+    "cp": "♈",
+    "tts": "Botsch (ensaina)"
+  },
+  {
     "cp": "♉",
     "tts": "Taur"
   },
   {
     "cp": "♊",
     "tts": "Schumellins"
+  },
+  {
+    "cp": "♋",
+    "tts": "Giomber (ensaina)"
+  },
+  {
+    "cp": "♌",
+    "tts": "Liun (ensaina)"
   },
   {
     "cp": "♍",
@@ -1428,12 +1440,20 @@
     "tts": "Stadaira"
   },
   {
+    "cp": "♏",
+    "tts": "Scorpiun (ensaina)"
+  },
+  {
     "cp": "♐",
     "tts": "Tiradur"
   },
   {
     "cp": "♑",
     "tts": "Capricorn"
+  },
+  {
+    "cp": "♒",
+    "tts": "Um da l’aua (ensaina)"
   },
   {
     "cp": "♓",
@@ -5332,14 +5352,6 @@
     "tts": "um che lavura en il sectur da la sanadad"
   },
   {
-    "cp": "👨‍⚖",
-    "tts": "derschader"
-  },
-  {
-    "cp": "👨‍✈",
-    "tts": "pilot"
-  },
-  {
     "cp": "👨‍❤‍👨",
     "tts": "pèr cun cor: um, um"
   },
@@ -5348,32 +5360,8 @@
     "tts": "bitsch: um, um"
   },
   {
-    "cp": "👨‍🌾",
-    "tts": "pur"
-  },
-  {
-    "cp": "👨‍🍳",
-    "tts": "cuschinier"
-  },
-  {
     "cp": "👨‍🍼",
     "tts": "um che dat latg"
-  },
-  {
-    "cp": "👨‍🎓",
-    "tts": "student"
-  },
-  {
-    "cp": "👨‍🎤",
-    "tts": "chantadur"
-  },
-  {
-    "cp": "👨‍🎨",
-    "tts": "pictur artist"
-  },
-  {
-    "cp": "👨‍🏫",
-    "tts": "scolast"
   },
   {
     "cp": "👨‍🏭",
@@ -5440,30 +5428,6 @@
     "tts": "famiglia: um, dunna, mattetta, mattetta"
   },
   {
-    "cp": "👨‍💻",
-    "tts": "tecnolog"
-  },
-  {
-    "cp": "👨‍💼",
-    "tts": "birolist"
-  },
-  {
-    "cp": "👨‍🔧",
-    "tts": "mecanist"
-  },
-  {
-    "cp": "👨‍🔬",
-    "tts": "scienzià"
-  },
-  {
-    "cp": "👨‍🚀",
-    "tts": "astronaut"
-  },
-  {
-    "cp": "👨‍🚒",
-    "tts": "pumpier"
-  },
-  {
     "cp": "👨‍🦯",
     "tts": "um cun channa"
   },
@@ -5512,14 +5476,6 @@
     "tts": "um che lavura en il sectur da la sanadad: pel clera"
   },
   {
-    "cp": "👨🏻‍⚖",
-    "tts": "derschader: pel clera"
-  },
-  {
-    "cp": "👨🏻‍✈",
-    "tts": "pilot: pel clera"
-  },
-  {
     "cp": "👨🏻‍❤‍👨🏻",
     "tts": "pèr cun cor: um, um, pel clera"
   },
@@ -5560,32 +5516,8 @@
     "tts": "bitsch: um, um, pel clera, pel stgira"
   },
   {
-    "cp": "👨🏻‍🌾",
-    "tts": "pur: pel clera"
-  },
-  {
-    "cp": "👨🏻‍🍳",
-    "tts": "cuschinier: pel clera"
-  },
-  {
     "cp": "👨🏻‍🍼",
     "tts": "um che dat latg: pel clera"
-  },
-  {
-    "cp": "👨🏻‍🎓",
-    "tts": "student: pel clera"
-  },
-  {
-    "cp": "👨🏻‍🎤",
-    "tts": "chantadur: pel clera"
-  },
-  {
-    "cp": "👨🏻‍🎨",
-    "tts": "pictur artist: pel clera"
-  },
-  {
-    "cp": "👨🏻‍🏫",
-    "tts": "scolast: pel clera"
   },
   {
     "cp": "👨🏻‍🏭",
@@ -5606,30 +5538,6 @@
   {
     "cp": "👨🏻‍🐰‍👨🏿",
     "tts": "umens cun ureglias da lieur: pel clera, pel stgira"
-  },
-  {
-    "cp": "👨🏻‍💻",
-    "tts": "tecnolog: pel clera"
-  },
-  {
-    "cp": "👨🏻‍💼",
-    "tts": "birolist: pel clera"
-  },
-  {
-    "cp": "👨🏻‍🔧",
-    "tts": "mecanist: pel clera"
-  },
-  {
-    "cp": "👨🏻‍🔬",
-    "tts": "scienzià: pel clera"
-  },
-  {
-    "cp": "👨🏻‍🚀",
-    "tts": "astronaut: pel clera"
-  },
-  {
-    "cp": "👨🏻‍🚒",
-    "tts": "pumpier: pel clera"
   },
   {
     "cp": "👨🏻‍🤝‍👨🏼",
@@ -5712,14 +5620,6 @@
     "tts": "um che lavura en il sectur da la sanadad: pel mez clera"
   },
   {
-    "cp": "👨🏼‍⚖",
-    "tts": "derschader: pel mez clera"
-  },
-  {
-    "cp": "👨🏼‍✈",
-    "tts": "pilot: pel mez clera"
-  },
-  {
     "cp": "👨🏼‍❤‍👨🏻",
     "tts": "pèr cun cor: um, um, pel mez clera, pel clera"
   },
@@ -5760,32 +5660,8 @@
     "tts": "bitsch: um, um, pel mez clera, pel stgira"
   },
   {
-    "cp": "👨🏼‍🌾",
-    "tts": "pur: pel mez clera"
-  },
-  {
-    "cp": "👨🏼‍🍳",
-    "tts": "cuschinier: pel mez clera"
-  },
-  {
     "cp": "👨🏼‍🍼",
     "tts": "um che dat latg: pel mez clera"
-  },
-  {
-    "cp": "👨🏼‍🎓",
-    "tts": "student: pel mez clera"
-  },
-  {
-    "cp": "👨🏼‍🎤",
-    "tts": "chantadur: pel mez clera"
-  },
-  {
-    "cp": "👨🏼‍🎨",
-    "tts": "pictur artist: pel mez clera"
-  },
-  {
-    "cp": "👨🏼‍🏫",
-    "tts": "scolast: pel mez clera"
   },
   {
     "cp": "👨🏼‍🏭",
@@ -5806,30 +5682,6 @@
   {
     "cp": "👨🏼‍🐰‍👨🏿",
     "tts": "umens cun ureglias da lieur: pel mez clera, pel stgira"
-  },
-  {
-    "cp": "👨🏼‍💻",
-    "tts": "tecnolog: pel mez clera"
-  },
-  {
-    "cp": "👨🏼‍💼",
-    "tts": "birolist: pel mez clera"
-  },
-  {
-    "cp": "👨🏼‍🔧",
-    "tts": "mecanist: pel mez clera"
-  },
-  {
-    "cp": "👨🏼‍🔬",
-    "tts": "scienzià: pel mez clera"
-  },
-  {
-    "cp": "👨🏼‍🚀",
-    "tts": "astronaut: pel mez clera"
-  },
-  {
-    "cp": "👨🏼‍🚒",
-    "tts": "pumpier: pel mez clera"
   },
   {
     "cp": "👨🏼‍🤝‍👨🏻",
@@ -5912,14 +5764,6 @@
     "tts": "um che lavura en il sectur da la sanadad: pel media"
   },
   {
-    "cp": "👨🏽‍⚖",
-    "tts": "derschader: pel media"
-  },
-  {
-    "cp": "👨🏽‍✈",
-    "tts": "pilot: pel media"
-  },
-  {
     "cp": "👨🏽‍❤‍👨🏻",
     "tts": "pèr cun cor: um, um, pel media, pel clera"
   },
@@ -5960,32 +5804,8 @@
     "tts": "bitsch: um, um, pel media, pel stgira"
   },
   {
-    "cp": "👨🏽‍🌾",
-    "tts": "pur: pel media"
-  },
-  {
-    "cp": "👨🏽‍🍳",
-    "tts": "cuschinier: pel media"
-  },
-  {
     "cp": "👨🏽‍🍼",
     "tts": "um che dat latg: pel media"
-  },
-  {
-    "cp": "👨🏽‍🎓",
-    "tts": "student: pel media"
-  },
-  {
-    "cp": "👨🏽‍🎤",
-    "tts": "chantadur: pel media"
-  },
-  {
-    "cp": "👨🏽‍🎨",
-    "tts": "pictur artist: pel media"
-  },
-  {
-    "cp": "👨🏽‍🏫",
-    "tts": "scolast: pel media"
   },
   {
     "cp": "👨🏽‍🏭",
@@ -6006,30 +5826,6 @@
   {
     "cp": "👨🏽‍🐰‍👨🏿",
     "tts": "umens cun ureglias da lieur: pel media, pel stgira"
-  },
-  {
-    "cp": "👨🏽‍💻",
-    "tts": "tecnolog: pel media"
-  },
-  {
-    "cp": "👨🏽‍💼",
-    "tts": "birolist: pel media"
-  },
-  {
-    "cp": "👨🏽‍🔧",
-    "tts": "mecanist: pel media"
-  },
-  {
-    "cp": "👨🏽‍🔬",
-    "tts": "scienzià: pel media"
-  },
-  {
-    "cp": "👨🏽‍🚀",
-    "tts": "astronaut: pel media"
-  },
-  {
-    "cp": "👨🏽‍🚒",
-    "tts": "pumpier: pel media"
   },
   {
     "cp": "👨🏽‍🤝‍👨🏻",
@@ -6112,14 +5908,6 @@
     "tts": "um che lavura en il sectur da la sanadad: pel mez stgira"
   },
   {
-    "cp": "👨🏾‍⚖",
-    "tts": "derschader: pel mez stgira"
-  },
-  {
-    "cp": "👨🏾‍✈",
-    "tts": "pilot: pel mez stgira"
-  },
-  {
     "cp": "👨🏾‍❤‍👨🏻",
     "tts": "pèr cun cor: um, um, pel mez stgira, pel clera"
   },
@@ -6160,32 +5948,8 @@
     "tts": "bitsch: um, um, pel mez stgira, pel stgira"
   },
   {
-    "cp": "👨🏾‍🌾",
-    "tts": "pur: pel mez stgira"
-  },
-  {
-    "cp": "👨🏾‍🍳",
-    "tts": "cuschinier: pel mez stgira"
-  },
-  {
     "cp": "👨🏾‍🍼",
     "tts": "um che dat latg: pel mez stgira"
-  },
-  {
-    "cp": "👨🏾‍🎓",
-    "tts": "student: pel mez stgira"
-  },
-  {
-    "cp": "👨🏾‍🎤",
-    "tts": "chantadur: pel mez stgira"
-  },
-  {
-    "cp": "👨🏾‍🎨",
-    "tts": "pictur artist: pel mez stgira"
-  },
-  {
-    "cp": "👨🏾‍🏫",
-    "tts": "scolast: pel mez stgira"
   },
   {
     "cp": "👨🏾‍🏭",
@@ -6206,30 +5970,6 @@
   {
     "cp": "👨🏾‍🐰‍👨🏿",
     "tts": "umens cun ureglias da lieur: pel mez stgira, pel stgira"
-  },
-  {
-    "cp": "👨🏾‍💻",
-    "tts": "tecnolog: pel mez stgira"
-  },
-  {
-    "cp": "👨🏾‍💼",
-    "tts": "birolist: pel mez stgira"
-  },
-  {
-    "cp": "👨🏾‍🔧",
-    "tts": "mecanist: pel mez stgira"
-  },
-  {
-    "cp": "👨🏾‍🔬",
-    "tts": "scienzià: pel mez stgira"
-  },
-  {
-    "cp": "👨🏾‍🚀",
-    "tts": "astronaut: pel mez stgira"
-  },
-  {
-    "cp": "👨🏾‍🚒",
-    "tts": "pumpier: pel mez stgira"
   },
   {
     "cp": "👨🏾‍🤝‍👨🏻",
@@ -6312,14 +6052,6 @@
     "tts": "um che lavura en il sectur da la sanadad: pel stgira"
   },
   {
-    "cp": "👨🏿‍⚖",
-    "tts": "derschader: pel stgira"
-  },
-  {
-    "cp": "👨🏿‍✈",
-    "tts": "pilot: pel stgira"
-  },
-  {
     "cp": "👨🏿‍❤‍👨🏻",
     "tts": "pèr cun cor: um, um, pel stgira, pel clera"
   },
@@ -6360,32 +6092,8 @@
     "tts": "bitsch: um, um, pel stgira"
   },
   {
-    "cp": "👨🏿‍🌾",
-    "tts": "pur: pel stgira"
-  },
-  {
-    "cp": "👨🏿‍🍳",
-    "tts": "cuschinier: pel stgira"
-  },
-  {
     "cp": "👨🏿‍🍼",
     "tts": "um che dat latg: pel stgira"
-  },
-  {
-    "cp": "👨🏿‍🎓",
-    "tts": "student: pel stgira"
-  },
-  {
-    "cp": "👨🏿‍🎤",
-    "tts": "chantadur: pel stgira"
-  },
-  {
-    "cp": "👨🏿‍🎨",
-    "tts": "pictur artist: pel stgira"
-  },
-  {
-    "cp": "👨🏿‍🏫",
-    "tts": "scolast: pel stgira"
   },
   {
     "cp": "👨🏿‍🏭",
@@ -6406,30 +6114,6 @@
   {
     "cp": "👨🏿‍🐰‍👨🏾",
     "tts": "umens cun ureglias da lieur: pel stgira, pel mez stgira"
-  },
-  {
-    "cp": "👨🏿‍💻",
-    "tts": "tecnolog: pel stgira"
-  },
-  {
-    "cp": "👨🏿‍💼",
-    "tts": "birolist: pel stgira"
-  },
-  {
-    "cp": "👨🏿‍🔧",
-    "tts": "mecanist: pel stgira"
-  },
-  {
-    "cp": "👨🏿‍🔬",
-    "tts": "scienzià: pel stgira"
-  },
-  {
-    "cp": "👨🏿‍🚀",
-    "tts": "astronaut: pel stgira"
-  },
-  {
-    "cp": "👨🏿‍🚒",
-    "tts": "pumpier: pel stgira"
   },
   {
     "cp": "👨🏿‍🤝‍👨🏻",
@@ -6512,14 +6196,6 @@
     "tts": "dunna che lavura en il sectur da la sanadad"
   },
   {
-    "cp": "👩‍⚖",
-    "tts": "derschadra"
-  },
-  {
-    "cp": "👩‍✈",
-    "tts": "pilota"
-  },
-  {
     "cp": "👩‍❤‍👨",
     "tts": "pèr cun cor: dunna, um"
   },
@@ -6536,32 +6212,8 @@
     "tts": "bitsch: dunna, dunna"
   },
   {
-    "cp": "👩‍🌾",
-    "tts": "pura"
-  },
-  {
-    "cp": "👩‍🍳",
-    "tts": "cuschiniera"
-  },
-  {
     "cp": "👩‍🍼",
     "tts": "dunna che dat latg"
-  },
-  {
-    "cp": "👩‍🎓",
-    "tts": "studenta"
-  },
-  {
-    "cp": "👩‍🎤",
-    "tts": "chantadura"
-  },
-  {
-    "cp": "👩‍🎨",
-    "tts": "pictura artista"
-  },
-  {
-    "cp": "👩‍🏫",
-    "tts": "scolasta"
   },
   {
     "cp": "👩‍🏭",
@@ -6606,30 +6258,6 @@
   {
     "cp": "👩‍👩‍👧‍👧",
     "tts": "famiglia: dunna, dunna, mattetta, mattetta"
-  },
-  {
-    "cp": "👩‍💻",
-    "tts": "tecnologa"
-  },
-  {
-    "cp": "👩‍💼",
-    "tts": "birolista"
-  },
-  {
-    "cp": "👩‍🔧",
-    "tts": "mecanista"
-  },
-  {
-    "cp": "👩‍🔬",
-    "tts": "scienziada"
-  },
-  {
-    "cp": "👩‍🚀",
-    "tts": "astronauta"
-  },
-  {
-    "cp": "👩‍🚒",
-    "tts": "pumpiera"
   },
   {
     "cp": "👩‍🦯",
@@ -6678,14 +6306,6 @@
   {
     "cp": "👩🏻‍⚕",
     "tts": "dunna che lavura en il sectur da la sanadad: pel clera"
-  },
-  {
-    "cp": "👩🏻‍⚖",
-    "tts": "derschadra: pel clera"
-  },
-  {
-    "cp": "👩🏻‍✈",
-    "tts": "pilota: pel clera"
   },
   {
     "cp": "👩🏻‍❤‍👨🏻",
@@ -6768,32 +6388,8 @@
     "tts": "bitsch: dunna, dunna, pel clera, pel stgira"
   },
   {
-    "cp": "👩🏻‍🌾",
-    "tts": "pura: pel clera"
-  },
-  {
-    "cp": "👩🏻‍🍳",
-    "tts": "cuschiniera: pel clera"
-  },
-  {
     "cp": "👩🏻‍🍼",
     "tts": "dunna che dat latg: pel clera"
-  },
-  {
-    "cp": "👩🏻‍🎓",
-    "tts": "studenta: pel clera"
-  },
-  {
-    "cp": "👩🏻‍🎤",
-    "tts": "chantadura: pel clera"
-  },
-  {
-    "cp": "👩🏻‍🎨",
-    "tts": "pictura artista: pel clera"
-  },
-  {
-    "cp": "👩🏻‍🏫",
-    "tts": "scolasta: pel clera"
   },
   {
     "cp": "👩🏻‍🏭",
@@ -6814,30 +6410,6 @@
   {
     "cp": "👩🏻‍🐰‍👩🏿",
     "tts": "dunnas cun ureglias da lieur: pel clera, pel stgira"
-  },
-  {
-    "cp": "👩🏻‍💻",
-    "tts": "tecnologa: pel clera"
-  },
-  {
-    "cp": "👩🏻‍💼",
-    "tts": "birolista: pel clera"
-  },
-  {
-    "cp": "👩🏻‍🔧",
-    "tts": "mecanista: pel clera"
-  },
-  {
-    "cp": "👩🏻‍🔬",
-    "tts": "scienziada: pel clera"
-  },
-  {
-    "cp": "👩🏻‍🚀",
-    "tts": "astronauta: pel clera"
-  },
-  {
-    "cp": "👩🏻‍🚒",
-    "tts": "pumpiera: pel clera"
   },
   {
     "cp": "👩🏻‍🤝‍👨🏼",
@@ -6936,14 +6508,6 @@
     "tts": "dunna che lavura en il sectur da la sanadad: pel mez clera"
   },
   {
-    "cp": "👩🏼‍⚖",
-    "tts": "derschadra: pel mez clera"
-  },
-  {
-    "cp": "👩🏼‍✈",
-    "tts": "pilota: pel mez clera"
-  },
-  {
     "cp": "👩🏼‍❤‍👨🏻",
     "tts": "pèr cun cor: dunna, um, pel mez clera, pel clera"
   },
@@ -7024,32 +6588,8 @@
     "tts": "bitsch: dunna, dunna, pel mez clera, pel stgira"
   },
   {
-    "cp": "👩🏼‍🌾",
-    "tts": "pura: pel mez clera"
-  },
-  {
-    "cp": "👩🏼‍🍳",
-    "tts": "cuschiniera: pel mez clera"
-  },
-  {
     "cp": "👩🏼‍🍼",
     "tts": "dunna che dat latg: pel mez clera"
-  },
-  {
-    "cp": "👩🏼‍🎓",
-    "tts": "studenta: pel mez clera"
-  },
-  {
-    "cp": "👩🏼‍🎤",
-    "tts": "chantadura: pel mez clera"
-  },
-  {
-    "cp": "👩🏼‍🎨",
-    "tts": "pictura artista: pel mez clera"
-  },
-  {
-    "cp": "👩🏼‍🏫",
-    "tts": "scolasta: pel mez clera"
   },
   {
     "cp": "👩🏼‍🏭",
@@ -7070,30 +6610,6 @@
   {
     "cp": "👩🏼‍🐰‍👩🏿",
     "tts": "dunnas cun ureglias da lieur: pel mez clera, pel stgira"
-  },
-  {
-    "cp": "👩🏼‍💻",
-    "tts": "tecnologa: pel mez clera"
-  },
-  {
-    "cp": "👩🏼‍💼",
-    "tts": "birolista: pel mez clera"
-  },
-  {
-    "cp": "👩🏼‍🔧",
-    "tts": "mecanista: pel mez clera"
-  },
-  {
-    "cp": "👩🏼‍🔬",
-    "tts": "scienziada: pel mez clera"
-  },
-  {
-    "cp": "👩🏼‍🚀",
-    "tts": "astronauta: pel mez clera"
-  },
-  {
-    "cp": "👩🏼‍🚒",
-    "tts": "pumpiera: pel mez clera"
   },
   {
     "cp": "👩🏼‍🤝‍👨🏻",
@@ -7192,14 +6708,6 @@
     "tts": "dunna che lavura en il sectur da la sanadad: pel media"
   },
   {
-    "cp": "👩🏽‍⚖",
-    "tts": "derschadra: pel media"
-  },
-  {
-    "cp": "👩🏽‍✈",
-    "tts": "pilota: pel media"
-  },
-  {
     "cp": "👩🏽‍❤‍👨🏻",
     "tts": "pèr cun cor: dunna, um, pel media, pel clera"
   },
@@ -7280,32 +6788,8 @@
     "tts": "bitsch: dunna, dunna, pel media, pel stgira"
   },
   {
-    "cp": "👩🏽‍🌾",
-    "tts": "pura: pel media"
-  },
-  {
-    "cp": "👩🏽‍🍳",
-    "tts": "cuschiniera: pel media"
-  },
-  {
     "cp": "👩🏽‍🍼",
     "tts": "dunna che dat latg: pel media"
-  },
-  {
-    "cp": "👩🏽‍🎓",
-    "tts": "studenta: pel media"
-  },
-  {
-    "cp": "👩🏽‍🎤",
-    "tts": "chantadura: pel media"
-  },
-  {
-    "cp": "👩🏽‍🎨",
-    "tts": "pictura artista: pel media"
-  },
-  {
-    "cp": "👩🏽‍🏫",
-    "tts": "scolasta: pel media"
   },
   {
     "cp": "👩🏽‍🏭",
@@ -7326,30 +6810,6 @@
   {
     "cp": "👩🏽‍🐰‍👩🏿",
     "tts": "dunnas cun ureglias da lieur: pel media, pel stgira"
-  },
-  {
-    "cp": "👩🏽‍💻",
-    "tts": "tecnologa: pel media"
-  },
-  {
-    "cp": "👩🏽‍💼",
-    "tts": "birolista: pel media"
-  },
-  {
-    "cp": "👩🏽‍🔧",
-    "tts": "mecanista: pel media"
-  },
-  {
-    "cp": "👩🏽‍🔬",
-    "tts": "scienziada: pel media"
-  },
-  {
-    "cp": "👩🏽‍🚀",
-    "tts": "astronauta: pel media"
-  },
-  {
-    "cp": "👩🏽‍🚒",
-    "tts": "pumpiera: pel media"
   },
   {
     "cp": "👩🏽‍🤝‍👨🏻",
@@ -7448,14 +6908,6 @@
     "tts": "dunna che lavura en il sectur da la sanadad: pel mez stgira"
   },
   {
-    "cp": "👩🏾‍⚖",
-    "tts": "derschadra: pel mez stgira"
-  },
-  {
-    "cp": "👩🏾‍✈",
-    "tts": "pilota: pel mez stgira"
-  },
-  {
     "cp": "👩🏾‍❤‍👨🏻",
     "tts": "pèr cun cor: dunna, um, pel mez stgira, pel clera"
   },
@@ -7536,32 +6988,8 @@
     "tts": "bitsch: dunna, dunna, pel mez stgira, pel stgira"
   },
   {
-    "cp": "👩🏾‍🌾",
-    "tts": "pura: pel mez stgira"
-  },
-  {
-    "cp": "👩🏾‍🍳",
-    "tts": "cuschiniera: pel mez stgira"
-  },
-  {
     "cp": "👩🏾‍🍼",
     "tts": "dunna che dat latg: pel mez stgira"
-  },
-  {
-    "cp": "👩🏾‍🎓",
-    "tts": "studenta: pel mez stgira"
-  },
-  {
-    "cp": "👩🏾‍🎤",
-    "tts": "chantadura: pel mez stgira"
-  },
-  {
-    "cp": "👩🏾‍🎨",
-    "tts": "pictura artista: pel mez stgira"
-  },
-  {
-    "cp": "👩🏾‍🏫",
-    "tts": "scolasta: pel mez stgira"
   },
   {
     "cp": "👩🏾‍🏭",
@@ -7582,30 +7010,6 @@
   {
     "cp": "👩🏾‍🐰‍👩🏿",
     "tts": "dunnas cun ureglias da lieur: pel mez stgira, pel stgira"
-  },
-  {
-    "cp": "👩🏾‍💻",
-    "tts": "tecnologa: pel mez stgira"
-  },
-  {
-    "cp": "👩🏾‍💼",
-    "tts": "birolista: pel mez stgira"
-  },
-  {
-    "cp": "👩🏾‍🔧",
-    "tts": "mecanista: pel mez stgira"
-  },
-  {
-    "cp": "👩🏾‍🔬",
-    "tts": "scienziada: pel mez stgira"
-  },
-  {
-    "cp": "👩🏾‍🚀",
-    "tts": "astronauta: pel mez stgira"
-  },
-  {
-    "cp": "👩🏾‍🚒",
-    "tts": "pumpiera: pel mez stgira"
   },
   {
     "cp": "👩🏾‍🤝‍👨🏻",
@@ -7704,14 +7108,6 @@
     "tts": "dunna che lavura en il sectur da la sanadad: pel stgira"
   },
   {
-    "cp": "👩🏿‍⚖",
-    "tts": "derschadra: pel stgira"
-  },
-  {
-    "cp": "👩🏿‍✈",
-    "tts": "pilota: pel stgira"
-  },
-  {
     "cp": "👩🏿‍❤‍👨🏻",
     "tts": "pèr cun cor: dunna, um, pel stgira, pel clera"
   },
@@ -7792,32 +7188,8 @@
     "tts": "bitsch: dunna, dunna, pel stgira"
   },
   {
-    "cp": "👩🏿‍🌾",
-    "tts": "pura: pel stgira"
-  },
-  {
-    "cp": "👩🏿‍🍳",
-    "tts": "cuschiniera: pel stgira"
-  },
-  {
     "cp": "👩🏿‍🍼",
     "tts": "dunna che dat latg: pel stgira"
-  },
-  {
-    "cp": "👩🏿‍🎓",
-    "tts": "studenta: pel stgira"
-  },
-  {
-    "cp": "👩🏿‍🎤",
-    "tts": "chantadura: pel stgira"
-  },
-  {
-    "cp": "👩🏿‍🎨",
-    "tts": "pictura artista: pel stgira"
-  },
-  {
-    "cp": "👩🏿‍🏫",
-    "tts": "scolasta: pel stgira"
   },
   {
     "cp": "👩🏿‍🏭",
@@ -7838,30 +7210,6 @@
   {
     "cp": "👩🏿‍🐰‍👩🏾",
     "tts": "dunnas cun ureglias da lieur: pel stgira, pel mez stgira"
-  },
-  {
-    "cp": "👩🏿‍💻",
-    "tts": "tecnologa: pel stgira"
-  },
-  {
-    "cp": "👩🏿‍💼",
-    "tts": "birolista: pel stgira"
-  },
-  {
-    "cp": "👩🏿‍🔧",
-    "tts": "mecanista: pel stgira"
-  },
-  {
-    "cp": "👩🏿‍🔬",
-    "tts": "scienziada: pel stgira"
-  },
-  {
-    "cp": "👩🏿‍🚀",
-    "tts": "astronauta: pel stgira"
-  },
-  {
-    "cp": "👩🏿‍🚒",
-    "tts": "pumpiera: pel stgira"
   },
   {
     "cp": "👩🏿‍🤝‍👨🏻",
@@ -8026,78 +7374,6 @@
   {
     "cp": "👭🏿",
     "tts": "dunnas che tegnan il maun: pel stgira"
-  },
-  {
-    "cp": "👮",
-    "tts": "policist:a"
-  },
-  {
-    "cp": "👮‍♀",
-    "tts": "policista"
-  },
-  {
-    "cp": "👮‍♂",
-    "tts": "policist"
-  },
-  {
-    "cp": "👮🏻",
-    "tts": "policist:a: pel clera"
-  },
-  {
-    "cp": "👮🏻‍♀",
-    "tts": "policista: pel clera"
-  },
-  {
-    "cp": "👮🏻‍♂",
-    "tts": "policist: pel clera"
-  },
-  {
-    "cp": "👮🏼",
-    "tts": "policist:a: pel mez clera"
-  },
-  {
-    "cp": "👮🏼‍♀",
-    "tts": "policista: pel mez clera"
-  },
-  {
-    "cp": "👮🏼‍♂",
-    "tts": "policist: pel mez clera"
-  },
-  {
-    "cp": "👮🏽",
-    "tts": "policist:a: pel media"
-  },
-  {
-    "cp": "👮🏽‍♀",
-    "tts": "policista: pel media"
-  },
-  {
-    "cp": "👮🏽‍♂",
-    "tts": "policist: pel media"
-  },
-  {
-    "cp": "👮🏾",
-    "tts": "policist:a: pel mez stgira"
-  },
-  {
-    "cp": "👮🏾‍♀",
-    "tts": "policista: pel mez stgira"
-  },
-  {
-    "cp": "👮🏾‍♂",
-    "tts": "policist: pel mez stgira"
-  },
-  {
-    "cp": "👮🏿",
-    "tts": "policist:a: pel stgira"
-  },
-  {
-    "cp": "👮🏿‍♀",
-    "tts": "policista: pel stgira"
-  },
-  {
-    "cp": "👮🏿‍♂",
-    "tts": "policist: pel stgira"
   },
   {
     "cp": "👯",
@@ -8484,78 +7760,6 @@
     "tts": "uffantin: pel stgira"
   },
   {
-    "cp": "👷",
-    "tts": "lavurer:a da construcziun"
-  },
-  {
-    "cp": "👷‍♀",
-    "tts": "lavurera da construcziun"
-  },
-  {
-    "cp": "👷‍♂",
-    "tts": "lavurer da construcziun"
-  },
-  {
-    "cp": "👷🏻",
-    "tts": "lavurer:a da construcziun: pel clera"
-  },
-  {
-    "cp": "👷🏻‍♀",
-    "tts": "lavurera da construcziun: pel clera"
-  },
-  {
-    "cp": "👷🏻‍♂",
-    "tts": "lavurer da construcziun: pel clera"
-  },
-  {
-    "cp": "👷🏼",
-    "tts": "lavurer:a da construcziun: pel mez clera"
-  },
-  {
-    "cp": "👷🏼‍♀",
-    "tts": "lavurera da construcziun: pel mez clera"
-  },
-  {
-    "cp": "👷🏼‍♂",
-    "tts": "lavurer da construcziun: pel mez clera"
-  },
-  {
-    "cp": "👷🏽",
-    "tts": "lavurer:a da construcziun: pel media"
-  },
-  {
-    "cp": "👷🏽‍♀",
-    "tts": "lavurera da construcziun: pel media"
-  },
-  {
-    "cp": "👷🏽‍♂",
-    "tts": "lavurer da construcziun: pel media"
-  },
-  {
-    "cp": "👷🏾",
-    "tts": "lavurer:a da construcziun: pel mez stgira"
-  },
-  {
-    "cp": "👷🏾‍♀",
-    "tts": "lavurera da construcziun: pel mez stgira"
-  },
-  {
-    "cp": "👷🏾‍♂",
-    "tts": "lavurer da construcziun: pel mez stgira"
-  },
-  {
-    "cp": "👷🏿",
-    "tts": "lavurer:a da construcziun: pel stgira"
-  },
-  {
-    "cp": "👷🏿‍♀",
-    "tts": "lavurera da construcziun: pel stgira"
-  },
-  {
-    "cp": "👷🏿‍♂",
-    "tts": "lavurer da construcziun: pel stgira"
-  },
-  {
     "cp": "👸",
     "tts": "princessa"
   },
@@ -8702,6 +7906,78 @@
   {
     "cp": "💁🏿‍♂",
     "tts": "um che tegna la palma-maun vers ensi: pel stgira"
+  },
+  {
+    "cp": "💂",
+    "tts": "guardia"
+  },
+  {
+    "cp": "💂‍♀",
+    "tts": "guardiana"
+  },
+  {
+    "cp": "💂‍♂",
+    "tts": "guardian"
+  },
+  {
+    "cp": "💂🏻",
+    "tts": "guardia: pel clera"
+  },
+  {
+    "cp": "💂🏻‍♀",
+    "tts": "guardiana: pel clera"
+  },
+  {
+    "cp": "💂🏻‍♂",
+    "tts": "guardian: pel clera"
+  },
+  {
+    "cp": "💂🏼",
+    "tts": "guardia: pel mez clera"
+  },
+  {
+    "cp": "💂🏼‍♀",
+    "tts": "guardiana: pel mez clera"
+  },
+  {
+    "cp": "💂🏼‍♂",
+    "tts": "guardian: pel mez clera"
+  },
+  {
+    "cp": "💂🏽",
+    "tts": "guardia: pel media"
+  },
+  {
+    "cp": "💂🏽‍♀",
+    "tts": "guardiana: pel media"
+  },
+  {
+    "cp": "💂🏽‍♂",
+    "tts": "guardian: pel media"
+  },
+  {
+    "cp": "💂🏾",
+    "tts": "guardia: pel mez stgira"
+  },
+  {
+    "cp": "💂🏾‍♀",
+    "tts": "guardiana: pel mez stgira"
+  },
+  {
+    "cp": "💂🏾‍♂",
+    "tts": "guardian: pel mez stgira"
+  },
+  {
+    "cp": "💂🏿",
+    "tts": "guardia: pel stgira"
+  },
+  {
+    "cp": "💂🏿‍♀",
+    "tts": "guardiana: pel stgira"
+  },
+  {
+    "cp": "💂🏿‍♂",
+    "tts": "guardian: pel stgira"
   },
   {
     "cp": "💃",
@@ -9840,78 +9116,6 @@
     "tts": "persuna en vestgì che levitescha: pel stgira"
   },
   {
-    "cp": "🕵",
-    "tts": "detectiv:a"
-  },
-  {
-    "cp": "🕵‍♀",
-    "tts": "detectiva"
-  },
-  {
-    "cp": "🕵‍♂",
-    "tts": "detectiv"
-  },
-  {
-    "cp": "🕵🏻",
-    "tts": "detectiv:a: pel clera"
-  },
-  {
-    "cp": "🕵🏻‍♀",
-    "tts": "detectiva: pel clera"
-  },
-  {
-    "cp": "🕵🏻‍♂",
-    "tts": "detectiv: pel clera"
-  },
-  {
-    "cp": "🕵🏼",
-    "tts": "detectiv:a: pel mez clera"
-  },
-  {
-    "cp": "🕵🏼‍♀",
-    "tts": "detectiva: pel mez clera"
-  },
-  {
-    "cp": "🕵🏼‍♂",
-    "tts": "detectiv: pel mez clera"
-  },
-  {
-    "cp": "🕵🏽",
-    "tts": "detectiv:a: pel media"
-  },
-  {
-    "cp": "🕵🏽‍♀",
-    "tts": "detectiva: pel media"
-  },
-  {
-    "cp": "🕵🏽‍♂",
-    "tts": "detectiv: pel media"
-  },
-  {
-    "cp": "🕵🏾",
-    "tts": "detectiv:a: pel mez stgira"
-  },
-  {
-    "cp": "🕵🏾‍♀",
-    "tts": "detectiva: pel mez stgira"
-  },
-  {
-    "cp": "🕵🏾‍♂",
-    "tts": "detectiv: pel mez stgira"
-  },
-  {
-    "cp": "🕵🏿",
-    "tts": "detectiv:a: pel stgira"
-  },
-  {
-    "cp": "🕵🏿‍♀",
-    "tts": "detectiva: pel stgira"
-  },
-  {
-    "cp": "🕵🏿‍♂",
-    "tts": "detectiv: pel stgira"
-  },
-  {
     "cp": "🕶",
     "tts": "egliers da sulegl"
   },
@@ -10229,11 +9433,15 @@
   },
   {
     "cp": "😔",
-    "tts": "fatscha pensiva"
+    "tts": "fatscha penserusa"
+  },
+  {
+    "cp": "😕",
+    "tts": "fatscha confusa"
   },
   {
     "cp": "😖",
-    "tts": "fatscha confusa"
+    "tts": "fatscha consternada"
   },
   {
     "cp": "😗",
@@ -10254,6 +9462,10 @@
   {
     "cp": "😛",
     "tts": "fatscha cun lieunga"
+  },
+  {
+    "cp": "😜",
+    "tts": "fatscha che tschegna e chatscha ora la lieunga"
   },
   {
     "cp": "😝",
@@ -11508,6 +10720,10 @@
     "tts": "tualetta da dunnas"
   },
   {
+    "cp": "🚻",
+    "tts": "tualettas"
+  },
+  {
     "cp": "🚼",
     "tts": "simbol poppa"
   },
@@ -11634,6 +10850,10 @@
   {
     "cp": "🛘",
     "tts": "bova"
+  },
+  {
+    "cp": "🛙",
+    "tts": "far"
   },
   {
     "cp": "🛜",
@@ -11781,7 +11001,7 @@
   },
   {
     "cp": "🟰",
-    "tts": "egual"
+    "tts": "segn egual"
   },
   {
     "cp": "🤌",
@@ -11854,6 +11074,10 @@
   {
     "cp": "🤓",
     "tts": "fatscha da nerd"
+  },
+  {
+    "cp": "🤔",
+    "tts": "fatscha pensiva"
   },
   {
     "cp": "🤕",
@@ -13384,150 +12608,6 @@
     "tts": "dent"
   },
   {
-    "cp": "🦸",
-    "tts": "supererox:a"
-  },
-  {
-    "cp": "🦸‍♀",
-    "tts": "supereroxa"
-  },
-  {
-    "cp": "🦸‍♂",
-    "tts": "supererox"
-  },
-  {
-    "cp": "🦸🏻",
-    "tts": "supererox:a: pel clera"
-  },
-  {
-    "cp": "🦸🏻‍♀",
-    "tts": "supereroxa: pel clera"
-  },
-  {
-    "cp": "🦸🏻‍♂",
-    "tts": "supererox: pel clera"
-  },
-  {
-    "cp": "🦸🏼",
-    "tts": "supererox:a: pel mez clera"
-  },
-  {
-    "cp": "🦸🏼‍♀",
-    "tts": "supereroxa: pel mez clera"
-  },
-  {
-    "cp": "🦸🏼‍♂",
-    "tts": "supererox: pel mez clera"
-  },
-  {
-    "cp": "🦸🏽",
-    "tts": "supererox:a: pel media"
-  },
-  {
-    "cp": "🦸🏽‍♀",
-    "tts": "supereroxa: pel media"
-  },
-  {
-    "cp": "🦸🏽‍♂",
-    "tts": "supererox: pel media"
-  },
-  {
-    "cp": "🦸🏾",
-    "tts": "supererox:a: pel mez stgira"
-  },
-  {
-    "cp": "🦸🏾‍♀",
-    "tts": "supereroxa: pel mez stgira"
-  },
-  {
-    "cp": "🦸🏾‍♂",
-    "tts": "supererox: pel mez stgira"
-  },
-  {
-    "cp": "🦸🏿",
-    "tts": "supererox:a: pel stgira"
-  },
-  {
-    "cp": "🦸🏿‍♀",
-    "tts": "supereroxa: pel stgira"
-  },
-  {
-    "cp": "🦸🏿‍♂",
-    "tts": "supererox: pel stgira"
-  },
-  {
-    "cp": "🦹",
-    "tts": "supernausch:a"
-  },
-  {
-    "cp": "🦹‍♀",
-    "tts": "supernauscha"
-  },
-  {
-    "cp": "🦹‍♂",
-    "tts": "supernausch"
-  },
-  {
-    "cp": "🦹🏻",
-    "tts": "supernausch:a: pel clera"
-  },
-  {
-    "cp": "🦹🏻‍♀",
-    "tts": "supernauscha: pel clera"
-  },
-  {
-    "cp": "🦹🏻‍♂",
-    "tts": "supernausch: pel clera"
-  },
-  {
-    "cp": "🦹🏼",
-    "tts": "supernausch:a: pel mez clera"
-  },
-  {
-    "cp": "🦹🏼‍♀",
-    "tts": "supernauscha: pel mez clera"
-  },
-  {
-    "cp": "🦹🏼‍♂",
-    "tts": "supernausch: pel mez clera"
-  },
-  {
-    "cp": "🦹🏽",
-    "tts": "supernausch:a: pel media"
-  },
-  {
-    "cp": "🦹🏽‍♀",
-    "tts": "supernauscha: pel media"
-  },
-  {
-    "cp": "🦹🏽‍♂",
-    "tts": "supernausch: pel media"
-  },
-  {
-    "cp": "🦹🏾",
-    "tts": "supernausch:a: pel mez stgira"
-  },
-  {
-    "cp": "🦹🏾‍♀",
-    "tts": "supernauscha: pel mez stgira"
-  },
-  {
-    "cp": "🦹🏾‍♂",
-    "tts": "supernausch: pel mez stgira"
-  },
-  {
-    "cp": "🦹🏿",
-    "tts": "supernausch:a: pel stgira"
-  },
-  {
-    "cp": "🦹🏿‍♀",
-    "tts": "supernauscha: pel stgira"
-  },
-  {
-    "cp": "🦹🏿‍♂",
-    "tts": "supernausch: pel stgira"
-  },
-  {
     "cp": "🦺",
     "tts": "vesta da segirezza"
   },
@@ -13924,22 +13004,6 @@
     "tts": "persuna che lavura en il sectur da la sanadad"
   },
   {
-    "cp": "🧑‍⚖",
-    "tts": "derschad:ra"
-  },
-  {
-    "cp": "🧑‍✈",
-    "tts": "pilot:a"
-  },
-  {
-    "cp": "🧑‍🌾",
-    "tts": "pur:a"
-  },
-  {
-    "cp": "🧑‍🍳",
-    "tts": "cuschinier:a"
-  },
-  {
     "cp": "🧑‍🍼",
     "tts": "persuna che dat la clocca ad in pop"
   },
@@ -13948,48 +13012,8 @@
     "tts": "Santa Claus"
   },
   {
-    "cp": "🧑‍🎓",
-    "tts": "student:a"
-  },
-  {
-    "cp": "🧑‍🎤",
-    "tts": "chantadur:a"
-  },
-  {
-    "cp": "🧑‍🎨",
-    "tts": "pictur:a artist:a"
-  },
-  {
-    "cp": "🧑‍🏫",
-    "tts": "scolast:a"
-  },
-  {
     "cp": "🧑‍🏭",
     "tts": "persuna che lavura en fabrica"
-  },
-  {
-    "cp": "🧑‍💻",
-    "tts": "tecnolog:a"
-  },
-  {
-    "cp": "🧑‍💼",
-    "tts": "birolist:a"
-  },
-  {
-    "cp": "🧑‍🔧",
-    "tts": "mecanist:a"
-  },
-  {
-    "cp": "🧑‍🔬",
-    "tts": "scienzia:da"
-  },
-  {
-    "cp": "🧑‍🚀",
-    "tts": "astronaut:a"
-  },
-  {
-    "cp": "🧑‍🚒",
-    "tts": "pumpier:a"
   },
   {
     "cp": "🧑‍🤝‍🧑",
@@ -14064,14 +13088,6 @@
     "tts": "persuna che lavura en il sectur da la sanadad: pel clera"
   },
   {
-    "cp": "🧑🏻‍⚖",
-    "tts": "derschad:ra: pel clera"
-  },
-  {
-    "cp": "🧑🏻‍✈",
-    "tts": "pilot:a: pel clera"
-  },
-  {
     "cp": "🧑🏻‍❤‍💋‍🧑🏼",
     "tts": "bitsch: persuna, persuna, pel clera, pel mez clera"
   },
@@ -14104,36 +13120,12 @@
     "tts": "pèr cun cor: persuna, persuna, pel clera, pel stgira"
   },
   {
-    "cp": "🧑🏻‍🌾",
-    "tts": "pur:a: pel clera"
-  },
-  {
-    "cp": "🧑🏻‍🍳",
-    "tts": "cuschinier:a: pel clera"
-  },
-  {
     "cp": "🧑🏻‍🍼",
     "tts": "persuna che dat la clocca ad in pop: pel clera"
   },
   {
     "cp": "🧑🏻‍🎄",
     "tts": "Santa Claus: pel clera"
-  },
-  {
-    "cp": "🧑🏻‍🎓",
-    "tts": "student:a: pel clera"
-  },
-  {
-    "cp": "🧑🏻‍🎤",
-    "tts": "chantadur:a: pel clera"
-  },
-  {
-    "cp": "🧑🏻‍🎨",
-    "tts": "pictur:a artist:a: pel clera"
-  },
-  {
-    "cp": "🧑🏻‍🏫",
-    "tts": "scolast:a: pel clera"
   },
   {
     "cp": "🧑🏻‍🏭",
@@ -14154,30 +13146,6 @@
   {
     "cp": "🧑🏻‍🐰‍🧑🏿",
     "tts": "persunas cun ureglias da lieur: pel clera, pel stgira"
-  },
-  {
-    "cp": "🧑🏻‍💻",
-    "tts": "tecnolog:a: pel clera"
-  },
-  {
-    "cp": "🧑🏻‍💼",
-    "tts": "birolist:a: pel clera"
-  },
-  {
-    "cp": "🧑🏻‍🔧",
-    "tts": "mecanist:a: pel clera"
-  },
-  {
-    "cp": "🧑🏻‍🔬",
-    "tts": "scienzia:da: pel clera"
-  },
-  {
-    "cp": "🧑🏻‍🚀",
-    "tts": "astronaut:a: pel clera"
-  },
-  {
-    "cp": "🧑🏻‍🚒",
-    "tts": "pumpier:a: pel clera"
   },
   {
     "cp": "🧑🏻‍🤝‍🧑🏻",
@@ -14268,14 +13236,6 @@
     "tts": "persuna che lavura en il sectur da la sanadad: pel mez clera"
   },
   {
-    "cp": "🧑🏼‍⚖",
-    "tts": "derschad:ra: pel mez clera"
-  },
-  {
-    "cp": "🧑🏼‍✈",
-    "tts": "pilot:a: pel mez clera"
-  },
-  {
     "cp": "🧑🏼‍❤‍💋‍🧑🏻",
     "tts": "bitsch: persuna, persuna, pel mez clera, pel clera"
   },
@@ -14308,36 +13268,12 @@
     "tts": "pèr cun cor: persuna, persuna, pel mez clera, pel stgira"
   },
   {
-    "cp": "🧑🏼‍🌾",
-    "tts": "pur:a: pel mez clera"
-  },
-  {
-    "cp": "🧑🏼‍🍳",
-    "tts": "cuschinier:a: pel mez clera"
-  },
-  {
     "cp": "🧑🏼‍🍼",
     "tts": "persuna che dat la clocca ad in pop: pel mez clera"
   },
   {
     "cp": "🧑🏼‍🎄",
     "tts": "Santa Claus: pel mez clera"
-  },
-  {
-    "cp": "🧑🏼‍🎓",
-    "tts": "student:a: pel mez clera"
-  },
-  {
-    "cp": "🧑🏼‍🎤",
-    "tts": "chantadur:a: pel mez clera"
-  },
-  {
-    "cp": "🧑🏼‍🎨",
-    "tts": "pictur:a artist:a: pel mez clera"
-  },
-  {
-    "cp": "🧑🏼‍🏫",
-    "tts": "scolast:a: pel mez clera"
   },
   {
     "cp": "🧑🏼‍🏭",
@@ -14358,30 +13294,6 @@
   {
     "cp": "🧑🏼‍🐰‍🧑🏿",
     "tts": "persunas cun ureglias da lieur: pel mez clera, pel stgira"
-  },
-  {
-    "cp": "🧑🏼‍💻",
-    "tts": "tecnolog:a: pel mez clera"
-  },
-  {
-    "cp": "🧑🏼‍💼",
-    "tts": "birolist:a: pel mez clera"
-  },
-  {
-    "cp": "🧑🏼‍🔧",
-    "tts": "mecanist:a: pel mez clera"
-  },
-  {
-    "cp": "🧑🏼‍🔬",
-    "tts": "scienzia:da: pel mez clera"
-  },
-  {
-    "cp": "🧑🏼‍🚀",
-    "tts": "astronaut:a: pel mez clera"
-  },
-  {
-    "cp": "🧑🏼‍🚒",
-    "tts": "pumpier:a: pel mez clera"
   },
   {
     "cp": "🧑🏼‍🤝‍🧑🏻",
@@ -14472,14 +13384,6 @@
     "tts": "persuna che lavura en il sectur da la sanadad: pel media"
   },
   {
-    "cp": "🧑🏽‍⚖",
-    "tts": "derschad:ra: pel media"
-  },
-  {
-    "cp": "🧑🏽‍✈",
-    "tts": "pilot:a: pel media"
-  },
-  {
     "cp": "🧑🏽‍❤‍💋‍🧑🏻",
     "tts": "bitsch: persuna, persuna, pel media, pel clera"
   },
@@ -14512,36 +13416,12 @@
     "tts": "pèr cun cor: persuna, persuna, pel media, pel stgira"
   },
   {
-    "cp": "🧑🏽‍🌾",
-    "tts": "pur:a: pel media"
-  },
-  {
-    "cp": "🧑🏽‍🍳",
-    "tts": "cuschinier:a: pel media"
-  },
-  {
     "cp": "🧑🏽‍🍼",
     "tts": "persuna che dat la clocca ad in pop: pel media"
   },
   {
     "cp": "🧑🏽‍🎄",
     "tts": "Santa Claus: pel media"
-  },
-  {
-    "cp": "🧑🏽‍🎓",
-    "tts": "student:a: pel media"
-  },
-  {
-    "cp": "🧑🏽‍🎤",
-    "tts": "chantadur:a: pel media"
-  },
-  {
-    "cp": "🧑🏽‍🎨",
-    "tts": "pictur:a artist:a: pel media"
-  },
-  {
-    "cp": "🧑🏽‍🏫",
-    "tts": "scolast:a: pel media"
   },
   {
     "cp": "🧑🏽‍🏭",
@@ -14562,30 +13442,6 @@
   {
     "cp": "🧑🏽‍🐰‍🧑🏿",
     "tts": "persunas cun ureglias da lieur: pel media, pel stgira"
-  },
-  {
-    "cp": "🧑🏽‍💻",
-    "tts": "tecnolog:a: pel media"
-  },
-  {
-    "cp": "🧑🏽‍💼",
-    "tts": "birolist:a: pel media"
-  },
-  {
-    "cp": "🧑🏽‍🔧",
-    "tts": "mecanist:a: pel media"
-  },
-  {
-    "cp": "🧑🏽‍🔬",
-    "tts": "scienzia:da: pel media"
-  },
-  {
-    "cp": "🧑🏽‍🚀",
-    "tts": "astronaut:a: pel media"
-  },
-  {
-    "cp": "🧑🏽‍🚒",
-    "tts": "pumpier:a: pel media"
   },
   {
     "cp": "🧑🏽‍🤝‍🧑🏻",
@@ -14676,14 +13532,6 @@
     "tts": "persuna che lavura en il sectur da la sanadad: pel mez stgira"
   },
   {
-    "cp": "🧑🏾‍⚖",
-    "tts": "derschad:ra: pel mez stgira"
-  },
-  {
-    "cp": "🧑🏾‍✈",
-    "tts": "pilot:a: pel mez stgira"
-  },
-  {
     "cp": "🧑🏾‍❤‍💋‍🧑🏻",
     "tts": "bitsch: persuna, persuna, pel mez stgira, pel clera"
   },
@@ -14716,36 +13564,12 @@
     "tts": "pèr cun cor: persuna, persuna, pel mez stgira, pel stgira"
   },
   {
-    "cp": "🧑🏾‍🌾",
-    "tts": "pur:a: pel mez stgira"
-  },
-  {
-    "cp": "🧑🏾‍🍳",
-    "tts": "cuschinier:a: pel mez stgira"
-  },
-  {
     "cp": "🧑🏾‍🍼",
     "tts": "persuna che dat la clocca ad in pop: pel mez stgira"
   },
   {
     "cp": "🧑🏾‍🎄",
     "tts": "Santa Claus: pel mez stgira"
-  },
-  {
-    "cp": "🧑🏾‍🎓",
-    "tts": "student:a: pel mez stgira"
-  },
-  {
-    "cp": "🧑🏾‍🎤",
-    "tts": "chantadur:a: pel mez stgira"
-  },
-  {
-    "cp": "🧑🏾‍🎨",
-    "tts": "pictur:a artist:a: pel mez stgira"
-  },
-  {
-    "cp": "🧑🏾‍🏫",
-    "tts": "scolast:a: pel mez stgira"
   },
   {
     "cp": "🧑🏾‍🏭",
@@ -14766,30 +13590,6 @@
   {
     "cp": "🧑🏾‍🐰‍🧑🏿",
     "tts": "persunas cun ureglias da lieur: pel mez stgira, pel stgira"
-  },
-  {
-    "cp": "🧑🏾‍💻",
-    "tts": "tecnolog:a: pel mez stgira"
-  },
-  {
-    "cp": "🧑🏾‍💼",
-    "tts": "birolist:a: pel mez stgira"
-  },
-  {
-    "cp": "🧑🏾‍🔧",
-    "tts": "mecanist:a: pel mez stgira"
-  },
-  {
-    "cp": "🧑🏾‍🔬",
-    "tts": "scienzia:da: pel mez stgira"
-  },
-  {
-    "cp": "🧑🏾‍🚀",
-    "tts": "astronaut:a: pel mez stgira"
-  },
-  {
-    "cp": "🧑🏾‍🚒",
-    "tts": "pumpier:a: pel mez stgira"
   },
   {
     "cp": "🧑🏾‍🤝‍🧑🏻",
@@ -14880,14 +13680,6 @@
     "tts": "persuna che lavura en il sectur da la sanadad: pel stgira"
   },
   {
-    "cp": "🧑🏿‍⚖",
-    "tts": "derschad:ra: pel stgira"
-  },
-  {
-    "cp": "🧑🏿‍✈",
-    "tts": "pilot:a: pel stgira"
-  },
-  {
     "cp": "🧑🏿‍❤‍💋‍🧑🏻",
     "tts": "bitsch: persuna, persuna, pel stgira, pel clera"
   },
@@ -14920,36 +13712,12 @@
     "tts": "pèr cun cor: persuna, persuna, pel stgira, pel mez stgira"
   },
   {
-    "cp": "🧑🏿‍🌾",
-    "tts": "pur:a: pel stgira"
-  },
-  {
-    "cp": "🧑🏿‍🍳",
-    "tts": "cuschinier:a: pel stgira"
-  },
-  {
     "cp": "🧑🏿‍🍼",
     "tts": "persuna che dat la clocca ad in pop: pel stgira"
   },
   {
     "cp": "🧑🏿‍🎄",
     "tts": "Santa Claus: pel stgira"
-  },
-  {
-    "cp": "🧑🏿‍🎓",
-    "tts": "student:a: pel stgira"
-  },
-  {
-    "cp": "🧑🏿‍🎤",
-    "tts": "chantadur:a: pel stgira"
-  },
-  {
-    "cp": "🧑🏿‍🎨",
-    "tts": "pictur:a artist:a: pel stgira"
-  },
-  {
-    "cp": "🧑🏿‍🏫",
-    "tts": "scolast:a: pel stgira"
   },
   {
     "cp": "🧑🏿‍🏭",
@@ -14970,30 +13738,6 @@
   {
     "cp": "🧑🏿‍🐰‍🧑🏾",
     "tts": "persunas cun ureglias da lieur: pel stgira, pel mez stgira"
-  },
-  {
-    "cp": "🧑🏿‍💻",
-    "tts": "tecnolog:a: pel stgira"
-  },
-  {
-    "cp": "🧑🏿‍💼",
-    "tts": "birolist:a: pel stgira"
-  },
-  {
-    "cp": "🧑🏿‍🔧",
-    "tts": "mecanist:a: pel stgira"
-  },
-  {
-    "cp": "🧑🏿‍🔬",
-    "tts": "scienzia:da: pel stgira"
-  },
-  {
-    "cp": "🧑🏿‍🚀",
-    "tts": "astronaut:a: pel stgira"
-  },
-  {
-    "cp": "🧑🏿‍🚒",
-    "tts": "pumpier:a: pel stgira"
   },
   {
     "cp": "🧑🏿‍🤝‍🧑🏻",
@@ -15436,150 +14180,6 @@
     "tts": "um en la posiziun da lotos: pel stgira"
   },
   {
-    "cp": "🧙",
-    "tts": "striun:a"
-  },
-  {
-    "cp": "🧙‍♀",
-    "tts": "striuna"
-  },
-  {
-    "cp": "🧙‍♂",
-    "tts": "striun"
-  },
-  {
-    "cp": "🧙🏻",
-    "tts": "striun:a: pel clera"
-  },
-  {
-    "cp": "🧙🏻‍♀",
-    "tts": "striuna: pel clera"
-  },
-  {
-    "cp": "🧙🏻‍♂",
-    "tts": "striun: pel clera"
-  },
-  {
-    "cp": "🧙🏼",
-    "tts": "striun:a: pel mez clera"
-  },
-  {
-    "cp": "🧙🏼‍♀",
-    "tts": "striuna: pel mez clera"
-  },
-  {
-    "cp": "🧙🏼‍♂",
-    "tts": "striun: pel mez clera"
-  },
-  {
-    "cp": "🧙🏽",
-    "tts": "striun:a: pel media"
-  },
-  {
-    "cp": "🧙🏽‍♀",
-    "tts": "striuna: pel media"
-  },
-  {
-    "cp": "🧙🏽‍♂",
-    "tts": "striun: pel media"
-  },
-  {
-    "cp": "🧙🏾",
-    "tts": "striun:a: pel mez stgira"
-  },
-  {
-    "cp": "🧙🏾‍♀",
-    "tts": "striuna: pel mez stgira"
-  },
-  {
-    "cp": "🧙🏾‍♂",
-    "tts": "striun: pel mez stgira"
-  },
-  {
-    "cp": "🧙🏿",
-    "tts": "striun:a: pel stgira"
-  },
-  {
-    "cp": "🧙🏿‍♀",
-    "tts": "striuna: pel stgira"
-  },
-  {
-    "cp": "🧙🏿‍♂",
-    "tts": "striun: pel stgira"
-  },
-  {
-    "cp": "🧚",
-    "tts": "dial:a"
-  },
-  {
-    "cp": "🧚‍♀",
-    "tts": "diala"
-  },
-  {
-    "cp": "🧚‍♂",
-    "tts": "dial"
-  },
-  {
-    "cp": "🧚🏻",
-    "tts": "dial:a: pel clera"
-  },
-  {
-    "cp": "🧚🏻‍♀",
-    "tts": "diala: pel clera"
-  },
-  {
-    "cp": "🧚🏻‍♂",
-    "tts": "dial: pel clera"
-  },
-  {
-    "cp": "🧚🏼",
-    "tts": "dial:a: pel mez clera"
-  },
-  {
-    "cp": "🧚🏼‍♀",
-    "tts": "diala: pel mez clera"
-  },
-  {
-    "cp": "🧚🏼‍♂",
-    "tts": "dial: pel mez clera"
-  },
-  {
-    "cp": "🧚🏽",
-    "tts": "dial:a: pel media"
-  },
-  {
-    "cp": "🧚🏽‍♀",
-    "tts": "diala: pel media"
-  },
-  {
-    "cp": "🧚🏽‍♂",
-    "tts": "dial: pel media"
-  },
-  {
-    "cp": "🧚🏾",
-    "tts": "dial:a: pel mez stgira"
-  },
-  {
-    "cp": "🧚🏾‍♀",
-    "tts": "diala: pel mez stgira"
-  },
-  {
-    "cp": "🧚🏾‍♂",
-    "tts": "dial: pel mez stgira"
-  },
-  {
-    "cp": "🧚🏿",
-    "tts": "dial:a: pel stgira"
-  },
-  {
-    "cp": "🧚🏿‍♀",
-    "tts": "diala: pel stgira"
-  },
-  {
-    "cp": "🧚🏿‍♂",
-    "tts": "dial: pel stgira"
-  },
-  {
     "cp": "🧛",
     "tts": "vampir:a"
   },
@@ -15722,78 +14322,6 @@
   {
     "cp": "🧜🏿‍♂",
     "tts": "um da l’aua: pel stgira"
-  },
-  {
-    "cp": "🧝",
-    "tts": "elf:a"
-  },
-  {
-    "cp": "🧝‍♀",
-    "tts": "elfa"
-  },
-  {
-    "cp": "🧝‍♂",
-    "tts": "elf"
-  },
-  {
-    "cp": "🧝🏻",
-    "tts": "elf:a: pel clera"
-  },
-  {
-    "cp": "🧝🏻‍♀",
-    "tts": "elfa: pel clera"
-  },
-  {
-    "cp": "🧝🏻‍♂",
-    "tts": "elf: pel clera"
-  },
-  {
-    "cp": "🧝🏼",
-    "tts": "elf:a: pel mez clera"
-  },
-  {
-    "cp": "🧝🏼‍♀",
-    "tts": "elfa: pel mez clera"
-  },
-  {
-    "cp": "🧝🏼‍♂",
-    "tts": "elf: pel mez clera"
-  },
-  {
-    "cp": "🧝🏽",
-    "tts": "elf:a: pel media"
-  },
-  {
-    "cp": "🧝🏽‍♀",
-    "tts": "elfa: pel media"
-  },
-  {
-    "cp": "🧝🏽‍♂",
-    "tts": "elf: pel media"
-  },
-  {
-    "cp": "🧝🏾",
-    "tts": "elf:a: pel mez stgira"
-  },
-  {
-    "cp": "🧝🏾‍♀",
-    "tts": "elfa: pel mez stgira"
-  },
-  {
-    "cp": "🧝🏾‍♂",
-    "tts": "elf: pel mez stgira"
-  },
-  {
-    "cp": "🧝🏿",
-    "tts": "elf:a: pel stgira"
-  },
-  {
-    "cp": "🧝🏿‍♀",
-    "tts": "elfa: pel stgira"
-  },
-  {
-    "cp": "🧝🏿‍♂",
-    "tts": "elf: pel stgira"
   },
   {
     "cp": "🧞",
@@ -16004,6 +14532,10 @@
     "tts": "jojo"
   },
   {
+    "cp": "🪁",
+    "tts": "dragun en l’aria"
+  },
+  {
     "cp": "🪂",
     "tts": "paracrudada"
   },
@@ -16038,6 +14570,18 @@
   {
     "cp": "🪊",
     "tts": "posauna"
+  },
+  {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "gumma"
+  },
+  {
+    "cp": "🪍",
+    "tts": "rait cun moni"
   },
   {
     "cp": "🪎",
@@ -16332,6 +14876,10 @@
     "tts": "creatira pailusa"
   },
   {
+    "cp": "🫌",
+    "tts": "monarchina"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -16396,6 +14944,10 @@
     "tts": "legums da ragisch"
   },
   {
+    "cp": "🫝",
+    "tts": "cucumera en aschieu"
+  },
+  {
     "cp": "🫟",
     "tts": "flatg"
   },
@@ -16442,6 +14994,10 @@
   {
     "cp": "🫪",
     "tts": "fatscha defurmada"
+  },
+  {
+    "cp": "🫫",
+    "tts": "fatscha che va en tocs"
   },
   {
     "cp": "🫯",
@@ -16742,5 +15298,53 @@
   {
     "cp": "🫸🏿",
     "tts": "maun che stauscha a dretga: pel stgira"
+  },
+  {
+    "cp": "🫹",
+    "tts": "polesch che mussa a sanestra"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "polesch che mussa a sanestra: pel clera"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "polesch che mussa a sanestra: pel mez clera"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "polesch che mussa a sanestra: pel media"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "polesch che mussa a sanestra: pel mez stgira"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "polesch che mussa a sanestra: pel stgira"
+  },
+  {
+    "cp": "🫺",
+    "tts": "polesch che mussa a dretga"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "polesch che mussa a dretga: pel clera"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "polesch che mussa a dretga: pel mez clera"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "polesch che mussa a dretga: pel media"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "polesch che mussa a dretga: pel mez stgira"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "polesch che mussa a dretga: pel stgira"
   }
 ]

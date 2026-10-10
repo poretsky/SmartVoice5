@@ -93,7 +93,7 @@
   },
   {
     "cp": "₦",
-    "tts": "Naịra"
+    "tts": "Nigerian Naira"
   },
   {
     "cp": "₩",
@@ -185,7 +185,7 @@
   },
   {
     "cp": "←",
-    "tts": "left-pointing arrow"
+    "tts": "akụ na-atụ aka ekpe"
   },
   {
     "cp": "↑",
@@ -225,7 +225,7 @@
   },
   {
     "cp": "↚",
-    "tts": "akụ na-atụ aka ekpe"
+    "tts": "akara akụ na-atụ aka ekpe"
   },
   {
     "cp": "↛",
@@ -653,11 +653,11 @@
   },
   {
     "cp": "∩",
-    "tts": "intersection"
+    "tts": "dị n’ime"
   },
   {
     "cp": "∪",
-    "tts": "union"
+    "tts": "njikọta"
   },
   {
     "cp": "∫",
@@ -789,7 +789,7 @@
   },
   {
     "cp": "⊂",
-    "tts": "subset of"
+    "tts": "akụkụ setị nke"
   },
   {
     "cp": "⊃",
@@ -10696,6 +10696,10 @@
     "tts": "oké ọdịda aja"
   },
   {
+    "cp": "🛙",
+    "tts": "ụlọ nduzi ndị ọrụ ụgbọ mmiri"
+  },
+  {
     "cp": "🛜",
     "tts": "enwēwayà"
   },
@@ -11981,7 +11985,7 @@
   },
   {
     "cp": "🥒",
-    "tts": "mkpụrụakwụkwọnri"
+    "tts": "kukumba"
   },
   {
     "cp": "🥓",
@@ -15108,6 +15112,18 @@
     "tts": "opi"
   },
   {
+    "cp": "🪋",
+    "tts": "ọkụ igwe dị okirikiri"
+  },
+  {
+    "cp": "🪌",
+    "tts": "nchịcha"
+  },
+  {
+    "cp": "🪍",
+    "tts": "nkata nwere aka"
+  },
+  {
     "cp": "🪎",
     "tts": "igbe akụ̀"
   },
@@ -15400,6 +15416,10 @@
     "tts": "anụ nwere ajị"
   },
   {
+    "cp": "🫌",
+    "tts": "urukurubụba tụrụ àgwà"
+  },
+  {
     "cp": "🫍",
     "tts": "azụ ọka"
   },
@@ -15464,6 +15484,10 @@
     "tts": "akwụkwọ nri mgbọrọgwụ"
   },
   {
+    "cp": "🫝",
+    "tts": "mkpụrụakwụkwọnri"
+  },
+  {
     "cp": "🫟",
     "tts": "nfesasị"
   },
@@ -15510,6 +15534,10 @@
   {
     "cp": "🫪",
     "tts": "ihu gbagọrọ agbagọ"
+  },
+  {
+    "cp": "🫫",
+    "tts": "ihu mgbawa"
   },
   {
     "cp": "🫯",
@@ -15810,5 +15838,53 @@
   {
     "cp": "🫸🏿",
     "tts": "uzo aka nri na-kwaa aka: ọtanjele ahụ maka òji"
+  },
+  {
+    "cp": "🫹",
+    "tts": "akara mkpịsị aka akaekpe"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "akara mkpịsị aka akaekpe: ọtanjele ahụ maka ọcha"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "akara mkpịsị aka akaekpe: ọtanjele ahụ maka ọcha-ndịna etiti"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "akara mkpịsị aka akaekpe: ọtanjele ahụ ndịna etiti"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "akara mkpịsị aka akaekpe: ọtanjele ahụ maka òji-ndịna etiti"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "akara mkpịsị aka akaekpe: ọtanjele ahụ maka òji"
+  },
+  {
+    "cp": "🫺",
+    "tts": "akara mkpịsị aka nri"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "akara mkpịsị aka nri: ọtanjele ahụ maka ọcha"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "akara mkpịsị aka nri: ọtanjele ahụ maka ọcha-ndịna etiti"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "akara mkpịsị aka nri: ọtanjele ahụ ndịna etiti"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "akara mkpịsị aka nri: ọtanjele ahụ maka òji-ndịna etiti"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "akara mkpịsị aka nri: ọtanjele ahụ maka òji"
   }
 ]

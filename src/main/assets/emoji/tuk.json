@@ -141,7 +141,7 @@
   },
   {
     "cp": "₵",
-    "tts": "Gano sedisi"
+    "tts": "Gana sedisi"
   },
   {
     "cp": "₶",
@@ -401,7 +401,7 @@
   },
   {
     "cp": "⇆",
-    "tts": "saga görkezýän oklaryň üstünde çepe görkezýän ok"
+    "tts": "saga ok üstünde çepe ok"
   },
   {
     "cp": "⇇",
@@ -929,7 +929,7 @@
   },
   {
     "cp": "⌛",
-    "tts": "çägeli sagat boldy"
+    "tts": "çägeli sagat doldy"
   },
   {
     "cp": "⌨",
@@ -969,7 +969,7 @@
   },
   {
     "cp": "⏰",
-    "tts": "oýaryjy sagat"
+    "tts": "jaň sagady"
   },
   {
     "cp": "⏱",
@@ -981,7 +981,7 @@
   },
   {
     "cp": "⏳",
-    "tts": "çägeli sagat bolmady"
+    "tts": "çägeli sagat dolmady"
   },
   {
     "cp": "⏸",
@@ -1333,7 +1333,7 @@
   },
   {
     "cp": "☘",
-    "tts": "üç ýaprakly"
+    "tts": "üç ýaprakly ýorunja"
   },
   {
     "cp": "☝",
@@ -1465,7 +1465,7 @@
   },
   {
     "cp": "♣",
-    "tts": "jydak kart"
+    "tts": "haç kart"
   },
   {
     "cp": "♥",
@@ -3333,7 +3333,7 @@
   },
   {
     "cp": "🌶",
-    "tts": "ajy garaburç"
+    "tts": "ajy burç"
   },
   {
     "cp": "🌷",
@@ -3505,7 +3505,7 @@
   },
   {
     "cp": "🍟",
-    "tts": "fransuz frisi"
+    "tts": "fri ýeralma"
   },
   {
     "cp": "🍠",
@@ -3529,7 +3529,7 @@
   },
   {
     "cp": "🍥",
-    "tts": "tüweleýli balyk tort"
+    "tts": "dolanan balyk tort"
   },
   {
     "cp": "🍦",
@@ -3553,7 +3553,7 @@
   },
   {
     "cp": "🍫",
-    "tts": "şokolad plitasy"
+    "tts": "şokolad plitkasy"
   },
   {
     "cp": "🍬",
@@ -3585,7 +3585,7 @@
   },
   {
     "cp": "🍳",
-    "tts": "kulinariýa"
+    "tts": "aşpezlik"
   },
   {
     "cp": "🍴",
@@ -4649,7 +4649,7 @@
   },
   {
     "cp": "🐈‍⬛",
-    "tts": "Gara pişik"
+    "tts": "gara pişik"
   },
   {
     "cp": "🐉",
@@ -5297,11 +5297,11 @@
   },
   {
     "cp": "👤",
-    "tts": "sudury görünýän heýkel"
+    "tts": "göwreden ýokarsynyň sudury"
   },
   {
     "cp": "👥",
-    "tts": "sudury görünýän heýkeller"
+    "tts": "göwreden ýokarsynyň sudurlary"
   },
   {
     "cp": "👦",
@@ -8201,7 +8201,7 @@
   },
   {
     "cp": "👰",
-    "tts": "nykaply kişi"
+    "tts": "fataly kişi"
   },
   {
     "cp": "👰‍♀",
@@ -8213,7 +8213,7 @@
   },
   {
     "cp": "👰🏻",
-    "tts": "nykaply kişi: açyk deri reňki"
+    "tts": "fataly kişi: açyk deri reňki"
   },
   {
     "cp": "👰🏻‍♀",
@@ -8225,7 +8225,7 @@
   },
   {
     "cp": "👰🏼",
-    "tts": "nykaply kişi: orta açyk deri reňki"
+    "tts": "fataly kişi: orta açyk deri reňki"
   },
   {
     "cp": "👰🏼‍♀",
@@ -8237,7 +8237,7 @@
   },
   {
     "cp": "👰🏽",
-    "tts": "nykaply kişi: orta deri reňki"
+    "tts": "fataly kişi: orta deri reňki"
   },
   {
     "cp": "👰🏽‍♀",
@@ -8249,7 +8249,7 @@
   },
   {
     "cp": "👰🏾",
-    "tts": "nykaply kişi: orta goýy deri reňki"
+    "tts": "fataly kişi: orta goýy deri reňki"
   },
   {
     "cp": "👰🏾‍♀",
@@ -8261,7 +8261,7 @@
   },
   {
     "cp": "👰🏿",
-    "tts": "nykaply kişi: goýy deri reňki"
+    "tts": "fataly kişi: goýy deri reňki"
   },
   {
     "cp": "👰🏿‍♀",
@@ -9745,7 +9745,7 @@
   },
   {
     "cp": "🔴",
-    "tts": "gyzyl halka"
+    "tts": "gyzyl tegelek"
   },
   {
     "cp": "🔵",
@@ -10365,7 +10365,7 @@
   },
   {
     "cp": "😝",
-    "tts": "dilini çykarýan we gözüniň gytagy bilen seredýän ýüz"
+    "tts": "dilini çykaryp göz gytagy bilen seredýän ýüz"
   },
   {
     "cp": "😞",
@@ -10941,75 +10941,75 @@
   },
   {
     "cp": "🙎",
-    "tts": "gamaşyk adam"
+    "tts": "nägile adam"
   },
   {
     "cp": "🙎‍♀",
-    "tts": "gamaşyk zenan"
+    "tts": "nägile zenan"
   },
   {
     "cp": "🙎‍♂",
-    "tts": "gamaşyk erkek"
+    "tts": "nägile erkek"
   },
   {
     "cp": "🙎🏻",
-    "tts": "gamaşyk adam: açyk deri reňki"
+    "tts": "nägile adam: açyk deri reňki"
   },
   {
     "cp": "🙎🏻‍♀",
-    "tts": "gamaşyk zenan: açyk deri reňki"
+    "tts": "nägile zenan: açyk deri reňki"
   },
   {
     "cp": "🙎🏻‍♂",
-    "tts": "gamaşyk erkek: açyk deri reňki"
+    "tts": "nägile erkek: açyk deri reňki"
   },
   {
     "cp": "🙎🏼",
-    "tts": "gamaşyk adam: orta açyk deri reňki"
+    "tts": "nägile adam: orta açyk deri reňki"
   },
   {
     "cp": "🙎🏼‍♀",
-    "tts": "gamaşyk zenan: orta açyk deri reňki"
+    "tts": "nägile zenan: orta açyk deri reňki"
   },
   {
     "cp": "🙎🏼‍♂",
-    "tts": "gamaşyk erkek: orta açyk deri reňki"
+    "tts": "nägile erkek: orta açyk deri reňki"
   },
   {
     "cp": "🙎🏽",
-    "tts": "gamaşyk adam: orta deri reňki"
+    "tts": "nägile adam: orta deri reňki"
   },
   {
     "cp": "🙎🏽‍♀",
-    "tts": "gamaşyk zenan: orta deri reňki"
+    "tts": "nägile zenan: orta deri reňki"
   },
   {
     "cp": "🙎🏽‍♂",
-    "tts": "gamaşyk erkek: orta deri reňki"
+    "tts": "nägile erkek: orta deri reňki"
   },
   {
     "cp": "🙎🏾",
-    "tts": "gamaşyk adam: orta goýy deri reňki"
+    "tts": "nägile adam: orta goýy deri reňki"
   },
   {
     "cp": "🙎🏾‍♀",
-    "tts": "gamaşyk zenan: orta goýy deri reňki"
+    "tts": "nägile zenan: orta goýy deri reňki"
   },
   {
     "cp": "🙎🏾‍♂",
-    "tts": "gamaşyk erkek: orta goýy deri reňki"
+    "tts": "nägile erkek: orta goýy deri reňki"
   },
   {
     "cp": "🙎🏿",
-    "tts": "gamaşyk adam: goýy deri reňki"
+    "tts": "nägile adam: goýy deri reňki"
   },
   {
     "cp": "🙎🏿‍♀",
-    "tts": "gamaşyk zenan: goýy deri reňki"
+    "tts": "nägile zenan: goýy deri reňki"
   },
   {
     "cp": "🙎🏿‍♂",
-    "tts": "gamaşyk erkek: goýy deri reňki"
+    "tts": "nägile erkek: goýy deri reňki"
   },
   {
     "cp": "🙏",
@@ -11746,6 +11746,10 @@
   {
     "cp": "🛘",
     "tts": "ýer süýşgüni"
+  },
+  {
+    "cp": "🛙",
+    "tts": "maýak"
   },
   {
     "cp": "🛜",
@@ -13317,7 +13321,7 @@
   },
   {
     "cp": "🦔",
-    "tts": "oklukirpi"
+    "tts": "kirpi"
   },
   {
     "cp": "🦕",
@@ -13361,7 +13365,7 @@
   },
   {
     "cp": "🦟",
-    "tts": "moskito"
+    "tts": "peşe"
   },
   {
     "cp": "🦠",
@@ -13693,7 +13697,7 @@
   },
   {
     "cp": "🧁",
-    "tts": "käse tort"
+    "tts": "kapkeýk"
   },
   {
     "cp": "🧂",
@@ -13725,7 +13729,7 @@
   },
   {
     "cp": "🧉",
-    "tts": "dost"
+    "tts": "mate"
   },
   {
     "cp": "🧊",
@@ -14049,7 +14053,7 @@
   },
   {
     "cp": "🧑‍🌾",
-    "tts": "fermer"
+    "tts": "daýhan"
   },
   {
     "cp": "🧑‍🍳",
@@ -14137,11 +14141,11 @@
   },
   {
     "cp": "🧑‍🦼",
-    "tts": "motorly arabajykdaky adam"
+    "tts": "motorly maýyp arabasynda adam"
   },
   {
     "cp": "🧑‍🦼‍➡",
-    "tts": "motorly arabajykdaky adam: ýüzi saga"
+    "tts": "motorly maýyp arabasynda adam: ýüzi saga"
   },
   {
     "cp": "🧑‍🦽",
@@ -14221,7 +14225,7 @@
   },
   {
     "cp": "🧑🏻‍🌾",
-    "tts": "fermer: açyk deri reňki"
+    "tts": "daýhan: açyk deri reňki"
   },
   {
     "cp": "🧑🏻‍🍳",
@@ -14341,11 +14345,11 @@
   },
   {
     "cp": "🧑🏻‍🦼",
-    "tts": "motorly arabajykdaky adam: açyk deri reňki"
+    "tts": "motorly maýyp arabasynda adam: açyk deri reňki"
   },
   {
     "cp": "🧑🏻‍🦼‍➡",
-    "tts": "motorly arabajykdaky adam: açyk deri reňki, ýüzi saga"
+    "tts": "motorly maýyp arabasynda adam: açyk deri reňki, ýüzi saga"
   },
   {
     "cp": "🧑🏻‍🦽",
@@ -14425,7 +14429,7 @@
   },
   {
     "cp": "🧑🏼‍🌾",
-    "tts": "fermer: orta açyk deri reňki"
+    "tts": "daýhan: orta açyk deri reňki"
   },
   {
     "cp": "🧑🏼‍🍳",
@@ -14545,11 +14549,11 @@
   },
   {
     "cp": "🧑🏼‍🦼",
-    "tts": "motorly arabajykdaky adam: orta açyk deri reňki"
+    "tts": "motorly maýyp arabasynda adam: orta açyk deri reňki"
   },
   {
     "cp": "🧑🏼‍🦼‍➡",
-    "tts": "motorly arabajykdaky adam: orta açyk deri reňki, ýüzi saga"
+    "tts": "motorly maýyp arabasynda adam: orta açyk deri reňki, ýüzi saga"
   },
   {
     "cp": "🧑🏼‍🦽",
@@ -14629,7 +14633,7 @@
   },
   {
     "cp": "🧑🏽‍🌾",
-    "tts": "fermer: orta deri reňki"
+    "tts": "daýhan: orta deri reňki"
   },
   {
     "cp": "🧑🏽‍🍳",
@@ -14749,11 +14753,11 @@
   },
   {
     "cp": "🧑🏽‍🦼",
-    "tts": "motorly arabajykdaky adam: orta deri reňki"
+    "tts": "motorly maýyp arabasynda adam: orta deri reňki"
   },
   {
     "cp": "🧑🏽‍🦼‍➡",
-    "tts": "motorly arabajykdaky adam: orta deri reňki, ýüzi saga"
+    "tts": "motorly maýyp arabasynda adam: orta deri reňki, ýüzi saga"
   },
   {
     "cp": "🧑🏽‍🦽",
@@ -14833,7 +14837,7 @@
   },
   {
     "cp": "🧑🏾‍🌾",
-    "tts": "fermer: orta goýy deri reňki"
+    "tts": "daýhan: orta goýy deri reňki"
   },
   {
     "cp": "🧑🏾‍🍳",
@@ -14953,11 +14957,11 @@
   },
   {
     "cp": "🧑🏾‍🦼",
-    "tts": "motorly arabajykdaky adam: orta goýy deri reňki"
+    "tts": "motorly maýyp arabasynda adam: orta goýy deri reňki"
   },
   {
     "cp": "🧑🏾‍🦼‍➡",
-    "tts": "motorly arabajykdaky adam: orta goýy deri reňki, ýüzi saga"
+    "tts": "motorly maýyp arabasynda adam: orta goýy deri reňki, ýüzi saga"
   },
   {
     "cp": "🧑🏾‍🦽",
@@ -15037,7 +15041,7 @@
   },
   {
     "cp": "🧑🏿‍🌾",
-    "tts": "fermer: goýy deri reňki"
+    "tts": "daýhan: goýy deri reňki"
   },
   {
     "cp": "🧑🏿‍🍳",
@@ -15157,11 +15161,11 @@
   },
   {
     "cp": "🧑🏿‍🦼",
-    "tts": "motorly arabajykdaky adam: goýy deri reňki"
+    "tts": "motorly maýyp arabasynda adam: goýy deri reňki"
   },
   {
     "cp": "🧑🏿‍🦼‍➡",
-    "tts": "motorly arabajykdaky adam: goýy deri reňki, ýüzi saga"
+    "tts": "motorly maýyp arabasynda adam: goýy deri reňki, ýüzi saga"
   },
   {
     "cp": "🧑🏿‍🦽",
@@ -16160,6 +16164,18 @@
     "tts": "trombon"
   },
   {
+    "cp": "🪋",
+    "tts": "meteorit"
+  },
+  {
+    "cp": "🪌",
+    "tts": "pozguç"
+  },
+  {
+    "cp": "🪍",
+    "tts": "tor halta"
+  },
+  {
     "cp": "🪎",
     "tts": "hazyna sandygy"
   },
@@ -16452,6 +16468,10 @@
     "tts": "tüýlek jandar"
   },
   {
+    "cp": "🫌",
+    "tts": "monarh kebelegi"
+  },
+  {
     "cp": "🫍",
     "tts": "kosatka"
   },
@@ -16516,6 +16536,10 @@
     "tts": "köki miweli"
   },
   {
+    "cp": "🫝",
+    "tts": "duzlanan hyýar"
+  },
+  {
     "cp": "🫟",
     "tts": "syçratgy"
   },
@@ -16562,6 +16586,10 @@
   {
     "cp": "🫪",
     "tts": "gyşyk ýüz"
+  },
+  {
+    "cp": "🫫",
+    "tts": "jaýrylýan ýüz"
   },
   {
     "cp": "🫯",
@@ -16862,5 +16890,53 @@
   {
     "cp": "🫸🏿",
     "tts": "saga itýän el: goýy deri reňki"
+  },
+  {
+    "cp": "🫹",
+    "tts": "başam barmak çepe"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "başam barmak çepe: açyk deri reňki"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "başam barmak çepe: orta açyk deri reňki"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "başam barmak çepe: orta deri reňki"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "başam barmak çepe: orta goýy deri reňki"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "başam barmak çepe: goýy deri reňki"
+  },
+  {
+    "cp": "🫺",
+    "tts": "başam barmak saga"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "başam barmak saga: açyk deri reňki"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "başam barmak saga: orta açyk deri reňki"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "başam barmak saga: orta deri reňki"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "başam barmak saga: orta goýy deri reňki"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "başam barmak saga: goýy deri reňki"
   }
 ]

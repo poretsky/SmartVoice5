@@ -2205,7 +2205,7 @@
   },
   {
     "cp": "🇧🇳",
-    "tts": "bendera: Brunei"
+    "tts": "bendera: Brunei Darussalam"
   },
   {
     "cp": "🇧🇴",
@@ -11748,6 +11748,10 @@
     "tts": "longsor"
   },
   {
+    "cp": "🛙",
+    "tts": "mercusuar"
+  },
+  {
     "cp": "🛜",
     "tts": "nirkabel"
   },
@@ -16160,6 +16164,18 @@
     "tts": "trombon"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "penghapus"
+  },
+  {
+    "cp": "🪍",
+    "tts": "jaring dengan gagang"
+  },
+  {
     "cp": "🪎",
     "tts": "peti harta karun"
   },
@@ -16452,6 +16468,10 @@
     "tts": "makhluk berbulu"
   },
   {
+    "cp": "🫌",
+    "tts": "kupu-kupu raja"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -16516,6 +16536,10 @@
     "tts": "sayuran umbi"
   },
   {
+    "cp": "🫝",
+    "tts": "acar ketimun"
+  },
+  {
     "cp": "🫟",
     "tts": "percikan"
   },
@@ -16562,6 +16586,10 @@
   {
     "cp": "🫪",
     "tts": "wajah syok"
+  },
+  {
+    "cp": "🫫",
+    "tts": "wajah retak"
   },
   {
     "cp": "🫯",
@@ -16862,5 +16890,53 @@
   {
     "cp": "🫸🏿",
     "tts": "tangan mendorong ke kanan: warna kulit gelap"
+  },
+  {
+    "cp": "🫹",
+    "tts": "isyarat jempol ke kiri"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "isyarat jempol ke kiri: warna kulit cerah"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "isyarat jempol ke kiri: warna kulit cerah-sedang"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "isyarat jempol ke kiri: warna kulit sedang"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "isyarat jempol ke kiri: warna kulit gelap-sedang"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "isyarat jempol ke kiri: warna kulit gelap"
+  },
+  {
+    "cp": "🫺",
+    "tts": "isyarat jempol ke kanan"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "isyarat jempol ke kanan: warna kulit cerah"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "isyarat jempol ke kanan: warna kulit cerah-sedang"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "isyarat jempol ke kanan: warna kulit sedang"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "isyarat jempol ke kanan: warna kulit gelap-sedang"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "isyarat jempol ke kanan: warna kulit gelap"
   }
 ]

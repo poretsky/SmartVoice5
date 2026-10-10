@@ -4,6 +4,10 @@
     "tts": "dollar"
   },
   {
+    "cp": "¢",
+    "tts": "sent"
+  },
+  {
     "cp": "£",
     "tts": "lur"
   },
@@ -60,6 +64,22 @@
     "tts": "colón Costa Rica"
   },
   {
+    "cp": "₢",
+    "tts": "cruzeiro"
+  },
+  {
+    "cp": "₣",
+    "tts": "lur gall"
+  },
+  {
+    "cp": "₤",
+    "tts": "lira"
+  },
+  {
+    "cp": "₥",
+    "tts": "milvedenn"
+  },
+  {
     "cp": "₦",
     "tts": "naira Nigeria"
   },
@@ -92,12 +112,20 @@
     "tts": "tugrik Mongolia"
   },
   {
+    "cp": "₰",
+    "tts": "pfennig"
+  },
+  {
     "cp": "₱",
     "tts": "peso"
   },
   {
     "cp": "₲",
     "tts": "guarani Paraguay"
+  },
+  {
+    "cp": "₳",
+    "tts": "aostral"
   },
   {
     "cp": "₴",
@@ -108,12 +136,20 @@
     "tts": "cedi Ghana"
   },
   {
+    "cp": "₶",
+    "tts": "lur tournez"
+  },
+  {
+    "cp": "₷",
+    "tts": "spesmilo"
+  },
+  {
     "cp": "₸",
     "tts": "tenge Kazakstan"
   },
   {
     "cp": "₹",
-    "tts": "roupi"
+    "tts": "roupi indian"
   },
   {
     "cp": "₺",
@@ -130,6 +166,286 @@
   {
     "cp": "₾",
     "tts": "lari Jorjia"
+  },
+  {
+    "cp": "₿",
+    "tts": "bitcoin"
+  },
+  {
+    "cp": "℗",
+    "tts": "gwir-eilañ son"
+  },
+  {
+    "cp": "↜",
+    "tts": "bir gwagennek a-gleiz"
+  },
+  {
+    "cp": "↝",
+    "tts": "bir gwagennek a-zehoù"
+  },
+  {
+    "cp": "↞",
+    "tts": "bir daoubennek a-gleiz"
+  },
+  {
+    "cp": "↟",
+    "tts": "bir daoubennek dʼan necʼh"
+  },
+  {
+    "cp": "↡",
+    "tts": "bir daoubennek dʼan traoñ"
+  },
+  {
+    "cp": "↢",
+    "tts": "bir lostek a-gleiz"
+  },
+  {
+    "cp": "↤",
+    "tts": "bir lost barrennet a-gleiz"
+  },
+  {
+    "cp": "↥",
+    "tts": "bir lost barrennet dʼan necʼh"
+  },
+  {
+    "cp": "↧",
+    "tts": "bir lost barrennet dʼan traoñ"
+  },
+  {
+    "cp": "↨",
+    "tts": "bir dʼan necʼh ha dʼan traoñ gant un diaz"
+  },
+  {
+    "cp": "↫",
+    "tts": "bir a-gleiz gant ul lost rodellet"
+  },
+  {
+    "cp": "↬",
+    "tts": "bir a-zehoù gant ul lost rodellet"
+  },
+  {
+    "cp": "↭",
+    "tts": "bir gwagennek a-gleiz hag a-zehoù"
+  },
+  {
+    "cp": "↯",
+    "tts": "bir kammigellek dʼan traoñ"
+  },
+  {
+    "cp": "↰",
+    "tts": "bir dʼan necʼh stouet a-gleiz"
+  },
+  {
+    "cp": "↱",
+    "tts": "bir dʼan necʼh stouet a-zehoù"
+  },
+  {
+    "cp": "↲",
+    "tts": "bir dʼan traoñ stouet a-gleiz"
+  },
+  {
+    "cp": "↳",
+    "tts": "bir dʼan traoñ stouet a-zehoù"
+  },
+  {
+    "cp": "↴",
+    "tts": "bir a-zehoù pleget dʼan traoñ"
+  },
+  {
+    "cp": "↵",
+    "tts": "bir dʼan traoñ pleget a-gleiz"
+  },
+  {
+    "cp": "↶",
+    "tts": "bir hantergelcʼhiet a-enep red an eur"
+  },
+  {
+    "cp": "↷",
+    "tts": "bir hantergelcʼhiet gant red an eur"
+  },
+  {
+    "cp": "↸",
+    "tts": "bir gwalarn harzet"
+  },
+  {
+    "cp": "↹",
+    "tts": "biroù a-zehoù hag a-gleiz harzet"
+  },
+  {
+    "cp": "↺",
+    "tts": "bir kelcʼhiek a-enep red an eur"
+  },
+  {
+    "cp": "↻",
+    "tts": "bir kelcʼhiek gant red an eur"
+  },
+  {
+    "cp": "↼",
+    "tts": "treant a-gleiz krogek dʼan necʼh"
+  },
+  {
+    "cp": "↽",
+    "tts": "treant a-gleiz krogek dʼan traoñ"
+  },
+  {
+    "cp": "↾",
+    "tts": "treant dʼan necʼh krogek a-zehoù"
+  },
+  {
+    "cp": "↿",
+    "tts": "treant dʼan necʼh krogek a-gleiz"
+  },
+  {
+    "cp": "⇀",
+    "tts": "treant a-zehoù krogek dʼan necʼh"
+  },
+  {
+    "cp": "⇁",
+    "tts": "treant a-zehoù krogek dʼan traoñ"
+  },
+  {
+    "cp": "⇂",
+    "tts": "treant dʼan traoñ krogek a-zehoù"
+  },
+  {
+    "cp": "⇃",
+    "tts": "treant dʼan traoñ krogek a-gleiz"
+  },
+  {
+    "cp": "⇄",
+    "tts": "bir a-gleiz war bir a-zehoù"
+  },
+  {
+    "cp": "⇅",
+    "tts": "bir dʼan necʼh ha bir dʼan traoñ"
+  },
+  {
+    "cp": "⇆",
+    "tts": "bir a vuk a-gleiz war bir a vuk a-zehoù"
+  },
+  {
+    "cp": "⇇",
+    "tts": "daouad biroù a-gleiz"
+  },
+  {
+    "cp": "⇈",
+    "tts": "daouad biroù dʼan necʼh"
+  },
+  {
+    "cp": "⇉",
+    "tts": "daouad biroù a-zehoù"
+  },
+  {
+    "cp": "⇊",
+    "tts": "daouad biroù dʼan traoñ"
+  },
+  {
+    "cp": "⇋",
+    "tts": "treant a-gleiz war treant a-zehoù"
+  },
+  {
+    "cp": "⇌",
+    "tts": "treant a-zehoù war treant a-gleiz"
+  },
+  {
+    "cp": "⇍",
+    "tts": "bir doubl barrennet a-gleiz"
+  },
+  {
+    "cp": "⇐",
+    "tts": "bir doubl a-gleiz"
+  },
+  {
+    "cp": "⇑",
+    "tts": "bir doubl dʼan necʼh"
+  },
+  {
+    "cp": "⇓",
+    "tts": "bir doubl dʼan traoñ"
+  },
+  {
+    "cp": "⇖",
+    "tts": "bir doubl gwalarn"
+  },
+  {
+    "cp": "⇗",
+    "tts": "bir doubl biz"
+  },
+  {
+    "cp": "⇘",
+    "tts": "bir doubl gevred"
+  },
+  {
+    "cp": "⇙",
+    "tts": "bir doubl mervent"
+  },
+  {
+    "cp": "⇚",
+    "tts": "bir tripl a-gleiz"
+  },
+  {
+    "cp": "⇛",
+    "tts": "bir tripl a-zehoù"
+  },
+  {
+    "cp": "⇜",
+    "tts": "bir gwinterell a-gleiz"
+  },
+  {
+    "cp": "⇝",
+    "tts": "bir gwinterell a-zehoù"
+  },
+  {
+    "cp": "⇞",
+    "tts": "bir dʼan necʼh barrennet doubl"
+  },
+  {
+    "cp": "⇟",
+    "tts": "bir dʼan traoñ barrennet doubl"
+  },
+  {
+    "cp": "⇠",
+    "tts": "bir poentiget a-gleiz"
+  },
+  {
+    "cp": "⇡",
+    "tts": "bir poentiget dʼan necʼh"
+  },
+  {
+    "cp": "⇢",
+    "tts": "bir poentiget a-zehoù"
+  },
+  {
+    "cp": "⇣",
+    "tts": "bir poentiget dʼan traoñ"
+  },
+  {
+    "cp": "⇤",
+    "tts": "bir a-gleiz harzet"
+  },
+  {
+    "cp": "⇥",
+    "tts": "bir a-zehoù harzet"
+  },
+  {
+    "cp": "⇦",
+    "tts": "bir kleuz a-gleiz"
+  },
+  {
+    "cp": "⇧",
+    "tts": "bir kleuz dʼan necʼh"
+  },
+  {
+    "cp": "⇨",
+    "tts": "bir kleuz a-zehoù"
+  },
+  {
+    "cp": "⇩",
+    "tts": "bir kleuz dʼan traoñ"
+  },
+  {
+    "cp": "⇪",
+    "tts": "bir kleuz gant ul lost barrennet dʼan necʼh"
   },
   {
     "cp": "∇",
@@ -161,11 +477,51 @@
   },
   {
     "cp": "⏱",
-    "tts": "kronometr"
+    "tts": "padventer"
   },
   {
     "cp": "⏲",
     "tts": "horolaj"
+  },
+  {
+    "cp": "■",
+    "tts": "karrez leun"
+  },
+  {
+    "cp": "□",
+    "tts": "karrez kleuz"
+  },
+  {
+    "cp": "▢",
+    "tts": "karrez kleuz gant kornioù rontaet"
+  },
+  {
+    "cp": "▣",
+    "tts": "karrez leun en ur cʼharrez kleuz"
+  },
+  {
+    "cp": "▤",
+    "tts": "karrez ennañ linennoù a-led"
+  },
+  {
+    "cp": "▥",
+    "tts": "karrez ennañ linennoù a-hed"
+  },
+  {
+    "cp": "▦",
+    "tts": "karrez karrezennet"
+  },
+  {
+    "cp": "▧",
+    "tts": "karrez ennañ linennoù a-gilveskell"
+  },
+  {
+    "cp": "▨",
+    "tts": "karrez ennañ linennoù a-veskell"
+  },
+  {
+    "cp": "▩",
+    "tts": "karrez karrezennet a-veskell"
   },
   {
     "cp": "▪",
@@ -176,8 +532,104 @@
     "tts": "karrez bihan gwenn"
   },
   {
+    "cp": "▬",
+    "tts": "skouergorneg leun"
+  },
+  {
+    "cp": "▭",
+    "tts": "skouergorneg kleuz"
+  },
+  {
+    "cp": "▮",
+    "tts": "skouergorneg leun a-hed"
+  },
+  {
+    "cp": "▰",
+    "tts": "parallelogramm leun"
+  },
+  {
+    "cp": "▲",
+    "tts": "tricʼhorn leun a vuk dʼan necʼh"
+  },
+  {
+    "cp": "△",
+    "tts": "tricʼhorn kleuz o vukañ dʼan necʼh"
+  },
+  {
+    "cp": "▴",
+    "tts": "tricʼhornig leun o vukañ dʼan necʼh"
+  },
+  {
+    "cp": "▵",
+    "tts": "tricʼhornig kleuz o vukañ dʼan necʼh"
+  },
+  {
     "cp": "▶",
     "tts": "bouton lenn"
+  },
+  {
+    "cp": "▸",
+    "tts": "tricʼhornig leun o vukañ a-zehoù"
+  },
+  {
+    "cp": "▹",
+    "tts": "tricʼhornig kleuz o vukañ a-zehoù"
+  },
+  {
+    "cp": "►",
+    "tts": "poenter leun o vukañ a-zehoù"
+  },
+  {
+    "cp": "▻",
+    "tts": "poenter kleuz o vukañ a-zehoù"
+  },
+  {
+    "cp": "▼",
+    "tts": "tricʼhorn leun a vuk dʼan traoñ"
+  },
+  {
+    "cp": "▽",
+    "tts": "tricʼhorn kleuz o vukañ dʼan traoñ"
+  },
+  {
+    "cp": "▾",
+    "tts": "tricʼhornig leun o vukañ dʼan traoñ"
+  },
+  {
+    "cp": "▿",
+    "tts": "tricʼhornig kleuz o vukañ dʼan traoñ"
+  },
+  {
+    "cp": "◂",
+    "tts": "tricʼhornig leun o vukañ a-gleiz"
+  },
+  {
+    "cp": "◃",
+    "tts": "tricʼhornig kleuz o vukañ a-gleiz"
+  },
+  {
+    "cp": "◄",
+    "tts": "poenter leun o vukañ a-gleiz"
+  },
+  {
+    "cp": "◅",
+    "tts": "poenter kleuz o vukañ a-gleiz"
+  },
+  {
+    "cp": "◆",
+    "tts": "diamant leun"
+  },
+  {
+    "cp": "◇",
+    "tts": "diamant kleuz"
+  },
+  {
+    "cp": "◈",
+    "tts": "diamant leun en un diamant kleuz"
+  },
+  {
+    "cp": "◉",
+    "tts": "kelcʼh leun en ur cʼhelcʼh kleuz"
   },
   {
     "cp": "◊",
@@ -188,12 +640,116 @@
     "tts": "kelcʼh goullo"
   },
   {
+    "cp": "◌",
+    "tts": "kelcʼh poentiget"
+  },
+  {
+    "cp": "◍",
+    "tts": "kelcʼh ennañ linennoù a-hed"
+  },
+  {
+    "cp": "◎",
+    "tts": "kelcʼhioù kengreiz"
+  },
+  {
     "cp": "●",
     "tts": "kelcʼh leun"
   },
   {
+    "cp": "◐",
+    "tts": "kelcʼh hanterenn gleiz leun"
+  },
+  {
+    "cp": "◑",
+    "tts": "kelcʼh hanterenn zehoù leun"
+  },
+  {
+    "cp": "◒",
+    "tts": "kelcʼh hanterenn draoñ leun"
+  },
+  {
+    "cp": "◓",
+    "tts": "kelcʼh hanterenn necʼh leun"
+  },
+  {
+    "cp": "◔",
+    "tts": "kelcʼh gant kwadrant biz leun"
+  },
+  {
+    "cp": "◕",
+    "tts": "kelcʼh leun nemet ar cʼhwadrant gwalarn"
+  },
+  {
+    "cp": "◖",
+    "tts": "hantergelcʼh kleiz leun"
+  },
+  {
+    "cp": "◗",
+    "tts": "hantergelcʼh dehoù leun"
+  },
+  {
+    "cp": "◘",
+    "tts": "kelcʼhig en ur cʼharrez du"
+  },
+  {
+    "cp": "◙",
+    "tts": "kelcʼh kleuz en ur cʼharrez leun"
+  },
+  {
+    "cp": "◜",
+    "tts": "gwareg kelcʼh kwadrant gwalarn"
+  },
+  {
+    "cp": "◝",
+    "tts": "gwareg kelcʼh kwadrant biz"
+  },
+  {
+    "cp": "◞",
+    "tts": "gwareg kelcʼh kwadrant gevred"
+  },
+  {
+    "cp": "◟",
+    "tts": "gwareg kelcʼh kwadrant mervent"
+  },
+  {
+    "cp": "◠",
+    "tts": "hantergelcʼh laez"
+  },
+  {
+    "cp": "◡",
+    "tts": "hantergelcʼh traoñ"
+  },
+  {
+    "cp": "◢",
+    "tts": "tricʼhorn leun skouer er cʼhorn traoñ dehoù"
+  },
+  {
+    "cp": "◣",
+    "tts": "tricʼhorn leun skouer er cʼhorn traoñ kleiz"
+  },
+  {
+    "cp": "◤",
+    "tts": "tricʼhorn leun skouer er cʼhorn laez dehoù"
+  },
+  {
+    "cp": "◥",
+    "tts": "tricʼhorn leun skouer er cʼhorn laez kleiz"
+  },
+  {
+    "cp": "◦",
+    "tts": "padellig kleuz"
+  },
+  {
     "cp": "◯",
     "tts": "kelcʼh ledan goullo"
+  },
+  {
+    "cp": "◳",
+    "tts": "karrez kleuz gant kwadrant biz"
+  },
+  {
+    "cp": "◷",
+    "tts": "kelcʼh kleuz gant kwadrant biz"
   },
   {
     "cp": "◻",
@@ -244,6 +800,18 @@
     "tts": "melchon"
   },
   {
+    "cp": "☝",
+    "tts": "biz-yod o vukañ dʼan necʼh"
+  },
+  {
+    "cp": "☝🏿",
+    "tts": "biz-yod o vukañ dʼan necʼh : krocʼhen teñval"
+  },
+  {
+    "cp": "☠",
+    "tts": "klopenn hag eskern kroaziet"
+  },
+  {
     "cp": "☢",
     "tts": "skinoberiek"
   },
@@ -270,6 +838,14 @@
   {
     "cp": "☸",
     "tts": "rod an dharma"
+  },
+  {
+    "cp": "☹",
+    "tts": "dremm displijet"
+  },
+  {
+    "cp": "☺",
+    "tts": "dremm vouscʼhoarzhus"
   },
   {
     "cp": "♀",
@@ -350,6 +926,14 @@
   {
     "cp": "♨",
     "tts": "andon tomm"
+  },
+  {
+    "cp": "♪",
+    "tts": "krogell"
+  },
+  {
+    "cp": "♭",
+    "tts": "boucʼhell"
   },
   {
     "cp": "♻",
@@ -520,6 +1104,38 @@
     "tts": "golo-lizher"
   },
   {
+    "cp": "✊",
+    "tts": "meilh-dorn savet"
+  },
+  {
+    "cp": "✊🏿",
+    "tts": "meilh-dorn savet : krocʼhen teñval"
+  },
+  {
+    "cp": "✋",
+    "tts": "dorn savet"
+  },
+  {
+    "cp": "✋🏿",
+    "tts": "dorn savet : krocʼhen teñval"
+  },
+  {
+    "cp": "✌",
+    "tts": "dorn trecʼh"
+  },
+  {
+    "cp": "✌🏿",
+    "tts": "dorn trecʼh : krocʼhen teñval"
+  },
+  {
+    "cp": "✍",
+    "tts": "dorn o skrivañ"
+  },
+  {
+    "cp": "✍🏿",
+    "tts": "dorn o skrivañ : krocʼhen teñval"
+  },
+  {
     "cp": "✏",
     "tts": "kreion"
   },
@@ -588,8 +1204,20 @@
     "tts": "pik-estlamm ruz"
   },
   {
+    "cp": "❣",
+    "tts": "kalon pik-estlamm"
+  },
+  {
     "cp": "❤",
     "tts": "kalon ruz"
+  },
+  {
+    "cp": "❤‍🔥",
+    "tts": "kalon tanet"
+  },
+  {
+    "cp": "❤‍🩹",
+    "tts": "kalon mouchet"
   },
   {
     "cp": "➕",
@@ -2452,6 +3080,54 @@
     "tts": "banniel karrezek"
   },
   {
+    "cp": "🏃",
+    "tts": "den o redek"
+  },
+  {
+    "cp": "🏃‍♀",
+    "tts": "placʼh o redek"
+  },
+  {
+    "cp": "🏃‍♀‍➡",
+    "tts": "placʼh o redek : tu dehoù"
+  },
+  {
+    "cp": "🏃‍♂",
+    "tts": "paotr o redek"
+  },
+  {
+    "cp": "🏃‍♂‍➡",
+    "tts": "paotr o redek : tu dehoù"
+  },
+  {
+    "cp": "🏃‍➡",
+    "tts": "den o redek : tu dehoù"
+  },
+  {
+    "cp": "🏃🏿",
+    "tts": "den o redek : krocʼhen teñval"
+  },
+  {
+    "cp": "🏃🏿‍♀",
+    "tts": "placʼh o redek : krocʼhen teñval"
+  },
+  {
+    "cp": "🏃🏿‍♀‍➡",
+    "tts": "placʼh o redek : krocʼhen teñval, tu dehoù"
+  },
+  {
+    "cp": "🏃🏿‍♂",
+    "tts": "paotr o redek : krocʼhen teñval"
+  },
+  {
+    "cp": "🏃🏿‍♂‍➡",
+    "tts": "paotr o redek : krocʼhen teñval, tu dehoù"
+  },
+  {
+    "cp": "🏃🏿‍➡",
+    "tts": "den o redek : krocʼhen teñval, tu dehoù"
+  },
+  {
     "cp": "🏅",
     "tts": "medalenn sport"
   },
@@ -2924,6 +3600,10 @@
     "tts": "lagad"
   },
   {
+    "cp": "👁‍🗨",
+    "tts": "lagad en ul lagadenn"
+  },
+  {
     "cp": "👂",
     "tts": "skouarn"
   },
@@ -2940,8 +3620,100 @@
     "tts": "fri : krocʼhen teñval"
   },
   {
+    "cp": "👄",
+    "tts": "genoù"
+  },
+  {
     "cp": "👅",
     "tts": "teod"
+  },
+  {
+    "cp": "👆",
+    "tts": "dorn gant biz o vukañ dʼan necʼh"
+  },
+  {
+    "cp": "👆🏿",
+    "tts": "dorn gant biz o vukañ dʼan necʼh : krocʼhen teñval"
+  },
+  {
+    "cp": "👇",
+    "tts": "dorn gant biz o vukañ dʼan traoñ"
+  },
+  {
+    "cp": "👇🏿",
+    "tts": "dorn gant biz o vukañ dʼan traoñ : krocʼhen teñval"
+  },
+  {
+    "cp": "👈",
+    "tts": "dorn gant biz o vukañ a-gleiz"
+  },
+  {
+    "cp": "👈🏿",
+    "tts": "dorn gant biz o vukañ a-gleiz : krocʼhen teñval"
+  },
+  {
+    "cp": "👉",
+    "tts": "dorn gant biz o vukañ a-zehoù"
+  },
+  {
+    "cp": "👉🏿",
+    "tts": "dorn gant biz o vukañ a-zehoù : krocʼhen teñval"
+  },
+  {
+    "cp": "👊",
+    "tts": "meilh-dorn a-dal"
+  },
+  {
+    "cp": "👊🏿",
+    "tts": "meilh-dorn a-dal : krocʼhen teñval"
+  },
+  {
+    "cp": "👋",
+    "tts": "dorn o hejañ"
+  },
+  {
+    "cp": "👋🏿",
+    "tts": "dorn o hejañ : krocʼhen teñval"
+  },
+  {
+    "cp": "👌",
+    "tts": "dorn OK"
+  },
+  {
+    "cp": "👌🏿",
+    "tts": "dorn OK : krocʼhen teñval"
+  },
+  {
+    "cp": "👍",
+    "tts": "biz-meud dʼan necʼh"
+  },
+  {
+    "cp": "👍🏿",
+    "tts": "biz-meud dʼan necʼh : krocʼhen teñval"
+  },
+  {
+    "cp": "👎",
+    "tts": "biz-meud dʼan traoñ"
+  },
+  {
+    "cp": "👎🏿",
+    "tts": "biz-meud dʼan traoñ : krocʼhen teñval"
+  },
+  {
+    "cp": "👏",
+    "tts": "daouarn o strakal"
+  },
+  {
+    "cp": "👏🏿",
+    "tts": "daouarn o strakal : krocʼhen teñval"
+  },
+  {
+    "cp": "👐",
+    "tts": "daouarn digor"
+  },
+  {
+    "cp": "👐🏿",
+    "tts": "daouarn digor : krocʼhen teñval"
   },
   {
     "cp": "👑",
@@ -3020,24 +3792,40 @@
     "tts": "gwaz"
   },
   {
+    "cp": "👨‍⚕",
+    "tts": "paotr a vicher ar yecʼhed"
+  },
+  {
     "cp": "👨‍⚖",
-    "tts": "barner"
+    "tts": "barner (paotr)"
   },
   {
     "cp": "👨‍✈",
-    "tts": "levier"
+    "tts": "levier (paotr)"
+  },
+  {
+    "cp": "👨‍❤‍👨",
+    "tts": "koublad ha kalon : gwaz, gwaz"
+  },
+  {
+    "cp": "👨‍❤‍💋‍👨",
+    "tts": "pok : gwaz, gwaz"
   },
   {
     "cp": "👨‍🌾",
-    "tts": "labourer-douar"
+    "tts": "labourer-douar (paotr)"
   },
   {
     "cp": "👨‍🍳",
-    "tts": "keginer"
+    "tts": "keginer (paotr)"
+  },
+  {
+    "cp": "👨‍🍼",
+    "tts": "paotr o vagañ ur babig"
   },
   {
     "cp": "👨‍🎓",
-    "tts": "studier"
+    "tts": "studier (paotr)"
   },
   {
     "cp": "👨‍🎤",
@@ -3045,15 +3833,15 @@
   },
   {
     "cp": "👨‍🎨",
-    "tts": "arzour"
+    "tts": "arzour (paotr)"
   },
   {
     "cp": "👨‍🏫",
-    "tts": "kelenner"
+    "tts": "kelenner (paotr)"
   },
   {
     "cp": "👨‍🏭",
-    "tts": "micherour"
+    "tts": "micherour (paotr)"
   },
   {
     "cp": "👨‍👦",
@@ -3117,23 +3905,35 @@
   },
   {
     "cp": "👨‍💻",
-    "tts": "stlennegour"
+    "tts": "stlennegour (paotr)"
   },
   {
     "cp": "👨‍💼",
     "tts": "implijad"
   },
   {
+    "cp": "👨‍🔧",
+    "tts": "mekaniker (paotr)"
+  },
+  {
     "cp": "👨‍🔬",
-    "tts": "skiantour"
+    "tts": "skiantour (paotr)"
   },
   {
     "cp": "👨‍🚀",
-    "tts": "astraer"
+    "tts": "astraer (paotr)"
   },
   {
     "cp": "👨‍🚒",
-    "tts": "pomper"
+    "tts": "pomper (paotr)"
+  },
+  {
+    "cp": "👨‍🦯",
+    "tts": "paotr gant ur vazh wenn"
+  },
+  {
+    "cp": "👨‍🦯‍➡",
+    "tts": "paotr gant ur vazh wenn : tu dehoù"
   },
   {
     "cp": "👨‍🦰",
@@ -3152,28 +3952,60 @@
     "tts": "gwaz : blev gwenn"
   },
   {
+    "cp": "👨‍🦼",
+    "tts": "paotr en ur gador-ruilh dredan"
+  },
+  {
+    "cp": "👨‍🦼‍➡",
+    "tts": "paotr en ur gador-ruilh dredan : tu dehoù"
+  },
+  {
+    "cp": "👨‍🦽",
+    "tts": "paotr en ur gador-ruilh dre zorn"
+  },
+  {
+    "cp": "👨‍🦽‍➡",
+    "tts": "paotr en ur gador-ruilh dre zorn : tu dehoù"
+  },
+  {
     "cp": "👨🏿",
     "tts": "gwaz : krocʼhen teñval"
   },
   {
+    "cp": "👨🏿‍⚕",
+    "tts": "paotr a vicher ar yecʼhed : krocʼhen teñval"
+  },
+  {
     "cp": "👨🏿‍⚖",
-    "tts": "barner : krocʼhen teñval"
+    "tts": "barner (paotr) : krocʼhen teñval"
   },
   {
     "cp": "👨🏿‍✈",
-    "tts": "levier : krocʼhen teñval"
+    "tts": "levier (paotr) : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍❤‍👨🏿",
+    "tts": "koublad ha kalon : gwaz, gwaz, krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍❤‍💋‍👨🏿",
+    "tts": "pok : gwaz, gwaz, krocʼhen teñval"
   },
   {
     "cp": "👨🏿‍🌾",
-    "tts": "labourer-douar : krocʼhen teñval"
+    "tts": "labourer-douar (paotr) : krocʼhen teñval"
   },
   {
     "cp": "👨🏿‍🍳",
-    "tts": "keginer : krocʼhen teñval"
+    "tts": "keginer (paotr) : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🍼",
+    "tts": "paotr o vagañ ur babig : krocʼhen teñval"
   },
   {
     "cp": "👨🏿‍🎓",
-    "tts": "studier : krocʼhen teñval"
+    "tts": "studier (paotr) : krocʼhen teñval"
   },
   {
     "cp": "👨🏿‍🎤",
@@ -3181,35 +4013,47 @@
   },
   {
     "cp": "👨🏿‍🎨",
-    "tts": "arzour : krocʼhen teñval"
+    "tts": "arzour (paotr) : krocʼhen teñval"
   },
   {
     "cp": "👨🏿‍🏫",
-    "tts": "kelenner : krocʼhen teñval"
+    "tts": "kelenner (paotr) : krocʼhen teñval"
   },
   {
     "cp": "👨🏿‍🏭",
-    "tts": "micherour : krocʼhen teñval"
+    "tts": "micherour (paotr) : krocʼhen teñval"
   },
   {
     "cp": "👨🏿‍💻",
-    "tts": "stlennegour : krocʼhen teñval"
+    "tts": "stlennegour (paotr) : krocʼhen teñval"
   },
   {
     "cp": "👨🏿‍💼",
     "tts": "implijad : krocʼhen teñval"
   },
   {
+    "cp": "👨🏿‍🔧",
+    "tts": "mekaniker (paotr) : krocʼhen teñval"
+  },
+  {
     "cp": "👨🏿‍🔬",
-    "tts": "skiantour : krocʼhen teñval"
+    "tts": "skiantour (paotr) : krocʼhen teñval"
   },
   {
     "cp": "👨🏿‍🚀",
-    "tts": "astraer : krocʼhen teñval"
+    "tts": "astraer (paotr) : krocʼhen teñval"
   },
   {
     "cp": "👨🏿‍🚒",
-    "tts": "pomper : krocʼhen teñval"
+    "tts": "pomper (paotr) : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🦯",
+    "tts": "paotr gant ur vazh wenn : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🦯‍➡",
+    "tts": "paotr gant ur vazh wenn : krocʼhen teñval, tu dehoù"
   },
   {
     "cp": "👨🏿‍🦰",
@@ -3228,8 +4072,28 @@
     "tts": "gwaz : krocʼhen teñval, blev gwenn"
   },
   {
+    "cp": "👨🏿‍🦼",
+    "tts": "paotr en ur gador-ruilh dredan : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🦼‍➡",
+    "tts": "paotr en ur gador-ruilh dredan : krocʼhen teñval, tu dehoù"
+  },
+  {
+    "cp": "👨🏿‍🦽",
+    "tts": "paotr en ur gador-ruilh dre zorn : krocʼhen teñval"
+  },
+  {
+    "cp": "👨🏿‍🦽‍➡",
+    "tts": "paotr en ur gador-ruilh dre zorn : krocʼhen teñval, tu dehoù"
+  },
+  {
     "cp": "👩",
     "tts": "maouez"
+  },
+  {
+    "cp": "👩‍⚕",
+    "tts": "placʼh a vicher ar yecʼhed"
   },
   {
     "cp": "👩‍⚖",
@@ -3240,12 +4104,32 @@
     "tts": "levierez"
   },
   {
+    "cp": "👩‍❤‍👨",
+    "tts": "koublad ha kalon : maouez, gwaz"
+  },
+  {
+    "cp": "👩‍❤‍👩",
+    "tts": "koublad ha kalon : maouez, maouez"
+  },
+  {
+    "cp": "👩‍❤‍💋‍👨",
+    "tts": "pok : maouez, gwaz"
+  },
+  {
+    "cp": "👩‍❤‍💋‍👩",
+    "tts": "pok : maouez, maouez"
+  },
+  {
     "cp": "👩‍🌾",
     "tts": "labourerez-douar"
   },
   {
     "cp": "👩‍🍳",
     "tts": "keginerez"
+  },
+  {
+    "cp": "👩‍🍼",
+    "tts": "placʼh o vagañ ur babig"
   },
   {
     "cp": "👩‍🎓",
@@ -3316,6 +4200,10 @@
     "tts": "implijadez"
   },
   {
+    "cp": "👩‍🔧",
+    "tts": "mekanikerez"
+  },
+  {
     "cp": "👩‍🔬",
     "tts": "skiantourez"
   },
@@ -3326,6 +4214,14 @@
   {
     "cp": "👩‍🚒",
     "tts": "pomperez"
+  },
+  {
+    "cp": "👩‍🦯",
+    "tts": "placʼh gant ur vazh wenn"
+  },
+  {
+    "cp": "👩‍🦯‍➡",
+    "tts": "placʼh gant ur vazh wenn : tu dehoù"
   },
   {
     "cp": "👩‍🦰",
@@ -3344,8 +4240,28 @@
     "tts": "maouez : blev gwenn"
   },
   {
+    "cp": "👩‍🦼",
+    "tts": "placʼh en ur gador-ruilh dredan"
+  },
+  {
+    "cp": "👩‍🦼‍➡",
+    "tts": "placʼh en ur gador-ruilh dredan : tu dehoù"
+  },
+  {
+    "cp": "👩‍🦽",
+    "tts": "placʼh en ur gador-ruilh dre zorn"
+  },
+  {
+    "cp": "👩‍🦽‍➡",
+    "tts": "placʼh en ur gador-ruilh dre zorn : tu dehoù"
+  },
+  {
     "cp": "👩🏿",
     "tts": "maouez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍⚕",
+    "tts": "placʼh a vicher ar yecʼhed : krocʼhen teñval"
   },
   {
     "cp": "👩🏿‍⚖",
@@ -3356,12 +4272,32 @@
     "tts": "levierez : krocʼhen teñval"
   },
   {
+    "cp": "👩🏿‍❤‍👨🏿",
+    "tts": "koublad ha kalon : maouez, gwaz, krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍❤‍👩🏿",
+    "tts": "koublad ha kalon : maouez, maouez, krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍❤‍💋‍👨🏿",
+    "tts": "pok : maouez, gwaz, krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍❤‍💋‍👩🏿",
+    "tts": "pok : maouez, maouez, krocʼhen teñval"
+  },
+  {
     "cp": "👩🏿‍🌾",
     "tts": "labourerez-douar : krocʼhen teñval"
   },
   {
     "cp": "👩🏿‍🍳",
     "tts": "keginerez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🍼",
+    "tts": "placʼh o vagañ ur babig : krocʼhen teñval"
   },
   {
     "cp": "👩🏿‍🎓",
@@ -3392,6 +4328,10 @@
     "tts": "implijadez : krocʼhen teñval"
   },
   {
+    "cp": "👩🏿‍🔧",
+    "tts": "mekanikerez : krocʼhen teñval"
+  },
+  {
     "cp": "👩🏿‍🔬",
     "tts": "skiantourez : krocʼhen teñval"
   },
@@ -3402,6 +4342,14 @@
   {
     "cp": "👩🏿‍🚒",
     "tts": "pomperez : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🦯",
+    "tts": "placʼh gant ur vazh wenn : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🦯‍➡",
+    "tts": "placʼh gant ur vazh wenn : krocʼhen teñval, tu dehoù"
   },
   {
     "cp": "👩🏿‍🦰",
@@ -3420,12 +4368,52 @@
     "tts": "maouez : krocʼhen teñval, blev gwenn"
   },
   {
+    "cp": "👩🏿‍🦼",
+    "tts": "placʼh en ur gador-ruilh dredan : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🦼‍➡",
+    "tts": "placʼh en ur gador-ruilh dredan : krocʼhen teñval, tu dehoù"
+  },
+  {
+    "cp": "👩🏿‍🦽",
+    "tts": "placʼh en ur gador-ruilh dre zorn : krocʼhen teñval"
+  },
+  {
+    "cp": "👩🏿‍🦽‍➡",
+    "tts": "placʼh en ur gador-ruilh dre zorn : krocʼhen teñval, tu dehoù"
+  },
+  {
     "cp": "👪",
     "tts": "familh"
   },
   {
+    "cp": "👫",
+    "tts": "placʼh ha paotr dorn-ha-dorn"
+  },
+  {
+    "cp": "👫🏿",
+    "tts": "placʼh ha paotr dorn-ha-dorn : krocʼhen teñval"
+  },
+  {
+    "cp": "👬",
+    "tts": "paotred dorn-ha-dorn"
+  },
+  {
+    "cp": "👬🏿",
+    "tts": "paotred dorn-ha-dorn : krocʼhen teñval"
+  },
+  {
+    "cp": "👭",
+    "tts": "mercʼhed dorn-ha-dorn"
+  },
+  {
+    "cp": "👭🏿",
+    "tts": "mercʼhed dorn-ha-dorn : krocʼhen teñval"
+  },
+  {
     "cp": "👮",
-    "tts": "polis"
+    "tts": "poliser"
   },
   {
     "cp": "👮‍♀",
@@ -3433,11 +4421,11 @@
   },
   {
     "cp": "👮‍♂",
-    "tts": "poliser"
+    "tts": "poliser (paotr)"
   },
   {
     "cp": "👮🏿",
-    "tts": "polis : krocʼhen teñval"
+    "tts": "poliser : krocʼhen teñval"
   },
   {
     "cp": "👮🏿‍♀",
@@ -3445,7 +4433,31 @@
   },
   {
     "cp": "👮🏿‍♂",
-    "tts": "poliser : krocʼhen teñval"
+    "tts": "poliser (paotr) : krocʼhen teñval"
+  },
+  {
+    "cp": "👰",
+    "tts": "den gant ur ouel"
+  },
+  {
+    "cp": "👰‍♀",
+    "tts": "placʼh gant ur ouel"
+  },
+  {
+    "cp": "👰‍♂",
+    "tts": "paotr gant ur ouel"
+  },
+  {
+    "cp": "👰🏿",
+    "tts": "den gant ur ouel : krocʼhen teñval"
+  },
+  {
+    "cp": "👰🏿‍♀",
+    "tts": "placʼh gant ur ouel : krocʼhen teñval"
+  },
+  {
+    "cp": "👰🏿‍♂",
+    "tts": "paotr gant ur ouel : krocʼhen teñval"
   },
   {
     "cp": "👱",
@@ -3472,6 +4484,38 @@
     "tts": "melegan : krocʼhen teñval"
   },
   {
+    "cp": "👲",
+    "tts": "den gant ur galotenn"
+  },
+  {
+    "cp": "👲🏿",
+    "tts": "den gant ur galotenn : krocʼhen teñval"
+  },
+  {
+    "cp": "👳",
+    "tts": "den gant un tulban"
+  },
+  {
+    "cp": "👳‍♀",
+    "tts": "placʼh gant un tulban"
+  },
+  {
+    "cp": "👳‍♂",
+    "tts": "paotr gant un tulban"
+  },
+  {
+    "cp": "👳🏿",
+    "tts": "den gant un tulban : krocʼhen teñval"
+  },
+  {
+    "cp": "👳🏿‍♀",
+    "tts": "placʼh gant un tulban : krocʼhen teñval"
+  },
+  {
+    "cp": "👳🏿‍♂",
+    "tts": "paotr gant un tulban : krocʼhen teñval"
+  },
+  {
     "cp": "👴",
     "tts": "gwaz kozh"
   },
@@ -3494,6 +4538,30 @@
   {
     "cp": "👶🏿",
     "tts": "babig : krocʼhen teñval"
+  },
+  {
+    "cp": "👷",
+    "tts": "savour"
+  },
+  {
+    "cp": "👷‍♀",
+    "tts": "savourez"
+  },
+  {
+    "cp": "👷‍♂",
+    "tts": "savour (paotr)"
+  },
+  {
+    "cp": "👷🏿",
+    "tts": "savour : krocʼhen teñval"
+  },
+  {
+    "cp": "👷🏿‍♀",
+    "tts": "savourez : krocʼhen teñval"
+  },
+  {
+    "cp": "👷🏿‍♂",
+    "tts": "savour (paotr) : krocʼhen teñval"
   },
   {
     "cp": "👸",
@@ -3532,20 +4600,128 @@
     "tts": "euzhvil an egor"
   },
   {
+    "cp": "👿",
+    "tts": "dremm fuloret gant kerniel"
+  },
+  {
     "cp": "💀",
     "tts": "klopenn"
+  },
+  {
+    "cp": "💁",
+    "tts": "den gant palv dorn dʼan necʼh"
+  },
+  {
+    "cp": "💁‍♀",
+    "tts": "placʼh gant ar palv dorn dʼan necʼh"
+  },
+  {
+    "cp": "💁‍♂",
+    "tts": "paotr gant ar palv dorn dʼan necʼh"
+  },
+  {
+    "cp": "💁🏿",
+    "tts": "den gant palv dorn dʼan necʼh : krocʼhen teñval"
+  },
+  {
+    "cp": "💁🏿‍♀",
+    "tts": "placʼh gant ar palv dorn dʼan necʼh : krocʼhen teñval"
+  },
+  {
+    "cp": "💁🏿‍♂",
+    "tts": "paotr gant ar palv dorn dʼan necʼh : krocʼhen teñval"
   },
   {
     "cp": "💂",
     "tts": "gward"
   },
   {
+    "cp": "💂‍♀",
+    "tts": "placʼh gward"
+  },
+  {
+    "cp": "💂‍♂",
+    "tts": "paotr gward"
+  },
+  {
     "cp": "💂🏿",
     "tts": "gward : krocʼhen teñval"
   },
   {
+    "cp": "💂🏿‍♀",
+    "tts": "placʼh gward : krocʼhen teñval"
+  },
+  {
+    "cp": "💂🏿‍♂",
+    "tts": "paotr gward : krocʼhen teñval"
+  },
+  {
+    "cp": "💃",
+    "tts": "placʼh o tañsal"
+  },
+  {
+    "cp": "💃🏿",
+    "tts": "placʼh o tañsal : krocʼhen teñval"
+  },
+  {
     "cp": "💄",
     "tts": "ruz-muzelloù"
+  },
+  {
+    "cp": "💅",
+    "tts": "ivinoù gwerniset"
+  },
+  {
+    "cp": "💅🏿",
+    "tts": "ivinoù gwerniset : krocʼhen teñval"
+  },
+  {
+    "cp": "💆",
+    "tts": "den o vezañ merataet"
+  },
+  {
+    "cp": "💆‍♀",
+    "tts": "placʼh o vezañ merataet"
+  },
+  {
+    "cp": "💆‍♂",
+    "tts": "paotr o vezañ merataet"
+  },
+  {
+    "cp": "💆🏿",
+    "tts": "den o vezañ merataet : krocʼhen teñval"
+  },
+  {
+    "cp": "💆🏿‍♀",
+    "tts": "placʼh o vezañ merataet : krocʼhen teñval"
+  },
+  {
+    "cp": "💆🏿‍♂",
+    "tts": "paotr o vezañ merataet : krocʼhen teñval"
+  },
+  {
+    "cp": "💇",
+    "tts": "den o vezañ trocʼhet e vlev"
+  },
+  {
+    "cp": "💇‍♀",
+    "tts": "placʼh o vezañ trocʼhet he blev"
+  },
+  {
+    "cp": "💇‍♂",
+    "tts": "paotr o vezañ trocʼhet e vlev"
+  },
+  {
+    "cp": "💇🏿",
+    "tts": "den o vezañ trocʼhet e vlev : krocʼhen teñval"
+  },
+  {
+    "cp": "💇🏿‍♀",
+    "tts": "placʼh o vezañ trocʼhet he blev : krocʼhen teñval"
+  },
+  {
+    "cp": "💇🏿‍♂",
+    "tts": "paotr o vezañ trocʼhet e vlev : krocʼhen teñval"
   },
   {
     "cp": "💈",
@@ -3560,6 +4736,14 @@
     "tts": "pilulenn"
   },
   {
+    "cp": "💋",
+    "tts": "merk ur pok"
+  },
+  {
+    "cp": "💌",
+    "tts": "lizher karantez"
+  },
+  {
     "cp": "💍",
     "tts": "gwalenn"
   },
@@ -3568,12 +4752,32 @@
     "tts": "maen prizius"
   },
   {
+    "cp": "💏",
+    "tts": "pok"
+  },
+  {
+    "cp": "💏🏿",
+    "tts": "pok : krocʼhen teñval"
+  },
+  {
     "cp": "💐",
     "tts": "boked bleunioù"
   },
   {
+    "cp": "💑",
+    "tts": "koublad ha kalon"
+  },
+  {
+    "cp": "💑🏿",
+    "tts": "koublad ha kalon : krocʼhen teñval"
+  },
+  {
     "cp": "💒",
     "tts": "eured"
+  },
+  {
+    "cp": "💓",
+    "tts": "kalon o talmañ"
   },
   {
     "cp": "💔",
@@ -3582,6 +4786,18 @@
   {
     "cp": "💕",
     "tts": "div galon"
+  },
+  {
+    "cp": "💖",
+    "tts": "kalon skedus"
+  },
+  {
+    "cp": "💗",
+    "tts": "kalon o kreskiñ"
+  },
+  {
+    "cp": "💘",
+    "tts": "kalon gant ur bir"
   },
   {
     "cp": "💙",
@@ -3600,8 +4816,24 @@
     "tts": "kalon limestra"
   },
   {
+    "cp": "💝",
+    "tts": "kalon gant ur skoulm"
+  },
+  {
+    "cp": "💞",
+    "tts": "kalonoù o troiata"
+  },
+  {
+    "cp": "💟",
+    "tts": "kalon kinklet"
+  },
+  {
     "cp": "💡",
     "tts": "klogorenn"
+  },
+  {
+    "cp": "💢",
+    "tts": "arouez ar fulor"
   },
   {
     "cp": "💣",
@@ -3616,8 +4848,16 @@
     "tts": "tarzhadenn"
   },
   {
+    "cp": "💦",
+    "tts": "takennoù cʼhwez"
+  },
+  {
     "cp": "💧",
     "tts": "takenn"
+  },
+  {
+    "cp": "💨",
+    "tts": "skampañ kuit"
   },
   {
     "cp": "💩",
@@ -3630,6 +4870,18 @@
   {
     "cp": "💪🏿",
     "tts": "kigenn daoubennek argrezet : krocʼhen teñval"
+  },
+  {
+    "cp": "💫",
+    "tts": "mezevellet"
+  },
+  {
+    "cp": "💬",
+    "tts": "lagadenn gomz"
+  },
+  {
+    "cp": "💭",
+    "tts": "lagadenn soñjal"
   },
   {
     "cp": "💮",
@@ -3972,6 +5224,10 @@
     "tts": "bouton radio"
   },
   {
+    "cp": "🔟",
+    "tts": "stokell : 10"
+  },
+  {
     "cp": "🔠",
     "tts": "bizskriv pennlizherennoù latin"
   },
@@ -4232,6 +5488,14 @@
     "tts": "lanker cʼhoari"
   },
   {
+    "cp": "🕺",
+    "tts": "paotr o tañsal"
+  },
+  {
+    "cp": "🕺🏿",
+    "tts": "paotr o tañsal : krocʼhen teñval"
+  },
+  {
     "cp": "🖇",
     "tts": "strobelloù"
   },
@@ -4250,6 +5514,30 @@
   {
     "cp": "🖍",
     "tts": "kreion pastel"
+  },
+  {
+    "cp": "🖐",
+    "tts": "dorn savet gant bizied dispartiet"
+  },
+  {
+    "cp": "🖐🏿",
+    "tts": "dorn savet gant bizied dispartiet : krocʼhen teñval"
+  },
+  {
+    "cp": "🖕",
+    "tts": "dorn gant biz-bras o vukañ dʼan necʼh"
+  },
+  {
+    "cp": "🖕🏿",
+    "tts": "dorn gant biz-bras o vukañ dʼan necʼh : krocʼhen teñval"
+  },
+  {
+    "cp": "🖖",
+    "tts": "salud vulkan"
+  },
+  {
+    "cp": "🖖🏿",
+    "tts": "salud vulkan : krocʼhen teñval"
   },
   {
     "cp": "🖤",
@@ -4304,6 +5592,14 @@
     "tts": "badalenn"
   },
   {
+    "cp": "🗨",
+    "tts": "lagadenn gomz a-gleiz"
+  },
+  {
+    "cp": "🗯",
+    "tts": "lagadenn fulor a-zehoù"
+  },
+  {
     "cp": "🗳",
     "tts": "mouezharcʼh"
   },
@@ -4330,6 +5626,474 @@
   {
     "cp": "🗿",
     "tts": "moai"
+  },
+  {
+    "cp": "😀",
+    "tts": "dremm wencʼhoarzhus"
+  },
+  {
+    "cp": "😁",
+    "tts": "dremm lirzhin gant daoulagad laouen"
+  },
+  {
+    "cp": "😂",
+    "tts": "dremm gant daeroù a levenez"
+  },
+  {
+    "cp": "😃",
+    "tts": "dremm wencʼhoarzhus gant daoulagad dispourbellet"
+  },
+  {
+    "cp": "😄",
+    "tts": "dremm wencʼhoarzhus gant daoulagad laouen"
+  },
+  {
+    "cp": "😅",
+    "tts": "dremm wencʼhoarzhus o cʼhweziñ"
+  },
+  {
+    "cp": "😆",
+    "tts": "dremm lirzhin gant daoulagad bihan"
+  },
+  {
+    "cp": "😇",
+    "tts": "dremm skedant mouscʼhoarzhus"
+  },
+  {
+    "cp": "😈",
+    "tts": "dremm vouscʼhoarzhus gant kerniel"
+  },
+  {
+    "cp": "😉",
+    "tts": "dremm o vlinkañ"
+  },
+  {
+    "cp": "😊",
+    "tts": "dremm vouscʼhoarzhus gant daoulagad cʼhoarzhus"
+  },
+  {
+    "cp": "😋",
+    "tts": "dremm o saouriñ (ouzh)"
+  },
+  {
+    "cp": "😌",
+    "tts": "dremm disammet"
+  },
+  {
+    "cp": "😍",
+    "tts": "dremm vouscʼhoarzhus gant daoulagad evel kalonoù"
+  },
+  {
+    "cp": "😎",
+    "tts": "dremm vouscʼhoarzhus gant lunedoù-heol"
+  },
+  {
+    "cp": "😏",
+    "tts": "dremm gant ur mouscʼhoazh gwidreüs"
+  },
+  {
+    "cp": "😐",
+    "tts": "dremm neptu"
+  },
+  {
+    "cp": "😑",
+    "tts": "dremm difrom"
+  },
+  {
+    "cp": "😒",
+    "tts": "dremm amlaouen"
+  },
+  {
+    "cp": "😓",
+    "tts": "dremm dinerzhet o cʼhweziñ"
+  },
+  {
+    "cp": "😔",
+    "tts": "dremm prederiet"
+  },
+  {
+    "cp": "😕",
+    "tts": "dremm necʼhet"
+  },
+  {
+    "cp": "😖",
+    "tts": "dremm abafet"
+  },
+  {
+    "cp": "😗",
+    "tts": "dremm ocʼh ober ur pok"
+  },
+  {
+    "cp": "😘",
+    "tts": "dremm o kas ur pok"
+  },
+  {
+    "cp": "😙",
+    "tts": "dremm o pokat gant daoulagad mouscʼhoarzhus"
+  },
+  {
+    "cp": "😚",
+    "tts": "dremm o pokat gant daoulagad serret"
+  },
+  {
+    "cp": "😛",
+    "tts": "dremm o tiskouez an teod"
+  },
+  {
+    "cp": "😜",
+    "tts": "dremm o vlinkañ hag o tiskouez an teod"
+  },
+  {
+    "cp": "😝",
+    "tts": "dremm o tiskouez an teod gant daoulagad bihan"
+  },
+  {
+    "cp": "😞",
+    "tts": "dremm dipitet"
+  },
+  {
+    "cp": "😟",
+    "tts": "dremm ankeniet"
+  },
+  {
+    "cp": "😠",
+    "tts": "dremm fuloret"
+  },
+  {
+    "cp": "😡",
+    "tts": "dremm kounnaret"
+  },
+  {
+    "cp": "😢",
+    "tts": "dremm o ouelañ"
+  },
+  {
+    "cp": "😣",
+    "tts": "dremm bennek"
+  },
+  {
+    "cp": "😤",
+    "tts": "dremm fumet"
+  },
+  {
+    "cp": "😥",
+    "tts": "dremm drist met disammet"
+  },
+  {
+    "cp": "😦",
+    "tts": "dremm displijet gant ar genoù digor"
+  },
+  {
+    "cp": "😧",
+    "tts": "dremm enkrezet"
+  },
+  {
+    "cp": "😨",
+    "tts": "dremm spontet"
+  },
+  {
+    "cp": "😩",
+    "tts": "dremm diviet"
+  },
+  {
+    "cp": "😪",
+    "tts": "dremm morgousket"
+  },
+  {
+    "cp": "😫",
+    "tts": "dremm skuizh"
+  },
+  {
+    "cp": "😬",
+    "tts": "dremm ocʼh ober ardoù"
+  },
+  {
+    "cp": "😭",
+    "tts": "dremm o ouelañ dourek"
+  },
+  {
+    "cp": "😮",
+    "tts": "dremm gant genoù digor"
+  },
+  {
+    "cp": "😮‍💨",
+    "tts": "dremm o cʼhwezhañ"
+  },
+  {
+    "cp": "😯",
+    "tts": "dremm sebezet"
+  },
+  {
+    "cp": "😰",
+    "tts": "dremm ankeniet o cʼhweziñ"
+  },
+  {
+    "cp": "😱",
+    "tts": "dremm o huchal gant an aon"
+  },
+  {
+    "cp": "😲",
+    "tts": "dremm sabatuet"
+  },
+  {
+    "cp": "😳",
+    "tts": "dremm ruziet"
+  },
+  {
+    "cp": "😴",
+    "tts": "dremm o kousket"
+  },
+  {
+    "cp": "😵",
+    "tts": "dremm gant daoulagad stumm kroazioù"
+  },
+  {
+    "cp": "😵‍💫",
+    "tts": "dremm gant daoulagad troellennek"
+  },
+  {
+    "cp": "😶",
+    "tts": "dremm hep genoù"
+  },
+  {
+    "cp": "😶‍🌫",
+    "tts": "dremm er cʼhoumoul"
+  },
+  {
+    "cp": "😷",
+    "tts": "dremm gant ur maskl surjian"
+  },
+  {
+    "cp": "😸",
+    "tts": "kazh mouscʼhoarzhus ha daoulagad laouen"
+  },
+  {
+    "cp": "😹",
+    "tts": "kazh o ouelañ gant al levenez"
+  },
+  {
+    "cp": "😺",
+    "tts": "kazh mouscʼhoarzhus"
+  },
+  {
+    "cp": "😻",
+    "tts": "kazh mouscʼhoarzhus gant daoulagad stumm kalonoù"
+  },
+  {
+    "cp": "😼",
+    "tts": "kazh gant ur mouscʼhoarzh gwidreüs"
+  },
+  {
+    "cp": "😽",
+    "tts": "kazh o pokat"
+  },
+  {
+    "cp": "😾",
+    "tts": "kazh mouzhet"
+  },
+  {
+    "cp": "😿",
+    "tts": "kazh o leñvañ"
+  },
+  {
+    "cp": "🙀",
+    "tts": "kazh skuizh"
+  },
+  {
+    "cp": "🙁",
+    "tts": "dremm damvoulbennek"
+  },
+  {
+    "cp": "🙂",
+    "tts": "dremm damvouscʼhoarzhus"
+  },
+  {
+    "cp": "🙂‍↔",
+    "tts": "penn o hejañ a-gleiz hag a-zehoù"
+  },
+  {
+    "cp": "🙂‍↕",
+    "tts": "penn o hejañ war-grecʼh ha war-draoñ"
+  },
+  {
+    "cp": "🙃",
+    "tts": "dremm eilpennet"
+  },
+  {
+    "cp": "🙄",
+    "tts": "dremm o ruilhal he daoulagad"
+  },
+  {
+    "cp": "🙅",
+    "tts": "den ocʼh ober ur jestr nacʼhañ"
+  },
+  {
+    "cp": "🙅‍♀",
+    "tts": "placʼh ocʼh ober ur jestr nacʼhañ"
+  },
+  {
+    "cp": "🙅‍♂",
+    "tts": "paotr ocʼh ober ur jestr nacʼhañ"
+  },
+  {
+    "cp": "🙅🏿",
+    "tts": "den ocʼh ober ur jestr nacʼhañ : krocʼhen teñval"
+  },
+  {
+    "cp": "🙅🏿‍♀",
+    "tts": "placʼh ocʼh ober ur jestr nacʼhañ : krocʼhen teñval"
+  },
+  {
+    "cp": "🙅🏿‍♂",
+    "tts": "paotr ocʼh ober ur jestr nacʼhañ : krocʼhen teñval"
+  },
+  {
+    "cp": "🙆",
+    "tts": "den ocʼh ober ur jestr MAT EO"
+  },
+  {
+    "cp": "🙆‍♀",
+    "tts": "placʼh ocʼh ober ur jestr MAT EO"
+  },
+  {
+    "cp": "🙆‍♂",
+    "tts": "paotr ocʼh ober ur jestr MAT EO"
+  },
+  {
+    "cp": "🙆🏿",
+    "tts": "den ocʼh ober ur jestr MAT EO : krocʼhen teñval"
+  },
+  {
+    "cp": "🙆🏿‍♀",
+    "tts": "placʼh ocʼh ober ur jestr MAT EO : krocʼhen teñval"
+  },
+  {
+    "cp": "🙆🏿‍♂",
+    "tts": "paotr ocʼh ober ur jestr MAT EO : krocʼhen teñval"
+  },
+  {
+    "cp": "🙇",
+    "tts": "den o stouiñ"
+  },
+  {
+    "cp": "🙇‍♀",
+    "tts": "placʼh o stouiñ"
+  },
+  {
+    "cp": "🙇‍♂",
+    "tts": "paotr o stouiñ"
+  },
+  {
+    "cp": "🙇🏿",
+    "tts": "den o stouiñ : krocʼhen teñval"
+  },
+  {
+    "cp": "🙇🏿‍♀",
+    "tts": "placʼh o stouiñ : krocʼhen teñval"
+  },
+  {
+    "cp": "🙇🏿‍♂",
+    "tts": "paotr o stouiñ : krocʼhen teñval"
+  },
+  {
+    "cp": "🙈",
+    "tts": "marmouz na wel netra"
+  },
+  {
+    "cp": "🙉",
+    "tts": "marmouz na glev netra"
+  },
+  {
+    "cp": "🙊",
+    "tts": "marmouz na lavar netra"
+  },
+  {
+    "cp": "🙋",
+    "tts": "den o sevel e zorn"
+  },
+  {
+    "cp": "🙋‍♀",
+    "tts": "placʼh o sevel he dorn"
+  },
+  {
+    "cp": "🙋‍♂",
+    "tts": "paotr o sevel e zorn"
+  },
+  {
+    "cp": "🙋🏿",
+    "tts": "den o sevel e zorn : krocʼhen teñval"
+  },
+  {
+    "cp": "🙋🏿‍♀",
+    "tts": "placʼh o sevel he dorn : krocʼhen teñval"
+  },
+  {
+    "cp": "🙋🏿‍♂",
+    "tts": "paotr o sevel e zorn : krocʼhen teñval"
+  },
+  {
+    "cp": "🙌",
+    "tts": "daouarn dʼan necʼh"
+  },
+  {
+    "cp": "🙌🏿",
+    "tts": "daouarn dʼan necʼh : krocʼhen teñval"
+  },
+  {
+    "cp": "🙍",
+    "tts": "den moulbennek"
+  },
+  {
+    "cp": "🙍‍♀",
+    "tts": "placʼh voulbennek"
+  },
+  {
+    "cp": "🙍‍♂",
+    "tts": "paotr moulbennek"
+  },
+  {
+    "cp": "🙍🏿",
+    "tts": "den moulbennek : krocʼhen teñval"
+  },
+  {
+    "cp": "🙍🏿‍♀",
+    "tts": "placʼh voulbennek : krocʼhen teñval"
+  },
+  {
+    "cp": "🙍🏿‍♂",
+    "tts": "paotr moulbennek : krocʼhen teñval"
+  },
+  {
+    "cp": "🙎",
+    "tts": "den o vouzhañ"
+  },
+  {
+    "cp": "🙎‍♀",
+    "tts": "placʼh o vouzhañ"
+  },
+  {
+    "cp": "🙎‍♂",
+    "tts": "paotr o vouzhañ"
+  },
+  {
+    "cp": "🙎🏿",
+    "tts": "den o vouzhañ : krocʼhen teñval"
+  },
+  {
+    "cp": "🙎🏿‍♀",
+    "tts": "placʼh o vouzhañ : krocʼhen teñval"
+  },
+  {
+    "cp": "🙎🏿‍♂",
+    "tts": "paotr o vouzhañ : krocʼhen teñval"
+  },
+  {
+    "cp": "🙏",
+    "tts": "daouarn o pediñ"
+  },
+  {
+    "cp": "🙏🏿",
+    "tts": "daouarn o pediñ : krocʼhen teñval"
   },
   {
     "cp": "🚀",
@@ -4498,6 +6262,54 @@
   {
     "cp": "🚳",
     "tts": "beloioù difennet"
+  },
+  {
+    "cp": "🚶",
+    "tts": "den o kerzhet"
+  },
+  {
+    "cp": "🚶‍♀",
+    "tts": "placʼh o kerzhet"
+  },
+  {
+    "cp": "🚶‍♀‍➡",
+    "tts": "placʼh o kerzhet : tu dehoù"
+  },
+  {
+    "cp": "🚶‍♂",
+    "tts": "paotr o kerzhet"
+  },
+  {
+    "cp": "🚶‍♂‍➡",
+    "tts": "paotr o kerzhet : tu dehoù"
+  },
+  {
+    "cp": "🚶‍➡",
+    "tts": "den o kerzhet : tu dehoù"
+  },
+  {
+    "cp": "🚶🏿",
+    "tts": "den o kerzhet : krocʼhen teñval"
+  },
+  {
+    "cp": "🚶🏿‍♀",
+    "tts": "placʼh o kerzhet : krocʼhen teñval"
+  },
+  {
+    "cp": "🚶🏿‍♀‍➡",
+    "tts": "placʼh o kerzhet : krocʼhen teñval, tu dehoù"
+  },
+  {
+    "cp": "🚶🏿‍♂",
+    "tts": "paotr o kerzhet : krocʼhen teñval"
+  },
+  {
+    "cp": "🚶🏿‍♂‍➡",
+    "tts": "paotr o kerzhet : krocʼhen teñval, tu dehoù"
+  },
+  {
+    "cp": "🚶🏿‍➡",
+    "tts": "den o kerzhet : krocʼhen teñval, tu dehoù"
   },
   {
     "cp": "🚷",
@@ -4688,6 +6500,14 @@
     "tts": "karrez gell"
   },
   {
+    "cp": "🤌",
+    "tts": "bizied piñset"
+  },
+  {
+    "cp": "🤌🏿",
+    "tts": "bizied piñset : krocʼhen teñval"
+  },
+  {
     "cp": "🤍",
     "tts": "kalon wenn"
   },
@@ -4696,12 +6516,216 @@
     "tts": "kalon cʼhell"
   },
   {
+    "cp": "🤏",
+    "tts": "biz-meud ha biz-yod o piñsat"
+  },
+  {
+    "cp": "🤏🏿",
+    "tts": "biz-meud ha biz-yod o piñsat : krocʼhen teñval"
+  },
+  {
+    "cp": "🤐",
+    "tts": "dremm gant ur genoù serret"
+  },
+  {
+    "cp": "🤑",
+    "tts": "dremm gant arcʼhant en he daoulagad"
+  },
+  {
+    "cp": "🤒",
+    "tts": "dremm gant ur gwrezverker"
+  },
+  {
+    "cp": "🤓",
+    "tts": "dremm ouiziek"
+  },
+  {
+    "cp": "🤔",
+    "tts": "dremm soñjus"
+  },
+  {
+    "cp": "🤕",
+    "tts": "dremm gant ar penn lienennet"
+  },
+  {
     "cp": "🤖",
     "tts": "robot"
   },
   {
+    "cp": "🤗",
+    "tts": "dremm vouscʼhoarzhus gant daouarn digor"
+  },
+  {
+    "cp": "🤘",
+    "tts": "sin kerniel"
+  },
+  {
+    "cp": "🤘🏿",
+    "tts": "sin kerniel : krocʼhen teñval"
+  },
+  {
+    "cp": "🤙",
+    "tts": "sin bizied o pellgomz"
+  },
+  {
+    "cp": "🤙🏿",
+    "tts": "sin bizied o pellgomz : krocʼhen teñval"
+  },
+  {
+    "cp": "🤚",
+    "tts": "kein an dorn savet"
+  },
+  {
+    "cp": "🤚🏿",
+    "tts": "kein an dorn savet : krocʼhen teñval"
+  },
+  {
+    "cp": "🤛",
+    "tts": "meilh-dorn a-gleiz"
+  },
+  {
+    "cp": "🤛🏿",
+    "tts": "meilh-dorn a-gleiz : krocʼhen teñval"
+  },
+  {
+    "cp": "🤜",
+    "tts": "meilh-dorn a-zehoù"
+  },
+  {
+    "cp": "🤜🏿",
+    "tts": "meilh-dorn a-zehoù : krocʼhen teñval"
+  },
+  {
+    "cp": "🤝",
+    "tts": "stardañ an dorn"
+  },
+  {
+    "cp": "🤝🏿",
+    "tts": "stardañ an dorn : krocʼhen teñval"
+  },
+  {
+    "cp": "🤞",
+    "tts": "bizied kroaziet"
+  },
+  {
+    "cp": "🤞🏿",
+    "tts": "bizied kroaziet : krocʼhen teñval"
+  },
+  {
+    "cp": "🤟",
+    "tts": "jestr da garout a ran"
+  },
+  {
+    "cp": "🤟🏿",
+    "tts": "jestr da garout a ran : krocʼhen teñval"
+  },
+  {
+    "cp": "🤠",
+    "tts": "dremm gant un tog cow-boy"
+  },
+  {
     "cp": "🤡",
     "tts": "penn furlukin"
+  },
+  {
+    "cp": "🤢",
+    "tts": "dremm drouklivet"
+  },
+  {
+    "cp": "🤣",
+    "tts": "dirollet da cʼhoarzhin"
+  },
+  {
+    "cp": "🤤",
+    "tts": "dremm o vabouzañ"
+  },
+  {
+    "cp": "🤥",
+    "tts": "dremm cʼhaouiat"
+  },
+  {
+    "cp": "🤦",
+    "tts": "den gant an dorn war e zremm"
+  },
+  {
+    "cp": "🤦‍♀",
+    "tts": "placʼh gant an dorn war he dremm"
+  },
+  {
+    "cp": "🤦‍♂",
+    "tts": "paotr gant an dorn war e zremm"
+  },
+  {
+    "cp": "🤦🏿",
+    "tts": "den gant an dorn war e zremm : krocʼhen teñval"
+  },
+  {
+    "cp": "🤦🏿‍♀",
+    "tts": "placʼh gant an dorn war he dremm : krocʼhen teñval"
+  },
+  {
+    "cp": "🤦🏿‍♂",
+    "tts": "paotr gant an dorn war e zremm : krocʼhen teñval"
+  },
+  {
+    "cp": "🤧",
+    "tts": "dremm o tistrevial"
+  },
+  {
+    "cp": "🤨",
+    "tts": "dremm gant un abrant savet"
+  },
+  {
+    "cp": "🤩",
+    "tts": "dremm vouscʼhoarzhus gant daoulagad evel steredennoù"
+  },
+  {
+    "cp": "🤪",
+    "tts": "dremm droch"
+  },
+  {
+    "cp": "🤫",
+    "tts": "dremm gant ur biz dirak ar genoù"
+  },
+  {
+    "cp": "🤬",
+    "tts": "dremm gant arouezennoù war ar genoù"
+  },
+  {
+    "cp": "🤭",
+    "tts": "dremm gant un dorn dirak ar genoù"
+  },
+  {
+    "cp": "🤮",
+    "tts": "dremm o tislonkañ"
+  },
+  {
+    "cp": "🤯",
+    "tts": "dremm o tarzhañ"
+  },
+  {
+    "cp": "🤰",
+    "tts": "placʼh dougerez"
+  },
+  {
+    "cp": "🤰🏿",
+    "tts": "placʼh dougerez : krocʼhen teñval"
+  },
+  {
+    "cp": "🤱",
+    "tts": "bronnañ"
+  },
+  {
+    "cp": "🤱🏿",
+    "tts": "bronnañ : krocʼhen teñval"
+  },
+  {
+    "cp": "🤲",
+    "tts": "palvoù dorn dʼan necʼh"
+  },
+  {
+    "cp": "🤲🏿",
+    "tts": "palvoù dorn dʼan necʼh : krocʼhen teñval"
   },
   {
     "cp": "🤳",
@@ -4720,12 +6744,60 @@
     "tts": "priñs : krocʼhen teñval"
   },
   {
+    "cp": "🤵",
+    "tts": "den gwisket kran"
+  },
+  {
+    "cp": "🤵‍♀",
+    "tts": "placʼh gwisket kran"
+  },
+  {
+    "cp": "🤵‍♂",
+    "tts": "paotr gwisket kran"
+  },
+  {
+    "cp": "🤵🏿",
+    "tts": "den gwisket kran : krocʼhen teñval"
+  },
+  {
+    "cp": "🤵🏿‍♀",
+    "tts": "placʼh gwisket kran : krocʼhen teñval"
+  },
+  {
+    "cp": "🤵🏿‍♂",
+    "tts": "paotr gwisket kran : krocʼhen teñval"
+  },
+  {
     "cp": "🤶",
     "tts": "Mamm Nedeleg"
   },
   {
     "cp": "🤶🏿",
     "tts": "Mamm Nedeleg : krocʼhen teñval"
+  },
+  {
+    "cp": "🤷",
+    "tts": "den o hejañ e zivskoaz"
+  },
+  {
+    "cp": "🤷‍♀",
+    "tts": "placʼh o hejañ he divskoaz"
+  },
+  {
+    "cp": "🤷‍♂",
+    "tts": "paotr o hejañ e zivskoaz"
+  },
+  {
+    "cp": "🤷🏿",
+    "tts": "den o hejañ e zivskoaz : krocʼhen teñval"
+  },
+  {
+    "cp": "🤷🏿‍♀",
+    "tts": "placʼh o hejañ he divskoaz : krocʼhen teñval"
+  },
+  {
+    "cp": "🤷🏿‍♂",
+    "tts": "paotr o hejañ e zivskoaz : krocʼhen teñval"
   },
   {
     "cp": "🤿",
@@ -4904,12 +6976,52 @@
     "tts": "bagel"
   },
   {
+    "cp": "🥰",
+    "tts": "dremm vouscʼhoarzhus gant kalonoù"
+  },
+  {
+    "cp": "🥱",
+    "tts": "dremm o vazailhat"
+  },
+  {
+    "cp": "🥲",
+    "tts": "dremm vouscʼhoarzhus o ouelañ"
+  },
+  {
+    "cp": "🥳",
+    "tts": "dremm o lidañ"
+  },
+  {
+    "cp": "🥴",
+    "tts": "dremm badaouet"
+  },
+  {
+    "cp": "🥵",
+    "tts": "dremm ruz"
+  },
+  {
+    "cp": "🥶",
+    "tts": "dremm sklaset"
+  },
+  {
     "cp": "🥷",
     "tts": "ninja"
   },
   {
     "cp": "🥷🏿",
     "tts": "ninja : krocʼhen teñval"
+  },
+  {
+    "cp": "🥸",
+    "tts": "dremm dicʼhizet"
+  },
+  {
+    "cp": "🥹",
+    "tts": "dremm prest da zifronkañ"
+  },
+  {
+    "cp": "🥺",
+    "tts": "dremm aspedus"
   },
   {
     "cp": "🥻",
@@ -5168,6 +7280,14 @@
     "tts": "jiletenn surentez"
   },
   {
+    "cp": "🦻",
+    "tts": "skouarn gant ur benveg"
+  },
+  {
+    "cp": "🦻🏿",
+    "tts": "skouarn gant ur benveg : krocʼhen teñval"
+  },
+  {
     "cp": "🦾",
     "tts": "brecʼh vekanikel"
   },
@@ -5220,12 +7340,188 @@
     "tts": "skornenn"
   },
   {
+    "cp": "🧍",
+    "tts": "den war-sav"
+  },
+  {
+    "cp": "🧍‍♀",
+    "tts": "placʼh war-sav"
+  },
+  {
+    "cp": "🧍‍♂",
+    "tts": "paotr war-sav"
+  },
+  {
+    "cp": "🧍🏿",
+    "tts": "den war-sav : krocʼhen teñval"
+  },
+  {
+    "cp": "🧍🏿‍♀",
+    "tts": "placʼh war-sav : krocʼhen teñval"
+  },
+  {
+    "cp": "🧍🏿‍♂",
+    "tts": "paotr war-sav : krocʼhen teñval"
+  },
+  {
+    "cp": "🧎",
+    "tts": "den daoulinet"
+  },
+  {
+    "cp": "🧎‍♀",
+    "tts": "placʼh daoulinet"
+  },
+  {
+    "cp": "🧎‍♀‍➡",
+    "tts": "placʼh daoulinet : tu dehoù"
+  },
+  {
+    "cp": "🧎‍♂",
+    "tts": "paotr daoulinet"
+  },
+  {
+    "cp": "🧎‍♂‍➡",
+    "tts": "paotr daoulinet : tu dehoù"
+  },
+  {
+    "cp": "🧎‍➡",
+    "tts": "den daoulinet : tu dehoù"
+  },
+  {
+    "cp": "🧎🏿",
+    "tts": "den daoulinet : krocʼhen teñval"
+  },
+  {
+    "cp": "🧎🏿‍♀",
+    "tts": "placʼh daoulinet : krocʼhen teñval"
+  },
+  {
+    "cp": "🧎🏿‍♀‍➡",
+    "tts": "placʼh daoulinet : krocʼhen teñval, tu dehoù"
+  },
+  {
+    "cp": "🧎🏿‍♂",
+    "tts": "paotr daoulinet : krocʼhen teñval"
+  },
+  {
+    "cp": "🧎🏿‍♂‍➡",
+    "tts": "paotr daoulinet : krocʼhen teñval, tu dehoù"
+  },
+  {
+    "cp": "🧎🏿‍➡",
+    "tts": "den daoulinet : krocʼhen teñval, tu dehoù"
+  },
+  {
+    "cp": "🧏",
+    "tts": "den bouzar"
+  },
+  {
+    "cp": "🧏‍♀",
+    "tts": "placʼh vouzar"
+  },
+  {
+    "cp": "🧏‍♂",
+    "tts": "paotr bouzar"
+  },
+  {
+    "cp": "🧏🏿",
+    "tts": "den bouzar : krocʼhen teñval"
+  },
+  {
+    "cp": "🧏🏿‍♀",
+    "tts": "placʼh vouzar : krocʼhen teñval"
+  },
+  {
+    "cp": "🧏🏿‍♂",
+    "tts": "paotr bouzar : krocʼhen teñval"
+  },
+  {
+    "cp": "🧐",
+    "tts": "dremm gant ur werenn-lagad"
+  },
+  {
     "cp": "🧑",
     "tts": "den deuet"
   },
   {
+    "cp": "🧑‍⚕",
+    "tts": "den a vicher ar yecʼhed"
+  },
+  {
+    "cp": "🧑‍⚖",
+    "tts": "barner"
+  },
+  {
+    "cp": "🧑‍✈",
+    "tts": "levier"
+  },
+  {
+    "cp": "🧑‍🌾",
+    "tts": "labourer-douar"
+  },
+  {
+    "cp": "🧑‍🍳",
+    "tts": "keginer"
+  },
+  {
+    "cp": "🧑‍🍼",
+    "tts": "den o vagañ ur babig"
+  },
+  {
+    "cp": "🧑‍🎓",
+    "tts": "studier"
+  },
+  {
     "cp": "🧑‍🎤",
     "tts": "den a gan"
+  },
+  {
+    "cp": "🧑‍🎨",
+    "tts": "arzour"
+  },
+  {
+    "cp": "🧑‍🏫",
+    "tts": "kelenner"
+  },
+  {
+    "cp": "🧑‍🏭",
+    "tts": "micherour"
+  },
+  {
+    "cp": "🧑‍💻",
+    "tts": "stlennegour"
+  },
+  {
+    "cp": "🧑‍💼",
+    "tts": "implijad burev"
+  },
+  {
+    "cp": "🧑‍🔧",
+    "tts": "mekaniker"
+  },
+  {
+    "cp": "🧑‍🔬",
+    "tts": "skiantour"
+  },
+  {
+    "cp": "🧑‍🚀",
+    "tts": "astraer"
+  },
+  {
+    "cp": "🧑‍🚒",
+    "tts": "pomper"
+  },
+  {
+    "cp": "🧑‍🤝‍🧑",
+    "tts": "tud dorn-ha-dorn"
+  },
+  {
+    "cp": "🧑‍🦯",
+    "tts": "den gant ur vazh wenn"
+  },
+  {
+    "cp": "🧑‍🦯‍➡",
+    "tts": "den gant ur vazh wenn : tu dehoù"
   },
   {
     "cp": "🧑‍🦰",
@@ -5244,12 +7540,104 @@
     "tts": "den deuet : blev gwenn"
   },
   {
+    "cp": "🧑‍🦼",
+    "tts": "den en ur gador-ruilh dredan"
+  },
+  {
+    "cp": "🧑‍🦼‍➡",
+    "tts": "den en ur gador-ruilh dredan : tu dehoù"
+  },
+  {
+    "cp": "🧑‍🦽",
+    "tts": "den en ur gador-ruilh dre zorn"
+  },
+  {
+    "cp": "🧑‍🦽‍➡",
+    "tts": "den en ur gador-ruilh dre zorn : tu dehoù"
+  },
+  {
     "cp": "🧑🏿",
     "tts": "den deuet : krocʼhen teñval"
   },
   {
+    "cp": "🧑🏿‍⚕",
+    "tts": "den a vicher ar yecʼhed : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍⚖",
+    "tts": "barner : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍✈",
+    "tts": "levier : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🌾",
+    "tts": "labourer-douar : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🍳",
+    "tts": "keginer : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🍼",
+    "tts": "den o vagañ ur babig : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🎓",
+    "tts": "studier : krocʼhen teñval"
+  },
+  {
     "cp": "🧑🏿‍🎤",
     "tts": "den a gan : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🎨",
+    "tts": "arzour : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🏫",
+    "tts": "kelenner : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🏭",
+    "tts": "micherour : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍💻",
+    "tts": "stlennegour : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍💼",
+    "tts": "implijad burev : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🔧",
+    "tts": "mekaniker : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🔬",
+    "tts": "skiantour : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🚀",
+    "tts": "astraer : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🚒",
+    "tts": "pomper : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🤝‍🧑🏿",
+    "tts": "tud dorn-ha-dorn : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🦯",
+    "tts": "den gant ur vazh wenn : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🦯‍➡",
+    "tts": "den gant ur vazh wenn : krocʼhen teñval, tu dehoù"
   },
   {
     "cp": "🧑🏿‍🦰",
@@ -5268,6 +7656,22 @@
     "tts": "den deuet : krocʼhen teñval, blev gwenn"
   },
   {
+    "cp": "🧑🏿‍🦼",
+    "tts": "den en ur gador-ruilh dredan : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🦼‍➡",
+    "tts": "den en ur gador-ruilh dredan : krocʼhen teñval, tu dehoù"
+  },
+  {
+    "cp": "🧑🏿‍🦽",
+    "tts": "den en ur gador-ruilh dre zorn : krocʼhen teñval"
+  },
+  {
+    "cp": "🧑🏿‍🦽‍➡",
+    "tts": "den en ur gador-ruilh dre zorn : krocʼhen teñval, tu dehoù"
+  },
+  {
     "cp": "🧒",
     "tts": "bugel"
   },
@@ -5282,6 +7686,38 @@
   {
     "cp": "🧓🏿",
     "tts": "den kozh : krocʼhen teñval"
+  },
+  {
+    "cp": "🧔",
+    "tts": "den : barvek"
+  },
+  {
+    "cp": "🧔‍♀",
+    "tts": "placʼh : barvek"
+  },
+  {
+    "cp": "🧔‍♂",
+    "tts": "paotr : barvek"
+  },
+  {
+    "cp": "🧔🏿",
+    "tts": "den : krocʼhen teñval, barvek"
+  },
+  {
+    "cp": "🧔🏿‍♀",
+    "tts": "placʼh : krocʼhen teñval, barvek"
+  },
+  {
+    "cp": "🧔🏿‍♂",
+    "tts": "paotr : krocʼhen teñval, barvek"
+  },
+  {
+    "cp": "🧕",
+    "tts": "placʼh gant ur skerb"
+  },
+  {
+    "cp": "🧕🏿",
+    "tts": "placʼh gant ur skerb : krocʼhen teñval"
   },
   {
     "cp": "🧙",
@@ -5524,6 +7960,18 @@
     "tts": "tong"
   },
   {
+    "cp": "🩵",
+    "tts": "kalon glas sklaer"
+  },
+  {
+    "cp": "🩶",
+    "tts": "kalon cʼhris"
+  },
+  {
+    "cp": "🩷",
+    "tts": "kalon roz"
+  },
+  {
     "cp": "🩸",
     "tts": "takenn wad"
   },
@@ -5700,6 +8148,30 @@
     "tts": "skevent"
   },
   {
+    "cp": "🫃",
+    "tts": "paotr kofek"
+  },
+  {
+    "cp": "🫃🏿",
+    "tts": "paotr kofek : krocʼhen teñval"
+  },
+  {
+    "cp": "🫄",
+    "tts": "den kofek"
+  },
+  {
+    "cp": "🫄🏿",
+    "tts": "den kofek : krocʼhen teñval"
+  },
+  {
+    "cp": "🫅",
+    "tts": "den kurunennet"
+  },
+  {
+    "cp": "🫅🏿",
+    "tts": "den kurunennet : krocʼhen teñval"
+  },
+  {
     "cp": "🫍",
     "tts": "skoazog"
   },
@@ -5730,5 +8202,113 @@
   {
     "cp": "🫖",
     "tts": "pod-te"
+  },
+  {
+    "cp": "🫠",
+    "tts": "dremm o teuziñ"
+  },
+  {
+    "cp": "🫡",
+    "tts": "dremm ocʼh ober ur salud-soudard"
+  },
+  {
+    "cp": "🫢",
+    "tts": "dremm gant daoulagad dispourbellet hag un dorn dirak ar genoù"
+  },
+  {
+    "cp": "🫣",
+    "tts": "dremm o reiñ ul lagadad"
+  },
+  {
+    "cp": "🫤",
+    "tts": "dremm gant genoù a-dreuz"
+  },
+  {
+    "cp": "🫥",
+    "tts": "dremm gant un drolinenn boentaouet"
+  },
+  {
+    "cp": "🫦",
+    "tts": "muzell dantet"
+  },
+  {
+    "cp": "🫨",
+    "tts": "dremm hejet"
+  },
+  {
+    "cp": "🫩",
+    "tts": "dremm gant daoulagad distronket"
+  },
+  {
+    "cp": "🫰",
+    "tts": "dorn gant biz-yod ha biz-meud kroaziet"
+  },
+  {
+    "cp": "🫰🏿",
+    "tts": "dorn gant biz-yod ha biz-meud kroaziet : krocʼhen teñval"
+  },
+  {
+    "cp": "🫱",
+    "tts": "dorn a-zehoù"
+  },
+  {
+    "cp": "🫱🏿",
+    "tts": "dorn a-zehoù : krocʼhen teñval"
+  },
+  {
+    "cp": "🫲",
+    "tts": "dorn a-gleiz"
+  },
+  {
+    "cp": "🫲🏿",
+    "tts": "dorn a-gleiz : krocʼhen teñval"
+  },
+  {
+    "cp": "🫳",
+    "tts": "palv dʼan traoñ"
+  },
+  {
+    "cp": "🫳🏿",
+    "tts": "palv dʼan traoñ : krocʼhen teñval"
+  },
+  {
+    "cp": "🫴",
+    "tts": "palv dʼan necʼh"
+  },
+  {
+    "cp": "🫴🏿",
+    "tts": "palv dʼan necʼh : krocʼhen teñval"
+  },
+  {
+    "cp": "🫵",
+    "tts": "biz-yod o vukañ ouzh ar seller"
+  },
+  {
+    "cp": "🫵🏿",
+    "tts": "biz-yod o vukañ ouzh ar seller : krocʼhen teñval"
+  },
+  {
+    "cp": "🫶",
+    "tts": "daouarn stumm kalon"
+  },
+  {
+    "cp": "🫶🏿",
+    "tts": "daouarn stumm kalon : krocʼhen teñval"
+  },
+  {
+    "cp": "🫷",
+    "tts": "dorn o vountañ a-gleiz"
+  },
+  {
+    "cp": "🫷🏿",
+    "tts": "dorn o vountañ a-gleiz : krocʼhen teñval"
+  },
+  {
+    "cp": "🫸",
+    "tts": "dorn o vountañ a-zehoù"
+  },
+  {
+    "cp": "🫸🏿",
+    "tts": "dorn o vountañ a-zehoù : krocʼhen teñval"
   }
 ]

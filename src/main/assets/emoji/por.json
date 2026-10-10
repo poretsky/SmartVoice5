@@ -3285,7 +3285,7 @@
   },
   {
     "cp": "🌩",
-    "tts": "nuvem com trovão"
+    "tts": "nuvem com relâmpago"
   },
   {
     "cp": "🌪",
@@ -11752,6 +11752,10 @@
     "tts": "deslizamento"
   },
   {
+    "cp": "🛙",
+    "tts": "farol"
+  },
+  {
     "cp": "🛜",
     "tts": "sem fio"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trombone"
   },
   {
+    "cp": "🪋",
+    "tts": "meteoro"
+  },
+  {
+    "cp": "🪌",
+    "tts": "borracha"
+  },
+  {
+    "cp": "🪍",
+    "tts": "rede com cabo"
+  },
+  {
     "cp": "🪎",
     "tts": "baú de tesouro"
   },
@@ -16456,6 +16472,10 @@
     "tts": "criatura peluda"
   },
   {
+    "cp": "🫌",
+    "tts": "borboleta-monarca"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -16520,6 +16540,10 @@
     "tts": "tubérculo"
   },
   {
+    "cp": "🫝",
+    "tts": "picles"
+  },
+  {
     "cp": "🫟",
     "tts": "respingo"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "rosto distorcido"
+  },
+  {
+    "cp": "🫫",
+    "tts": "rosto rachando"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "mão empurrando para a direita: pele escura"
+  },
+  {
+    "cp": "🫹",
+    "tts": "sinal de polegar para a esquerda"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "sinal de polegar para a esquerda: pele clara"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "sinal de polegar para a esquerda: pele morena clara"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "sinal de polegar para a esquerda: pele morena"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "sinal de polegar para a esquerda: pele morena escura"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "sinal de polegar para a esquerda: pele escura"
+  },
+  {
+    "cp": "🫺",
+    "tts": "sinal de polegar para a direita"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "sinal de polegar para a direita: pele clara"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "sinal de polegar para a direita: pele morena clara"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "sinal de polegar para a direita: pele morena"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "sinal de polegar para a direita: pele morena escura"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "sinal de polegar para a direita: pele escura"
   }
 ]

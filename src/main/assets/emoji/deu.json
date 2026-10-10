@@ -11752,6 +11752,10 @@
     "tts": "Erdrutsch"
   },
   {
+    "cp": "🛙",
+    "tts": "Leuchtturm"
+  },
+  {
     "cp": "🛜",
     "tts": "WLAN"
   },
@@ -16164,6 +16168,18 @@
     "tts": "Posaune"
   },
   {
+    "cp": "🪋",
+    "tts": "Meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "Radiergummi"
+  },
+  {
+    "cp": "🪍",
+    "tts": "Kescher"
+  },
+  {
     "cp": "🪎",
     "tts": "Schatztruhe"
   },
@@ -16456,6 +16472,10 @@
     "tts": "haariges Wesen"
   },
   {
+    "cp": "🫌",
+    "tts": "Monarchfalter"
+  },
+  {
     "cp": "🫍",
     "tts": "Orca"
   },
@@ -16520,6 +16540,10 @@
     "tts": "Wurzelgemüse"
   },
   {
+    "cp": "🫝",
+    "tts": "Saure Gurke"
+  },
+  {
     "cp": "🫟",
     "tts": "Spritzer"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "verzerrtes Gesicht"
+  },
+  {
+    "cp": "🫫",
+    "tts": "Zerbrechendes Gesicht"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "nach rechts schiebende Hand: dunkle Hautfarbe"
+  },
+  {
+    "cp": "🫹",
+    "tts": "Daumen nach links"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "Daumen nach links: helle Hautfarbe"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "Daumen nach links: mittelhelle Hautfarbe"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "Daumen nach links: mittlere Hautfarbe"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "Daumen nach links: mitteldunkle Hautfarbe"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "Daumen nach links: dunkle Hautfarbe"
+  },
+  {
+    "cp": "🫺",
+    "tts": "Daumen nach rechts"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "Daumen nach rechts: helle Hautfarbe"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "Daumen nach rechts: mittelhelle Hautfarbe"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "Daumen nach rechts: mittlere Hautfarbe"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "Daumen nach rechts: mitteldunkle Hautfarbe"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "Daumen nach rechts: dunkle Hautfarbe"
   }
 ]

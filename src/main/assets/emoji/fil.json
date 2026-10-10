@@ -633,7 +633,7 @@
   },
   {
     "cp": "∟",
-    "tts": "kanang anggulo"
+    "tts": "right angle"
   },
   {
     "cp": "∠",
@@ -745,7 +745,7 @@
   },
   {
     "cp": "≦",
-    "tts": "simblo ng mas mababa sa sa taas ng simblo ng katumbas"
+    "tts": "simbolo ng mas mababa sa sa taas ng simbolo ng katumbas"
   },
   {
     "cp": "≧",
@@ -11744,6 +11744,10 @@
     "tts": "landslide"
   },
   {
+    "cp": "🛙",
+    "tts": "parola"
+  },
+  {
     "cp": "🛜",
     "tts": "wireless"
   },
@@ -16156,6 +16160,18 @@
     "tts": "trombone"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "pambura"
+  },
+  {
+    "cp": "🪍",
+    "tts": "lambat"
+  },
+  {
     "cp": "🪎",
     "tts": "kaban ng kayamanan"
   },
@@ -16448,6 +16464,10 @@
     "tts": "mabalahibong nilalang"
   },
   {
+    "cp": "🫌",
+    "tts": "monarch butterfly"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -16512,6 +16532,10 @@
     "tts": "ugat na gulay"
   },
   {
+    "cp": "🫝",
+    "tts": "atsara"
+  },
+  {
     "cp": "🫟",
     "tts": "tilamsik"
   },
@@ -16558,6 +16582,10 @@
   {
     "cp": "🫪",
     "tts": "distorted na mukha"
+  },
+  {
+    "cp": "🫫",
+    "tts": "nababasag na mukha"
   },
   {
     "cp": "🫯",
@@ -16858,5 +16886,53 @@
   {
     "cp": "🫸🏿",
     "tts": "pakanang tumutulak na kamay: dark na kulay ng balat"
+  },
+  {
+    "cp": "🫹",
+    "tts": "pakaliwang thumb sign"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "pakaliwang thumb sign: light na kulay ng balat"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "pakaliwang thumb sign: katamtamang light na kulay ng balat"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "pakaliwang thumb sign: katamtamang kulay ng balat"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "pakaliwang thumb sign: katamtamang dark na kulay ng balat"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "pakaliwang thumb sign: dark na kulay ng balat"
+  },
+  {
+    "cp": "🫺",
+    "tts": "pakanang thumb sign"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "pakanang thumb sign: light na kulay ng balat"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "pakanang thumb sign: katamtamang light na kulay ng balat"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "pakanang thumb sign: katamtamang kulay ng balat"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "pakanang thumb sign: katamtamang dark na kulay ng balat"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "pakanang thumb sign: dark na kulay ng balat"
   }
 ]

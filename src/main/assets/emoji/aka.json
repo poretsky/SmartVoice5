@@ -10001,7 +10001,7 @@
   },
   {
     "cp": "🚃",
-    "tts": "ketekekwan kar"
+    "tts": "ketekekwan kaa"
   },
   {
     "cp": "🚄",
@@ -10698,6 +10698,10 @@
   {
     "cp": "🛘",
     "tts": "asasehwie"
+  },
+  {
+    "cp": "🛙",
+    "tts": "kaneadua"
   },
   {
     "cp": "🛜",
@@ -15112,6 +15116,18 @@
     "tts": "trombone"
   },
   {
+    "cp": "🪋",
+    "tts": "mεtiᴐ"
+  },
+  {
+    "cp": "🪌",
+    "tts": "mpopadeε"
+  },
+  {
+    "cp": "🪍",
+    "tts": "sᴐneeε a εwᴐ nsa"
+  },
+  {
     "cp": "🪎",
     "tts": "agudiε adaka"
   },
@@ -15404,6 +15420,10 @@
     "tts": "abᴐdeε a enwi wᴐ ne ho"
   },
   {
+    "cp": "🫌",
+    "tts": "afafrantᴐhene"
+  },
+  {
     "cp": "🫍",
     "tts": "bonsu kεse"
   },
@@ -15468,6 +15488,10 @@
     "tts": "nhini atosodeɛ"
   },
   {
+    "cp": "🫝",
+    "tts": "pekre"
+  },
+  {
     "cp": "🫟",
     "tts": "to pete"
   },
@@ -15514,6 +15538,10 @@
   {
     "cp": "🫪",
     "tts": "anim a asɛe"
+  },
+  {
+    "cp": "🫫",
+    "tts": "muna"
   },
   {
     "cp": "🫯",
@@ -15814,5 +15842,53 @@
   {
     "cp": "🫸🏿",
     "tts": "nsa repia kɔ nifa: wedeε ani tuntum"
+  },
+  {
+    "cp": "🫹",
+    "tts": "benkum so kokuromoti nsεnkyerεne"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "benkum so kokuromoti nsεnkyerεne: wedeε ani a εda so"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "benkum so kokuromoti nsεnkyerεne: wedeε ani a εda so kakra"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "benkum so kokuromoti nsεnkyerεne: wedeε ani a εda hᴐ kakra"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "benkum so kokuromoti nsεnkyerεne: wedeε ani tuntum kakra"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "benkum so kokuromoti nsεnkyerεne: wedeε ani tuntum"
+  },
+  {
+    "cp": "🫺",
+    "tts": "nifa so kokuromoti nsεnkyerεnne"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "nifa so kokuromoti nsεnkyerεnne: wedeε ani a εda so"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "nifa so kokuromoti nsεnkyerεnne: wedeε ani a εda so kakra"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "nifa so kokuromoti nsεnkyerεnne: wedeε ani a εda hᴐ kakra"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "nifa so kokuromoti nsεnkyerεnne: wedeε ani tuntum kakra"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "nifa so kokuromoti nsεnkyerεnne: wedeε ani tuntum"
   }
 ]

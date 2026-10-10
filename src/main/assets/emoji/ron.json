@@ -11752,6 +11752,10 @@
     "tts": "alunecare de teren"
   },
   {
+    "cp": "🛙",
+    "tts": "far"
+  },
+  {
     "cp": "🛜",
     "tts": "wireless"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trombon"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "radieră"
+  },
+  {
+    "cp": "🪍",
+    "tts": "plasă cu mâner"
+  },
+  {
     "cp": "🪎",
     "tts": "cufăr de comori"
   },
@@ -16456,6 +16472,10 @@
     "tts": "creatură păroasă"
   },
   {
+    "cp": "🫌",
+    "tts": "fluture monarh"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -16520,6 +16540,10 @@
     "tts": "legumă rădăcinoasă"
   },
   {
+    "cp": "🫝",
+    "tts": "murătură"
+  },
+  {
     "cp": "🫟",
     "tts": "împroșcare"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "față distorsionată"
+  },
+  {
+    "cp": "🫫",
+    "tts": "față care se crapă"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "mână care împinge spre dreapta: ton închis al pielii"
+  },
+  {
+    "cp": "🫹",
+    "tts": "semn cu degetul mare spre stânga"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "semn cu degetul mare spre stânga: ton deschis al pielii"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "semn cu degetul mare spre stânga: ton semi‐deschis al pielii"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "semn cu degetul mare spre stânga: ton mediu al pielii"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "semn cu degetul mare spre stânga: ton semi‐închis al pielii"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "semn cu degetul mare spre stânga: ton închis al pielii"
+  },
+  {
+    "cp": "🫺",
+    "tts": "semn cu degetul mare spre dreapta"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "semn cu degetul mare spre dreapta: ton deschis al pielii"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "semn cu degetul mare spre dreapta: ton semi‐deschis al pielii"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "semn cu degetul mare spre dreapta: ton mediu al pielii"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "semn cu degetul mare spre dreapta: ton semi‐închis al pielii"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "semn cu degetul mare spre dreapta: ton închis al pielii"
   }
 ]

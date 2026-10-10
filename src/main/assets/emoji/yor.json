@@ -2309,7 +2309,7 @@
   },
   {
     "cp": "🇨🇼",
-    "tts": "filaagi: Curaçao"
+    "tts": "filaagi: Kírósáwù"
   },
   {
     "cp": "🇨🇽",
@@ -11748,6 +11748,10 @@
     "tts": "ìyẹ̀gẹ̀rẹ̀ ilẹ̀"
   },
   {
+    "cp": "🛙",
+    "tts": "ilé atọ́nà ọkọ̀ òkun"
+  },
+  {
     "cp": "🛜",
     "tts": "aini okun ina"
   },
@@ -16160,6 +16164,18 @@
     "tts": "kàkàkí"
   },
   {
+    "cp": "🪋",
+    "tts": "ìràwọ̀ tó ń jábọ́"
+  },
+  {
+    "cp": "🪌",
+    "tts": "ìpàwérẹ́"
+  },
+  {
+    "cp": "🪍",
+    "tts": "àwọ̀n pẹ̀lú èkù"
+  },
+  {
     "cp": "🪎",
     "tts": "àpótí ìṣura"
   },
@@ -16452,6 +16468,10 @@
     "tts": "ẹ̀dá onírun"
   },
   {
+    "cp": "🫌",
+    "tts": "labalábá ọba"
+  },
+  {
     "cp": "🫍",
     "tts": "òbéjé"
   },
@@ -16516,6 +16536,10 @@
     "tts": "ohun ọ̀gbìn onígbòǹgbọ̀"
   },
   {
+    "cp": "🫝",
+    "tts": "èso apálá"
+  },
+  {
     "cp": "🫟",
     "tts": "fọ́nká"
   },
@@ -16562,6 +16586,10 @@
   {
     "cp": "🫪",
     "tts": "ojú tó ti dìdàkudà"
+  },
+  {
+    "cp": "🫫",
+    "tts": "ojú tó ń sán"
   },
   {
     "cp": "🫯",
@@ -16862,5 +16890,53 @@
   {
     "cp": "🫸🏿",
     "tts": "títi ọwọ́ sọ́tun: adúláwọ̀"
+  },
+  {
+    "cp": "🫹",
+    "tts": "àmì àtàǹpàkò sí apá òsì"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "àmì àtàǹpàkò sí apá òsì: amọ́lára"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "àmì àtàǹpàkò sí apá òsì: amọ́lára díẹ̀"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "àmì àtàǹpàkò sí apá òsì: amọ́láwọ̀ díẹ̀"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "àmì àtàǹpàkò sí apá òsì: adúláwọ̀ díẹ̀"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "àmì àtàǹpàkò sí apá òsì: adúláwọ̀"
+  },
+  {
+    "cp": "🫺",
+    "tts": "àmì àtàǹpàkò sí apá ọ̀tún"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "àmì àtàǹpàkò sí apá ọ̀tún: amọ́lára"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "àmì àtàǹpàkò sí apá ọ̀tún: amọ́lára díẹ̀"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "àmì àtàǹpàkò sí apá ọ̀tún: amọ́láwọ̀ díẹ̀"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "àmì àtàǹpàkò sí apá ọ̀tún: adúláwọ̀ díẹ̀"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "àmì àtàǹpàkò sí apá ọ̀tún: adúláwọ̀"
   }
 ]

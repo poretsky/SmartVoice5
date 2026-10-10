@@ -1745,7 +1745,7 @@
   },
   {
     "cp": "✈",
-    "tts": "aeroplane"
+    "tts": "airplane"
   },
   {
     "cp": "✉",
@@ -2497,7 +2497,7 @@
   },
   {
     "cp": "🇭🇲",
-    "tts": "flag: Heard \u0026 McDonald Islands"
+    "tts": "flag: Heard Island \u0026 McDonald Islands"
   },
   {
     "cp": "🇭🇳",
@@ -2913,7 +2913,7 @@
   },
   {
     "cp": "🇸🇭",
-    "tts": "flag: St. Helena"
+    "tts": "flag: St. Helena, Ascension \u0026 Tristan da Cunha"
   },
   {
     "cp": "🇸🇮",
@@ -2985,7 +2985,7 @@
   },
   {
     "cp": "🇹🇫",
-    "tts": "flag: French Southern Territories"
+    "tts": "flag: French Southern and Antarctic Lands"
   },
   {
     "cp": "🇹🇬",
@@ -3405,7 +3405,7 @@
   },
   {
     "cp": "🍆",
-    "tts": "aubergine"
+    "tts": "eggplant"
   },
   {
     "cp": "🍇",
@@ -3885,7 +3885,7 @@
   },
   {
     "cp": "🎽",
-    "tts": "running shirt"
+    "tts": "running top"
   },
   {
     "cp": "🎾",
@@ -4409,7 +4409,7 @@
   },
   {
     "cp": "🏏",
-    "tts": "cricket game"
+    "tts": "cricket match"
   },
   {
     "cp": "🏐",
@@ -11133,11 +11133,11 @@
   },
   {
     "cp": "🚗",
-    "tts": "car"
+    "tts": "automobile"
   },
   {
     "cp": "🚘",
-    "tts": "oncoming car"
+    "tts": "oncoming automobile"
   },
   {
     "cp": "🚙",
@@ -11717,7 +11717,7 @@
   },
   {
     "cp": "🛎",
-    "tts": "service bell"
+    "tts": "bellhop bell"
   },
   {
     "cp": "🛏",
@@ -11750,6 +11750,10 @@
   {
     "cp": "🛘",
     "tts": "landslide"
+  },
+  {
+    "cp": "🛙",
+    "tts": "lighthouse"
   },
   {
     "cp": "🛜",
@@ -11789,19 +11793,19 @@
   },
   {
     "cp": "🛥",
-    "tts": "motorboat"
+    "tts": "motor boat"
   },
   {
     "cp": "🛩",
-    "tts": "small aeroplane"
+    "tts": "small airplane"
   },
   {
     "cp": "🛫",
-    "tts": "aeroplane departure"
+    "tts": "airplane departure"
   },
   {
     "cp": "🛬",
-    "tts": "aeroplane arrival"
+    "tts": "airplane arrival"
   },
   {
     "cp": "🛰",
@@ -16164,6 +16168,18 @@
     "tts": "trombone"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "rubber"
+  },
+  {
+    "cp": "🪍",
+    "tts": "net with handle"
+  },
+  {
     "cp": "🪎",
     "tts": "treasure chest"
   },
@@ -16456,6 +16472,10 @@
     "tts": "hairy creature"
   },
   {
+    "cp": "🫌",
+    "tts": "monarch butterfly"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -16520,6 +16540,10 @@
     "tts": "root vegetable"
   },
   {
+    "cp": "🫝",
+    "tts": "gherkin"
+  },
+  {
     "cp": "🫟",
     "tts": "splatter"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "distorted face"
+  },
+  {
+    "cp": "🫫",
+    "tts": "cracking face"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "rightwards pushing hand: dark skin tone"
+  },
+  {
+    "cp": "🫹",
+    "tts": "leftwards thumb sign"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "leftwards thumb sign: light skin tone"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "leftwards thumb sign: medium-light skin tone"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "leftwards thumb sign: medium skin tone"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "leftwards thumb sign: medium-dark skin tone"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "leftwards thumb sign: dark skin tone"
+  },
+  {
+    "cp": "🫺",
+    "tts": "rightwards thumb sign"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "rightwards thumb sign: light skin tone"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "rightwards thumb sign: medium-light skin tone"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "rightwards thumb sign: medium skin tone"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "rightwards thumb sign: medium-dark skin tone"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "rightwards thumb sign: dark skin tone"
   }
 ]

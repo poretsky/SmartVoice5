@@ -621,7 +621,7 @@
   },
   {
     "cp": "∙",
-    "tts": "punktoperator"
+    "tts": "multiplikationspunktoperator"
   },
   {
     "cp": "√",
@@ -885,7 +885,7 @@
   },
   {
     "cp": "⋅",
-    "tts": "prickoperator"
+    "tts": "punktoperator"
   },
   {
     "cp": "⋆",
@@ -11748,6 +11748,10 @@
     "tts": "jordskred"
   },
   {
+    "cp": "🛙",
+    "tts": "fyr"
+  },
+  {
     "cp": "🛜",
     "tts": "trådlös"
   },
@@ -16160,6 +16164,18 @@
     "tts": "trombon"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "suddgummi"
+  },
+  {
+    "cp": "🪍",
+    "tts": "håv"
+  },
+  {
     "cp": "🪎",
     "tts": "skattkista"
   },
@@ -16452,6 +16468,10 @@
     "tts": "hårig varelse"
   },
   {
+    "cp": "🫌",
+    "tts": "monarkfjäril"
+  },
+  {
     "cp": "🫍",
     "tts": "späckhuggare"
   },
@@ -16516,6 +16536,10 @@
     "tts": "rotfrukt"
   },
   {
+    "cp": "🫝",
+    "tts": "smörgåsgurka"
+  },
+  {
     "cp": "🫟",
     "tts": "stänk"
   },
@@ -16529,7 +16553,7 @@
   },
   {
     "cp": "🫢",
-    "tts": "ansikte med öppna ögon och hand för munnen"
+    "tts": "ansikte med stora ögon och hand för mun"
   },
   {
     "cp": "🫣",
@@ -16562,6 +16586,10 @@
   {
     "cp": "🫪",
     "tts": "ansikte i närbild"
+  },
+  {
+    "cp": "🫫",
+    "tts": "ansikte som spricker"
   },
   {
     "cp": "🫯",
@@ -16862,5 +16890,53 @@
   {
     "cp": "🫸🏿",
     "tts": "hand som knuffar åt höger: mörk hy"
+  },
+  {
+    "cp": "🫹",
+    "tts": "tumme åt vänster"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "tumme åt vänster: ljus hy"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "tumme åt vänster: mellanljus hy"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "tumme åt vänster: mellanfärgad hy"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "tumme åt vänster: mellanmörk hy"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "tumme åt vänster: mörk hy"
+  },
+  {
+    "cp": "🫺",
+    "tts": "tumme åt höger"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "tumme åt höger: ljus hy"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "tumme åt höger: mellanljus hy"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "tumme åt höger: mellanfärgad hy"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "tumme åt höger: mellanmörk hy"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "tumme åt höger: mörk hy"
   }
 ]

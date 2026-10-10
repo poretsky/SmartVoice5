@@ -11736,6 +11736,10 @@
     "tts": "zesunjenje zemje"
   },
   {
+    "cp": "🛙",
+    "tts": "swětłownja"
+  },
+  {
     "cp": "🛜",
     "tts": "bjez kabla"
   },
@@ -14049,7 +14053,7 @@
   },
   {
     "cp": "🧑‍🎄",
-    "tts": "hodowna wosoba"
+    "tts": "hodowna"
   },
   {
     "cp": "🧑‍🎓",
@@ -14221,7 +14225,7 @@
   },
   {
     "cp": "🧑🏻‍🎄",
-    "tts": "hodowna wosoba: swětła barba kože"
+    "tts": "hodowna: swětła barba kože"
   },
   {
     "cp": "🧑🏻‍🎓",
@@ -14425,7 +14429,7 @@
   },
   {
     "cp": "🧑🏼‍🎄",
-    "tts": "hodowna wosoba: srěnjoswětła barba kože"
+    "tts": "hodowna: srěnjoswětła barba kože"
   },
   {
     "cp": "🧑🏼‍🎓",
@@ -14629,7 +14633,7 @@
   },
   {
     "cp": "🧑🏽‍🎄",
-    "tts": "hodowna wosoba: srěnja barba kože"
+    "tts": "hodowna: srěnja barba kože"
   },
   {
     "cp": "🧑🏽‍🎓",
@@ -14833,7 +14837,7 @@
   },
   {
     "cp": "🧑🏾‍🎄",
-    "tts": "hodowna wosoba: srěnjoćmowa barba kože"
+    "tts": "hodowna: srěnjoćmowa barba kože"
   },
   {
     "cp": "🧑🏾‍🎓",
@@ -15037,7 +15041,7 @@
   },
   {
     "cp": "🧑🏿‍🎄",
-    "tts": "hodowna wosoba: ćmowa barba kože"
+    "tts": "hodowna: ćmowa barba kože"
   },
   {
     "cp": "🧑🏿‍🎓",
@@ -16148,6 +16152,18 @@
     "tts": "pozawna"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "drapak"
+  },
+  {
+    "cp": "🪍",
+    "tts": "sak z přimadłom"
+  },
+  {
     "cp": "🪎",
     "tts": "křinja z pokładom"
   },
@@ -16440,6 +16456,10 @@
     "tts": "kosmata potwora"
   },
   {
+    "cp": "🫌",
+    "tts": "monarchowa mjetelčka"
+  },
+  {
     "cp": "🫍",
     "tts": "orka"
   },
@@ -16504,6 +16524,10 @@
     "tts": "korjenjowa zelenina"
   },
   {
+    "cp": "🫝",
+    "tts": "kisała kórka"
+  },
+  {
     "cp": "🫟",
     "tts": "plusk"
   },
@@ -16550,6 +16574,10 @@
   {
     "cp": "🫪",
     "tts": "sćehnjene wobličo"
+  },
+  {
+    "cp": "🫫",
+    "tts": "rozkwěkane wobličo"
   },
   {
     "cp": "🫯",
@@ -16850,5 +16878,53 @@
   {
     "cp": "🫸🏿",
     "tts": "ruka, kiž tłóči doprawa: ćmowa barba kože"
+  },
+  {
+    "cp": "🫹",
+    "tts": "palc dolěwa"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "palc dolěwa: swětła barba kože"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "palc dolěwa: srěnjoswětła barba kože"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "palc dolěwa: srěnja barba kože"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "palc dolěwa: srěnjoćmowa barba kože"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "palc dolěwa: ćmowa barba kože"
+  },
+  {
+    "cp": "🫺",
+    "tts": "palc doprawa"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "palc doprawa: swětła barba kože"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "palc doprawa: srěnjoswětła barba kože"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "palc doprawa: srěnja barba kože"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "palc doprawa: srěnjoćmowa barba kože"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "palc doprawa: ćmowa barba kože"
   }
 ]

@@ -393,7 +393,7 @@
   },
   {
     "cp": "⇄",
-    "tts": "umcibisholo wakwesokudla ngaphezu komcibisholo wakwesokunxele"
+    "tts": "umcibisholo wakwesokudla ngaphezu kowakwesokunxele"
   },
   {
     "cp": "⇅",
@@ -405,7 +405,7 @@
   },
   {
     "cp": "⇇",
-    "tts": "imicibisholo ebhangqiwe yangakwesokunxele"
+    "tts": "imicibisholo ebhanqiwe yakwesokunxele"
   },
   {
     "cp": "⇈",
@@ -421,15 +421,15 @@
   },
   {
     "cp": "⇋",
-    "tts": "i-harpoon yangakwesokunxele ngaphezu kwe-harpon yangakwesokudla"
+    "tts": "i-harpoon yakwesokunxele ngaphezu kweyakwesokudla"
   },
   {
     "cp": "⇌",
-    "tts": "i-harpoon yangakwesokudla ngaphezu kwe-harpon yangakwesokunxele"
+    "tts": "i-harpoon yangakwesokudla kwi-harpon kwesokunxele"
   },
   {
     "cp": "⇍",
-    "tts": "i-stroke somcibisholo ongakubili wangakwesokunxele"
+    "tts": "i-stroke somcibisholo wangakwesokunxele"
   },
   {
     "cp": "⇎",
@@ -473,11 +473,11 @@
   },
   {
     "cp": "⇙",
-    "tts": "umcibisholo ongakubili weningizimu esentshonalanga"
+    "tts": "umcibisholo ongakubili weningizimu ntshonalanga"
   },
   {
     "cp": "⇚",
-    "tts": "umcibisholo ongakuthathu wangakwesokunxele"
+    "tts": "umcibisholo ongakuthathu ngakwesokunxele"
   },
   {
     "cp": "⇛",
@@ -485,7 +485,7 @@
   },
   {
     "cp": "⇜",
-    "tts": "umcibisholo we-squiggle ongakwesokunxele"
+    "tts": "umcibisholo we-squiggle kwesokunxele"
   },
   {
     "cp": "⇝",
@@ -2493,7 +2493,7 @@
   },
   {
     "cp": "🇭🇲",
-    "tts": "ifulegi: I-Heard \u0026 McDonald Island"
+    "tts": "ifulegi: i-Heard \u0026 McDonald Island"
   },
   {
     "cp": "🇭🇳",
@@ -3045,11 +3045,11 @@
   },
   {
     "cp": "🇺🇲",
-    "tts": "ifulegi: I-U.S. Outlying Islands"
+    "tts": "ifulegi: i-U.S. Outlying Islands"
   },
   {
     "cp": "🇺🇳",
-    "tts": "ifulegi: I-United Nations"
+    "tts": "ifulegi: i-United Nations"
   },
   {
     "cp": "🇺🇸",
@@ -9237,7 +9237,7 @@
   },
   {
     "cp": "📪",
-    "tts": "ibhokisi leposi elivaliwe elinefulegi elehlisiwe"
+    "tts": "iposi elivaliwe elinefulegi elehlisiwe"
   },
   {
     "cp": "📫",
@@ -9245,7 +9245,7 @@
   },
   {
     "cp": "📬",
-    "tts": "ibhokisi leposi elivuliwe elinefulgi eliphakanyisiwe"
+    "tts": "iposi elivuliwe elinefulegi eliphakanyisiwe"
   },
   {
     "cp": "📭",
@@ -9373,7 +9373,7 @@
   },
   {
     "cp": "🔍",
-    "tts": "ibhodlela elikhulisayo elibheke kwesokunxele"
+    "tts": "ibhodlela elibheke kwesokunxele"
   },
   {
     "cp": "🔎",
@@ -10053,11 +10053,11 @@
   },
   {
     "cp": "😅",
-    "tts": "ubuso obumoyizelayo obuvule umlomo nomjuluko obandayo"
+    "tts": "ubuso obuhleka inhlinini obujulukile"
   },
   {
     "cp": "😆",
-    "tts": "ubuso obumoyizelayo buvule umlomo buvale amehlo"
+    "tts": "ubuso obuhleka inhlinini buvale amehlo"
   },
   {
     "cp": "😇",
@@ -10145,7 +10145,7 @@
   },
   {
     "cp": "😜",
-    "tts": "ubuso obukhiphele phandle ulimi obucishe ihlo"
+    "tts": "ubuso obucife ihlo bakhipha ulimi"
   },
   {
     "cp": "😝",
@@ -11458,6 +11458,10 @@
   {
     "cp": "🛘",
     "tts": "ukudilika komhlaba"
+  },
+  {
+    "cp": "🛙",
+    "tts": "indlu yesibani"
   },
   {
     "cp": "🛜",
@@ -15728,6 +15732,18 @@
     "tts": "trombone"
   },
   {
+    "cp": "🪋",
+    "tts": "umkhathi"
+  },
+  {
+    "cp": "🪌",
+    "tts": "irabha"
+  },
+  {
+    "cp": "🪍",
+    "tts": "inethi esesibambo"
+  },
+  {
     "cp": "🪎",
     "tts": "treasure chest"
   },
@@ -16020,6 +16036,10 @@
     "tts": "isidalwa esinoboya"
   },
   {
+    "cp": "🫌",
+    "tts": "monarch butterfly"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -16084,6 +16104,10 @@
     "tts": "Iveji eliyingxabu"
   },
   {
+    "cp": "🫝",
+    "tts": "pickle"
+  },
+  {
     "cp": "🫟",
     "tts": "splatter"
   },
@@ -16130,6 +16154,10 @@
   {
     "cp": "🫪",
     "tts": "ubuso obuhlanekezelwe"
+  },
+  {
+    "cp": "🫫",
+    "tts": "cracking face"
   },
   {
     "cp": "🫯",
@@ -16430,5 +16458,53 @@
   {
     "cp": "🫸🏿",
     "tts": "rightwards pushing hand: uhlobo-6"
+  },
+  {
+    "cp": "🫹",
+    "tts": "uphawu lwesithupha lwesobunxele"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "uphawu lwesithupha lwesobunxele: uhlobo-1-2"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "uphawu lwesithupha lwesobunxele: uhlobo-3"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "uphawu lwesithupha lwesobunxele: uhlobo-4"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "uphawu lwesithupha lwesobunxele: uhlobo-5"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "uphawu lwesithupha lwesobunxele: uhlobo-6"
+  },
+  {
+    "cp": "🫺",
+    "tts": "uphawu lwesithupha sokudla"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "uphawu lwesithupha sokudla: uhlobo-1-2"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "uphawu lwesithupha sokudla: uhlobo-3"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "uphawu lwesithupha sokudla: uhlobo-4"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "uphawu lwesithupha sokudla: uhlobo-5"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "uphawu lwesithupha sokudla: uhlobo-6"
   }
 ]

@@ -73,7 +73,7 @@
   },
   {
     "cp": "₡",
-    "tts": "Costa Rica-i colon"
+    "tts": "Costa Rica-i colón"
   },
   {
     "cp": "₢",
@@ -11752,6 +11752,10 @@
     "tts": "földcsuszamlás"
   },
   {
+    "cp": "🛙",
+    "tts": "világítótorony"
+  },
+  {
     "cp": "🛜",
     "tts": "vezeték nélküli"
   },
@@ -16164,6 +16168,18 @@
     "tts": "harsona"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "radír"
+  },
+  {
+    "cp": "🪍",
+    "tts": "nyeles háló"
+  },
+  {
     "cp": "🪎",
     "tts": "kincsesláda"
   },
@@ -16456,6 +16472,10 @@
     "tts": "szőrös lény"
   },
   {
+    "cp": "🫌",
+    "tts": "királylepke"
+  },
+  {
     "cp": "🫍",
     "tts": "kardszárnyú delfin"
   },
@@ -16520,6 +16540,10 @@
     "tts": "gyökérzöldség"
   },
   {
+    "cp": "🫝",
+    "tts": "csemegeuborka"
+  },
+  {
     "cp": "🫟",
     "tts": "fröccsenés"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "eltorzult arc"
+  },
+  {
+    "cp": "🫫",
+    "tts": "repedezett arc"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "jobbra toló kéz: sötét bőrtónus"
+  },
+  {
+    "cp": "🫹",
+    "tts": "balra mutató hüvelykujj"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "balra mutató hüvelykujj: világos bőrtónus"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "balra mutató hüvelykujj: közepesen világos bőrtónus"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "balra mutató hüvelykujj: közepes bőrtónus"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "balra mutató hüvelykujj: közepesen sötét bőrtónus"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "balra mutató hüvelykujj: sötét bőrtónus"
+  },
+  {
+    "cp": "🫺",
+    "tts": "jobbra mutató hüvelykujj"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "jobbra mutató hüvelykujj: világos bőrtónus"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "jobbra mutató hüvelykujj: közepesen világos bőrtónus"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "jobbra mutató hüvelykujj: közepes bőrtónus"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "jobbra mutató hüvelykujj: közepesen sötét bőrtónus"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "jobbra mutató hüvelykujj: sötét bőrtónus"
   }
 ]

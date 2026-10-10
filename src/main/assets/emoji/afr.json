@@ -11748,6 +11748,10 @@
     "tts": "grondstorting"
   },
   {
+    "cp": "🛙",
+    "tts": "lugtoring"
+  },
+  {
     "cp": "🛜",
     "tts": "draadloos"
   },
@@ -16160,6 +16164,18 @@
     "tts": "tromboon"
   },
   {
+    "cp": "🪋",
+    "tts": "meteoor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "uitveër"
+  },
+  {
+    "cp": "🪍",
+    "tts": "vangnet met steel"
+  },
+  {
     "cp": "🪎",
     "tts": "skatkis"
   },
@@ -16452,6 +16468,10 @@
     "tts": "harige skepsel"
   },
   {
+    "cp": "🫌",
+    "tts": "koningvlinder"
+  },
+  {
     "cp": "🫍",
     "tts": "moordvis"
   },
@@ -16516,6 +16536,10 @@
     "tts": "wortelgroente"
   },
   {
+    "cp": "🫝",
+    "tts": "agurkie"
+  },
+  {
     "cp": "🫟",
     "tts": "spat"
   },
@@ -16562,6 +16586,10 @@
   {
     "cp": "🫪",
     "tts": "verwronge gesiggie"
+  },
+  {
+    "cp": "🫫",
+    "tts": "gekraakte gesig"
   },
   {
     "cp": "🫯",
@@ -16862,5 +16890,53 @@
   {
     "cp": "🫸🏿",
     "tts": "regswaarts drukkende hand: donker velkleur"
+  },
+  {
+    "cp": "🫹",
+    "tts": "links duimgooi"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "links duimgooi: ligte velkleur"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "links duimgooi: medium-ligte velkleur"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "links duimgooi: medium velkleur"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "links duimgooi: medium-donker velkleur"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "links duimgooi: donker velkleur"
+  },
+  {
+    "cp": "🫺",
+    "tts": "regs duimgooi"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "regs duimgooi: ligte velkleur"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "regs duimgooi: medium-ligte velkleur"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "regs duimgooi: medium velkleur"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "regs duimgooi: medium-donker velkleur"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "regs duimgooi: donker velkleur"
   }
 ]

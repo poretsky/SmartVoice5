@@ -10700,6 +10700,10 @@
     "tts": "jordskred"
   },
   {
+    "cp": "🛙",
+    "tts": "fyrtårn"
+  },
+  {
     "cp": "🛜",
     "tts": "trådløs"
   },
@@ -15112,6 +15116,18 @@
     "tts": "basun"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "viskelæder"
+  },
+  {
+    "cp": "🪍",
+    "tts": "net med skaft"
+  },
+  {
     "cp": "🪎",
     "tts": "skattekiste"
   },
@@ -15404,6 +15420,10 @@
     "tts": "behåret væsen"
   },
   {
+    "cp": "🫌",
+    "tts": "monark (sommerfugl)"
+  },
+  {
     "cp": "🫍",
     "tts": "spækhugger"
   },
@@ -15468,6 +15488,10 @@
     "tts": "rodfrugt"
   },
   {
+    "cp": "🫝",
+    "tts": "drueagurk"
+  },
+  {
     "cp": "🫟",
     "tts": "klat"
   },
@@ -15514,6 +15538,10 @@
   {
     "cp": "🫪",
     "tts": "forvrænget ansigt"
+  },
+  {
+    "cp": "🫫",
+    "tts": "krakelerende ansigt"
   },
   {
     "cp": "🫯",
@@ -15814,5 +15842,53 @@
   {
     "cp": "🫸🏿",
     "tts": "hånd skubber mod højre: mørk teint"
+  },
+  {
+    "cp": "🫹",
+    "tts": "tommelfinger til venstre"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "tommelfinger til venstre: lys teint"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "tommelfinger til venstre: medium til lys teint"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "tommelfinger til venstre: medium teint"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "tommelfinger til venstre: medium til mørk teint"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "tommelfinger til venstre: mørk teint"
+  },
+  {
+    "cp": "🫺",
+    "tts": "tommelfinger til højre"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "tommelfinger til højre: lys teint"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "tommelfinger til højre: medium til lys teint"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "tommelfinger til højre: medium teint"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "tommelfinger til højre: medium til mørk teint"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "tommelfinger til højre: mørk teint"
   }
 ]

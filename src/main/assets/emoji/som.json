@@ -45,7 +45,7 @@
   },
   {
     "cp": "÷",
-    "tts": "calaamada qaybta"
+    "tts": "calaamada qaybinta"
   },
   {
     "cp": "֏",
@@ -969,7 +969,7 @@
   },
   {
     "cp": "⏰",
-    "tts": "saacadda qaylo-dhaanta"
+    "tts": "saacadda alarmiga leh"
   },
   {
     "cp": "⏱",
@@ -2225,7 +2225,7 @@
   },
   {
     "cp": "🇧🇻",
-    "tts": "calan: Buufet Island"
+    "tts": "calan: Jasiiradda Bouvet"
   },
   {
     "cp": "🇧🇼",
@@ -5513,7 +5513,7 @@
   },
   {
     "cp": "👨‍🦳",
-    "tts": "ninka: caddaan"
+    "tts": "ninka: timo cad"
   },
   {
     "cp": "👨‍🦼",
@@ -5697,7 +5697,7 @@
   },
   {
     "cp": "👨🏻‍🦳",
-    "tts": "ninka: jidh fudud, caddaan"
+    "tts": "ninka: jidh fudud, timo cad"
   },
   {
     "cp": "👨🏻‍🦼",
@@ -5897,7 +5897,7 @@
   },
   {
     "cp": "👨🏼‍🦳",
-    "tts": "ninka: jidh fudud oo dhexe, caddaan"
+    "tts": "ninka: jidh fudud oo dhexe, timo cad"
   },
   {
     "cp": "👨🏼‍🦼",
@@ -6097,7 +6097,7 @@
   },
   {
     "cp": "👨🏽‍🦳",
-    "tts": "ninka: jidh nooc dhexe, caddaan"
+    "tts": "ninka: jidh nooc dhexe, timo cad"
   },
   {
     "cp": "👨🏽‍🦼",
@@ -6297,7 +6297,7 @@
   },
   {
     "cp": "👨🏾‍🦳",
-    "tts": "ninka: jidh nooc madaw oo dhexe, caddaan"
+    "tts": "ninka: jidh nooc madaw oo dhexe, timo cad"
   },
   {
     "cp": "👨🏾‍🦼",
@@ -6497,7 +6497,7 @@
   },
   {
     "cp": "👨🏿‍🦳",
-    "tts": "ninka: jidh madaw, caddaan"
+    "tts": "ninka: jidh madaw, timo cad"
   },
   {
     "cp": "👨🏿‍🦼",
@@ -6681,7 +6681,7 @@
   },
   {
     "cp": "👩‍🦳",
-    "tts": "naag: caddaan"
+    "tts": "naag: timo cad"
   },
   {
     "cp": "👩‍🦼",
@@ -6921,7 +6921,7 @@
   },
   {
     "cp": "👩🏻‍🦳",
-    "tts": "naag: jidh fudud, caddaan"
+    "tts": "naag: jidh fudud, timo cad"
   },
   {
     "cp": "👩🏻‍🦼",
@@ -7177,7 +7177,7 @@
   },
   {
     "cp": "👩🏼‍🦳",
-    "tts": "naag: jidh fudud oo dhexe, caddaan"
+    "tts": "naag: jidh fudud oo dhexe, timo cad"
   },
   {
     "cp": "👩🏼‍🦼",
@@ -7433,7 +7433,7 @@
   },
   {
     "cp": "👩🏽‍🦳",
-    "tts": "naag: jidh nooc dhexe, caddaan"
+    "tts": "naag: jidh nooc dhexe, timo cad"
   },
   {
     "cp": "👩🏽‍🦼",
@@ -7689,7 +7689,7 @@
   },
   {
     "cp": "👩🏾‍🦳",
-    "tts": "naag: jidh nooc madaw oo dhexe, caddaan"
+    "tts": "naag: jidh nooc madaw oo dhexe, timo cad"
   },
   {
     "cp": "👩🏾‍🦼",
@@ -7945,7 +7945,7 @@
   },
   {
     "cp": "👩🏿‍🦳",
-    "tts": "naag: jidh madaw, caddaan"
+    "tts": "naag: jidh madaw, timo cad"
   },
   {
     "cp": "👩🏿‍🦼",
@@ -9781,7 +9781,7 @@
   },
   {
     "cp": "🔽",
-    "tts": "badhanka xagga hoose"
+    "tts": "badhanka xagga hoose u jeeda"
   },
   {
     "cp": "🕉",
@@ -10065,7 +10065,7 @@
   },
   {
     "cp": "🖌",
-    "tts": "burushka buufinta"
+    "tts": "burushka rinjiga"
   },
   {
     "cp": "🖍",
@@ -11746,6 +11746,10 @@
   {
     "cp": "🛘",
     "tts": "dhul go’id"
+  },
+  {
+    "cp": "🛙",
+    "tts": "munaaradda hagidda maraakiibta"
   },
   {
     "cp": "🛜",
@@ -13441,7 +13445,7 @@
   },
   {
     "cp": "🦳",
-    "tts": "caddaan"
+    "tts": "timo cad"
   },
   {
     "cp": "🦴",
@@ -14133,7 +14137,7 @@
   },
   {
     "cp": "🧑‍🦳",
-    "tts": "qof: caddaan"
+    "tts": "qof: timo cad"
   },
   {
     "cp": "🧑‍🦼",
@@ -14337,7 +14341,7 @@
   },
   {
     "cp": "🧑🏻‍🦳",
-    "tts": "qof: jidh fudud, caddaan"
+    "tts": "qof: jidh fudud, timo cad"
   },
   {
     "cp": "🧑🏻‍🦼",
@@ -14541,7 +14545,7 @@
   },
   {
     "cp": "🧑🏼‍🦳",
-    "tts": "qof: jidh fudud oo dhexe, caddaan"
+    "tts": "qof: jidh fudud oo dhexe, timo cad"
   },
   {
     "cp": "🧑🏼‍🦼",
@@ -14745,7 +14749,7 @@
   },
   {
     "cp": "🧑🏽‍🦳",
-    "tts": "qof: jidh nooc dhexe, caddaan"
+    "tts": "qof: jidh nooc dhexe, timo cad"
   },
   {
     "cp": "🧑🏽‍🦼",
@@ -14949,7 +14953,7 @@
   },
   {
     "cp": "🧑🏾‍🦳",
-    "tts": "qof: jidh nooc madaw oo dhexe, caddaan"
+    "tts": "qof: jidh nooc madaw oo dhexe, timo cad"
   },
   {
     "cp": "🧑🏾‍🦼",
@@ -15153,7 +15157,7 @@
   },
   {
     "cp": "🧑🏿‍🦳",
-    "tts": "qof: jidh madaw, caddaan"
+    "tts": "qof: jidh madaw, timo cad"
   },
   {
     "cp": "🧑🏿‍🦼",
@@ -16160,6 +16164,18 @@
     "tts": "turumbo"
   },
   {
+    "cp": "🪋",
+    "tts": "Xiddig dhacaya"
+  },
+  {
+    "cp": "🪌",
+    "tts": "tirtire"
+  },
+  {
+    "cp": "🪍",
+    "tts": "shabaq leh goob la qabto"
+  },
+  {
     "cp": "🪎",
     "tts": "sanduuqa keyd maaliyadeedka"
   },
@@ -16349,7 +16365,7 @@
   },
   {
     "cp": "🪽",
-    "tts": "wing"
+    "tts": "garab"
   },
   {
     "cp": "🪾",
@@ -16452,6 +16468,10 @@
     "tts": "makhluuqa xaadoolaha"
   },
   {
+    "cp": "🫌",
+    "tts": "balanbaalista monarch"
+  },
+  {
     "cp": "🫍",
     "tts": "nibiriga orkaha"
   },
@@ -16516,6 +16536,10 @@
     "tts": "khudradda xididka ah"
   },
   {
+    "cp": "🫝",
+    "tts": "qajaar dhanaan"
+  },
+  {
     "cp": "🫟",
     "tts": "firdhiye"
   },
@@ -16562,6 +16586,10 @@
   {
     "cp": "🫪",
     "tts": "weji la qaloociyay"
+  },
+  {
+    "cp": "🫫",
+    "tts": "weji dilaacsan"
   },
   {
     "cp": "🫯",
@@ -16862,5 +16890,53 @@
   {
     "cp": "🫸🏿",
     "tts": "gacanta riixid bidix u socota: jidh madaw"
+  },
+  {
+    "cp": "🫹",
+    "tts": "calaamada suul-taaga gacanta bidix"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "calaamada suul-taaga gacanta bidix: jidh fudud"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "calaamada suul-taaga gacanta bidix: jidh fudud oo dhexe"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "calaamada suul-taaga gacanta bidix: jidh nooc dhexe"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "calaamada suul-taaga gacanta bidix: jidh nooc madaw oo dhexe"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "calaamada suul-taaga gacanta bidix: jidh madaw"
+  },
+  {
+    "cp": "🫺",
+    "tts": "calaamada suul-taaga gacanta midigta"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "calaamada suul-taaga gacanta midigta: jidh fudud"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "calaamada suul-taaga gacanta midigta: jidh fudud oo dhexe"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "calaamada suul-taaga gacanta midigta: jidh nooc dhexe"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "calaamada suul-taaga gacanta midigta: jidh nooc madaw oo dhexe"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "calaamada suul-taaga gacanta midigta: jidh madaw"
   }
 ]

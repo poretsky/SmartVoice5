@@ -1317,7 +1317,7 @@
   },
   {
     "cp": "☄",
-    "tts": "meteorito"
+    "tts": "cometa espacial"
   },
   {
     "cp": "☎",
@@ -11752,6 +11752,10 @@
     "tts": "desprendimiento"
   },
   {
+    "cp": "🛙",
+    "tts": "faro"
+  },
+  {
     "cp": "🛜",
     "tts": "wifi"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trombón"
   },
   {
+    "cp": "🪋",
+    "tts": "meteorito"
+  },
+  {
+    "cp": "🪌",
+    "tts": "goma de borrar"
+  },
+  {
+    "cp": "🪍",
+    "tts": "red con mango"
+  },
+  {
     "cp": "🪎",
     "tts": "cofre de tesoro"
   },
@@ -16456,6 +16472,10 @@
     "tts": "criatura peluda"
   },
   {
+    "cp": "🫌",
+    "tts": "mariposa monarca"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -16520,6 +16540,10 @@
     "tts": "túberculo comestible"
   },
   {
+    "cp": "🫝",
+    "tts": "pepinillo"
+  },
+  {
     "cp": "🫟",
     "tts": "salpicadura"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "cara deformada"
+  },
+  {
+    "cp": "🫫",
+    "tts": "cara resquebrajándose"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "mano empujando hacia la derecha: tono de piel oscuro"
+  },
+  {
+    "cp": "🫹",
+    "tts": "pulgar hacia la izquierda"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "pulgar hacia la izquierda: tono de piel claro"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "pulgar hacia la izquierda: tono de piel claro medio"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "pulgar hacia la izquierda: tono de piel medio"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "pulgar hacia la izquierda: tono de piel oscuro medio"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "pulgar hacia la izquierda: tono de piel oscuro"
+  },
+  {
+    "cp": "🫺",
+    "tts": "pulgar hacia la derecha"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "pulgar hacia la derecha: tono de piel claro"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "pulgar hacia la derecha: tono de piel claro medio"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "pulgar hacia la derecha: tono de piel medio"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "pulgar hacia la derecha: tono de piel oscuro medio"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "pulgar hacia la derecha: tono de piel oscuro"
   }
 ]

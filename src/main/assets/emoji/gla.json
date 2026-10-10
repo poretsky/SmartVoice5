@@ -11752,6 +11752,10 @@
     "tts": "maoim-talmhainn"
   },
   {
+    "cp": "🛙",
+    "tts": "taigh-solais"
+  },
+  {
     "cp": "🛜",
     "tts": "uèirleas"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trompan"
   },
   {
+    "cp": "🪋",
+    "tts": "meataor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "rubair"
+  },
+  {
+    "cp": "🪍",
+    "tts": "lìon le làmh"
+  },
+  {
     "cp": "🪎",
     "tts": "ciste-ulaidh"
   },
@@ -16456,6 +16472,14 @@
     "tts": "creutair molach"
   },
   {
+    "cp": "🫌",
+    "tts": "monarch butterfly"
+  },
+  {
+    "cp": "🫍",
+    "tts": "orc"
+  },
+  {
     "cp": "🫎",
     "tts": "lon"
   },
@@ -16516,6 +16540,10 @@
     "tts": "bun-lus"
   },
   {
+    "cp": "🫝",
+    "tts": "pickle"
+  },
+  {
     "cp": "🫟",
     "tts": "steallag"
   },
@@ -16562,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "aodann mì-dhealbhaichte"
+  },
+  {
+    "cp": "🫫",
+    "tts": "aghaidh sgàinte"
   },
   {
     "cp": "🫯",
@@ -16862,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "làmh a’ putadh dhan taobh dheas: tòna doilleir a’ chraicinn"
+  },
+  {
+    "cp": "🫹",
+    "tts": "soidhne òrdag clì"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "soidhne òrdag clì: tòna soilleir a’ chraicinn"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "soidhne òrdag clì: tòna meadhanach soilleir a’ chraicinn"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "soidhne òrdag clì: tòna meadhanach a’ chraicinn"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "soidhne òrdag clì: tòna meadhanach doilleir a’ chraicinn"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "soidhne òrdag clì: tòna doilleir a’ chraicinn"
+  },
+  {
+    "cp": "🫺",
+    "tts": "soidhne òrdag deas"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "soidhne òrdag deas: tòna soilleir a’ chraicinn"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "soidhne òrdag deas: tòna meadhanach soilleir a’ chraicinn"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "soidhne òrdag deas: tòna meadhanach a’ chraicinn"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "soidhne òrdag deas: tòna meadhanach doilleir a’ chraicinn"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "soidhne òrdag deas: tòna doilleir a’ chraicinn"
   }
 ]

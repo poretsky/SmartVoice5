@@ -3932,8 +3932,20 @@
     "tts": "mace mai yin gudu"
   },
   {
+    "cp": "🏃‍♀‍➡",
+    "tts": "mace mai yin gudu: kallon dama"
+  },
+  {
     "cp": "🏃‍♂",
     "tts": "namiji mai yin gudu"
+  },
+  {
+    "cp": "🏃‍♂‍➡",
+    "tts": "namiji mai yin gudu: kallon dama"
+  },
+  {
+    "cp": "🏃‍➡",
+    "tts": "mutum mai yin gudu: kallon dama"
   },
   {
     "cp": "🏃🏻",
@@ -3944,8 +3956,20 @@
     "tts": "mace mai yin gudu: launin fata mai haske"
   },
   {
+    "cp": "🏃🏻‍♀‍➡",
+    "tts": "mace mai yin gudu: launin fata mai haske, kallon dama"
+  },
+  {
     "cp": "🏃🏻‍♂",
     "tts": "namiji mai yin gudu: launin fata mai haske"
+  },
+  {
+    "cp": "🏃🏻‍♂‍➡",
+    "tts": "namiji mai yin gudu: launin fata mai haske, kallon dama"
+  },
+  {
+    "cp": "🏃🏻‍➡",
+    "tts": "mutum mai yin gudu: launin fata mai haske, kallon dama"
   },
   {
     "cp": "🏃🏼",
@@ -3956,8 +3980,20 @@
     "tts": "mace mai yin gudu: launin fata mai madaidaicin haske"
   },
   {
+    "cp": "🏃🏼‍♀‍➡",
+    "tts": "mace mai yin gudu: launin fata mai madaidaicin haske, kallon dama"
+  },
+  {
     "cp": "🏃🏼‍♂",
     "tts": "namiji mai yin gudu: launin fata mai madaidaicin haske"
+  },
+  {
+    "cp": "🏃🏼‍♂‍➡",
+    "tts": "namiji mai yin gudu: launin fata mai madaidaicin haske, kallon dama"
+  },
+  {
+    "cp": "🏃🏼‍➡",
+    "tts": "mutum mai yin gudu: launin fata mai madaidaicin haske, kallon dama"
   },
   {
     "cp": "🏃🏽",
@@ -3968,8 +4004,20 @@
     "tts": "mace mai yin gudu: madaidaicin launin fata"
   },
   {
+    "cp": "🏃🏽‍♀‍➡",
+    "tts": "mace mai yin gudu: madaidaicin launin fata, kallon dama"
+  },
+  {
     "cp": "🏃🏽‍♂",
     "tts": "namiji mai yin gudu: madaidaicin launin fata"
+  },
+  {
+    "cp": "🏃🏽‍♂‍➡",
+    "tts": "namiji mai yin gudu: madaidaicin launin fata, kallon dama"
+  },
+  {
+    "cp": "🏃🏽‍➡",
+    "tts": "mutum mai yin gudu: madaidaicin launin fata, kallon dama"
   },
   {
     "cp": "🏃🏾",
@@ -3980,8 +4028,20 @@
     "tts": "mace mai yin gudu: launin fata mai madaidaicin duhu"
   },
   {
+    "cp": "🏃🏾‍♀‍➡",
+    "tts": "mace mai yin gudu: launin fata mai madaidaicin duhu, kallon dama"
+  },
+  {
     "cp": "🏃🏾‍♂",
     "tts": "namiji mai yin gudu: launin fata mai madaidaicin duhu"
+  },
+  {
+    "cp": "🏃🏾‍♂‍➡",
+    "tts": "namiji mai yin gudu: launin fata mai madaidaicin duhu, kallon dama"
+  },
+  {
+    "cp": "🏃🏾‍➡",
+    "tts": "mutum mai yin gudu: launin fata mai madaidaicin duhu, kallon dama"
   },
   {
     "cp": "🏃🏿",
@@ -3992,8 +4052,20 @@
     "tts": "mace mai yin gudu: launin fata mai duhu"
   },
   {
+    "cp": "🏃🏿‍♀‍➡",
+    "tts": "mace mai yin gudu: launin fata mai duhu, kallon dama"
+  },
+  {
     "cp": "🏃🏿‍♂",
     "tts": "namiji mai yin gudu: launin fata mai duhu"
+  },
+  {
+    "cp": "🏃🏿‍♂‍➡",
+    "tts": "namiji mai yin gudu: launin fata mai duhu, kallon dama"
+  },
+  {
+    "cp": "🏃🏿‍➡",
+    "tts": "mutum mai yin gudu: launin fata mai duhu, kallon dama"
   },
   {
     "cp": "🏄",
@@ -4492,6 +4564,10 @@
     "tts": "tuta: Ingila"
   },
   {
+    "cp": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "tts": "tuta: Scotland"
+  },
+  {
     "cp": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
     "tts": "tuta: Wales"
   },
@@ -4785,7 +4861,7 @@
   },
   {
     "cp": "🐺",
-    "tts": "ƙyarkaci"
+    "tts": "kyarkeci"
   },
   {
     "cp": "🐻",
@@ -5420,6 +5496,10 @@
     "tts": "mutum da farar sanda"
   },
   {
+    "cp": "👨‍🦯‍➡",
+    "tts": "mutum da farar sanda: kallon dama"
+  },
+  {
     "cp": "👨‍🦰",
     "tts": "namiji: jan gashi"
   },
@@ -5440,8 +5520,16 @@
     "tts": "mutum a keken guragu na lantarki"
   },
   {
+    "cp": "👨‍🦼‍➡",
+    "tts": "mutum a keken guragu na lantarki: kallon dama"
+  },
+  {
     "cp": "👨‍🦽",
     "tts": "na miji a cikin motan gurgu da ke bukatan tuki"
+  },
+  {
+    "cp": "👨‍🦽‍➡",
+    "tts": "na miji a cikin motan gurgu da ke bukatan tuki: kallon dama"
   },
   {
     "cp": "👨🏻",
@@ -5592,6 +5680,10 @@
     "tts": "mutum da farar sanda: launin fata mai haske"
   },
   {
+    "cp": "👨🏻‍🦯‍➡",
+    "tts": "mutum da farar sanda: launin fata mai haske, kallon dama"
+  },
+  {
     "cp": "👨🏻‍🦰",
     "tts": "namiji: launin fata mai haske, jan gashi"
   },
@@ -5612,8 +5704,16 @@
     "tts": "mutum a keken guragu na lantarki: launin fata mai haske"
   },
   {
+    "cp": "👨🏻‍🦼‍➡",
+    "tts": "mutum a keken guragu na lantarki: launin fata mai haske, kallon dama"
+  },
+  {
     "cp": "👨🏻‍🦽",
     "tts": "na miji a cikin motan gurgu da ke bukatan tuki: launin fata mai haske"
+  },
+  {
+    "cp": "👨🏻‍🦽‍➡",
+    "tts": "na miji a cikin motan gurgu da ke bukatan tuki: launin fata mai haske, kallon dama"
   },
   {
     "cp": "👨🏻‍🫯‍👨🏼",
@@ -5780,6 +5880,10 @@
     "tts": "mutum da farar sanda: launin fata mai madaidaicin haske"
   },
   {
+    "cp": "👨🏼‍🦯‍➡",
+    "tts": "mutum da farar sanda: launin fata mai madaidaicin haske, kallon dama"
+  },
+  {
     "cp": "👨🏼‍🦰",
     "tts": "namiji: launin fata mai madaidaicin haske, jan gashi"
   },
@@ -5800,8 +5904,16 @@
     "tts": "mutum a keken guragu na lantarki: launin fata mai madaidaicin haske"
   },
   {
+    "cp": "👨🏼‍🦼‍➡",
+    "tts": "mutum a keken guragu na lantarki: launin fata mai madaidaicin haske, kallon dama"
+  },
+  {
     "cp": "👨🏼‍🦽",
     "tts": "na miji a cikin motan gurgu da ke bukatan tuki: launin fata mai madaidaicin haske"
+  },
+  {
+    "cp": "👨🏼‍🦽‍➡",
+    "tts": "na miji a cikin motan gurgu da ke bukatan tuki: launin fata mai madaidaicin haske, kallon dama"
   },
   {
     "cp": "👨🏼‍🫯‍👨🏻",
@@ -5968,6 +6080,10 @@
     "tts": "mutum da farar sanda: madaidaicin launin fata"
   },
   {
+    "cp": "👨🏽‍🦯‍➡",
+    "tts": "mutum da farar sanda: madaidaicin launin fata, kallon dama"
+  },
+  {
     "cp": "👨🏽‍🦰",
     "tts": "namiji: madaidaicin launin fata, jan gashi"
   },
@@ -5988,8 +6104,16 @@
     "tts": "mutum a keken guragu na lantarki: madaidaicin launin fata"
   },
   {
+    "cp": "👨🏽‍🦼‍➡",
+    "tts": "mutum a keken guragu na lantarki: madaidaicin launin fata, kallon dama"
+  },
+  {
     "cp": "👨🏽‍🦽",
     "tts": "na miji a cikin motan gurgu da ke bukatan tuki: madaidaicin launin fata"
+  },
+  {
+    "cp": "👨🏽‍🦽‍➡",
+    "tts": "na miji a cikin motan gurgu da ke bukatan tuki: madaidaicin launin fata, kallon dama"
   },
   {
     "cp": "👨🏽‍🫯‍👨🏻",
@@ -6156,6 +6280,10 @@
     "tts": "mutum da farar sanda: launin fata mai madaidaicin duhu"
   },
   {
+    "cp": "👨🏾‍🦯‍➡",
+    "tts": "mutum da farar sanda: launin fata mai madaidaicin duhu, kallon dama"
+  },
+  {
     "cp": "👨🏾‍🦰",
     "tts": "namiji: launin fata mai madaidaicin duhu, jan gashi"
   },
@@ -6176,8 +6304,16 @@
     "tts": "mutum a keken guragu na lantarki: launin fata mai madaidaicin duhu"
   },
   {
+    "cp": "👨🏾‍🦼‍➡",
+    "tts": "mutum a keken guragu na lantarki: launin fata mai madaidaicin duhu, kallon dama"
+  },
+  {
     "cp": "👨🏾‍🦽",
     "tts": "na miji a cikin motan gurgu da ke bukatan tuki: launin fata mai madaidaicin duhu"
+  },
+  {
+    "cp": "👨🏾‍🦽‍➡",
+    "tts": "na miji a cikin motan gurgu da ke bukatan tuki: launin fata mai madaidaicin duhu, kallon dama"
   },
   {
     "cp": "👨🏾‍🫯‍👨🏻",
@@ -6344,6 +6480,10 @@
     "tts": "mutum da farar sanda: launin fata mai duhu"
   },
   {
+    "cp": "👨🏿‍🦯‍➡",
+    "tts": "mutum da farar sanda: launin fata mai duhu, kallon dama"
+  },
+  {
     "cp": "👨🏿‍🦰",
     "tts": "namiji: launin fata mai duhu, jan gashi"
   },
@@ -6364,8 +6504,16 @@
     "tts": "mutum a keken guragu na lantarki: launin fata mai duhu"
   },
   {
+    "cp": "👨🏿‍🦼‍➡",
+    "tts": "mutum a keken guragu na lantarki: launin fata mai duhu, kallon dama"
+  },
+  {
     "cp": "👨🏿‍🦽",
     "tts": "na miji a cikin motan gurgu da ke bukatan tuki: launin fata mai duhu"
+  },
+  {
+    "cp": "👨🏿‍🦽‍➡",
+    "tts": "na miji a cikin motan gurgu da ke bukatan tuki: launin fata mai duhu, kallon dama"
   },
   {
     "cp": "👨🏿‍🫯‍👨🏻",
@@ -6516,6 +6664,10 @@
     "tts": "mace da farar sanda"
   },
   {
+    "cp": "👩‍🦯‍➡",
+    "tts": "mace da farar sanda: kallon dama"
+  },
+  {
     "cp": "👩‍🦰",
     "tts": "mace: jan gashi"
   },
@@ -6536,8 +6688,16 @@
     "tts": "mace a kan keken guragu mai inji"
   },
   {
+    "cp": "👩‍🦼‍➡",
+    "tts": "mace a kan keken guragu mai inji: kallon dama"
+  },
+  {
     "cp": "👩‍🦽",
     "tts": "na mace a cikin motan gurgu da ke bukatan tuki"
+  },
+  {
+    "cp": "👩‍🦽‍➡",
+    "tts": "na mace a cikin motan gurgu da ke bukatan tuki: kallon dama"
   },
   {
     "cp": "👩🏻",
@@ -6744,6 +6904,10 @@
     "tts": "mace da farar sanda: launin fata mai haske"
   },
   {
+    "cp": "👩🏻‍🦯‍➡",
+    "tts": "mace da farar sanda: launin fata mai haske, kallon dama"
+  },
+  {
     "cp": "👩🏻‍🦰",
     "tts": "mace: launin fata mai haske, jan gashi"
   },
@@ -6764,8 +6928,16 @@
     "tts": "mace a kan keken guragu mai inji: launin fata mai haske"
   },
   {
+    "cp": "👩🏻‍🦼‍➡",
+    "tts": "mace a kan keken guragu mai inji: launin fata mai haske, kallon dama"
+  },
+  {
     "cp": "👩🏻‍🦽",
     "tts": "na mace a cikin motan gurgu da ke bukatan tuki: launin fata mai haske"
+  },
+  {
+    "cp": "👩🏻‍🦽‍➡",
+    "tts": "na mace a cikin motan gurgu da ke bukatan tuki: launin fata mai haske, kallon dama"
   },
   {
     "cp": "👩🏻‍🫯‍👩🏼",
@@ -6988,6 +7160,10 @@
     "tts": "mace da farar sanda: launin fata mai madaidaicin haske"
   },
   {
+    "cp": "👩🏼‍🦯‍➡",
+    "tts": "mace da farar sanda: launin fata mai madaidaicin haske, kallon dama"
+  },
+  {
     "cp": "👩🏼‍🦰",
     "tts": "mace: launin fata mai madaidaicin haske, jan gashi"
   },
@@ -7008,8 +7184,16 @@
     "tts": "mace a kan keken guragu mai inji: launin fata mai madaidaicin haske"
   },
   {
+    "cp": "👩🏼‍🦼‍➡",
+    "tts": "mace a kan keken guragu mai inji: launin fata mai madaidaicin haske, kallon dama"
+  },
+  {
     "cp": "👩🏼‍🦽",
     "tts": "na mace a cikin motan gurgu da ke bukatan tuki: launin fata mai madaidaicin haske"
+  },
+  {
+    "cp": "👩🏼‍🦽‍➡",
+    "tts": "na mace a cikin motan gurgu da ke bukatan tuki: launin fata mai madaidaicin haske, kallon dama"
   },
   {
     "cp": "👩🏼‍🫯‍👩🏻",
@@ -7232,6 +7416,10 @@
     "tts": "mace da farar sanda: madaidaicin launin fata"
   },
   {
+    "cp": "👩🏽‍🦯‍➡",
+    "tts": "mace da farar sanda: madaidaicin launin fata, kallon dama"
+  },
+  {
     "cp": "👩🏽‍🦰",
     "tts": "mace: madaidaicin launin fata, jan gashi"
   },
@@ -7252,8 +7440,16 @@
     "tts": "mace a kan keken guragu mai inji: madaidaicin launin fata"
   },
   {
+    "cp": "👩🏽‍🦼‍➡",
+    "tts": "mace a kan keken guragu mai inji: madaidaicin launin fata, kallon dama"
+  },
+  {
     "cp": "👩🏽‍🦽",
     "tts": "na mace a cikin motan gurgu da ke bukatan tuki: madaidaicin launin fata"
+  },
+  {
+    "cp": "👩🏽‍🦽‍➡",
+    "tts": "na mace a cikin motan gurgu da ke bukatan tuki: madaidaicin launin fata, kallon dama"
   },
   {
     "cp": "👩🏽‍🫯‍👩🏻",
@@ -7476,6 +7672,10 @@
     "tts": "mace da farar sanda: launin fata mai madaidaicin duhu"
   },
   {
+    "cp": "👩🏾‍🦯‍➡",
+    "tts": "mace da farar sanda: launin fata mai madaidaicin duhu, kallon dama"
+  },
+  {
     "cp": "👩🏾‍🦰",
     "tts": "mace: launin fata mai madaidaicin duhu, jan gashi"
   },
@@ -7496,8 +7696,16 @@
     "tts": "mace a kan keken guragu mai inji: launin fata mai madaidaicin duhu"
   },
   {
+    "cp": "👩🏾‍🦼‍➡",
+    "tts": "mace a kan keken guragu mai inji: launin fata mai madaidaicin duhu, kallon dama"
+  },
+  {
     "cp": "👩🏾‍🦽",
     "tts": "na mace a cikin motan gurgu da ke bukatan tuki: launin fata mai madaidaicin duhu"
+  },
+  {
+    "cp": "👩🏾‍🦽‍➡",
+    "tts": "na mace a cikin motan gurgu da ke bukatan tuki: launin fata mai madaidaicin duhu, kallon dama"
   },
   {
     "cp": "👩🏾‍🫯‍👩🏻",
@@ -7720,6 +7928,10 @@
     "tts": "mace da farar sanda: launin fata mai duhu"
   },
   {
+    "cp": "👩🏿‍🦯‍➡",
+    "tts": "mace da farar sanda: launin fata mai duhu, kallon dama"
+  },
+  {
     "cp": "👩🏿‍🦰",
     "tts": "mace: launin fata mai duhu, jan gashi"
   },
@@ -7740,8 +7952,16 @@
     "tts": "mace a kan keken guragu mai inji: launin fata mai duhu"
   },
   {
+    "cp": "👩🏿‍🦼‍➡",
+    "tts": "mace a kan keken guragu mai inji: launin fata mai duhu, kallon dama"
+  },
+  {
     "cp": "👩🏿‍🦽",
     "tts": "na mace a cikin motan gurgu da ke bukatan tuki: launin fata mai duhu"
+  },
+  {
+    "cp": "👩🏿‍🦽‍➡",
+    "tts": "na mace a cikin motan gurgu da ke bukatan tuki: launin fata mai duhu, kallon dama"
   },
   {
     "cp": "👩🏿‍🫯‍👩🏻",
@@ -11244,8 +11464,20 @@
     "tts": "mace mai yin tafiya ƙafa"
   },
   {
+    "cp": "🚶‍♀‍➡",
+    "tts": "mace mai yin tafiya ƙafa: kallon dama"
+  },
+  {
     "cp": "🚶‍♂",
     "tts": "namiji mai yin tafiya ƙafa"
+  },
+  {
+    "cp": "🚶‍♂‍➡",
+    "tts": "namiji mai yin tafiya ƙafa: kallon dama"
+  },
+  {
+    "cp": "🚶‍➡",
+    "tts": "mutum mai yin tafiya ƙafa: kallon dama"
   },
   {
     "cp": "🚶🏻",
@@ -11256,8 +11488,20 @@
     "tts": "mace mai yin tafiya ƙafa: launin fata mai haske"
   },
   {
+    "cp": "🚶🏻‍♀‍➡",
+    "tts": "mace mai yin tafiya ƙafa: launin fata mai haske, kallon dama"
+  },
+  {
     "cp": "🚶🏻‍♂",
     "tts": "namiji mai yin tafiya ƙafa: launin fata mai haske"
+  },
+  {
+    "cp": "🚶🏻‍♂‍➡",
+    "tts": "namiji mai yin tafiya ƙafa: launin fata mai haske, kallon dama"
+  },
+  {
+    "cp": "🚶🏻‍➡",
+    "tts": "mutum mai yin tafiya ƙafa: launin fata mai haske, kallon dama"
   },
   {
     "cp": "🚶🏼",
@@ -11268,8 +11512,20 @@
     "tts": "mace mai yin tafiya ƙafa: launin fata mai madaidaicin haske"
   },
   {
+    "cp": "🚶🏼‍♀‍➡",
+    "tts": "mace mai yin tafiya ƙafa: launin fata mai madaidaicin haske, kallon dama"
+  },
+  {
     "cp": "🚶🏼‍♂",
     "tts": "namiji mai yin tafiya ƙafa: launin fata mai madaidaicin haske"
+  },
+  {
+    "cp": "🚶🏼‍♂‍➡",
+    "tts": "namiji mai yin tafiya ƙafa: launin fata mai madaidaicin haske, kallon dama"
+  },
+  {
+    "cp": "🚶🏼‍➡",
+    "tts": "mutum mai yin tafiya ƙafa: launin fata mai madaidaicin haske, kallon dama"
   },
   {
     "cp": "🚶🏽",
@@ -11280,8 +11536,20 @@
     "tts": "mace mai yin tafiya ƙafa: madaidaicin launin fata"
   },
   {
+    "cp": "🚶🏽‍♀‍➡",
+    "tts": "mace mai yin tafiya ƙafa: madaidaicin launin fata, kallon dama"
+  },
+  {
     "cp": "🚶🏽‍♂",
     "tts": "namiji mai yin tafiya ƙafa: madaidaicin launin fata"
+  },
+  {
+    "cp": "🚶🏽‍♂‍➡",
+    "tts": "namiji mai yin tafiya ƙafa: madaidaicin launin fata, kallon dama"
+  },
+  {
+    "cp": "🚶🏽‍➡",
+    "tts": "mutum mai yin tafiya ƙafa: madaidaicin launin fata, kallon dama"
   },
   {
     "cp": "🚶🏾",
@@ -11292,8 +11560,20 @@
     "tts": "mace mai yin tafiya ƙafa: launin fata mai madaidaicin duhu"
   },
   {
+    "cp": "🚶🏾‍♀‍➡",
+    "tts": "mace mai yin tafiya ƙafa: launin fata mai madaidaicin duhu, kallon dama"
+  },
+  {
     "cp": "🚶🏾‍♂",
     "tts": "namiji mai yin tafiya ƙafa: launin fata mai madaidaicin duhu"
+  },
+  {
+    "cp": "🚶🏾‍♂‍➡",
+    "tts": "namiji mai yin tafiya ƙafa: launin fata mai madaidaicin duhu, kallon dama"
+  },
+  {
+    "cp": "🚶🏾‍➡",
+    "tts": "mutum mai yin tafiya ƙafa: launin fata mai madaidaicin duhu, kallon dama"
   },
   {
     "cp": "🚶🏿",
@@ -11304,8 +11584,20 @@
     "tts": "mace mai yin tafiya ƙafa: launin fata mai duhu"
   },
   {
+    "cp": "🚶🏿‍♀‍➡",
+    "tts": "mace mai yin tafiya ƙafa: launin fata mai duhu, kallon dama"
+  },
+  {
     "cp": "🚶🏿‍♂",
     "tts": "namiji mai yin tafiya ƙafa: launin fata mai duhu"
+  },
+  {
+    "cp": "🚶🏿‍♂‍➡",
+    "tts": "namiji mai yin tafiya ƙafa: launin fata mai duhu, kallon dama"
+  },
+  {
+    "cp": "🚶🏿‍➡",
+    "tts": "mutum mai yin tafiya ƙafa: launin fata mai duhu, kallon dama"
   },
   {
     "cp": "🚷",
@@ -11454,6 +11746,10 @@
   {
     "cp": "🛘",
     "tts": "zamewar ƙasa"
+  },
+  {
+    "cp": "🛙",
+    "tts": "gidan haske"
   },
   {
     "cp": "🛜",
@@ -13061,7 +13357,7 @@
   },
   {
     "cp": "🦝",
-    "tts": "rakon"
+    "tts": "dabbar raccoon"
   },
   {
     "cp": "🦞",
@@ -13129,7 +13425,7 @@
   },
   {
     "cp": "🦮",
-    "tts": "karen jagora"
+    "tts": "kare mai jagoranci"
   },
   {
     "cp": "🦯",
@@ -13524,24 +13820,48 @@
     "tts": "mutum a durƙushe"
   },
   {
+    "cp": "🧎‍➡",
+    "tts": "mutum a durƙushe: kallon dama"
+  },
+  {
     "cp": "🧎🏻",
     "tts": "mutum a durƙushe: launin fata mai haske"
+  },
+  {
+    "cp": "🧎🏻‍➡",
+    "tts": "mutum a durƙushe: launin fata mai haske, kallon dama"
   },
   {
     "cp": "🧎🏼",
     "tts": "mutum a durƙushe: launin fata mai madaidaicin haske"
   },
   {
+    "cp": "🧎🏼‍➡",
+    "tts": "mutum a durƙushe: launin fata mai madaidaicin haske, kallon dama"
+  },
+  {
     "cp": "🧎🏽",
     "tts": "mutum a durƙushe: madaidaicin launin fata"
+  },
+  {
+    "cp": "🧎🏽‍➡",
+    "tts": "mutum a durƙushe: madaidaicin launin fata, kallon dama"
   },
   {
     "cp": "🧎🏾",
     "tts": "mutum a durƙushe: launin fata mai madaidaicin duhu"
   },
   {
+    "cp": "🧎🏾‍➡",
+    "tts": "mutum a durƙushe: launin fata mai madaidaicin duhu, kallon dama"
+  },
+  {
     "cp": "🧎🏿",
     "tts": "mutum a durƙushe: launin fata mai duhu"
+  },
+  {
+    "cp": "🧎🏿‍➡",
+    "tts": "mutum a durƙushe: launin fata mai duhu, kallon dama"
   },
   {
     "cp": "🧏",
@@ -13704,6 +14024,10 @@
     "tts": "mutum mai farin bulala"
   },
   {
+    "cp": "🧑‍🦯‍➡",
+    "tts": "mutum mai farin bulala: kallon dama"
+  },
+  {
     "cp": "🧑‍🦰",
     "tts": "babba: jan gashi"
   },
@@ -13724,8 +14048,16 @@
     "tts": "mutum cikin kujeran gurgu"
   },
   {
+    "cp": "🧑‍🦼‍➡",
+    "tts": "mutum cikin kujeran gurgu: kallon dama"
+  },
+  {
     "cp": "🧑‍🦽",
     "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu"
+  },
+  {
+    "cp": "🧑‍🦽‍➡",
+    "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu: kallon dama"
   },
   {
     "cp": "🧑‍🧑‍🧒",
@@ -13896,6 +14228,10 @@
     "tts": "mutum mai farin bulala: launin fata mai haske"
   },
   {
+    "cp": "🧑🏻‍🦯‍➡",
+    "tts": "mutum mai farin bulala: launin fata mai haske, kallon dama"
+  },
+  {
     "cp": "🧑🏻‍🦰",
     "tts": "babba: launin fata mai haske, jan gashi"
   },
@@ -13916,8 +14252,16 @@
     "tts": "mutum cikin kujeran gurgu: launin fata mai haske"
   },
   {
+    "cp": "🧑🏻‍🦼‍➡",
+    "tts": "mutum cikin kujeran gurgu: launin fata mai haske, kallon dama"
+  },
+  {
     "cp": "🧑🏻‍🦽",
     "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu: launin fata mai haske"
+  },
+  {
+    "cp": "🧑🏻‍🦽‍➡",
+    "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu: launin fata mai haske, kallon dama"
   },
   {
     "cp": "🧑🏻‍🩰",
@@ -14088,6 +14432,10 @@
     "tts": "mutum mai farin bulala: launin fata mai madaidaicin haske"
   },
   {
+    "cp": "🧑🏼‍🦯‍➡",
+    "tts": "mutum mai farin bulala: launin fata mai madaidaicin haske, kallon dama"
+  },
+  {
     "cp": "🧑🏼‍🦰",
     "tts": "babba: launin fata mai madaidaicin haske, jan gashi"
   },
@@ -14108,8 +14456,16 @@
     "tts": "mutum cikin kujeran gurgu: launin fata mai madaidaicin haske"
   },
   {
+    "cp": "🧑🏼‍🦼‍➡",
+    "tts": "mutum cikin kujeran gurgu: launin fata mai madaidaicin haske, kallon dama"
+  },
+  {
     "cp": "🧑🏼‍🦽",
     "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu: launin fata mai madaidaicin haske"
+  },
+  {
+    "cp": "🧑🏼‍🦽‍➡",
+    "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu: launin fata mai madaidaicin haske, kallon dama"
   },
   {
     "cp": "🧑🏼‍🩰",
@@ -14280,6 +14636,10 @@
     "tts": "mutum mai farin bulala: madaidaicin launin fata"
   },
   {
+    "cp": "🧑🏽‍🦯‍➡",
+    "tts": "mutum mai farin bulala: madaidaicin launin fata, kallon dama"
+  },
+  {
     "cp": "🧑🏽‍🦰",
     "tts": "babba: madaidaicin launin fata, jan gashi"
   },
@@ -14300,8 +14660,16 @@
     "tts": "mutum cikin kujeran gurgu: madaidaicin launin fata"
   },
   {
+    "cp": "🧑🏽‍🦼‍➡",
+    "tts": "mutum cikin kujeran gurgu: madaidaicin launin fata, kallon dama"
+  },
+  {
     "cp": "🧑🏽‍🦽",
     "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu: madaidaicin launin fata"
+  },
+  {
+    "cp": "🧑🏽‍🦽‍➡",
+    "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu: madaidaicin launin fata, kallon dama"
   },
   {
     "cp": "🧑🏽‍🩰",
@@ -14472,6 +14840,10 @@
     "tts": "mutum mai farin bulala: launin fata mai madaidaicin duhu"
   },
   {
+    "cp": "🧑🏾‍🦯‍➡",
+    "tts": "mutum mai farin bulala: launin fata mai madaidaicin duhu, kallon dama"
+  },
+  {
     "cp": "🧑🏾‍🦰",
     "tts": "babba: launin fata mai madaidaicin duhu, jan gashi"
   },
@@ -14492,8 +14864,16 @@
     "tts": "mutum cikin kujeran gurgu: launin fata mai madaidaicin duhu"
   },
   {
+    "cp": "🧑🏾‍🦼‍➡",
+    "tts": "mutum cikin kujeran gurgu: launin fata mai madaidaicin duhu, kallon dama"
+  },
+  {
     "cp": "🧑🏾‍🦽",
     "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu: launin fata mai madaidaicin duhu"
+  },
+  {
+    "cp": "🧑🏾‍🦽‍➡",
+    "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu: launin fata mai madaidaicin duhu, kallon dama"
   },
   {
     "cp": "🧑🏾‍🩰",
@@ -14664,6 +15044,10 @@
     "tts": "mutum mai farin bulala: launin fata mai duhu"
   },
   {
+    "cp": "🧑🏿‍🦯‍➡",
+    "tts": "mutum mai farin bulala: launin fata mai duhu, kallon dama"
+  },
+  {
     "cp": "🧑🏿‍🦰",
     "tts": "babba: launin fata mai duhu, jan gashi"
   },
@@ -14684,8 +15068,16 @@
     "tts": "mutum cikin kujeran gurgu: launin fata mai duhu"
   },
   {
+    "cp": "🧑🏿‍🦼‍➡",
+    "tts": "mutum cikin kujeran gurgu: launin fata mai duhu, kallon dama"
+  },
+  {
     "cp": "🧑🏿‍🦽",
     "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu: launin fata mai duhu"
+  },
+  {
+    "cp": "🧑🏿‍🦽‍➡",
+    "tts": "mutum cikin motan gurgu wanda ke bukatan tuki da hannu: launin fata mai duhu, kallon dama"
   },
   {
     "cp": "🧑🏿‍🩰",
@@ -15676,6 +16068,18 @@
     "tts": "algaita"
   },
   {
+    "cp": "🪋",
+    "tts": "yanayi"
+  },
+  {
+    "cp": "🪌",
+    "tts": "kilina"
+  },
+  {
+    "cp": "🪍",
+    "tts": "raga mai makama"
+  },
+  {
     "cp": "🪎",
     "tts": "akwatin dukiya"
   },
@@ -15968,6 +16372,10 @@
     "tts": "halitta mai gashi"
   },
   {
+    "cp": "🫌",
+    "tts": "malam-buɗa-mana-littafi"
+  },
+  {
     "cp": "🫍",
     "tts": "kifin orca"
   },
@@ -16032,6 +16440,10 @@
     "tts": "kayan lambu masu saiwa"
   },
   {
+    "cp": "🫝",
+    "tts": "tsamiya"
+  },
+  {
     "cp": "🫟",
     "tts": "fantsama"
   },
@@ -16078,6 +16490,10 @@
   {
     "cp": "🫪",
     "tts": "juyayyen fuska"
+  },
+  {
+    "cp": "🫫",
+    "tts": "fuska mai tsagewa"
   },
   {
     "cp": "🫯",
@@ -16378,5 +16794,53 @@
   {
     "cp": "🫸🏿",
     "tts": "hannu yana turawa dama: launin fata mai duhu"
+  },
+  {
+    "cp": "🫹",
+    "tts": "alamar babban ɗan yatsa ɓangaren hagu"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "alamar babban ɗan yatsa ɓangaren hagu: launin fata mai haske"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "alamar babban ɗan yatsa ɓangaren hagu: launin fata mai madaidaicin haske"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "alamar babban ɗan yatsa ɓangaren hagu: madaidaicin launin fata"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "alamar babban ɗan yatsa ɓangaren hagu: launin fata mai madaidaicin duhu"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "alamar babban ɗan yatsa ɓangaren hagu: launin fata mai duhu"
+  },
+  {
+    "cp": "🫺",
+    "tts": "alamar babban ɗan yatsa ɓangaren dama"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "alamar babban ɗan yatsa ɓangaren dama: launin fata mai haske"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "alamar babban ɗan yatsa ɓangaren dama: launin fata mai madaidaicin haske"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "alamar babban ɗan yatsa ɓangaren dama: madaidaicin launin fata"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "alamar babban ɗan yatsa ɓangaren dama: launin fata mai madaidaicin duhu"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "alamar babban ɗan yatsa ɓangaren dama: launin fata mai duhu"
   }
 ]

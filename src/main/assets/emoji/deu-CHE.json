@@ -2205,7 +2205,7 @@
   },
   {
     "cp": "🇧🇳",
-    "tts": "Flagge: Brunei Darussalam"
+    "tts": "Flagge: Brunei"
   },
   {
     "cp": "🇧🇴",
@@ -2233,7 +2233,7 @@
   },
   {
     "cp": "🇧🇼",
-    "tts": "Flagge: Botsuana"
+    "tts": "Flagge: Botswana"
   },
   {
     "cp": "🇧🇾",
@@ -2309,7 +2309,7 @@
   },
   {
     "cp": "🇨🇻",
-    "tts": "Flagge: Cabo Verde"
+    "tts": "Flagge: Kapverden"
   },
   {
     "cp": "🇨🇼",
@@ -2893,7 +2893,7 @@
   },
   {
     "cp": "🇸🇧",
-    "tts": "Flagge: Salomonen"
+    "tts": "Flagge: Salomon-Inseln"
   },
   {
     "cp": "🇸🇨",
@@ -3005,7 +3005,7 @@
   },
   {
     "cp": "🇹🇱",
-    "tts": "Flagge: Timor-Leste"
+    "tts": "Flagge: Osttimor"
   },
   {
     "cp": "🇹🇲",
@@ -3125,7 +3125,7 @@
   },
   {
     "cp": "🇿🇼",
-    "tts": "Flagge: Simbabwe"
+    "tts": "Flagge: Zimbabwe"
   },
   {
     "cp": "🌀",
@@ -3337,7 +3337,7 @@
   },
   {
     "cp": "🌶",
-    "tts": "Peperoni"
+    "tts": "Chili"
   },
   {
     "cp": "🌷",
@@ -10441,7 +10441,7 @@
   },
   {
     "cp": "😮‍💨",
-    "tts": "Gesicht, das ausatmet"
+    "tts": "ausatmendes Gesicht"
   },
   {
     "cp": "😯",
@@ -11750,6 +11750,10 @@
   {
     "cp": "🛘",
     "tts": "Erdrutsch"
+  },
+  {
+    "cp": "🛙",
+    "tts": "Leuchtturm"
   },
   {
     "cp": "🛜",
@@ -13209,7 +13213,7 @@
   },
   {
     "cp": "🥸",
-    "tts": "verkleidet"
+    "tts": "verkleidetes Gesicht"
   },
   {
     "cp": "🥹",
@@ -16164,6 +16168,18 @@
     "tts": "Posaune"
   },
   {
+    "cp": "🪋",
+    "tts": "Meteorit"
+  },
+  {
+    "cp": "🪌",
+    "tts": "Radiergummi"
+  },
+  {
+    "cp": "🪍",
+    "tts": "Kescher"
+  },
+  {
     "cp": "🪎",
     "tts": "Schatztruhe"
   },
@@ -16456,6 +16472,10 @@
     "tts": "haariges Wesen"
   },
   {
+    "cp": "🫌",
+    "tts": "Monarchfalter"
+  },
+  {
     "cp": "🫍",
     "tts": "Orca"
   },
@@ -16473,7 +16493,7 @@
   },
   {
     "cp": "🫑",
-    "tts": "Paprika"
+    "tts": "Peperoni"
   },
   {
     "cp": "🫒",
@@ -16518,6 +16538,10 @@
   {
     "cp": "🫜",
     "tts": "Wurzelgemüse"
+  },
+  {
+    "cp": "🫝",
+    "tts": "saure Gurke"
   },
   {
     "cp": "🫟",
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "verzerrtes Gesicht"
+  },
+  {
+    "cp": "🫫",
+    "tts": "zersplitterndes Gesicht"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "nach rechts schiebende Hand: dunkle Hautfarbe"
+  },
+  {
+    "cp": "🫹",
+    "tts": "Daumen nach links"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "Daumen nach links: helle Hautfarbe"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "Daumen nach links: mittelhelle Hautfarbe"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "Daumen nach links: mittlere Hautfarbe"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "Daumen nach links: mitteldunkle Hautfarbe"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "Daumen nach links: dunkle Hautfarbe"
+  },
+  {
+    "cp": "🫺",
+    "tts": "Daumen nach rechts"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "Daumen nach rechts: helle Hautfarbe"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "Daumen nach rechts: mittelhelle Hautfarbe"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "Daumen nach rechts: mittlere Hautfarbe"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "Daumen nach rechts: mitteldunkle Hautfarbe"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "Daumen nach rechts: dunkle Hautfarbe"
   }
 ]

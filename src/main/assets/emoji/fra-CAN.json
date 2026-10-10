@@ -1225,19 +1225,19 @@
   },
   {
     "cp": "◜",
-    "tts": "arc de cercle dans le quadrant supérieur gauche"
+    "tts": "arc de cercle quadrant supérieur gauche"
   },
   {
     "cp": "◝",
-    "tts": "arc de cercle dans le quadrant supérieur droit"
+    "tts": "arc de cercle quadrant supérieur droit"
   },
   {
     "cp": "◞",
-    "tts": "arc de cercle dans le quadrant inférieur droit"
+    "tts": "arc de cercle quadrant inférieur droit"
   },
   {
     "cp": "◟",
-    "tts": "arc de cercle dans le quadrant inférieur gauche"
+    "tts": "arc de cercle quadrant inférieur gauche"
   },
   {
     "cp": "◠",
@@ -11752,6 +11752,10 @@
     "tts": "éboulement"
   },
   {
+    "cp": "🛙",
+    "tts": "phare"
+  },
+  {
     "cp": "🛜",
     "tts": "sans fil"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trombone à coulisse"
   },
   {
+    "cp": "🪋",
+    "tts": "météore"
+  },
+  {
+    "cp": "🪌",
+    "tts": "gomme à effacer"
+  },
+  {
+    "cp": "🪍",
+    "tts": "filet à poignée"
+  },
+  {
     "cp": "🪎",
     "tts": "coffre au trésor"
   },
@@ -16456,6 +16472,10 @@
     "tts": "créature velue"
   },
   {
+    "cp": "🫌",
+    "tts": "monarque"
+  },
+  {
     "cp": "🫍",
     "tts": "orque"
   },
@@ -16520,6 +16540,10 @@
     "tts": "légume-racine"
   },
   {
+    "cp": "🫝",
+    "tts": "cornichon"
+  },
+  {
     "cp": "🫟",
     "tts": "éclaboussure"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "visage déformé"
+  },
+  {
+    "cp": "🫫",
+    "tts": "visage craquelé"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "main qui pousse vers la droite : peau foncée"
+  },
+  {
+    "cp": "🫹",
+    "tts": "pouce vers la gauche"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "pouce vers la gauche : peau claire"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "pouce vers la gauche : peau modérément claire"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "pouce vers la gauche : peau légèrement mate"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "pouce vers la gauche : peau modérément foncée"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "pouce vers la gauche : peau foncée"
+  },
+  {
+    "cp": "🫺",
+    "tts": "pouce vers la droite"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "pouce vers la droite : peau claire"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "pouce vers la droite : peau modérément claire"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "pouce vers la droite : peau légèrement mate"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "pouce vers la droite : peau modérément foncée"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "pouce vers la droite : peau foncée"
   }
 ]

@@ -10400,6 +10400,10 @@
     "tts": "allpa kuyuriy"
   },
   {
+    "cp": "🛙",
+    "tts": "faro"
+  },
+  {
     "cp": "🛜",
     "tts": "internetniyuqwan"
   },
@@ -14664,6 +14668,14 @@
     "tts": "trombón nisqa"
   },
   {
+    "cp": "🪋",
+    "tts": "meteoro nisqa"
+  },
+  {
+    "cp": "🪍",
+    "tts": "llika hapinayuq"
+  },
+  {
     "cp": "🪎",
     "tts": "qulliwan kufri"
   },
@@ -14952,6 +14964,10 @@
     "tts": "chukchasapa kawsaq"
   },
   {
+    "cp": "🫌",
+    "tts": "monarca pillpintu"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -15016,6 +15032,10 @@
     "tts": "rábano nisqa"
   },
   {
+    "cp": "🫝",
+    "tts": "pickle"
+  },
+  {
     "cp": "🫟",
     "tts": "salpicay"
   },
@@ -15062,6 +15082,10 @@
   {
     "cp": "🫪",
     "tts": "distorsionado uya"
+  },
+  {
+    "cp": "🫫",
+    "tts": "cracking face"
   },
   {
     "cp": "🫯",
@@ -15362,5 +15386,53 @@
   {
     "cp": "🫸🏿",
     "tts": "tanqaspa paña maki: yana qara niraq"
+  },
+  {
+    "cp": "🫹",
+    "tts": "leftwards thumb sign"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "leftwards thumb sign: chuya qara niraq"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "leftwards thumb sign: tunpa chuya qara niraq"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "leftwards thumb sign: tunpa qara niraq"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "leftwards thumb sign: tunpa yana qara niraq"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "leftwards thumb sign: yana qara niraq"
+  },
+  {
+    "cp": "🫺",
+    "tts": "pañaman hatun makiwan señal"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "pañaman hatun makiwan señal: chuya qara niraq"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "pañaman hatun makiwan señal: tunpa chuya qara niraq"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "pañaman hatun makiwan señal: tunpa qara niraq"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "pañaman hatun makiwan señal: tunpa yana qara niraq"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "pañaman hatun makiwan señal: yana qara niraq"
   }
 ]

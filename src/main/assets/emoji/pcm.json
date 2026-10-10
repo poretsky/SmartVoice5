@@ -11736,6 +11736,10 @@
     "tts": "lánd sláid"
   },
   {
+    "cp": "🛙",
+    "tts": "láitháus"
+  },
+  {
     "cp": "🛜",
     "tts": "Wáyálẹs"
   },
@@ -16148,6 +16152,18 @@
     "tts": "trọ́mbọ́n"
   },
   {
+    "cp": "🪋",
+    "tts": "métiyo"
+  },
+  {
+    "cp": "🪌",
+    "tts": "éréza"
+  },
+  {
+    "cp": "🪍",
+    "tts": "nét wit handúl"
+  },
+  {
     "cp": "🪎",
     "tts": "Trẹ́zhọ chẹst"
   },
@@ -16440,6 +16456,10 @@
     "tts": "híárí kríẹchọ"
   },
   {
+    "cp": "🫌",
+    "tts": "mọnák bọtaflái"
+  },
+  {
     "cp": "🫍",
     "tts": "ọ́ká"
   },
@@ -16504,6 +16524,10 @@
     "tts": "rut vẹ́jítébul"
   },
   {
+    "cp": "🫝",
+    "tts": "píkúl"
+  },
+  {
     "cp": "🫟",
     "tts": "splátá"
   },
@@ -16550,6 +16574,10 @@
   {
     "cp": "🫪",
     "tts": "dístọted fes"
+  },
+  {
+    "cp": "🫫",
+    "tts": "krákin fés"
   },
   {
     "cp": "🫯",
@@ -16850,5 +16878,53 @@
   {
     "cp": "🫸🏿",
     "tts": "Hand Wé De Púsh Gó Raít Said: Dák Skín Ton"
+  },
+  {
+    "cp": "🫹",
+    "tts": "Lẹ́ftsáid tọmbs sáin"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "Lẹ́ftsáid tọmbs sáin: Laít Skín Ton"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "Lẹ́ftsáid tọmbs sáin: Mídíọ́m-Laít Skín Ton"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "Lẹ́ftsáid tọmbs sáin: Mídíọ́m Skín Ton"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "Lẹ́ftsáid tọmbs sáin: Mídíọ́m Dák Skín Ton"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "Lẹ́ftsáid tọmbs sáin: Dák Skín Ton"
+  },
+  {
+    "cp": "🫺",
+    "tts": "Ráitsáid tọmbs sáin"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "Ráitsáid tọmbs sáin: Laít Skín Ton"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "Ráitsáid tọmbs sáin: Mídíọ́m-Laít Skín Ton"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "Ráitsáid tọmbs sáin: Mídíọ́m Skín Ton"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "Ráitsáid tọmbs sáin: Mídíọ́m Dák Skín Ton"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "Ráitsáid tọmbs sáin: Dák Skín Ton"
   }
 ]

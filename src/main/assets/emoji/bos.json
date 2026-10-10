@@ -11752,6 +11752,10 @@
     "tts": "klizište"
   },
   {
+    "cp": "🛙",
+    "tts": "svjetionik"
+  },
+  {
     "cp": "🛜",
     "tts": "WiFi"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trombon"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "gumica za brisanje"
+  },
+  {
+    "cp": "🪍",
+    "tts": "mreža s ručkom"
+  },
+  {
     "cp": "🪎",
     "tts": "škrinja s blagom"
   },
@@ -16456,6 +16472,10 @@
     "tts": "dlakavo čudovište"
   },
   {
+    "cp": "🫌",
+    "tts": "leptir monarh"
+  },
+  {
     "cp": "🫍",
     "tts": "orka"
   },
@@ -16520,6 +16540,10 @@
     "tts": "korjenasto povrće"
   },
   {
+    "cp": "🫝",
+    "tts": "kiseli krastavac"
+  },
+  {
     "cp": "🫟",
     "tts": "brćkanje"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "iskrivljeno lice"
+  },
+  {
+    "cp": "🫫",
+    "tts": "ispucalo lice"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "ruka koja gura udesno: tamna boja kože"
+  },
+  {
+    "cp": "🫹",
+    "tts": "palac pokazuje ulijevo"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "palac pokazuje ulijevo: svijetla boja kože"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "palac pokazuje ulijevo: umjereno svijetla boja kože"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "palac pokazuje ulijevo: umjerena boja kože"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "palac pokazuje ulijevo: umjereno tamna boja kože"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "palac pokazuje ulijevo: tamna boja kože"
+  },
+  {
+    "cp": "🫺",
+    "tts": "palac pokazuje udesno"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "palac pokazuje udesno: svijetla boja kože"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "palac pokazuje udesno: umjereno svijetla boja kože"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "palac pokazuje udesno: umjerena boja kože"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "palac pokazuje udesno: umjereno tamna boja kože"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "palac pokazuje udesno: tamna boja kože"
   }
 ]

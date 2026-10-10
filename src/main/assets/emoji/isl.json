@@ -585,7 +585,7 @@
   },
   {
     "cp": "∋",
-    "tts": "stak"
+    "tts": "inniheldur sem stak"
   },
   {
     "cp": "∎",
@@ -1421,7 +1421,7 @@
   },
   {
     "cp": "♊",
-    "tts": "tvíburar"
+    "tts": "tvíburarnir"
   },
   {
     "cp": "♋",
@@ -1433,7 +1433,7 @@
   },
   {
     "cp": "♍",
-    "tts": "meyja"
+    "tts": "meyjan"
   },
   {
     "cp": "♎",
@@ -1445,19 +1445,19 @@
   },
   {
     "cp": "♐",
-    "tts": "bogmaður"
+    "tts": "bogmaðurinn"
   },
   {
     "cp": "♑",
-    "tts": "steingeit"
+    "tts": "steingeitin"
   },
   {
     "cp": "♒",
-    "tts": "vatnsberi"
+    "tts": "vatnsberinn"
   },
   {
     "cp": "♓",
-    "tts": "fiskar"
+    "tts": "fiskarnir"
   },
   {
     "cp": "♟",
@@ -4629,7 +4629,7 @@
   },
   {
     "cp": "🐃",
-    "tts": "vatnabuffaló"
+    "tts": "vatnabuffall"
   },
   {
     "cp": "🐄",
@@ -4905,27 +4905,27 @@
   },
   {
     "cp": "👂",
-    "tts": "eyru"
+    "tts": "eyra"
   },
   {
     "cp": "👂🏻",
-    "tts": "eyru: ljós húðlitur"
+    "tts": "eyra: ljós húðlitur"
   },
   {
     "cp": "👂🏼",
-    "tts": "eyru: meðalljós húðlitur"
+    "tts": "eyra: meðalljós húðlitur"
   },
   {
     "cp": "👂🏽",
-    "tts": "eyru: millihúðlitur"
+    "tts": "eyra: millihúðlitur"
   },
   {
     "cp": "👂🏾",
-    "tts": "eyru: meðaldökkur húðlitur"
+    "tts": "eyra: meðaldökkur húðlitur"
   },
   {
     "cp": "👂🏿",
-    "tts": "eyru: dökkur húðlitur"
+    "tts": "eyra: dökkur húðlitur"
   },
   {
     "cp": "👃",
@@ -8517,7 +8517,7 @@
   },
   {
     "cp": "👷",
-    "tts": "verkamaður"
+    "tts": "byggingaverkamaður"
   },
   {
     "cp": "👷‍♀",
@@ -8529,7 +8529,7 @@
   },
   {
     "cp": "👷🏻",
-    "tts": "verkamaður: ljós húðlitur"
+    "tts": "byggingaverkamaður: ljós húðlitur"
   },
   {
     "cp": "👷🏻‍♀",
@@ -8541,7 +8541,7 @@
   },
   {
     "cp": "👷🏼",
-    "tts": "verkamaður: meðalljós húðlitur"
+    "tts": "byggingaverkamaður: meðalljós húðlitur"
   },
   {
     "cp": "👷🏼‍♀",
@@ -8553,7 +8553,7 @@
   },
   {
     "cp": "👷🏽",
-    "tts": "verkamaður: millihúðlitur"
+    "tts": "byggingaverkamaður: millihúðlitur"
   },
   {
     "cp": "👷🏽‍♀",
@@ -8565,7 +8565,7 @@
   },
   {
     "cp": "👷🏾",
-    "tts": "verkamaður: meðaldökkur húðlitur"
+    "tts": "byggingaverkamaður: meðaldökkur húðlitur"
   },
   {
     "cp": "👷🏾‍♀",
@@ -8577,7 +8577,7 @@
   },
   {
     "cp": "👷🏿",
-    "tts": "verkamaður: dökkur húðlitur"
+    "tts": "byggingaverkamaður: dökkur húðlitur"
   },
   {
     "cp": "👷🏿‍♀",
@@ -9577,7 +9577,7 @@
   },
   {
     "cp": "🔉",
-    "tts": "hátalari í gangi"
+    "tts": "hátalari á meðalstyrk"
   },
   {
     "cp": "🔊",
@@ -10225,7 +10225,7 @@
   },
   {
     "cp": "🗳",
-    "tts": "kjörseðlakassi með kjörseðli"
+    "tts": "kjörkassi með kjörseðli"
   },
   {
     "cp": "🗺",
@@ -11750,6 +11750,10 @@
   {
     "cp": "🛘",
     "tts": "skriða"
+  },
+  {
+    "cp": "🛙",
+    "tts": "viti"
   },
   {
     "cp": "🛜",
@@ -13501,7 +13505,7 @@
   },
   {
     "cp": "🦷",
-    "tts": "tennur"
+    "tts": "tönn"
   },
   {
     "cp": "🦸",
@@ -15489,7 +15493,7 @@
   },
   {
     "cp": "🧘‍♀",
-    "tts": "kona í lótusp ́ósu"
+    "tts": "kona í lótuspósu"
   },
   {
     "cp": "🧘‍♂",
@@ -15501,7 +15505,7 @@
   },
   {
     "cp": "🧘🏻‍♀",
-    "tts": "kona í lótusp ́ósu: ljós húðlitur"
+    "tts": "kona í lótuspósu: ljós húðlitur"
   },
   {
     "cp": "🧘🏻‍♂",
@@ -15513,7 +15517,7 @@
   },
   {
     "cp": "🧘🏼‍♀",
-    "tts": "kona í lótusp ́ósu: meðalljós húðlitur"
+    "tts": "kona í lótuspósu: meðalljós húðlitur"
   },
   {
     "cp": "🧘🏼‍♂",
@@ -15525,7 +15529,7 @@
   },
   {
     "cp": "🧘🏽‍♀",
-    "tts": "kona í lótusp ́ósu: millihúðlitur"
+    "tts": "kona í lótuspósu: millihúðlitur"
   },
   {
     "cp": "🧘🏽‍♂",
@@ -15537,7 +15541,7 @@
   },
   {
     "cp": "🧘🏾‍♀",
-    "tts": "kona í lótusp ́ósu: meðaldökkur húðlitur"
+    "tts": "kona í lótuspósu: meðaldökkur húðlitur"
   },
   {
     "cp": "🧘🏾‍♂",
@@ -15549,7 +15553,7 @@
   },
   {
     "cp": "🧘🏿‍♀",
-    "tts": "kona í lótusp ́ósu: dökkur húðlitur"
+    "tts": "kona í lótuspósu: dökkur húðlitur"
   },
   {
     "cp": "🧘🏿‍♂",
@@ -16164,6 +16168,18 @@
     "tts": "básúna"
   },
   {
+    "cp": "🪋",
+    "tts": "vígahnöttur"
+  },
+  {
+    "cp": "🪌",
+    "tts": "strokleður"
+  },
+  {
+    "cp": "🪍",
+    "tts": "háfur"
+  },
+  {
     "cp": "🪎",
     "tts": "fjársjóðskista"
   },
@@ -16456,6 +16472,10 @@
     "tts": "loðin skepna"
   },
   {
+    "cp": "🫌",
+    "tts": "kóngafiðrildi"
+  },
+  {
     "cp": "🫍",
     "tts": "háhyrningur"
   },
@@ -16520,6 +16540,10 @@
     "tts": "rótargrænmeti"
   },
   {
+    "cp": "🫝",
+    "tts": "súrkrás"
+  },
+  {
     "cp": "🫟",
     "tts": "sletta"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "afmyndað andlit"
+  },
+  {
+    "cp": "🫫",
+    "tts": "andlit með sprungur"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "hönd ýtt til hægri: dökkur húðlitur"
+  },
+  {
+    "cp": "🫹",
+    "tts": "þumall til vinstri"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "þumall til vinstri: ljós húðlitur"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "þumall til vinstri: meðalljós húðlitur"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "þumall til vinstri: millihúðlitur"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "þumall til vinstri: meðaldökkur húðlitur"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "þumall til vinstri: dökkur húðlitur"
+  },
+  {
+    "cp": "🫺",
+    "tts": "þumall til hægri"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "þumall til hægri: ljós húðlitur"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "þumall til hægri: meðalljós húðlitur"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "þumall til hægri: millihúðlitur"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "þumall til hægri: meðaldökkur húðlitur"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "þumall til hægri: dökkur húðlitur"
   }
 ]

@@ -11752,6 +11752,10 @@
     "tts": "sesuv půdy"
   },
   {
+    "cp": "🛙",
+    "tts": "maják"
+  },
+  {
     "cp": "🛜",
     "tts": "bezdrátové připojení"
   },
@@ -16164,6 +16168,18 @@
     "tts": "pozoun"
   },
   {
+    "cp": "🪋",
+    "tts": "meteorit"
+  },
+  {
+    "cp": "🪌",
+    "tts": "guma"
+  },
+  {
+    "cp": "🪍",
+    "tts": "podběrák"
+  },
+  {
     "cp": "🪎",
     "tts": "truhla s pokladem"
   },
@@ -16456,6 +16472,10 @@
     "tts": "chlupatý tvor"
   },
   {
+    "cp": "🫌",
+    "tts": "motýl monarcha"
+  },
+  {
     "cp": "🫍",
     "tts": "kosatka"
   },
@@ -16520,6 +16540,10 @@
     "tts": "kořenová zelenina"
   },
   {
+    "cp": "🫝",
+    "tts": "nakládačka"
+  },
+  {
     "cp": "🫟",
     "tts": "skvrna"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "pokřivený obličej"
+  },
+  {
+    "cp": "🫫",
+    "tts": "praskající obličej"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "ruka tlačící vpravo: tmavý odstín pleti"
+  },
+  {
+    "cp": "🫹",
+    "tts": "gesto palcem doleva"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "gesto palcem doleva: světlý odstín pleti"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "gesto palcem doleva: středně světlý odstín pleti"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "gesto palcem doleva: střední odstín pleti"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "gesto palcem doleva: středně tmavý odstín pleti"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "gesto palcem doleva: tmavý odstín pleti"
+  },
+  {
+    "cp": "🫺",
+    "tts": "gesto palcem doprava"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "gesto palcem doprava: světlý odstín pleti"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "gesto palcem doprava: středně světlý odstín pleti"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "gesto palcem doprava: střední odstín pleti"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "gesto palcem doprava: středně tmavý odstín pleti"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "gesto palcem doprava: tmavý odstín pleti"
   }
 ]

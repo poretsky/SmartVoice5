@@ -11752,6 +11752,10 @@
     "tts": "maalihe"
   },
   {
+    "cp": "🛙",
+    "tts": "tuletorn"
+  },
+  {
     "cp": "🛜",
     "tts": "juhtmevaba"
   },
@@ -16164,6 +16168,18 @@
     "tts": "tromboon"
   },
   {
+    "cp": "🪋",
+    "tts": "meteoor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "kustutuskumm"
+  },
+  {
+    "cp": "🪍",
+    "tts": "käepidemega võrk"
+  },
+  {
     "cp": "🪎",
     "tts": "aardelaegas"
   },
@@ -16456,6 +16472,10 @@
     "tts": "karvane olend"
   },
   {
+    "cp": "🫌",
+    "tts": "monarhliblikas"
+  },
+  {
     "cp": "🫍",
     "tts": "mõõkvaal"
   },
@@ -16520,6 +16540,10 @@
     "tts": "juurvili"
   },
   {
+    "cp": "🫝",
+    "tts": "hapukurk"
+  },
+  {
     "cp": "🫟",
     "tts": "plärakas"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "moondunud nägu"
+  },
+  {
+    "cp": "🫫",
+    "tts": "pragunev nägu"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "paremale lükkav käsi: tume nahatoon"
+  },
+  {
+    "cp": "🫹",
+    "tts": "vasakule suunatud pöidla märk"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "vasakule suunatud pöidla märk: hele nahatoon"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "vasakule suunatud pöidla märk: keskmiselt hele nahatoon"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "vasakule suunatud pöidla märk: keskmine nahatoon"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "vasakule suunatud pöidla märk: keskmiselt tume nahatoon"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "vasakule suunatud pöidla märk: tume nahatoon"
+  },
+  {
+    "cp": "🫺",
+    "tts": "paremale suunatud pöidla märk"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "paremale suunatud pöidla märk: hele nahatoon"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "paremale suunatud pöidla märk: keskmiselt hele nahatoon"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "paremale suunatud pöidla märk: keskmine nahatoon"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "paremale suunatud pöidla märk: keskmiselt tume nahatoon"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "paremale suunatud pöidla märk: tume nahatoon"
   }
 ]

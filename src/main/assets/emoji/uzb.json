@@ -11748,6 +11748,10 @@
     "tts": "ko‘chki"
   },
   {
+    "cp": "🛙",
+    "tts": "mayoq"
+  },
+  {
     "cp": "🛜",
     "tts": "simsiz"
   },
@@ -16160,6 +16164,18 @@
     "tts": "trombon"
   },
   {
+    "cp": "🪋",
+    "tts": "meteorit"
+  },
+  {
+    "cp": "🪌",
+    "tts": "oʻchirgich"
+  },
+  {
+    "cp": "🪍",
+    "tts": "dastali toʻr"
+  },
+  {
     "cp": "🪎",
     "tts": "xazina sandigʻi"
   },
@@ -16452,6 +16468,10 @@
     "tts": "serjun maxluq"
   },
   {
+    "cp": "🫌",
+    "tts": "monarx kapalagi"
+  },
+  {
     "cp": "🫍",
     "tts": "orka"
   },
@@ -16516,6 +16536,10 @@
     "tts": "ildiz shaklidagi sabzavotlar"
   },
   {
+    "cp": "🫝",
+    "tts": "tuzlama"
+  },
+  {
     "cp": "🫟",
     "tts": "sachratish"
   },
@@ -16562,6 +16586,10 @@
   {
     "cp": "🫪",
     "tts": "qiyshiq yuz"
+  },
+  {
+    "cp": "🫫",
+    "tts": "parchalangan yuz"
   },
   {
     "cp": "🫯",
@@ -16862,5 +16890,53 @@
   {
     "cp": "🫸🏿",
     "tts": "kafti oʻngga qaragan qoʻl: 6-teri turi"
+  },
+  {
+    "cp": "🫹",
+    "tts": "chapga qaragan bosh barmoq"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "chapga qaragan bosh barmoq: 1–2-teri turi"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "chapga qaragan bosh barmoq: 3-teri turi"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "chapga qaragan bosh barmoq: 4-teri turi"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "chapga qaragan bosh barmoq: 5-teri turi"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "chapga qaragan bosh barmoq: 6-teri turi"
+  },
+  {
+    "cp": "🫺",
+    "tts": "oʼngga qaragan bosh barmoq"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "oʼngga qaragan bosh barmoq: 1–2-teri turi"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "oʼngga qaragan bosh barmoq: 3-teri turi"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "oʼngga qaragan bosh barmoq: 4-teri turi"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "oʼngga qaragan bosh barmoq: 5-teri turi"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "oʼngga qaragan bosh barmoq: 6-teri turi"
   }
 ]

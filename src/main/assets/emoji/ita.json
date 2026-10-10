@@ -1445,7 +1445,7 @@
   },
   {
     "cp": "♐",
-    "tts": "Segno zodiacale del Saggitario"
+    "tts": "Segno zodiacale del Sagittario"
   },
   {
     "cp": "♑",
@@ -9549,7 +9549,7 @@
   },
   {
     "cp": "🔂",
-    "tts": "pulsante di ripetizione della riproduzione di una traccia"
+    "tts": "pulsante di ripetizione di una traccia"
   },
   {
     "cp": "🔃",
@@ -11750,6 +11750,10 @@
   {
     "cp": "🛘",
     "tts": "frana"
+  },
+  {
+    "cp": "🛙",
+    "tts": "faro"
   },
   {
     "cp": "🛜",
@@ -16164,6 +16168,18 @@
     "tts": "trombone"
   },
   {
+    "cp": "🪋",
+    "tts": "meteora"
+  },
+  {
+    "cp": "🪌",
+    "tts": "gomma per cancellare"
+  },
+  {
+    "cp": "🪍",
+    "tts": "retino"
+  },
+  {
     "cp": "🪎",
     "tts": "forziere"
   },
@@ -16173,7 +16189,7 @@
   },
   {
     "cp": "🪐",
-    "tts": "pianeta con satellite"
+    "tts": "pianeta con anelli"
   },
   {
     "cp": "🪑",
@@ -16456,6 +16472,10 @@
     "tts": "creatura pelosa"
   },
   {
+    "cp": "🫌",
+    "tts": "farfalla monarca"
+  },
+  {
     "cp": "🫍",
     "tts": "orca"
   },
@@ -16520,6 +16540,10 @@
     "tts": "ortaggio da radice"
   },
   {
+    "cp": "🫝",
+    "tts": "sottaceto"
+  },
+  {
     "cp": "🫟",
     "tts": "spruzzo"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "faccina stravolta"
+  },
+  {
+    "cp": "🫫",
+    "tts": "faccia screpolata"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "mano che spinge a destra: carnagione scura"
+  },
+  {
+    "cp": "🫹",
+    "tts": "segno del pollice a sinistra"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "segno del pollice a sinistra: carnagione chiara"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "segno del pollice a sinistra: carnagione abbastanza chiara"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "segno del pollice a sinistra: carnagione olivastra"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "segno del pollice a sinistra: carnagione abbastanza scura"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "segno del pollice a sinistra: carnagione scura"
+  },
+  {
+    "cp": "🫺",
+    "tts": "segno del pollice a destra"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "segno del pollice a destra: carnagione chiara"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "segno del pollice a destra: carnagione abbastanza chiara"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "segno del pollice a destra: carnagione olivastra"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "segno del pollice a destra: carnagione abbastanza scura"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "segno del pollice a destra: carnagione scura"
   }
 ]

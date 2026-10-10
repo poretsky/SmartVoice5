@@ -11752,6 +11752,10 @@
     "tts": "lở đất"
   },
   {
+    "cp": "🛙",
+    "tts": "hải đăng"
+  },
+  {
     "cp": "🛜",
     "tts": "không dây"
   },
@@ -16164,6 +16168,18 @@
     "tts": "kèn trombone"
   },
   {
+    "cp": "🪋",
+    "tts": "thiên thạch"
+  },
+  {
+    "cp": "🪌",
+    "tts": "cục tẩy"
+  },
+  {
+    "cp": "🪍",
+    "tts": "vợt bắt côn trùng"
+  },
+  {
     "cp": "🪎",
     "tts": "rương báu"
   },
@@ -16456,6 +16472,10 @@
     "tts": "sinh vật nhiều lông"
   },
   {
+    "cp": "🫌",
+    "tts": "bướm chúa"
+  },
+  {
     "cp": "🫍",
     "tts": "cá voi sát thủ"
   },
@@ -16520,6 +16540,10 @@
     "tts": "rau củ"
   },
   {
+    "cp": "🫝",
+    "tts": "dưa muối"
+  },
+  {
     "cp": "🫟",
     "tts": "bắn tung tóe"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "mặt méo"
+  },
+  {
+    "cp": "🫫",
+    "tts": "mặt rạn nứt"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "bàn tay đẩy sang phải: màu da tối"
+  },
+  {
+    "cp": "🫹",
+    "tts": "biểu tượng ngón tay cái chỉ sang trái"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "biểu tượng ngón tay cái chỉ sang trái: màu da sáng"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "biểu tượng ngón tay cái chỉ sang trái: màu da sáng trung bình"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "biểu tượng ngón tay cái chỉ sang trái: màu da trung bình"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "biểu tượng ngón tay cái chỉ sang trái: màu da tối trung bình"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "biểu tượng ngón tay cái chỉ sang trái: màu da tối"
+  },
+  {
+    "cp": "🫺",
+    "tts": "biểu tượng ngón tay cái chỉ sang phải"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "biểu tượng ngón tay cái chỉ sang phải: màu da sáng"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "biểu tượng ngón tay cái chỉ sang phải: màu da sáng trung bình"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "biểu tượng ngón tay cái chỉ sang phải: màu da trung bình"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "biểu tượng ngón tay cái chỉ sang phải: màu da tối trung bình"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "biểu tượng ngón tay cái chỉ sang phải: màu da tối"
   }
 ]

@@ -5329,7 +5329,7 @@
   },
   {
     "cp": "👨‍👦‍👦",
-    "tts": "fāmili: tangata, tamasiʻi mo e tamasiʻi"
+    "tts": "fāmili: tangata, tamasiʻi, tamasiʻi"
   },
   {
     "cp": "👨‍👧",
@@ -5337,51 +5337,51 @@
   },
   {
     "cp": "👨‍👧‍👦",
-    "tts": "fāmili: tangata, taʻahine mo e tamasiʻi"
+    "tts": "fāmili: tangata, taʻahine, tamasiʻi"
   },
   {
     "cp": "👨‍👧‍👧",
-    "tts": "fāmili: tangata, taʻahine mo e taʻahine"
+    "tts": "fāmili: tangata, taʻahine, taʻahine"
   },
   {
     "cp": "👨‍👨‍👦",
-    "tts": "fāmili: tangata, tangata mo e tamasiʻi"
+    "tts": "fāmili: tangata, tangata, tamasiʻi"
   },
   {
     "cp": "👨‍👨‍👦‍👦",
-    "tts": "fāmili: tangata, tangata, tamasiʻi mo e tamasiʻi"
+    "tts": "fāmili: tangata, tangata, tamasiʻi, tamasiʻi"
   },
   {
     "cp": "👨‍👨‍👧",
-    "tts": "fāmili: tangata, tangata mo e taʻahine"
+    "tts": "fāmili: tangata, tangata, taʻahine"
   },
   {
     "cp": "👨‍👨‍👧‍👦",
-    "tts": "fāmili: tangata, tangata, taʻahine mo e tamasiʻi"
+    "tts": "fāmili: tangata, tangata, taʻahine, tamasiʻi"
   },
   {
     "cp": "👨‍👨‍👧‍👧",
-    "tts": "fāmili: tangata, tangata, taʻahine mo e taʻahine"
+    "tts": "fāmili: tangata, tangata, taʻahine, taʻahine"
   },
   {
     "cp": "👨‍👩‍👦",
-    "tts": "fāmili: tangata, fefine mo e tamasiʻi"
+    "tts": "fāmili: tangata, fefine, tamasiʻi"
   },
   {
     "cp": "👨‍👩‍👦‍👦",
-    "tts": "fāmili: tangata, fefine, tamasiʻi mo e tamasiʻi"
+    "tts": "fāmili: tangata, fefine, tamasiʻi, tamasiʻi"
   },
   {
     "cp": "👨‍👩‍👧",
-    "tts": "fāmili: tangata, fefine mo e taʻahine"
+    "tts": "fāmili: tangata, fefine, taʻahine"
   },
   {
     "cp": "👨‍👩‍👧‍👦",
-    "tts": "fāmili: tangata, fefine, taʻahine mo e tamasiʻi"
+    "tts": "fāmili: tangata, fefine, taʻahine, tamasiʻi"
   },
   {
     "cp": "👨‍👩‍👧‍👧",
-    "tts": "fāmili: tangata, fefine, taʻahine mo e taʻahine"
+    "tts": "fāmili: tangata, fefine, taʻahine, taʻahine"
   },
   {
     "cp": "👨‍💻",
@@ -5465,43 +5465,43 @@
   },
   {
     "cp": "👨🏻‍❤‍👨🏻",
-    "tts": "ongo tokoua moe mafu: tangata, tangata mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili hinehina"
   },
   {
     "cp": "👨🏻‍❤‍👨🏼",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili hinehina mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili hinehina, kili kelokelo"
   },
   {
     "cp": "👨🏻‍❤‍👨🏽",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili hinehina mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili hinehina, kili melomelo"
   },
   {
     "cp": "👨🏻‍❤‍👨🏾",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili hinehina, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👨🏻‍❤‍👨🏿",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili hinehina mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili hinehina, kili ʻuliʻuli"
   },
   {
     "cp": "👨🏻‍❤‍💋‍👨🏻",
-    "tts": "ʻuma: tangata, tangata mo e kili hinehina"
+    "tts": "ʻuma: tangata, tangata, kili hinehina"
   },
   {
     "cp": "👨🏻‍❤‍💋‍👨🏼",
-    "tts": "ʻuma: tangata, tangata, kili hinehina mo e kili kelokelo"
+    "tts": "ʻuma: tangata, tangata, kili hinehina, kili kelokelo"
   },
   {
     "cp": "👨🏻‍❤‍💋‍👨🏽",
-    "tts": "ʻuma: tangata, tangata, kili hinehina mo e kili melomelo"
+    "tts": "ʻuma: tangata, tangata, kili hinehina, kili melomelo"
   },
   {
     "cp": "👨🏻‍❤‍💋‍👨🏾",
-    "tts": "ʻuma: tangata, tangata, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: tangata, tangata, kili hinehina, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👨🏻‍❤‍💋‍👨🏿",
-    "tts": "ʻuma: tangata, tangata, kili hinehina mo e kili ʻuliʻuli"
+    "tts": "ʻuma: tangata, tangata, kili hinehina, kili ʻuliʻuli"
   },
   {
     "cp": "👨🏻‍🌾",
@@ -5665,43 +5665,43 @@
   },
   {
     "cp": "👨🏼‍❤‍👨🏻",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili kelokelo mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili kelokelo, kili hinehina"
   },
   {
     "cp": "👨🏼‍❤‍👨🏼",
-    "tts": "ongo tokoua moe mafu: tangata, tangata mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili kelokelo"
   },
   {
     "cp": "👨🏼‍❤‍👨🏽",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili kelokelo mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili kelokelo, kili melomelo"
   },
   {
     "cp": "👨🏼‍❤‍👨🏾",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili kelokelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👨🏼‍❤‍👨🏿",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili kelokelo mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili kelokelo, kili ʻuliʻuli"
   },
   {
     "cp": "👨🏼‍❤‍💋‍👨🏻",
-    "tts": "ʻuma: tangata, tangata, kili kelokelo mo e kili hinehina"
+    "tts": "ʻuma: tangata, tangata, kili kelokelo, kili hinehina"
   },
   {
     "cp": "👨🏼‍❤‍💋‍👨🏼",
-    "tts": "ʻuma: tangata, tangata mo e kili kelokelo"
+    "tts": "ʻuma: tangata, tangata, kili kelokelo"
   },
   {
     "cp": "👨🏼‍❤‍💋‍👨🏽",
-    "tts": "ʻuma: tangata, tangata, kili kelokelo mo e kili melomelo"
+    "tts": "ʻuma: tangata, tangata, kili kelokelo, kili melomelo"
   },
   {
     "cp": "👨🏼‍❤‍💋‍👨🏾",
-    "tts": "ʻuma: tangata, tangata, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: tangata, tangata, kili kelokelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👨🏼‍❤‍💋‍👨🏿",
-    "tts": "ʻuma: tangata, tangata, kili kelokelo mo e kili ʻuliʻuli"
+    "tts": "ʻuma: tangata, tangata, kili kelokelo, kili ʻuliʻuli"
   },
   {
     "cp": "👨🏼‍🌾",
@@ -5865,43 +5865,43 @@
   },
   {
     "cp": "👨🏽‍❤‍👨🏻",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo, kili hinehina"
   },
   {
     "cp": "👨🏽‍❤‍👨🏼",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo, kili kelokelo"
   },
   {
     "cp": "👨🏽‍❤‍👨🏽",
-    "tts": "ongo tokoua moe mafu: tangata, tangata mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo"
   },
   {
     "cp": "👨🏽‍❤‍👨🏾",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👨🏽‍❤‍👨🏿",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo, kili ʻuliʻuli"
   },
   {
     "cp": "👨🏽‍❤‍💋‍👨🏻",
-    "tts": "ʻuma: tangata, tangata, kili melomelo mo e kili hinehina"
+    "tts": "ʻuma: tangata, tangata, kili melomelo, kili hinehina"
   },
   {
     "cp": "👨🏽‍❤‍💋‍👨🏼",
-    "tts": "ʻuma: tangata, tangata, kili melomelo mo e kili kelokelo"
+    "tts": "ʻuma: tangata, tangata, kili melomelo, kili kelokelo"
   },
   {
     "cp": "👨🏽‍❤‍💋‍👨🏽",
-    "tts": "ʻuma: tangata, tangata mo e kili melomelo"
+    "tts": "ʻuma: tangata, tangata, kili melomelo"
   },
   {
     "cp": "👨🏽‍❤‍💋‍👨🏾",
-    "tts": "ʻuma: tangata, tangata, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: tangata, tangata, kili melomelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👨🏽‍❤‍💋‍👨🏿",
-    "tts": "ʻuma: tangata, tangata, kili melomelo mo e kili ʻuliʻuli"
+    "tts": "ʻuma: tangata, tangata, kili melomelo, kili ʻuliʻuli"
   },
   {
     "cp": "👨🏽‍🌾",
@@ -6065,43 +6065,43 @@
   },
   {
     "cp": "👨🏾‍❤‍👨🏻",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👨🏾‍❤‍👨🏼",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👨🏾‍❤‍👨🏽",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👨🏾‍❤‍👨🏾",
-    "tts": "ongo tokoua moe mafu: tangata, tangata mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👨🏾‍❤‍👨🏿",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli, kili ʻuliʻuli"
   },
   {
     "cp": "👨🏾‍❤‍💋‍👨🏻",
-    "tts": "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    "tts": "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👨🏾‍❤‍💋‍👨🏼",
-    "tts": "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    "tts": "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👨🏾‍❤‍💋‍👨🏽",
-    "tts": "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    "tts": "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👨🏾‍❤‍💋‍👨🏾",
-    "tts": "ʻuma: tangata, tangata mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👨🏾‍❤‍💋‍👨🏿",
-    "tts": "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    "tts": "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli, kili ʻuliʻuli"
   },
   {
     "cp": "👨🏾‍🌾",
@@ -6265,43 +6265,43 @@
   },
   {
     "cp": "👨🏿‍❤‍👨🏻",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👨🏿‍❤‍👨🏼",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👨🏿‍❤‍👨🏽",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👨🏿‍❤‍👨🏾",
-    "tts": "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👨🏿‍❤‍👨🏿",
-    "tts": "ongo tokoua moe mafu: tangata, tangata mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli"
   },
   {
     "cp": "👨🏿‍❤‍💋‍👨🏻",
-    "tts": "ʻuma: tangata, tangata, kili ʻuliʻuli mo e kili hinehina"
+    "tts": "ʻuma: tangata, tangata, kili ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👨🏿‍❤‍💋‍👨🏼",
-    "tts": "ʻuma: tangata, tangata, kili ʻuliʻuli mo e kili kelokelo"
+    "tts": "ʻuma: tangata, tangata, kili ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👨🏿‍❤‍💋‍👨🏽",
-    "tts": "ʻuma: tangata, tangata, kili ʻuliʻuli mo e kili melomelo"
+    "tts": "ʻuma: tangata, tangata, kili ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👨🏿‍❤‍💋‍👨🏾",
-    "tts": "ʻuma: tangata, tangata, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: tangata, tangata, kili ʻuliʻuli, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👨🏿‍❤‍💋‍👨🏿",
-    "tts": "ʻuma: tangata, tangata mo e kili ʻuliʻuli"
+    "tts": "ʻuma: tangata, tangata, kili ʻuliʻuli"
   },
   {
     "cp": "👨🏿‍🌾",
@@ -6517,7 +6517,7 @@
   },
   {
     "cp": "👩‍👦‍👦",
-    "tts": "fāmili: fefine, tamasiʻi mo e tamasiʻi"
+    "tts": "fāmili: fefine, tamasiʻi, tamasiʻi"
   },
   {
     "cp": "👩‍👧",
@@ -6525,31 +6525,31 @@
   },
   {
     "cp": "👩‍👧‍👦",
-    "tts": "fāmili: fefine, taʻahine mo e tamasiʻi"
+    "tts": "fāmili: fefine, taʻahine, tamasiʻi"
   },
   {
     "cp": "👩‍👧‍👧",
-    "tts": "fāmili: fefine, taʻahine mo e taʻahine"
+    "tts": "fāmili: fefine, taʻahine, taʻahine"
   },
   {
     "cp": "👩‍👩‍👦",
-    "tts": "fāmili: fefine, fefine mo e tamasiʻi"
+    "tts": "fāmili: fefine, fefine, tamasiʻi"
   },
   {
     "cp": "👩‍👩‍👦‍👦",
-    "tts": "fāmili: fefine, fefine, tamasiʻi mo e tamasiʻi"
+    "tts": "fāmili: fefine, fefine, tamasiʻi, tamasiʻi"
   },
   {
     "cp": "👩‍👩‍👧",
-    "tts": "fāmili: fefine, fefine mo e taʻahine"
+    "tts": "fāmili: fefine, fefine, taʻahine"
   },
   {
     "cp": "👩‍👩‍👧‍👦",
-    "tts": "fāmili: fefine, fefine, taʻahine mo e tamasiʻi"
+    "tts": "fāmili: fefine, fefine, taʻahine, tamasiʻi"
   },
   {
     "cp": "👩‍👩‍👧‍👧",
-    "tts": "fāmili: fefine, fefine, taʻahine mo e taʻahine"
+    "tts": "fāmili: fefine, fefine, taʻahine, taʻahine"
   },
   {
     "cp": "👩‍💻",
@@ -6633,83 +6633,83 @@
   },
   {
     "cp": "👩🏻‍❤‍👨🏻",
-    "tts": "ongo tokoua moe mafu: fefine, tangata mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili hinehina"
   },
   {
     "cp": "👩🏻‍❤‍👨🏼",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili hinehina mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili hinehina, kili kelokelo"
   },
   {
     "cp": "👩🏻‍❤‍👨🏽",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili hinehina mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili hinehina, kili melomelo"
   },
   {
     "cp": "👩🏻‍❤‍👨🏾",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili hinehina, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏻‍❤‍👨🏿",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili hinehina mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili hinehina, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏻‍❤‍👩🏻",
-    "tts": "ongo tokoua moe mafu: fefine, fefine mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili hinehina"
   },
   {
     "cp": "👩🏻‍❤‍👩🏼",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili hinehina mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili hinehina, kili kelokelo"
   },
   {
     "cp": "👩🏻‍❤‍👩🏽",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili hinehina mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili hinehina, kili melomelo"
   },
   {
     "cp": "👩🏻‍❤‍👩🏾",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili hinehina, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏻‍❤‍👩🏿",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili hinehina mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili hinehina, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏻‍❤‍💋‍👨🏻",
-    "tts": "ʻuma: fefine, tangata mo e kili hinehina"
+    "tts": "ʻuma: fefine, tangata, kili hinehina"
   },
   {
     "cp": "👩🏻‍❤‍💋‍👨🏼",
-    "tts": "ʻuma: fefine, tangata, kili hinehina mo e kili kelokelo"
+    "tts": "ʻuma: fefine, tangata, kili hinehina, kili kelokelo"
   },
   {
     "cp": "👩🏻‍❤‍💋‍👨🏽",
-    "tts": "ʻuma: fefine, tangata, kili hinehina mo e kili melomelo"
+    "tts": "ʻuma: fefine, tangata, kili hinehina, kili melomelo"
   },
   {
     "cp": "👩🏻‍❤‍💋‍👨🏾",
-    "tts": "ʻuma: fefine, tangata, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: fefine, tangata, kili hinehina, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏻‍❤‍💋‍👨🏿",
-    "tts": "ʻuma: fefine, tangata, kili hinehina mo e kili ʻuliʻuli"
+    "tts": "ʻuma: fefine, tangata, kili hinehina, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏻‍❤‍💋‍👩🏻",
-    "tts": "ʻuma: fefine, fefine mo e kili hinehina"
+    "tts": "ʻuma: fefine, fefine, kili hinehina"
   },
   {
     "cp": "👩🏻‍❤‍💋‍👩🏼",
-    "tts": "ʻuma: fefine, fefine, kili hinehina mo e kili kelokelo"
+    "tts": "ʻuma: fefine, fefine, kili hinehina, kili kelokelo"
   },
   {
     "cp": "👩🏻‍❤‍💋‍👩🏽",
-    "tts": "ʻuma: fefine, fefine, kili hinehina mo e kili melomelo"
+    "tts": "ʻuma: fefine, fefine, kili hinehina, kili melomelo"
   },
   {
     "cp": "👩🏻‍❤‍💋‍👩🏾",
-    "tts": "ʻuma: fefine, fefine, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: fefine, fefine, kili hinehina, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏻‍❤‍💋‍👩🏿",
-    "tts": "ʻuma: fefine, fefine, kili hinehina mo e kili ʻuliʻuli"
+    "tts": "ʻuma: fefine, fefine, kili hinehina, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏻‍🌾",
@@ -6889,83 +6889,83 @@
   },
   {
     "cp": "👩🏼‍❤‍👨🏻",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili kelokelo mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili kelokelo, kili hinehina"
   },
   {
     "cp": "👩🏼‍❤‍👨🏼",
-    "tts": "ongo tokoua moe mafu: fefine, tangata mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili kelokelo"
   },
   {
     "cp": "👩🏼‍❤‍👨🏽",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili kelokelo mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili kelokelo, kili melomelo"
   },
   {
     "cp": "👩🏼‍❤‍👨🏾",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili kelokelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏼‍❤‍👨🏿",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili kelokelo mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili kelokelo, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏼‍❤‍👩🏻",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili kelokelo mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili kelokelo, kili hinehina"
   },
   {
     "cp": "👩🏼‍❤‍👩🏼",
-    "tts": "ongo tokoua moe mafu: fefine, fefine mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili kelokelo"
   },
   {
     "cp": "👩🏼‍❤‍👩🏽",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili kelokelo mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili kelokelo, kili melomelo"
   },
   {
     "cp": "👩🏼‍❤‍👩🏾",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili kelokelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏼‍❤‍👩🏿",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili kelokelo mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili kelokelo, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏼‍❤‍💋‍👨🏻",
-    "tts": "ʻuma: fefine, tangata, kili kelokelo mo e kili hinehina"
+    "tts": "ʻuma: fefine, tangata, kili kelokelo, kili hinehina"
   },
   {
     "cp": "👩🏼‍❤‍💋‍👨🏼",
-    "tts": "ʻuma: fefine, tangata mo e kili kelokelo"
+    "tts": "ʻuma: fefine, tangata, kili kelokelo"
   },
   {
     "cp": "👩🏼‍❤‍💋‍👨🏽",
-    "tts": "ʻuma: fefine, tangata, kili kelokelo mo e kili melomelo"
+    "tts": "ʻuma: fefine, tangata, kili kelokelo, kili melomelo"
   },
   {
     "cp": "👩🏼‍❤‍💋‍👨🏾",
-    "tts": "ʻuma: fefine, tangata, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: fefine, tangata, kili kelokelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏼‍❤‍💋‍👨🏿",
-    "tts": "ʻuma: fefine, tangata, kili kelokelo mo e kili ʻuliʻuli"
+    "tts": "ʻuma: fefine, tangata, kili kelokelo, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏼‍❤‍💋‍👩🏻",
-    "tts": "ʻuma: fefine, fefine, kili kelokelo mo e kili hinehina"
+    "tts": "ʻuma: fefine, fefine, kili kelokelo, kili hinehina"
   },
   {
     "cp": "👩🏼‍❤‍💋‍👩🏼",
-    "tts": "ʻuma: fefine, fefine mo e kili kelokelo"
+    "tts": "ʻuma: fefine, fefine, kili kelokelo"
   },
   {
     "cp": "👩🏼‍❤‍💋‍👩🏽",
-    "tts": "ʻuma: fefine, fefine, kili kelokelo mo e kili melomelo"
+    "tts": "ʻuma: fefine, fefine, kili kelokelo, kili melomelo"
   },
   {
     "cp": "👩🏼‍❤‍💋‍👩🏾",
-    "tts": "ʻuma: fefine, fefine, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: fefine, fefine, kili kelokelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏼‍❤‍💋‍👩🏿",
-    "tts": "ʻuma: fefine, fefine, kili kelokelo mo e kili ʻuliʻuli"
+    "tts": "ʻuma: fefine, fefine, kili kelokelo, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏼‍🌾",
@@ -7145,83 +7145,83 @@
   },
   {
     "cp": "👩🏽‍❤‍👨🏻",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo, kili hinehina"
   },
   {
     "cp": "👩🏽‍❤‍👨🏼",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo, kili kelokelo"
   },
   {
     "cp": "👩🏽‍❤‍👨🏽",
-    "tts": "ongo tokoua moe mafu: fefine, tangata mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo"
   },
   {
     "cp": "👩🏽‍❤‍👨🏾",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏽‍❤‍👨🏿",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏽‍❤‍👩🏻",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo, kili hinehina"
   },
   {
     "cp": "👩🏽‍❤‍👩🏼",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo, kili kelokelo"
   },
   {
     "cp": "👩🏽‍❤‍👩🏽",
-    "tts": "ongo tokoua moe mafu: fefine, fefine mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo"
   },
   {
     "cp": "👩🏽‍❤‍👩🏾",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏽‍❤‍👩🏿",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏽‍❤‍💋‍👨🏻",
-    "tts": "ʻuma: fefine, tangata, kili melomelo mo e kili hinehina"
+    "tts": "ʻuma: fefine, tangata, kili melomelo, kili hinehina"
   },
   {
     "cp": "👩🏽‍❤‍💋‍👨🏼",
-    "tts": "ʻuma: fefine, tangata, kili melomelo mo e kili kelokelo"
+    "tts": "ʻuma: fefine, tangata, kili melomelo, kili kelokelo"
   },
   {
     "cp": "👩🏽‍❤‍💋‍👨🏽",
-    "tts": "ʻuma: fefine, tangata mo e kili melomelo"
+    "tts": "ʻuma: fefine, tangata, kili melomelo"
   },
   {
     "cp": "👩🏽‍❤‍💋‍👨🏾",
-    "tts": "ʻuma: fefine, tangata, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: fefine, tangata, kili melomelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏽‍❤‍💋‍👨🏿",
-    "tts": "ʻuma: fefine, tangata, kili melomelo mo e kili ʻuliʻuli"
+    "tts": "ʻuma: fefine, tangata, kili melomelo, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏽‍❤‍💋‍👩🏻",
-    "tts": "ʻuma: fefine, fefine, kili melomelo mo e kili hinehina"
+    "tts": "ʻuma: fefine, fefine, kili melomelo, kili hinehina"
   },
   {
     "cp": "👩🏽‍❤‍💋‍👩🏼",
-    "tts": "ʻuma: fefine, fefine, kili melomelo mo e kili kelokelo"
+    "tts": "ʻuma: fefine, fefine, kili melomelo, kili kelokelo"
   },
   {
     "cp": "👩🏽‍❤‍💋‍👩🏽",
-    "tts": "ʻuma: fefine, fefine mo e kili melomelo"
+    "tts": "ʻuma: fefine, fefine, kili melomelo"
   },
   {
     "cp": "👩🏽‍❤‍💋‍👩🏾",
-    "tts": "ʻuma: fefine, fefine, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: fefine, fefine, kili melomelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏽‍❤‍💋‍👩🏿",
-    "tts": "ʻuma: fefine, fefine, kili melomelo mo e kili ʻuliʻuli"
+    "tts": "ʻuma: fefine, fefine, kili melomelo, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏽‍🌾",
@@ -7401,83 +7401,83 @@
   },
   {
     "cp": "👩🏾‍❤‍👨🏻",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👩🏾‍❤‍👨🏼",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👩🏾‍❤‍👨🏽",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👩🏾‍❤‍👨🏾",
-    "tts": "ongo tokoua moe mafu: fefine, tangata mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏾‍❤‍👨🏿",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏾‍❤‍👩🏻",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👩🏾‍❤‍👩🏼",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👩🏾‍❤‍👩🏽",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👩🏾‍❤‍👩🏾",
-    "tts": "ongo tokoua moe mafu: fefine, fefine mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏾‍❤‍👩🏿",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏾‍❤‍💋‍👨🏻",
-    "tts": "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    "tts": "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👩🏾‍❤‍💋‍👨🏼",
-    "tts": "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    "tts": "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👩🏾‍❤‍💋‍👨🏽",
-    "tts": "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    "tts": "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👩🏾‍❤‍💋‍👨🏾",
-    "tts": "ʻuma: fefine, tangata mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏾‍❤‍💋‍👨🏿",
-    "tts": "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    "tts": "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏾‍❤‍💋‍👩🏻",
-    "tts": "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    "tts": "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👩🏾‍❤‍💋‍👩🏼",
-    "tts": "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    "tts": "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👩🏾‍❤‍💋‍👩🏽",
-    "tts": "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    "tts": "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👩🏾‍❤‍💋‍👩🏾",
-    "tts": "ʻuma: fefine, fefine mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏾‍❤‍💋‍👩🏿",
-    "tts": "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    "tts": "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏾‍🌾",
@@ -7657,83 +7657,83 @@
   },
   {
     "cp": "👩🏿‍❤‍👨🏻",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👩🏿‍❤‍👨🏼",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👩🏿‍❤‍👨🏽",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👩🏿‍❤‍👨🏾",
-    "tts": "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏿‍❤‍👨🏿",
-    "tts": "ongo tokoua moe mafu: fefine, tangata mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏿‍❤‍👩🏻",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👩🏿‍❤‍👩🏼",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👩🏿‍❤‍👩🏽",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👩🏿‍❤‍👩🏾",
-    "tts": "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏿‍❤‍👩🏿",
-    "tts": "ongo tokoua moe mafu: fefine, fefine mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏿‍❤‍💋‍👨🏻",
-    "tts": "ʻuma: fefine, tangata, kili ʻuliʻuli mo e kili hinehina"
+    "tts": "ʻuma: fefine, tangata, kili ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👩🏿‍❤‍💋‍👨🏼",
-    "tts": "ʻuma: fefine, tangata, kili ʻuliʻuli mo e kili kelokelo"
+    "tts": "ʻuma: fefine, tangata, kili ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👩🏿‍❤‍💋‍👨🏽",
-    "tts": "ʻuma: fefine, tangata, kili ʻuliʻuli mo e kili melomelo"
+    "tts": "ʻuma: fefine, tangata, kili ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👩🏿‍❤‍💋‍👨🏾",
-    "tts": "ʻuma: fefine, tangata, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: fefine, tangata, kili ʻuliʻuli, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏿‍❤‍💋‍👨🏿",
-    "tts": "ʻuma: fefine, tangata mo e kili ʻuliʻuli"
+    "tts": "ʻuma: fefine, tangata, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏿‍❤‍💋‍👩🏻",
-    "tts": "ʻuma: fefine, fefine, kili ʻuliʻuli mo e kili hinehina"
+    "tts": "ʻuma: fefine, fefine, kili ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "👩🏿‍❤‍💋‍👩🏼",
-    "tts": "ʻuma: fefine, fefine, kili ʻuliʻuli mo e kili kelokelo"
+    "tts": "ʻuma: fefine, fefine, kili ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "👩🏿‍❤‍💋‍👩🏽",
-    "tts": "ʻuma: fefine, fefine, kili ʻuliʻuli mo e kili melomelo"
+    "tts": "ʻuma: fefine, fefine, kili ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "👩🏿‍❤‍💋‍👩🏾",
-    "tts": "ʻuma: fefine, fefine, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: fefine, fefine, kili ʻuliʻuli, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "👩🏿‍❤‍💋‍👩🏿",
-    "tts": "ʻuma: fefine, fefine mo e kili ʻuliʻuli"
+    "tts": "ʻuma: fefine, fefine, kili ʻuliʻuli"
   },
   {
     "cp": "👩🏿‍🌾",
@@ -11664,6 +11664,10 @@
     "tts": "fonua kuo holo"
   },
   {
+    "cp": "🛙",
+    "tts": "fale maama"
+  },
+  {
     "cp": "🛜",
     "tts": "mākoni"
   },
@@ -14105,35 +14109,35 @@
   },
   {
     "cp": "🧑🏻‍❤‍💋‍🧑🏼",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili hinehina mo e kili kelokelo"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili hinehina, kili kelokelo"
   },
   {
     "cp": "🧑🏻‍❤‍💋‍🧑🏽",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili hinehina mo e kili melomelo"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili hinehina, kili melomelo"
   },
   {
     "cp": "🧑🏻‍❤‍💋‍🧑🏾",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili hinehina, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "🧑🏻‍❤‍💋‍🧑🏿",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili hinehina mo e kili ʻuliʻuli"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili hinehina, kili ʻuliʻuli"
   },
   {
     "cp": "🧑🏻‍❤‍🧑🏼",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina, kili kelokelo"
   },
   {
     "cp": "🧑🏻‍❤‍🧑🏽",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina, kili melomelo"
   },
   {
     "cp": "🧑🏻‍❤‍🧑🏾",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "🧑🏻‍❤‍🧑🏿",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina, kili ʻuliʻuli"
   },
   {
     "cp": "🧑🏻‍🌾",
@@ -14309,35 +14313,35 @@
   },
   {
     "cp": "🧑🏼‍❤‍💋‍🧑🏻",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo mo e kili hinehina"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo, kili hinehina"
   },
   {
     "cp": "🧑🏼‍❤‍💋‍🧑🏽",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo mo e kili melomelo"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo, kili melomelo"
   },
   {
     "cp": "🧑🏼‍❤‍💋‍🧑🏾",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "🧑🏼‍❤‍💋‍🧑🏿",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo mo e kili ʻuliʻuli"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo, kili ʻuliʻuli"
   },
   {
     "cp": "🧑🏼‍❤‍🧑🏻",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo, kili hinehina"
   },
   {
     "cp": "🧑🏼‍❤‍🧑🏽",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo, kili melomelo"
   },
   {
     "cp": "🧑🏼‍❤‍🧑🏾",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "🧑🏼‍❤‍🧑🏿",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo, kili ʻuliʻuli"
   },
   {
     "cp": "🧑🏼‍🌾",
@@ -14513,35 +14517,35 @@
   },
   {
     "cp": "🧑🏽‍❤‍💋‍🧑🏻",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo mo e kili hinehina"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo, kili hinehina"
   },
   {
     "cp": "🧑🏽‍❤‍💋‍🧑🏼",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo mo e kili kelokelo"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo, kili kelokelo"
   },
   {
     "cp": "🧑🏽‍❤‍💋‍🧑🏾",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "🧑🏽‍❤‍💋‍🧑🏿",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo mo e kili ʻuliʻuli"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo, kili ʻuliʻuli"
   },
   {
     "cp": "🧑🏽‍❤‍🧑🏻",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo, kili hinehina"
   },
   {
     "cp": "🧑🏽‍❤‍🧑🏼",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo, kili kelokelo"
   },
   {
     "cp": "🧑🏽‍❤‍🧑🏾",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "🧑🏽‍❤‍🧑🏿",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo, kili ʻuliʻuli"
   },
   {
     "cp": "🧑🏽‍🌾",
@@ -14717,35 +14721,35 @@
   },
   {
     "cp": "🧑🏾‍❤‍💋‍🧑🏻",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "🧑🏾‍❤‍💋‍🧑🏼",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "🧑🏾‍❤‍💋‍🧑🏽",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "🧑🏾‍❤‍💋‍🧑🏿",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli, kili ʻuliʻuli"
   },
   {
     "cp": "🧑🏾‍❤‍🧑🏻",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "🧑🏾‍❤‍🧑🏼",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "🧑🏾‍❤‍🧑🏽",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "🧑🏾‍❤‍🧑🏿",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli, kili ʻuliʻuli"
   },
   {
     "cp": "🧑🏾‍🌾",
@@ -14921,35 +14925,35 @@
   },
   {
     "cp": "🧑🏿‍❤‍💋‍🧑🏻",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili hinehina"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "🧑🏿‍❤‍💋‍🧑🏼",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili kelokelo"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "🧑🏿‍❤‍💋‍🧑🏽",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili melomelo"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "🧑🏿‍❤‍💋‍🧑🏾",
-    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    "tts": "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "🧑🏿‍❤‍🧑🏻",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili hinehina"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli, kili hinehina"
   },
   {
     "cp": "🧑🏿‍❤‍🧑🏼",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili kelokelo"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli, kili kelokelo"
   },
   {
     "cp": "🧑🏿‍❤‍🧑🏽",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili melomelo"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli, kili melomelo"
   },
   {
     "cp": "🧑🏿‍❤‍🧑🏾",
-    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    "tts": "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli, kili melomelo-ʻuliʻuli"
   },
   {
     "cp": "🧑🏿‍🌾",
@@ -16076,6 +16080,18 @@
     "tts": "talamapone"
   },
   {
+    "cp": "🪋",
+    "tts": "fetuʻu tō"
+  },
+  {
+    "cp": "🪌",
+    "tts": "lapa"
+  },
+  {
+    "cp": "🪍",
+    "tts": "kupenga pepe"
+  },
+  {
     "cp": "🪎",
     "tts": "puha koloa"
   },
@@ -16368,6 +16384,10 @@
     "tts": "tokotaha fulufula"
   },
   {
+    "cp": "🫌",
+    "tts": "pepe tuʻi"
+  },
+  {
     "cp": "🫍",
     "tts": "tofuaʻa tāmateʻi"
   },
@@ -16432,6 +16452,10 @@
     "tts": "meʻakai foha"
   },
   {
+    "cp": "🫝",
+    "tts": "pīkale"
+  },
+  {
     "cp": "🫟",
     "tts": "afuhia"
   },
@@ -16474,6 +16498,14 @@
   {
     "cp": "🫩",
     "tts": "mata kōkō"
+  },
+  {
+    "cp": "🫪",
+    "tts": "mata fōtunga-ongosia"
+  },
+  {
+    "cp": "🫫",
+    "tts": "mata masisi"
   },
   {
     "cp": "🫯",
@@ -16774,5 +16806,53 @@
   {
     "cp": "🫸🏿",
     "tts": "nima teke ki mataʻu: kili ʻuliʻuli"
+  },
+  {
+    "cp": "🫹",
+    "tts": "motuʻatuhu ki hema"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "motuʻatuhu ki hema: kili hinehina"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "motuʻatuhu ki hema: kili kelokelo"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "motuʻatuhu ki hema: kili melomelo"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "motuʻatuhu ki hema: kili melomelo-ʻuliʻuli"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "motuʻatuhu ki hema: kili ʻuliʻuli"
+  },
+  {
+    "cp": "🫺",
+    "tts": "motuʻatuhu ki mataʻu"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "motuʻatuhu ki mataʻu: kili hinehina"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "motuʻatuhu ki mataʻu: kili kelokelo"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "motuʻatuhu ki mataʻu: kili melomelo"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "motuʻatuhu ki mataʻu: kili melomelo-ʻuliʻuli"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "motuʻatuhu ki mataʻu: kili ʻuliʻuli"
   }
 ]

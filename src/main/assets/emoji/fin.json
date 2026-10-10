@@ -2913,7 +2913,7 @@
   },
   {
     "cp": "🇸🇭",
-    "tts": "lippu: Saint Helena"
+    "tts": "lippu: Saint Helena, Ascension ja Tristan da Cunha"
   },
   {
     "cp": "🇸🇮",
@@ -11752,6 +11752,10 @@
     "tts": "maanvyörymä"
   },
   {
+    "cp": "🛙",
+    "tts": "majakka"
+  },
+  {
     "cp": "🛜",
     "tts": "langaton"
   },
@@ -16164,6 +16168,18 @@
     "tts": "pasuuna"
   },
   {
+    "cp": "🪋",
+    "tts": "meteori"
+  },
+  {
+    "cp": "🪌",
+    "tts": "pyyhekumi"
+  },
+  {
+    "cp": "🪍",
+    "tts": "haavi"
+  },
+  {
     "cp": "🪎",
     "tts": "aarrearkku"
   },
@@ -16456,6 +16472,10 @@
     "tts": "karvainen otus"
   },
   {
+    "cp": "🫌",
+    "tts": "monarkkiperhonen"
+  },
+  {
     "cp": "🫍",
     "tts": "miekkavalas"
   },
@@ -16520,6 +16540,10 @@
     "tts": "juures"
   },
   {
+    "cp": "🫝",
+    "tts": "suolakurkku"
+  },
+  {
     "cp": "🫟",
     "tts": "roiske"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "vääristyneet kasvot"
+  },
+  {
+    "cp": "🫫",
+    "tts": "halkeileva naama"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "oikealle työntävä käsi: tumma iho"
+  },
+  {
+    "cp": "🫹",
+    "tts": "peukalo vasemmalle"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "peukalo vasemmalle: vaalea iho"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "peukalo vasemmalle: keskivaalea iho"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "peukalo vasemmalle: tummanvaalea iho"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "peukalo vasemmalle: keskitumma iho"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "peukalo vasemmalle: tumma iho"
+  },
+  {
+    "cp": "🫺",
+    "tts": "peukalo oikealle"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "peukalo oikealle: vaalea iho"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "peukalo oikealle: keskivaalea iho"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "peukalo oikealle: tummanvaalea iho"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "peukalo oikealle: keskitumma iho"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "peukalo oikealle: tumma iho"
   }
 ]

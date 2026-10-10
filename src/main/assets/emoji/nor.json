@@ -1205,7 +1205,7 @@
   },
   {
     "cp": "◕",
-    "tts": "sirkel med alt unntatt øvre venstre kvadrant fylt"
+    "tts": "fylt sirkel med øvre venstre kvadrant tom"
   },
   {
     "cp": "◖",
@@ -11752,6 +11752,10 @@
     "tts": "jordskred"
   },
   {
+    "cp": "🛙",
+    "tts": "fyrtårn"
+  },
+  {
     "cp": "🛜",
     "tts": "trådløst"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trombone"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "viskelær"
+  },
+  {
+    "cp": "🪍",
+    "tts": "håv"
+  },
+  {
     "cp": "🪎",
     "tts": "skattkiste"
   },
@@ -16456,6 +16472,10 @@
     "tts": "hårete vesen"
   },
   {
+    "cp": "🫌",
+    "tts": "monarksommerfugl"
+  },
+  {
     "cp": "🫍",
     "tts": "spekkhogger"
   },
@@ -16520,6 +16540,10 @@
     "tts": "rotgrønnsak"
   },
   {
+    "cp": "🫝",
+    "tts": "sylteagurk"
+  },
+  {
     "cp": "🫟",
     "tts": "sprut"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "fordreid fjes"
+  },
+  {
+    "cp": "🫫",
+    "tts": "krakelert fjes"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "håndflate hevet mot høyre: hudtype 6"
+  },
+  {
+    "cp": "🫹",
+    "tts": "tommelfinger til venstre"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "tommelfinger til venstre: hudtype 1–2"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "tommelfinger til venstre: hudtype 3"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "tommelfinger til venstre: hudtype 4"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "tommelfinger til venstre: hudtype 5"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "tommelfinger til venstre: hudtype 6"
+  },
+  {
+    "cp": "🫺",
+    "tts": "tommelfinger til høyre"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "tommelfinger til høyre: hudtype 1–2"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "tommelfinger til høyre: hudtype 3"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "tommelfinger til høyre: hudtype 4"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "tommelfinger til høyre: hudtype 5"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "tommelfinger til høyre: hudtype 6"
   }
 ]

@@ -1313,7 +1313,7 @@
   },
   {
     "cp": "☄",
-    "tts": "kimondo"
+    "tts": "Nyotamkia"
   },
   {
     "cp": "☎",
@@ -1501,7 +1501,7 @@
   },
   {
     "cp": "♿",
-    "tts": "kiti cha magurudumu"
+    "tts": "ishara ya kiti cha magurudumu"
   },
   {
     "cp": "⚒",
@@ -2213,7 +2213,7 @@
   },
   {
     "cp": "🇧🇷",
-    "tts": "bendera: Brazil"
+    "tts": "bendera: Brazili"
   },
   {
     "cp": "🇧🇸",
@@ -2897,7 +2897,7 @@
   },
   {
     "cp": "🇸🇩",
-    "tts": "bendera: Sudan"
+    "tts": "bendera: Sudani"
   },
   {
     "cp": "🇸🇪",
@@ -5245,7 +5245,7 @@
   },
   {
     "cp": "👗",
-    "tts": "nguo"
+    "tts": "rinda"
   },
   {
     "cp": "👘",
@@ -9313,7 +9313,7 @@
   },
   {
     "cp": "📇",
-    "tts": "kadi"
+    "tts": "farahasa ya kadi"
   },
   {
     "cp": "📈",
@@ -9693,7 +9693,7 @@
   },
   {
     "cp": "🔧",
-    "tts": "spana malaya"
+    "tts": "spana"
   },
   {
     "cp": "🔨",
@@ -11748,6 +11748,10 @@
     "tts": "maporomoko ya ardhi"
   },
   {
+    "cp": "🛙",
+    "tts": "mnara wa taa"
+  },
+  {
     "cp": "🛜",
     "tts": "pasiwaya"
   },
@@ -11765,7 +11769,7 @@
   },
   {
     "cp": "🛠",
-    "tts": "nyundo na spana malaya"
+    "tts": "nyundo na spana"
   },
   {
     "cp": "🛡",
@@ -16160,6 +16164,18 @@
     "tts": "tromboni"
   },
   {
+    "cp": "🪋",
+    "tts": "kimondo"
+  },
+  {
+    "cp": "🪌",
+    "tts": "kifutio"
+  },
+  {
+    "cp": "🪍",
+    "tts": "wavu wenye mpini"
+  },
+  {
     "cp": "🪎",
     "tts": "kasha"
   },
@@ -16448,6 +16464,18 @@
     "tts": "alama ya kidole"
   },
   {
+    "cp": "🫈",
+    "tts": "mnyama mwenye manyoya"
+  },
+  {
+    "cp": "🫌",
+    "tts": "kipepeo mkubwa"
+  },
+  {
+    "cp": "🫍",
+    "tts": "Chengo"
+  },
+  {
     "cp": "🫎",
     "tts": "kongoni"
   },
@@ -16508,6 +16536,10 @@
     "tts": "mzizi mboga"
   },
   {
+    "cp": "🫝",
+    "tts": "achali"
+  },
+  {
     "cp": "🫟",
     "tts": "mtawanyiko"
   },
@@ -16554,6 +16586,10 @@
   {
     "cp": "🫪",
     "tts": "uso ulioumbuka"
+  },
+  {
+    "cp": "🫫",
+    "tts": "uso unaopasuka"
   },
   {
     "cp": "🫯",
@@ -16854,5 +16890,53 @@
   {
     "cp": "🫸🏿",
     "tts": "mkono unaosukuma kulia: ngozi nyeusi"
+  },
+  {
+    "cp": "🫹",
+    "tts": "ishara ya dole gumba inayoelekea kushoto"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "ishara ya dole gumba inayoelekea kushoto: ngozi nyeupe"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "ishara ya dole gumba inayoelekea kushoto: ngozi nyeupe kiasi"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "ishara ya dole gumba inayoelekea kushoto: ngozi ya kahawia"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "ishara ya dole gumba inayoelekea kushoto: ngozi nyeusi kiasi"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "ishara ya dole gumba inayoelekea kushoto: ngozi nyeusi"
+  },
+  {
+    "cp": "🫺",
+    "tts": "ishara ya dole gumba inayoelekea kulia"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "ishara ya dole gumba inayoelekea kulia: ngozi nyeupe"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "ishara ya dole gumba inayoelekea kulia: ngozi nyeupe kiasi"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "ishara ya dole gumba inayoelekea kulia: ngozi ya kahawia"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "ishara ya dole gumba inayoelekea kulia: ngozi nyeusi kiasi"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "ishara ya dole gumba inayoelekea kulia: ngozi nyeusi"
   }
 ]

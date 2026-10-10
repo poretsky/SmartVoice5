@@ -11752,6 +11752,10 @@
     "tts": "desprendemento de terras"
   },
   {
+    "cp": "🛙",
+    "tts": "faro"
+  },
+  {
     "cp": "🛜",
     "tts": "wifi"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trombón"
   },
   {
+    "cp": "🪋",
+    "tts": "meteoro"
+  },
+  {
+    "cp": "🪌",
+    "tts": "goma de borrar"
+  },
+  {
+    "cp": "🪍",
+    "tts": "rede con mango"
+  },
+  {
     "cp": "🪎",
     "tts": "cofre do tesouro"
   },
@@ -16456,6 +16472,10 @@
     "tts": "criatura peluda"
   },
   {
+    "cp": "🫌",
+    "tts": "bolboreta monarca"
+  },
+  {
     "cp": "🫍",
     "tts": "candorca"
   },
@@ -16520,6 +16540,10 @@
     "tts": "tubérculo"
   },
   {
+    "cp": "🫝",
+    "tts": "cogombriño"
+  },
+  {
     "cp": "🫟",
     "tts": "salpicadura"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "cara desencaixada"
+  },
+  {
+    "cp": "🫫",
+    "tts": "cara facéndose cachiños"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "man empuxando cara á dereita: ton de pel moi escuro"
+  },
+  {
+    "cp": "🫹",
+    "tts": "polgar cara á esquerda"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "polgar cara á esquerda: ton de pel moi claro"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "polgar cara á esquerda: ton de pel claro"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "polgar cara á esquerda: ton de pel medio"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "polgar cara á esquerda: ton de pel escuro"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "polgar cara á esquerda: ton de pel moi escuro"
+  },
+  {
+    "cp": "🫺",
+    "tts": "polgar cara á dereita"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "polgar cara á dereita: ton de pel moi claro"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "polgar cara á dereita: ton de pel claro"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "polgar cara á dereita: ton de pel medio"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "polgar cara á dereita: ton de pel escuro"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "polgar cara á dereita: ton de pel moi escuro"
   }
 ]

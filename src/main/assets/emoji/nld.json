@@ -10277,7 +10277,7 @@
   },
   {
     "cp": "😆",
-    "tts": "grijnzend gezicht met stijf dichtgeknepen ogen"
+    "tts": "grijnzend gezicht met dichtgeknepen ogen"
   },
   {
     "cp": "😇",
@@ -11750,6 +11750,10 @@
   {
     "cp": "🛘",
     "tts": "aardverschuiving"
+  },
+  {
+    "cp": "🛙",
+    "tts": "vuurtoren"
   },
   {
     "cp": "🛜",
@@ -16164,6 +16168,18 @@
     "tts": "trombone"
   },
   {
+    "cp": "🪋",
+    "tts": "meteoor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "gum"
+  },
+  {
+    "cp": "🪍",
+    "tts": "net met steel"
+  },
+  {
     "cp": "🪎",
     "tts": "schatkist"
   },
@@ -16456,6 +16472,10 @@
     "tts": "harig wezen"
   },
   {
+    "cp": "🫌",
+    "tts": "monarchvlinder"
+  },
+  {
     "cp": "🫍",
     "tts": "orka"
   },
@@ -16520,6 +16540,10 @@
     "tts": "knol"
   },
   {
+    "cp": "🫝",
+    "tts": "augurk"
+  },
+  {
     "cp": "🫟",
     "tts": "Gespat"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "verwrongen gezicht"
+  },
+  {
+    "cp": "🫫",
+    "tts": "barstend gezicht"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "hand die naar rechts duwt: donkere huidskleur"
+  },
+  {
+    "cp": "🫹",
+    "tts": "duim naar links"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "duim naar links: lichte huidskleur"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "duim naar links: lichtgetinte huidskleur"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "duim naar links: getinte huidskleur"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "duim naar links: donkergetinte huidskleur"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "duim naar links: donkere huidskleur"
+  },
+  {
+    "cp": "🫺",
+    "tts": "duim naar rechts"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "duim naar rechts: lichte huidskleur"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "duim naar rechts: lichtgetinte huidskleur"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "duim naar rechts: getinte huidskleur"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "duim naar rechts: donkergetinte huidskleur"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "duim naar rechts: donkere huidskleur"
   }
 ]

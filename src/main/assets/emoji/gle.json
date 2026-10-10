@@ -11752,6 +11752,10 @@
     "tts": "sciorradh talún"
   },
   {
+    "cp": "🛙",
+    "tts": "teach solais"
+  },
+  {
     "cp": "🛜",
     "tts": "gan sreang"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trombón"
   },
   {
+    "cp": "🪋",
+    "tts": "dreige"
+  },
+  {
+    "cp": "🪌",
+    "tts": "scriosán"
+  },
+  {
+    "cp": "🪍",
+    "tts": "líon le lámh"
+  },
+  {
     "cp": "🪎",
     "tts": "cófra taisce"
   },
@@ -16456,6 +16472,10 @@
     "tts": "neach gruagach"
   },
   {
+    "cp": "🫌",
+    "tts": "bleachtfhéileacán"
+  },
+  {
     "cp": "🫍",
     "tts": "cráin dhubh"
   },
@@ -16520,6 +16540,10 @@
     "tts": "glasra fréimhe"
   },
   {
+    "cp": "🫝",
+    "tts": "gircín picilte"
+  },
+  {
     "cp": "🫟",
     "tts": "stealladh"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "aghaidh anchumtha"
+  },
+  {
+    "cp": "🫫",
+    "tts": "straoiseog ag scoilteadh"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "brú láimhe ar dheis: ton cnis dorcha"
+  },
+  {
+    "cp": "🫹",
+    "tts": "ordóg ag díriú ar chlé"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "ordóg ag díriú ar chlé: ton cnis geal"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "ordóg ag díriú ar chlé: ton cnis mheánach-gheal"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "ordóg ag díriú ar chlé: ton cnis meánach"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "ordóg ag díriú ar chlé: ton cnis meándorcha"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "ordóg ag díriú ar chlé: ton cnis dorcha"
+  },
+  {
+    "cp": "🫺",
+    "tts": "ordóg ag díriú ar dheis"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "ordóg ag díriú ar dheis: ton cnis geal"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "ordóg ag díriú ar dheis: ton cnis mheánach-gheal"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "ordóg ag díriú ar dheis: ton cnis meánach"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "ordóg ag díriú ar dheis: ton cnis meándorcha"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "ordóg ag díriú ar dheis: ton cnis dorcha"
   }
 ]

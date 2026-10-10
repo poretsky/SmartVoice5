@@ -11752,6 +11752,10 @@
     "tts": "nuošliauža"
   },
   {
+    "cp": "🛙",
+    "tts": "švyturys"
+  },
+  {
     "cp": "🛜",
     "tts": "belaidis ryšys"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trombonas"
   },
   {
+    "cp": "🪋",
+    "tts": "meteoras"
+  },
+  {
+    "cp": "🪌",
+    "tts": "trintukas"
+  },
+  {
+    "cp": "🪍",
+    "tts": "tinklas su rankena"
+  },
+  {
     "cp": "🪎",
     "tts": "lobių skrynia"
   },
@@ -16456,6 +16472,10 @@
     "tts": "plaukuotas padaras"
   },
   {
+    "cp": "🫌",
+    "tts": "drugelis monarchas"
+  },
+  {
     "cp": "🫍",
     "tts": "orka"
   },
@@ -16520,6 +16540,10 @@
     "tts": "šakninė daržovė"
   },
   {
+    "cp": "🫝",
+    "tts": "raugintas agurkas"
+  },
+  {
     "cp": "🫟",
     "tts": "tiškalas"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "ištįsęs veidas"
+  },
+  {
+    "cp": "🫫",
+    "tts": "lūžtantis veidas"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "į dešinę stumianti ranka: itin tamsios odos"
+  },
+  {
+    "cp": "🫹",
+    "tts": "nykštys į kairę"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "nykštys į kairę: šviesios odos"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "nykštys į kairę: vidutinio gymio"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "nykštys į kairę: rusvos odos"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "nykštys į kairę: tamsios odos"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "nykštys į kairę: itin tamsios odos"
+  },
+  {
+    "cp": "🫺",
+    "tts": "nykštys į dešinę"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "nykštys į dešinę: šviesios odos"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "nykštys į dešinę: vidutinio gymio"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "nykštys į dešinę: rusvos odos"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "nykštys į dešinę: tamsios odos"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "nykštys į dešinę: itin tamsios odos"
   }
 ]

@@ -265,19 +265,19 @@
   },
   {
     "cp": "↤",
-    "tts": "shigjetë majtas me shufër"
+    "tts": "shigjetë majtas nga vija vertikale"
   },
   {
     "cp": "↥",
-    "tts": "shigjetë lart me shufër"
+    "tts": "shigjetë lart nga vija vertikale"
   },
   {
     "cp": "↦",
-    "tts": "shigjetë djathtas me shufër"
+    "tts": "shigjetë djathtas nga vija vertikale"
   },
   {
     "cp": "↧",
-    "tts": "shigjetë poshtë me shufër"
+    "tts": "shigjetë poshtë nga vija vertikale"
   },
   {
     "cp": "↨",
@@ -345,11 +345,11 @@
   },
   {
     "cp": "↸",
-    "tts": "shigjetë veriperëndim me tra të gjatë"
+    "tts": "shigjetë nga veriperëndimi me vijë vertikale"
   },
   {
     "cp": "↹",
-    "tts": "shigjetë majtas me shufër mbi shigjetë djathtas me shufër"
+    "tts": "shigjetë majtas e djathtas kundrejt vijave vertikale"
   },
   {
     "cp": "↺",
@@ -461,15 +461,15 @@
   },
   {
     "cp": "⇖",
-    "tts": "shigjetë dyshe veriperëndim"
+    "tts": "shigjetë dyshe në veriperëndim"
   },
   {
     "cp": "⇗",
-    "tts": "shigjetë dyshe verilindje"
+    "tts": "shigjetë dyshe në verilindje"
   },
   {
     "cp": "⇘",
-    "tts": "shigjetë dyshe juglindje"
+    "tts": "shigjetë dyshe në juglindje"
   },
   {
     "cp": "⇙",
@@ -517,11 +517,11 @@
   },
   {
     "cp": "⇤",
-    "tts": "shigjetë me shufër majtas"
+    "tts": "shigjetë majtas me vijë vertikale"
   },
   {
     "cp": "⇥",
-    "tts": "shigjetë me shufër djathtas"
+    "tts": "shigjetë djathtas me vijë vertikale"
   },
   {
     "cp": "⇦",
@@ -541,7 +541,7 @@
   },
   {
     "cp": "⇪",
-    "tts": "shigjetë bosh lart nga shufër"
+    "tts": "shigjetë bosh lart nga vija"
   },
   {
     "cp": "⇵",
@@ -1089,7 +1089,7 @@
   },
   {
     "cp": "▹",
-    "tts": "trekëndësh i mbushur i zbrazët me drejtim djathtas"
+    "tts": "trekëndësh i vogël i zbrazët me drejtim djathtas"
   },
   {
     "cp": "►",
@@ -1105,7 +1105,7 @@
   },
   {
     "cp": "▽",
-    "tts": "tregues i mbushur me drejtim poshtë"
+    "tts": "tregues bosh me drejtim poshtë"
   },
   {
     "cp": "▾",
@@ -1205,11 +1205,11 @@
   },
   {
     "cp": "◖",
-    "tts": "gjysmërreth i mbushur i majtë"
+    "tts": "gjysmërreth i mbushur nga ana e majtë"
   },
   {
     "cp": "◗",
-    "tts": "gjysmërreth i mbushur i djathtë"
+    "tts": "gjysmërreth i mbushur nga ana e djathtë"
   },
   {
     "cp": "◘",
@@ -1221,11 +1221,11 @@
   },
   {
     "cp": "◜",
-    "tts": "hark sektori majtas lart"
+    "tts": "hark rrethor në kuadratin e sipërm majtas"
   },
   {
     "cp": "◝",
-    "tts": "hark sektori djathtas lart"
+    "tts": "hark rrethor në kuadratin e sipërm djathtas"
   },
   {
     "cp": "◞",
@@ -1233,7 +1233,7 @@
   },
   {
     "cp": "◟",
-    "tts": "hark sektori majtas poshtë"
+    "tts": "hark rrethor në kuadratin e poshtëm majtas"
   },
   {
     "cp": "◠",
@@ -4777,7 +4777,7 @@
   },
   {
     "cp": "🐦‍⬛",
-    "tts": "zog i zi"
+    "tts": "korb"
   },
   {
     "cp": "🐦‍🔥",
@@ -9501,7 +9501,7 @@
   },
   {
     "cp": "📶",
-    "tts": "shiritat e antenës"
+    "tts": "vijat e antenës"
   },
   {
     "cp": "📷",
@@ -11748,8 +11748,12 @@
     "tts": "rrëshqitje dheu"
   },
   {
+    "cp": "🛙",
+    "tts": "far"
+  },
+  {
     "cp": "🛜",
-    "tts": "lidhje me valë"
+    "tts": "wireless"
   },
   {
     "cp": "🛝",
@@ -11893,7 +11897,7 @@
   },
   {
     "cp": "🟰",
-    "tts": "shenjë e fortë barazie"
+    "tts": "shenjë barazimi e trashë"
   },
   {
     "cp": "🤌",
@@ -16160,6 +16164,18 @@
     "tts": "trombon"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "gomë fshirëse"
+  },
+  {
+    "cp": "🪍",
+    "tts": "rrjetë me dorezë"
+  },
+  {
     "cp": "🪎",
     "tts": "arkë thesari"
   },
@@ -16452,6 +16468,10 @@
     "tts": "krijesë leshatore"
   },
   {
+    "cp": "🫌",
+    "tts": "flutur monarke"
+  },
+  {
     "cp": "🫍",
     "tts": "orkë"
   },
@@ -16501,7 +16521,7 @@
   },
   {
     "cp": "🫙",
-    "tts": "kanë"
+    "tts": "kavanoz"
   },
   {
     "cp": "🫚",
@@ -16514,6 +16534,10 @@
   {
     "cp": "🫜",
     "tts": "perime me rrënjë"
+  },
+  {
+    "cp": "🫝",
+    "tts": "kastravec turshi"
   },
   {
     "cp": "🫟",
@@ -16562,6 +16586,10 @@
   {
     "cp": "🫪",
     "tts": "fytyrë e shtrembëruar"
+  },
+  {
+    "cp": "🫫",
+    "tts": "fytyrë që çahet"
   },
   {
     "cp": "🫯",
@@ -16862,5 +16890,53 @@
   {
     "cp": "🫸🏿",
     "tts": "dorë që shtyn djathtas: nuancë lëkure e errët"
+  },
+  {
+    "cp": "🫹",
+    "tts": "shenja e gishtit të madh majtas"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "shenja e gishtit të madh majtas: nuancë lëkure e çelët"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "shenja e gishtit të madh majtas: nuancë lëkure gjysmë e çelët"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "shenja e gishtit të madh majtas: nuancë lëkure zeshkane"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "shenja e gishtit të madh majtas: nuancë lëkure gjysmë e errët"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "shenja e gishtit të madh majtas: nuancë lëkure e errët"
+  },
+  {
+    "cp": "🫺",
+    "tts": "shenja e gishtit të madh djathtas"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "shenja e gishtit të madh djathtas: nuancë lëkure e çelët"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "shenja e gishtit të madh djathtas: nuancë lëkure gjysmë e çelët"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "shenja e gishtit të madh djathtas: nuancë lëkure zeshkane"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "shenja e gishtit të madh djathtas: nuancë lëkure gjysmë e errët"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "shenja e gishtit të madh djathtas: nuancë lëkure e errët"
   }
 ]

@@ -11752,6 +11752,10 @@
     "tts": "heyelan"
   },
   {
+    "cp": "🛙",
+    "tts": "deniz feneri"
+  },
+  {
     "cp": "🛜",
     "tts": "kablosuz"
   },
@@ -16164,6 +16168,18 @@
     "tts": "trombon"
   },
   {
+    "cp": "🪋",
+    "tts": "gök taşı"
+  },
+  {
+    "cp": "🪌",
+    "tts": "silgi"
+  },
+  {
+    "cp": "🪍",
+    "tts": "kelebek ağı"
+  },
+  {
     "cp": "🪎",
     "tts": "hazine sandığı"
   },
@@ -16456,6 +16472,10 @@
     "tts": "tüylü yaratık"
   },
   {
+    "cp": "🫌",
+    "tts": "kral kelebeği"
+  },
+  {
     "cp": "🫍",
     "tts": "orka"
   },
@@ -16520,6 +16540,10 @@
     "tts": "kök sebze"
   },
   {
+    "cp": "🫝",
+    "tts": "turşu"
+  },
+  {
     "cp": "🫟",
     "tts": "sıçratma"
   },
@@ -16566,6 +16590,10 @@
   {
     "cp": "🫪",
     "tts": "biçimsiz yüz"
+  },
+  {
+    "cp": "🫫",
+    "tts": "çatlayan yüz"
   },
   {
     "cp": "🫯",
@@ -16866,5 +16894,53 @@
   {
     "cp": "🫸🏿",
     "tts": "sağa iten el: koyu cilt tonu"
+  },
+  {
+    "cp": "🫹",
+    "tts": "baş parmak solda"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "baş parmak solda: açık cilt tonu"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "baş parmak solda: orta açık cilt tonu"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "baş parmak solda: orta cilt tonu"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "baş parmak solda: orta koyu cilt tonu"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "baş parmak solda: koyu cilt tonu"
+  },
+  {
+    "cp": "🫺",
+    "tts": "başparmak sağda"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "başparmak sağda: açık cilt tonu"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "başparmak sağda: orta açık cilt tonu"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "başparmak sağda: orta cilt tonu"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "başparmak sağda: orta koyu cilt tonu"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "başparmak sağda: koyu cilt tonu"
   }
 ]

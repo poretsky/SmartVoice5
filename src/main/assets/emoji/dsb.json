@@ -11736,6 +11736,10 @@
     "tts": "wótwalenje zemje"
   },
   {
+    "cp": "🛙",
+    "tts": "swěśak"
+  },
+  {
     "cp": "🛜",
     "tts": "bźez kabla"
   },
@@ -14049,7 +14053,7 @@
   },
   {
     "cp": "🧑‍🎄",
-    "tts": "gódy"
+    "tts": "gódowna"
   },
   {
     "cp": "🧑‍🎓",
@@ -14221,7 +14225,7 @@
   },
   {
     "cp": "🧑🏻‍🎄",
-    "tts": "gódy: swětła barwa kóže"
+    "tts": "gódowna: swětła barwa kóže"
   },
   {
     "cp": "🧑🏻‍🎓",
@@ -14425,7 +14429,7 @@
   },
   {
     "cp": "🧑🏼‍🎄",
-    "tts": "gódy: srjejźnoswětła barwa kóže"
+    "tts": "gódowna: srjejźnoswětła barwa kóže"
   },
   {
     "cp": "🧑🏼‍🎓",
@@ -14629,7 +14633,7 @@
   },
   {
     "cp": "🧑🏽‍🎄",
-    "tts": "gódy: wósrědna barwa kóže"
+    "tts": "gódowna: wósrědna barwa kóže"
   },
   {
     "cp": "🧑🏽‍🎓",
@@ -14833,7 +14837,7 @@
   },
   {
     "cp": "🧑🏾‍🎄",
-    "tts": "gódy: srjejźnośamna barwa kóže"
+    "tts": "gódowna: srjejźnośamna barwa kóže"
   },
   {
     "cp": "🧑🏾‍🎓",
@@ -15037,7 +15041,7 @@
   },
   {
     "cp": "🧑🏿‍🎄",
-    "tts": "gódy: śamna barwa kóže"
+    "tts": "gódowna: śamna barwa kóže"
   },
   {
     "cp": "🧑🏿‍🎓",
@@ -16148,6 +16152,18 @@
     "tts": "pozawna"
   },
   {
+    "cp": "🪋",
+    "tts": "meteor"
+  },
+  {
+    "cp": "🪌",
+    "tts": "guma"
+  },
+  {
+    "cp": "🪍",
+    "tts": "seś"
+  },
+  {
     "cp": "🪎",
     "tts": "lodka z pókładom"
   },
@@ -16440,6 +16456,10 @@
     "tts": "kósmata stwóŕba"
   },
   {
+    "cp": "🫌",
+    "tts": "monarchowy mjatel"
+  },
+  {
     "cp": "🫍",
     "tts": "orka"
   },
@@ -16504,6 +16524,10 @@
     "tts": "kóruškata zelenina"
   },
   {
+    "cp": "🫝",
+    "tts": "kisała górka"
+  },
+  {
     "cp": "🫟",
     "tts": "kalnjenje"
   },
@@ -16550,6 +16574,10 @@
   {
     "cp": "🫪",
     "tts": "spryšćone woblico"
+  },
+  {
+    "cp": "🫫",
+    "tts": "zrozpukowane woblico"
   },
   {
     "cp": "🫯",
@@ -16850,5 +16878,53 @@
   {
     "cp": "🫸🏿",
     "tts": "ruka, ak tłocy napšawo: śamna barwa kóže"
+  },
+  {
+    "cp": "🫹",
+    "tts": "wjeliki palc dolěwa"
+  },
+  {
+    "cp": "🫹🏻",
+    "tts": "wjeliki palc dolěwa: swětła barwa kóže"
+  },
+  {
+    "cp": "🫹🏼",
+    "tts": "wjeliki palc dolěwa: srjejźnoswětła barwa kóže"
+  },
+  {
+    "cp": "🫹🏽",
+    "tts": "wjeliki palc dolěwa: wósrědna barwa kóže"
+  },
+  {
+    "cp": "🫹🏾",
+    "tts": "wjeliki palc dolěwa: srjejźnośamna barwa kóže"
+  },
+  {
+    "cp": "🫹🏿",
+    "tts": "wjeliki palc dolěwa: śamna barwa kóže"
+  },
+  {
+    "cp": "🫺",
+    "tts": "wjeliki palc dopšawa"
+  },
+  {
+    "cp": "🫺🏻",
+    "tts": "wjeliki palc dopšawa: swětła barwa kóže"
+  },
+  {
+    "cp": "🫺🏼",
+    "tts": "wjeliki palc dopšawa: srjejźnoswětła barwa kóže"
+  },
+  {
+    "cp": "🫺🏽",
+    "tts": "wjeliki palc dopšawa: wósrědna barwa kóže"
+  },
+  {
+    "cp": "🫺🏾",
+    "tts": "wjeliki palc dopšawa: srjejźnośamna barwa kóže"
+  },
+  {
+    "cp": "🫺🏿",
+    "tts": "wjeliki palc dopšawa: śamna barwa kóže"
   }
 ]
