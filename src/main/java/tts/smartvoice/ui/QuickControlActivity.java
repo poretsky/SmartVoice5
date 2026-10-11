@@ -29,7 +29,7 @@ import tts.smartvoice.SmartVoiceApp;
 
 import tts.smartvoice.markup.LanguageGroup;
 
-public class QuickControlActivity extends AppCompatActivity implements AdapterView.OnItemClickListener, AdapterView.OnItemLongClickListener, PopupMenu.OnMenuItemClickListener {
+public class QuickControlActivity extends AppCompatActivity {
 
     private SmartVoiceApp app;
     private List<VoiceItem> voices;
@@ -67,8 +67,8 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
                     finish();
                 }
             });
-        listView.setOnItemClickListener(this);
-        listView.setOnItemLongClickListener(this);
+        listView.setOnItemClickListener(this::chooseVoice);
+        listView.setOnItemLongClickListener(this::tuneVoice);
         revertButton.setOnClickListener(this::revert);
         revertButton.setOnLongClickListener(this::autoLangPrefs);
     }
@@ -112,8 +112,7 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
     }
 
 
-    @Override
-    public void onItemClick(AdapterView<?> parent, View v, int position, long id) {
+    private void chooseVoice(AdapterView<?> parent, View v, int position, long id) {
         selection = ((VoiceItem) parent.getAdapter().getItem(position)).getValue();
         String lang = selection.substring(0, 3);
         boolean useForLanguage = false;
@@ -153,7 +152,7 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
             }
         }
         if (useForLanguage || !languageGroups.isEmpty()) {
-            popup.setOnMenuItemClickListener(this);
+            popup.setOnMenuItemClickListener(this::setVoice);
             popup.show();
         } else {
             app.explicitVoice.set(selection);
@@ -161,8 +160,7 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
         }
     }
 
-    @Override
-    public boolean onItemLongClick(AdapterView<?> parent, View view, int position, long id) {
+    private boolean tuneVoice(AdapterView<?> parent, View view, int position, long id) {
         Bundle fragmentArguments = new Bundle();
         fragmentArguments.putString(getString(R.string.voice_key), ((VoiceItem) parent.getAdapter().getItem(position)).getValue());
         Intent intent = new Intent(this, TtsPreferenceActivity.class);
@@ -174,9 +172,7 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
         return true;
     }
 
-
-    @Override
-    public boolean onMenuItemClick(MenuItem item) {
+    private boolean setVoice(MenuItem item) {
         if (selection != null) {
             final int itemId = item.getItemId();
             if (itemId == R.id.native_language_only) {
@@ -215,6 +211,7 @@ public class QuickControlActivity extends AppCompatActivity implements AdapterVi
             }
         });
     }
+
 
     private void revert(View button) {
         app.explicitVoice.clear();
