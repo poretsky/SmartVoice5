@@ -1,6 +1,5 @@
 package tts.smartvoice.ui;
 
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -69,15 +68,13 @@ public class TtsPreferenceActivity extends PreferenceActivityCompat {
             langs.add(getString(R.string.cjk_fallback_key));
             langs.add(getString(R.string.latinic_fallback_key));
             langs.add(getString(R.string.cyrillic_fallback_key));
+            langs.add(getString(R.string.arabic_fallback_key));
             langs.add(getString(R.string.numeric_language_key));
             langs.add(getString(R.string.pref_emoji_voice_key));
             Map<String, Set<VoiceItem>> voiceMap = new HashMap<String, Set<VoiceItem>>();
-            List<String> arabics = Arrays.asList(getResources().getStringArray(R.array.arabic_languages));
             for (VoiceItem voice : SortedItems.fromGeneralVoices(app)) {
                 String lang = voice.getValue().substring(0, 3);
                 addVoice(voiceMap, lang, voice);
-                if (arabics.contains(lang))
-                    addVoice(voiceMap, arabics.get(0), voice);
                 lang = voice.getValue().substring(0, 7);
                 addVoice(voiceMap, lang, voice);
             }
@@ -85,7 +82,7 @@ public class TtsPreferenceActivity extends PreferenceActivityCompat {
                 if (voiceMap.get(lang).size() > 1) {
                     String voice = preferences.getString(lang, null);
                     String defaultVoice = app.defaultVoices.get(lang);
-                    if ((voice != null) && (defaultVoice != null) && !voice.equals(defaultVoice)) {
+                    if ((voice != null) && ((defaultVoice == null) || !voice.equals(defaultVoice))) {
                         assignedVoices.add(voice);
                     }
                 }
@@ -98,7 +95,7 @@ public class TtsPreferenceActivity extends PreferenceActivityCompat {
                 if (voice == null) {
                     voice = app.defaultVoices.get(lang);
                 }
-                if ((voice != null) && !voice.isEmpty()) {
+                if (voice != null) {
                     assignedVoices.add(voice);
                 }
             }
