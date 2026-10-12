@@ -35,8 +35,8 @@ android {
         applicationId "tts.smartvoice"
         minSdkVersion 24
         targetSdkVersion 36
-        versionCode 5101
-        versionName "5.1.1"
+        versionCode 5102
+        versionName "5.1.2"
 
         externalNativeBuild {
             ndkBuild {
