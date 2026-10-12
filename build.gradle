@@ -102,9 +102,6 @@ configurations.all {
 }
 
 dependencies {
-    implementation files('libs/base64-2.3.8.jar')
-    implementation files('libs/gson-2.8.5.jar')
-
     implementation 'androidx.appcompat:appcompat:1.8.0'
     implementation 'androidx.core:core:1.18.0'
     implementation 'androidx.activity:activity:1.13.0'
@@ -112,4 +109,6 @@ dependencies {
     implementation 'androidx.fragment:fragment:1.9.1'
     implementation 'androidx.preference:preference:1.2.1'
     implementation 'net.mm2d.preference:preference:0.3.2'
+    implementation 'com.google.code.gson:gson:2.8.5'
+    implementation 'net.iharder:base64:2.3.8'
 }
