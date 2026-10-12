@@ -34,11 +34,7 @@
     <string name="pref_choose_voice_model">Wybierz wariant</string>
     <string name="pref_voice_model_title">Wariant</string>
     <string name="pref_use_rulex_title">Używaj słownika wymowy</string>
-    <string name="voice_name_katya">Katya</string>
-    <string name="voice_name_milena">Milena</string>
-    <string name="voice_name_yuri">Yuri</string>
     <string name="voice_name_robot">Robot</string>
-    <string name="voice_name_carmit">Carmit</string>
     <string name="pref_speak_quotes_title">Wymawiaj cudzysłowy w tekście</string>
     <string name="pref_speak_parenthesis_title">Informuj o nawiasach wewnątrz tekstu</string>
     <string name="pref_ignore_emoticons_title">Ignoruj emotykony</string>

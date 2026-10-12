@@ -34,11 +34,7 @@
     <string name="pref_choose_voice_model">Escolha o modelo de voz</string>
     <string name="pref_voice_model_title">Modelo de voz</string>
     <string name="pref_use_rulex_title">Usar dicionário de pronúncia</string>
-    <string name="voice_name_katya">Katya</string>
-    <string name="voice_name_milena">Milena</string>
-    <string name="voice_name_yuri">Yuri</string>
     <string name="voice_name_robot">Robot</string>
-    <string name="voice_name_carmit">Carmit</string>
     <string name="pref_speak_quotes_title">Ler sinais de aspas dentro de um texto</string>
     <string name="pref_speak_parenthesis_title">Ler sinais de parênteses dentro de um texto</string>
     <string name="pref_ignore_emoticons_title">Ignorar emoticons</string>

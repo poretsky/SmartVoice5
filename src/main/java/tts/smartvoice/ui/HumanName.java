@@ -12,13 +12,9 @@ import tts.thirdparty.TtsIntegrator;
 
 enum HumanName {
 
-    Katya(R.string.voice_name_katya),
-    Milena(R.string.voice_name_milena),
-    Yuri(R.string.voice_name_yuri),
     Robot(R.string.voice_name_robot),
     Male(R.string.voice_male),
-    Female(R.string.voice_female),
-    Carmit(R.string.voice_name_carmit);
+    Female(R.string.voice_female);
 
     private int resId;
 

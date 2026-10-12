@@ -34,11 +34,7 @@
     <string name="pref_choose_voice_model">เลือกโมเดลเสียง</string>
     <string name="pref_voice_model_title">โมเดลเสียง</string>
     <string name="pref_use_rulex_title">ใช้พจนานุกรมการออกเสียง</string>
-    <string name="voice_name_katya">คาทย่า</string>
-    <string name="voice_name_milena">มิเลน่า</string>
-    <string name="voice_name_yuri">ยูริ</string>
     <string name="voice_name_robot">หุ่นยนต์</string>
-    <string name="voice_name_carmit">คาร์มิท</string>
     <string name="pref_speak_quotes_title">แจ้งเตือนเมื่อมีเครื่องหมายคำพูดในข้อความ</string>
     <string name="pref_speak_parenthesis_title">แจ้งเตือนเมื่อมีวงเล็บในข้อความ</string>
     <string name="pref_ignore_emoticons_title">ไม่สนใจอีโมติคอน</string>

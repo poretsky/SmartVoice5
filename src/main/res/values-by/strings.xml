@@ -34,11 +34,7 @@
     <string name="pref_choose_voice_model">Выберыце варыянт голасу</string>
     <string name="pref_voice_model_title">Варыянт голасу</string>
     <string name="pref_use_rulex_title">Выкарыстоўваць слоўнік прамаўленняў</string>
-    <string name="voice_name_katya">Каця</string>
-    <string name="voice_name_milena">Мілена</string>
-    <string name="voice_name_yuri">Юрый</string>
     <string name="voice_name_robot">Робат</string>
-    <string name="voice_name_carmit">Carmit</string>
     <string name="pref_speak_quotes_title">Паведамляць пра двукоссі ў тэксце</string>
     <string name="pref_speak_parenthesis_title">Паведамляць пра дужкі ў тэксце</string>
     <string name="pref_ignore_emoticons_title">Ігнараваць смайлікі</string>

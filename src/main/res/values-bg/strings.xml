@@ -34,11 +34,7 @@
     <string name="pref_choose_voice_model">Изберете гласов модел</string>
     <string name="pref_voice_model_title">Гласов модел</string>
     <string name="pref_use_rulex_title">Използване на речника за произношение</string>
-    <string name="voice_name_katya">Катя</string>
-    <string name="voice_name_milena">Милена</string>
-    <string name="voice_name_yuri">Юри</string>
     <string name="voice_name_robot">Робот</string>
-    <string name="voice_name_carmit">Кермит</string>
     <string name="pref_speak_quotes_title">Информация за цитатите в текста</string>
     <string name="pref_speak_parenthesis_title">Информация за скобите в текста</string>
     <string name="pref_ignore_emoticons_title">Пренебрегване на емотиконите</string>

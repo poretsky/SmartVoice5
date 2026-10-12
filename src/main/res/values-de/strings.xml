@@ -34,11 +34,7 @@
     <string name="pref_choose_voice_model">Stimmenvariante auswählen</string>
     <string name="pref_voice_model_title">Stimmenvariante</string>
     <string name="pref_use_rulex_title">Aussprachewörterbuch verwenden</string>
-    <string name="voice_name_katya">Katja</string>
-    <string name="voice_name_milena">Milena</string>
-    <string name="voice_name_yuri">Jurij</string>
     <string name="voice_name_robot">Roboter</string>
-    <string name="voice_name_carmit">Carmit</string>
     <string name="pref_speak_quotes_title">von den Häkchen im Text melden</string>
     <string name="pref_speak_parenthesis_title">von den Klammern im Text melden</string>
     <string name="pref_ignore_emoticons_title">Emoticons ignorieren</string>

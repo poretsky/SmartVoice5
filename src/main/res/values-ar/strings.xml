@@ -34,11 +34,7 @@
     <string name="pref_choose_voice_model">اِخْـتِـرْ نَـمُـوذَجَ الـصَّـوْتِ</string>
     <string name="pref_voice_model_title">نَـمُـوذَجُ الـصَّـوْتِ</string>
     <string name="pref_use_rulex_title">اِسْـتِـخْـدَامُ قَـامُـوسِ الـنُّـطْـقِ</string>
-    <string name="voice_name_katya">كـاتـيـا</string>
-    <string name="voice_name_milena">مـيـلـيـنـا</string>
-    <string name="voice_name_yuri">يـوري</string>
     <string name="voice_name_robot">روبـوت</string>
-    <string name="voice_name_carmit">كـارمـيـت</string>
     <string name="pref_speak_quotes_title">الـإِعْـلَامُ عَـنِ الـاِقْـتِـبَـاسَـاتِ دَاخِـلَ الـنَّـصِّ</string>
     <string name="pref_speak_parenthesis_title">الـإِعْـلَامُ عَـنِ الـأَقْـوَاسِ دَاخِـلَ الـنَّـصِّ</string>
     <string name="pref_ignore_emoticons_title">تَـجَـاهُـلُ الـرُّمُـوزِ الـتَّـعْـبِـيـرِيَّـةِ</string>

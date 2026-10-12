@@ -34,11 +34,7 @@
     <string name="pref_choose_voice_model">选择语音模型</string>
     <string name="pref_voice_model_title">语音模型</string>
     <string name="pref_use_rulex_title">使用发音字典</string>
-    <string name="voice_name_katya">卡蒂亚</string>
-    <string name="voice_name_milena">米莲娜</string>
-    <string name="voice_name_yuri">尤里</string>
     <string name="voice_name_robot">机器人</string>
-    <string name="voice_name_carmit">卡米特</string>
     <string name="pref_speak_quotes_title">通知文本中的引号</string>
     <string name="pref_speak_parenthesis_title">通知文本中的括号</string>
     <string name="pref_ignore_emoticons_title">忽略表情符号</string>
