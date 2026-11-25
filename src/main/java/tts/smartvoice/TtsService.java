@@ -521,7 +521,11 @@ public class TtsService extends TextToSpeechService implements SharedPreferences
     @Override
     protected synchronized void onSynthesizeText(SynthesisRequest request, SynthesisCallback callback) {
         sync();
-        String text = Normalizer.normalize(request.getCharSequenceText(), Normalizer.Form.NFKC);
+        // NFKC splits Thai SARA AM (U+0E33) into NIKHAHIT + SARA AA (U+0E4D U+0E32), and Lao AM (U+0EB3) into
+        // NIGGAHITA + AA (U+0ECD U+0EB2), and never joins them again, so engines read "ทํา" instead of "ทำ".
+        // Join them back.
+        String text = Normalizer.normalize(request.getCharSequenceText(), Normalizer.Form.NFKC)
+                .replace("ํา", "ำ").replace("ໍາ", "ຳ");
         Bundle params = request.getParams();
         if (useLocale && !useRequestedVoice) {
             Locale locale = Locale.getDefault();
